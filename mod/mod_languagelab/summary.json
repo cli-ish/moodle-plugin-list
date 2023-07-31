@@ -1,0 +1,83 @@
+{
+    "id": 327,
+    "index": 1370,
+    "name": "OWLL oohoo Web-based Language Lab (formerly MoodLL)",
+    "frankenstyle": "mod_languagelab",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_languagelab",
+    "shortdescription": "This is a new version (v3) of what used to be MoodLL.\r\n\r\nBasically, this replaces the traditional cassette tape language lab. There is a module for students to record themselves and teachers to review and grade the work. This version also includes a class monitor. So, if a teacher uses it inside the classroom, he/she can monitor student progress the same way they used the traditional language lab by listening to live streams of the students, responding live to students, giving a thumbs up and so on.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 November 2014, 5:30 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-11-27T05:30:14+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "16",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/327/OWLL-Moodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/327/OWLL-Moodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/327/classmonitor1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/327/classmonitor2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/327/classmonitor3.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/327/classmonitor4.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/327/screenshot_languagelab_06_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/327/studentview.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/327/studentview2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/327/studentview4thumb.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/327/studentview5talk.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/327/teacherview.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 106123,
+            "firstname": "Patrick",
+            "lastname": "Thibaudeau",
+            "url": "https://moodle.org/user/profile.php?id=106123"
+        },
+        {
+            "id": 1413693,
+            "firstname": "Nicolas",
+            "lastname": "Bretin",
+            "url": "https://moodle.org/user/profile.php?id=1413693"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Languages"
+        }
+    ]
+}

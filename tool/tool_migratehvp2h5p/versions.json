@@ -1,0 +1,32 @@
+[
+    {
+        "id": "28084",
+        "name": "0.1.5",
+        "url": "https://moodle.org/plugins/download.php/28084/tool_migratehvp2h5p_moodle39_2012030806.zip"
+    },
+    {
+        "id": "23364",
+        "name": "0.1.4",
+        "url": "https://moodle.org/plugins/download.php/23364/tool_migratehvp2h5p_moodle33_2020110612.zip"
+    },
+    {
+        "id": "23082",
+        "name": "0.1.3",
+        "url": "https://moodle.org/plugins/download.php/23082/tool_migratehvp2h5p_moodle28_2016050415.zip"
+    },
+    {
+        "id": "22078",
+        "name": "0.1.2",
+        "url": "https://moodle.org/plugins/download.php/22078/tool_migratehvp2h5p_moodle25_2014120211.zip"
+    },
+    {
+        "id": "22027",
+        "name": "0.1.1",
+        "url": "https://moodle.org/plugins/download.php/22027/tool_migratehvp2h5p_moodle33_2022091002.zip"
+    },
+    {
+        "id": "22025",
+        "name": "0.1.0",
+        "url": "https://moodle.org/plugins/download.php/22025/tool_migratehvp2h5p_moodle26_2017090715.zip"
+    }
+]

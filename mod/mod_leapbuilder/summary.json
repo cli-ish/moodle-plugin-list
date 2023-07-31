@@ -1,0 +1,40 @@
+{
+    "id": 1876,
+    "index": 2141,
+    "name": "Leap Builder",
+    "frankenstyle": "mod_leapbuilder",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_leapbuilder",
+    "shortdescription": "This module can create models of learning plans and helps to find optimal from ones.",
+    "timelastreleased": {
+        "absdate": "Sunday, 18 June 2017, 11:16 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-06-18T23:16:52+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1876/20-interface2-model.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2251176,
+            "firstname": "Aleksey",
+            "lastname": "Kolobov",
+            "url": "https://moodle.org/user/profile.php?id=2251176"
+        }
+    ],
+    "descriptors": []
+}

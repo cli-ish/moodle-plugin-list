@@ -1,0 +1,40 @@
+{
+    "id": 2193,
+    "index": 759,
+    "name": "Common Courses",
+    "frankenstyle": "block_common_courses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_common_courses",
+    "shortdescription": "This block lists any courses you have in common (i.e. you are both enrolled in) with the user whose profile you are viewing.",
+    "timelastreleased": {
+        "absdate": "Friday, 14 May 2021, 8:18 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-14T20:18:50+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "132",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2193/Captura%20de%20pantalla%202018-11-30%20a%20las%2013.24.46.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2193/Captura%20de%20pantalla%202018-11-30%20a%20las%2013.24.46.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2193/Captura%20de%20pantalla%202018-11-06%20a%20las%2013.28.00.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1988521,
+            "firstname": "Sergio",
+            "lastname": "Comer\u00f3n",
+            "url": "https://moodle.org/user/profile.php?id=1988521"
+        }
+    ],
+    "descriptors": []
+}

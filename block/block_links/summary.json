@@ -1,0 +1,55 @@
+{
+    "id": 1650,
+    "index": 399,
+    "name": "Links",
+    "frankenstyle": "block_links",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_links",
+    "shortdescription": "This block is allows a site administrator to display links to users based on specific user profile fields",
+    "timelastreleased": {
+        "absdate": "Friday, 1 April 2022, 3:26 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-01T03:26:40+08:00"
+    },
+    "aggsites": "207",
+    "aggdownloads": "311",
+    "aggfavs": "24",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1650/link_admin_manage_links.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1650/links_add_new_url.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1650/links_admin_settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1650/links_dashboard_block.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 45256,
+            "firstname": "Stephen",
+            "lastname": "Bourget",
+            "url": "https://moodle.org/user/profile.php?id=45256"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

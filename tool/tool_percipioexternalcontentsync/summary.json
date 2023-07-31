@@ -1,0 +1,47 @@
+{
+    "id": 2980,
+    "index": 2009,
+    "name": "Percipio External Content Sync",
+    "frankenstyle": "tool_percipioexternalcontentsync",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_percipioexternalcontentsync",
+    "shortdescription": "If you are looking for the official Skillsoft Percipio Plugin please search for mod_percipio\r\n\r\nA tool to allow sync of assets from a Skillsoft Percipio site as External content activities using Percipio Content Discovery API.\r\n\r\nA Percipio site could contain 40,000 or more assets, this tool allows all these to be synched easily to Moodle. Working with the Skillsoft team you can limit the assets that are included in the sync using the Content Selection Process.\r\n\r\nThe schedule task runs the sync process which will create/update or deactivate a Moodle Course, consisting of a Single External content activity for each asset synched from Percipio, more details can be found in How it works.\r\n\r\nThe External content Activity and Course are setup to support Moodle Completion based on completion information  sent as xAPI statement to the External content activity module LRS from Percipio.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 15 March 2023, 7:51 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-15T19:51:12+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "2",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2980/moodle_400_default_template_output.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2980/moodle_400_settings.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2980/tasklogs_400.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2918578,
+            "firstname": "Lushonline",
+            "lastname": "Consulting",
+            "url": "https://moodle.org/user/profile.php?id=2918578"
+        }
+    ],
+    "descriptors": []
+}

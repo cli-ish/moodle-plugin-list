@@ -1,0 +1,62 @@
+{
+    "id": 1759,
+    "index": 1670,
+    "name": "Assignment Review",
+    "frankenstyle": "block_assignment_review",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_assignment_review",
+    "shortdescription": "The block allows reviewers to post \u201cglobal\u201d comment about assignment. It displays threaded comments per assignment on assignment pages. The plugin should also allow the insertion of key markers or text that can be picked up in database queries, for example using the Configurable Reports plugin. These markers can be into the comments or in additional field till the solution is simple to set up with the configurable report plugin.",
+    "timelastreleased": {
+        "absdate": "Monday, 28 March 2022, 8:30 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-28T20:30:11+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "7",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1759/Screen%20Shot%202016-12-01%20at%2011.21.18%20am.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1759/Screen%20Shot%202016-12-01%20at%2011.21.43%20am.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1759/Screen%20Shot%202016-12-01%20at%2011.27.18%20am.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1759/Screen%20Shot%202016-12-02%20at%208.08.39%20pm.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        },
+        {
+            "id": 542994,
+            "firstname": "J\u00e9r\u00f4me",
+            "lastname": "Mouneyrac",
+            "url": "https://moodle.org/user/profile.php?id=542994"
+        },
+        {
+            "id": 2028626,
+            "firstname": "Ken",
+            "lastname": "Farrimond",
+            "url": "https://moodle.org/user/profile.php?id=2028626"
+        }
+    ],
+    "descriptors": []
+}

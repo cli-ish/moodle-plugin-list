@@ -1,0 +1,53 @@
+{
+    "id": 167,
+    "index": 250,
+    "name": "Checkmark",
+    "frankenstyle": "mod_checkmark",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_checkmark",
+    "shortdescription": "This module (mod/checkmark) allows teachers to obtain information about the assignments completed by the students prior to a lesson.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 5 April 2023, 8:35 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-05T20:35:20+08:00"
+    },
+    "aggsites": "400",
+    "aggdownloads": "511",
+    "aggfavs": "31",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/167/checkmark.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/167/checkmark.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/167/1_checkmark-module_1_en.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/167/1_checkmark-module_2_en.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

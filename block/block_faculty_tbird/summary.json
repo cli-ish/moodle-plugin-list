@@ -1,0 +1,52 @@
+{
+    "id": 924,
+    "index": 2043,
+    "name": "Faculty Contact",
+    "frankenstyle": "block_faculty_tbird",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_faculty_tbird",
+    "shortdescription": "Faculty Contact block creates an auto-generated list of faculty and their contact information on a course.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 April 2014, 12:43 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-30T00:43:57+08:00"
+    },
+    "aggsites": "38",
+    "aggdownloads": "1",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/924/facultyinfo1.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/924/facultyinfo2.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/924/facultyinfo3.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1139933,
+            "firstname": "Johan",
+            "lastname": "Reinalda",
+            "url": "https://moodle.org/user/profile.php?id=1139933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

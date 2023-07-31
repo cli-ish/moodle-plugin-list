@@ -1,0 +1,59 @@
+{
+    "id": 2586,
+    "index": 712,
+    "name": "Rocket.Chat",
+    "frankenstyle": "mod_rocketchat",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_rocketchat",
+    "shortdescription": "This plugin allows teachers to keep synchronized users enrolled in a Moodle course into a dedicated Rocket.Chat private channel.",
+    "timelastreleased": {
+        "absdate": "Monday, 4 July 2022, 12:09 AM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-04T00:09:53+08:00"
+    },
+    "aggsites": "130",
+    "aggdownloads": "144",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2586/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2586/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2586/Add_Rocket.Chat_Activity.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2586/module_view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2586/Rocket.Chat_view.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 922669,
+            "firstname": "C\u00e9line",
+            "lastname": "Perves",
+            "url": "https://moodle.org/user/profile.php?id=922669"
+        },
+        {
+            "id": 1503969,
+            "firstname": "Benjamin",
+            "lastname": "Seclier",
+            "url": "https://moodle.org/user/profile.php?id=1503969"
+        },
+        {
+            "id": 4286013,
+            "firstname": "Matthieu",
+            "lastname": "Fuchs",
+            "url": "https://moodle.org/user/profile.php?id=4286013"
+        }
+    ],
+    "descriptors": []
+}

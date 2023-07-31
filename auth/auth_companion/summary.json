@@ -1,0 +1,56 @@
+{
+    "id": 3048,
+    "index": 671,
+    "name": "Companion account",
+    "frankenstyle": "auth_companion",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_companion",
+    "shortdescription": "The Moodle plugin auth_companion gives teachers the possibility to log in with a companion account. This will enable them to view and review a course from a participant's perspective.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 April 2023, 11:02 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-27T23:02:28+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "157",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3048/auth_companion-01.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3048/auth_companion-02.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3048/auth_companion-03.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3048/auth_companion-04.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3048/auth_companion-05.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3048/auth_companion-06.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 36220,
+            "firstname": "Andreas",
+            "lastname": "Grabs",
+            "url": "https://moodle.org/user/profile.php?id=36220"
+        }
+    ],
+    "descriptors": []
+}

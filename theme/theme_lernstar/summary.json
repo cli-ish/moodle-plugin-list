@@ -1,0 +1,55 @@
+{
+    "id": 776,
+    "index": 1537,
+    "name": "Lernstar",
+    "frankenstyle": "theme_lernstar",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_lernstar",
+    "shortdescription": "Full responsive theme (for desktop, tablet, smartphone) in different custom colors.",
+    "timelastreleased": {
+        "absdate": "Sunday, 27 July 2014, 10:09 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-07-27T22:09:53+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "10",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/776/logologo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/776/logologo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/776/screenshot-lightblue.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/776/screenshot-smart.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/776/screenshot02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/776/screenshot03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

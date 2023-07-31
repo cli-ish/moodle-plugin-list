@@ -1,0 +1,67 @@
+[
+    {
+        "id": "12119",
+        "name": "3.1.0-build-2016083100",
+        "url": "https://moodle.org/plugins/download.php/12119/block_rolespecifichtml_moodle34_2023050106.zip"
+    },
+    {
+        "id": "12118",
+        "name": "3.0.0-build-2013031000",
+        "url": "https://moodle.org/plugins/download.php/12118/block_rolespecifichtml_moodle29_2022030408.zip"
+    },
+    {
+        "id": "12117",
+        "name": "2.9.0-build-2016083100",
+        "url": "https://moodle.org/plugins/download.php/12117/block_rolespecifichtml_moodle40_2010030805.zip"
+    },
+    {
+        "id": "12116",
+        "name": "2.8.0-build-2016083100",
+        "url": "https://moodle.org/plugins/download.php/12116/block_rolespecifichtml_moodle40_2012041010.zip"
+    },
+    {
+        "id": "12115",
+        "name": "2.7.0-build-2016083100",
+        "url": "https://moodle.org/plugins/download.php/12115/block_rolespecifichtml_moodle37_2023110700.zip"
+    },
+    {
+        "id": "7458",
+        "name": "2.4.0-build-2013042500",
+        "url": "https://moodle.org/plugins/download.php/7458/block_rolespecifichtml_moodle40_2016040411.zip"
+    },
+    {
+        "id": "7461",
+        "name": "2.5.0-build-2012100200",
+        "url": "https://moodle.org/plugins/download.php/7461/block_rolespecifichtml_moodle30_2016100110.zip"
+    },
+    {
+        "id": "7460",
+        "name": "2.6.0-build-2013031000",
+        "url": "https://moodle.org/plugins/download.php/7460/block_rolespecifichtml_moodle33_2015010416.zip"
+    },
+    {
+        "id": "1499",
+        "name": "2.2.0-build-2012100200",
+        "url": "https://moodle.org/plugins/download.php/1499/block_rolespecifichtml_moodle38_2015050817.zip"
+    },
+    {
+        "id": "1500",
+        "name": "1.9.0-build-2012032000",
+        "url": "https://moodle.org/plugins/download.php/1500/block_rolespecifichtml_moodle29_2013070817.zip"
+    },
+    {
+        "id": "9290",
+        "name": "2.9.0-build-2013031000",
+        "url": "https://moodle.org/plugins/download.php/9290/block_rolespecifichtml_moodle31_2021020420.zip"
+    },
+    {
+        "id": "9289",
+        "name": "2.8.0-build-2013031000",
+        "url": "https://moodle.org/plugins/download.php/9289/block_rolespecifichtml_moodle31_2015040703.zip"
+    },
+    {
+        "id": "9288",
+        "name": "2.7.0-build-2013031000",
+        "url": "https://moodle.org/plugins/download.php/9288/block_rolespecifichtml_moodle36_2010060416.zip"
+    }
+]

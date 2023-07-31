@@ -1,0 +1,61 @@
+{
+    "id": 1551,
+    "index": 385,
+    "name": "Amazon S3 bucket",
+    "frankenstyle": "repository_s3bucket",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_s3bucket",
+    "shortdescription": "S3 folder (bucket) repository.",
+    "timelastreleased": {
+        "absdate": "Saturday, 10 September 2022, 1:30 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-10T01:30:31+08:00"
+    },
+    "aggsites": "161",
+    "aggdownloads": "322",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1551/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1551/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1551/capture_006.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1551/capture_001.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1551/capture_002.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1551/capture_003.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1551/capture_004.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1551/capture_005.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1207459,
+            "firstname": "Renaat",
+            "lastname": "Debleu",
+            "url": "https://moodle.org/user/profile.php?id=1207459"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

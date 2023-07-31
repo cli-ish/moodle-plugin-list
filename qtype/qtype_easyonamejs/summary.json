@@ -1,0 +1,49 @@
+{
+    "id": 1215,
+    "index": 1714,
+    "name": "Name to Structure or Reaction (MarvinJS)",
+    "frankenstyle": "qtype_easyonamejs",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_easyonamejs",
+    "shortdescription": "Name to structure (or reaction) question type.  You can ask students to draw chemical structures or reactions.  This plugin requires MarvinJS from Chemaxon and openbabel.",
+    "timelastreleased": {
+        "absdate": "Saturday, 13 February 2016, 3:13 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-02-13T03:13:47+08:00"
+    },
+    "aggsites": "34",
+    "aggdownloads": "6",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1215/easyonamejs_preview.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 945,
+    "index": 1111,
+    "name": "PDF.js Folder",
+    "frankenstyle": "mod_pdfjsfolder",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_pdfjsfolder",
+    "shortdescription": "PDF.js Folder is a plugin intended to make sure that added PDFs always open in the browser.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 3 December 2013, 8:22 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-12-03T20:22:02+08:00"
+    },
+    "aggsites": "72",
+    "aggdownloads": "36",
+    "aggfavs": "33",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/945/pdfjsfolder-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/945/pdfjsfolder-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/945/screenshot-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/945/screenshot-2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1263794,
+            "firstname": "Jonas",
+            "lastname": "Nockert",
+            "url": "https://moodle.org/user/profile.php?id=1263794"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

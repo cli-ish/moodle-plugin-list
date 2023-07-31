@@ -1,0 +1,44 @@
+{
+    "id": 3034,
+    "index": 733,
+    "name": "Self enrolment with capability",
+    "frankenstyle": "enrol_selfwithcapability",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_selfwithcapability",
+    "shortdescription": "An enrolment method that behaves like self-enrolment, with additional settings to require capabilities in order to enrol.",
+    "timelastreleased": {
+        "absdate": "Monday, 14 November 2022, 5:04 PM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-14T17:04:09+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "139",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3034/withoutkey.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3034/withoutkey.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3034/enrol_nocap.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3034/enrol_ok.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

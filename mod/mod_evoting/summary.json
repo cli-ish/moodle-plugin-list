@@ -1,0 +1,62 @@
+{
+    "id": 1697,
+    "index": 410,
+    "name": "E-Voting",
+    "frankenstyle": "mod_evoting",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_evoting",
+    "shortdescription": "The E-Voting activity module enables students to vote via their smartphone or their laptop and to have the results displayed on a graph in real time.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 19 August 2020, 8:45 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-19T20:45:49+08:00"
+    },
+    "aggsites": "1415",
+    "aggdownloads": "300",
+    "aggfavs": "103",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1697/3.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1697/4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1697/6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1697/8.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1697/8b.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1697/9.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2123068,
+            "firstname": "Christophe",
+            "lastname": "Hadorn",
+            "url": "https://moodle.org/user/profile.php?id=2123068"
+        },
+        {
+            "id": 2234362,
+            "firstname": "Centre e-learning HES-SO",
+            "lastname": "Cyberlearn",
+            "url": "https://moodle.org/user/profile.php?id=2234362"
+        }
+    ],
+    "descriptors": []
+}

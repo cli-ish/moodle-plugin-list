@@ -1,0 +1,50 @@
+{
+    "id": 2301,
+    "index": 297,
+    "name": "MUMIE Single Sign On",
+    "frankenstyle": "auth_mumie",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_mumie",
+    "shortdescription": "This plugin allows Moodle users to access content on the e-learning platform MUMIE without having to register a new account or to login. MUMIE Single Sign On is not meant to be used as a standalone but in combination with  MUMIE Task (https://github.com/integral-learning/moodle-mod_mumie). Together, these two plugins allow the integration of MUMIE content into your Moodle courses.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 5 July 2023, 8:29 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-05T20:29:33+08:00"
+    },
+    "aggsites": "72",
+    "aggdownloads": "441",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2301/embeddedView.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2301/ActivityForm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2301/integrationOverview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2301/plugin_settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2676756,
+            "firstname": "Integral",
+            "lastname": "Learning",
+            "url": "https://moodle.org/user/profile.php?id=2676756"
+        }
+    ],
+    "descriptors": []
+}

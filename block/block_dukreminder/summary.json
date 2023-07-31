@@ -1,0 +1,55 @@
+{
+    "id": 1309,
+    "index": 1598,
+    "name": "DUK-Reminder",
+    "frankenstyle": "block_dukreminder",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_dukreminder",
+    "shortdescription": "A simple block to send out reminders for different tasks from within a course.\r\n",
+    "timelastreleased": {
+        "absdate": "Wednesday, 6 May 2015, 9:29 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-05-06T21:29:11+08:00"
+    },
+    "aggsites": "60",
+    "aggdownloads": "8",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1309/coursecompletionreminder.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1309/coursecompletionreminder.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1309/dukreminder1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1309/dukreminder2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1309/dukreminder3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1309/dukreminder4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

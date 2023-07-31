@@ -1,0 +1,40 @@
+{
+    "id": 993,
+    "index": 1410,
+    "name": "Page module",
+    "frankenstyle": "block_page_module",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_page_module",
+    "shortdescription": "This block is needed to run the course format \"page\". It provides an \"activity in a block\" wrapper to locate activities anywhere in the page layout.",
+    "timelastreleased": {
+        "absdate": "Monday, 18 April 2016, 8:16 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-18T20:16:12+08:00"
+    },
+    "aggsites": "59",
+    "aggdownloads": "14",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/993/block_page_module_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/993/block_page_module_logo.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": []
+}

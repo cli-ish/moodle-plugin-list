@@ -1,0 +1,59 @@
+{
+    "id": 2262,
+    "index": 229,
+    "name": "Supporter",
+    "frankenstyle": "tool_supporter",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_supporter",
+    "shortdescription": "Easily manage your users and courses within a single window without reloading whole pages. Look up users and courses, enrol students, change settings and much more.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 June 2023, 10:11 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-06T22:11:53+08:00"
+    },
+    "aggsites": "205",
+    "aggdownloads": "551",
+    "aggfavs": "38",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2262/Create%20Course.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2262/Overview.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2262/Settings.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2209228,
+            "firstname": "Technische Universit\u00e4t",
+            "lastname": "Darmstadt",
+            "url": "https://moodle.org/user/profile.php?id=2209228"
+        },
+        {
+            "id": 2106392,
+            "firstname": "oa73neve",
+            "lastname": "K\u00f6nigstein",
+            "url": "https://moodle.org/user/profile.php?id=2106392"
+        },
+        {
+            "id": 902931,
+            "firstname": "Klaus",
+            "lastname": "Steitz",
+            "url": "https://moodle.org/user/profile.php?id=902931"
+        }
+    ],
+    "descriptors": []
+}

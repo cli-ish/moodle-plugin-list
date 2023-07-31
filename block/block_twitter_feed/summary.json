@@ -1,0 +1,49 @@
+{
+    "id": 281,
+    "index": 1996,
+    "name": "Twitter feeder",
+    "frankenstyle": "block_twitter_feed",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_twitter_feed",
+    "shortdescription": "This plugin catch your twitter feed and display into the block",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 March 2012, 3:23 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-22T15:23:08+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "2",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/281/twitter-feed.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1438291,
+            "firstname": "Nitin",
+            "lastname": "Tatte",
+            "url": "https://moodle.org/user/profile.php?id=1438291"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

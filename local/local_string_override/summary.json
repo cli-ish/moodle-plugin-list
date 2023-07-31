@@ -1,0 +1,51 @@
+{
+    "id": 1692,
+    "index": 1618,
+    "name": "String override",
+    "frankenstyle": "local_string_override",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_string_override",
+    "shortdescription": "Makes it possible for plugins to override existing translations regardless if they're bundled with Moodle or they're originated from a community plugin.",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 October 2017, 5:33 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-10-05T17:33:03+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": "8",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1692/configphp.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1477522,
+            "firstname": "Juho",
+            "lastname": "Jaakkola",
+            "url": "https://moodle.org/user/profile.php?id=1477522"
+        },
+        {
+            "id": 482307,
+            "firstname": "Arto",
+            "lastname": "Nieminen",
+            "url": "https://moodle.org/user/profile.php?id=482307"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

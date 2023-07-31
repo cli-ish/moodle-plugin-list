@@ -1,0 +1,46 @@
+{
+    "id": 2380,
+    "index": 424,
+    "name": "Embedded questions progress",
+    "frankenstyle": "report_embedquestion",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_embedquestion",
+    "shortdescription": "Works with the Embed questions filter to store Student's attempts permanently and make them available for review.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 29 March 2022, 10:28 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-29T22:28:43+08:00"
+    },
+    "aggsites": "472",
+    "aggdownloads": "287",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2380/report.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,77 @@
+[
+    {
+        "id": "19769",
+        "name": "v3.7-r1",
+        "url": "https://moodle.org/plugins/download.php/19769/block_course_overview_campus_moodle37_2018061119.zip"
+    },
+    {
+        "id": "19243",
+        "name": "v3.6-r1",
+        "url": "https://moodle.org/plugins/download.php/19243/block_course_overview_campus_moodle38_2023060609.zip"
+    },
+    {
+        "id": "17910",
+        "name": "v3.5-r2",
+        "url": "https://moodle.org/plugins/download.php/17910/block_course_overview_campus_moodle32_2016060210.zip"
+    },
+    {
+        "id": "16872",
+        "name": "v3.4-r2",
+        "url": "https://moodle.org/plugins/download.php/16872/block_course_overview_campus_moodle25_2016120604.zip"
+    },
+    {
+        "id": "16226",
+        "name": "v3.3-r1",
+        "url": "https://moodle.org/plugins/download.php/16226/block_course_overview_campus_moodle37_2011091002.zip"
+    },
+    {
+        "id": "14334",
+        "name": "v3.2-r6",
+        "url": "https://moodle.org/plugins/download.php/14334/block_course_overview_campus_moodle36_2014060413.zip"
+    },
+    {
+        "id": "12541",
+        "name": "v3.1-r2",
+        "url": "https://moodle.org/plugins/download.php/12541/block_course_overview_campus_moodle35_2013030416.zip"
+    },
+    {
+        "id": "11547",
+        "name": "v3.0-r4",
+        "url": "https://moodle.org/plugins/download.php/11547/block_course_overview_campus_moodle32_2011010509.zip"
+    },
+    {
+        "id": "9408",
+        "name": "2.9-build-2015092900",
+        "url": "https://moodle.org/plugins/download.php/9408/block_course_overview_campus_moodle32_2020051005.zip"
+    },
+    {
+        "id": "8303",
+        "name": "2.8-build-2015032000",
+        "url": "https://moodle.org/plugins/download.php/8303/block_course_overview_campus_moodle36_2020020805.zip"
+    },
+    {
+        "id": "7081",
+        "name": "2.7-build-2014102000",
+        "url": "https://moodle.org/plugins/download.php/7081/block_course_overview_campus_moodle40_2023120204.zip"
+    },
+    {
+        "id": "5415",
+        "name": "2.6-build-2014021800",
+        "url": "https://moodle.org/plugins/download.php/5415/block_course_overview_campus_moodle35_2021041114.zip"
+    },
+    {
+        "id": "3884",
+        "name": "2.5-build-2013090302",
+        "url": "https://moodle.org/plugins/download.php/3884/block_course_overview_campus_moodle31_2011110801.zip"
+    },
+    {
+        "id": "3238",
+        "name": "2.4-build-2013062000",
+        "url": "https://moodle.org/plugins/download.php/3238/block_course_overview_campus_moodle26_2014110511.zip"
+    },
+    {
+        "id": "2011",
+        "name": "2.3-rc3-build-2012121704",
+        "url": "https://moodle.org/plugins/download.php/2011/block_course_overview_campus_moodle34_2012051211.zip"
+    }
+]

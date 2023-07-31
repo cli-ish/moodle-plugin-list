@@ -1,0 +1,45 @@
+{
+    "id": 333,
+    "index": 1961,
+    "name": "UBEditor",
+    "frankenstyle": "local_user_bulk_editor",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_user_bulk_editor",
+    "shortdescription": "This plugin allow you to bulk change user profile field values.",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 July 2012, 3:51 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-07-19T15:51:54+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "3",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1399426,
+            "firstname": "Andrew",
+            "lastname": "Kama",
+            "url": "https://moodle.org/user/profile.php?id=1399426"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

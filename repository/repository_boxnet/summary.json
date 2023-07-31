@@ -1,0 +1,44 @@
+{
+    "id": 2913,
+    "index": 1203,
+    "name": "Box repository",
+    "frankenstyle": "repository_boxnet",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_boxnet",
+    "shortdescription": "The Box repository enables users to copy files from Box into Moodle.",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 March 2022, 8:59 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-24T20:59:51+08:00"
+    },
+    "aggsites": "847",
+    "aggdownloads": "26",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2913/boxnetrepo1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2913/boxnetrepo2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1455465,
+            "firstname": "Moodle",
+            "lastname": "HQ",
+            "url": "https://moodle.org/user/profile.php?id=1455465"
+        }
+    ],
+    "descriptors": []
+}

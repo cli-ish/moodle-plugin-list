@@ -1,0 +1,45 @@
+{
+    "id": 472,
+    "index": 1567,
+    "name": "HTML (per group)",
+    "frankenstyle": "block_groupspecifichtml",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_groupspecifichtml",
+    "shortdescription": "A simple way to display distinct HTML content to each group within a block.",
+    "timelastreleased": {
+        "absdate": "Monday, 12 January 2015, 1:14 AM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-12T01:14:42+08:00"
+    },
+    "aggsites": "27",
+    "aggdownloads": "9",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/472/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/472/logo.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

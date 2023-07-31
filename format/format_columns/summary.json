@@ -1,0 +1,50 @@
+{
+    "id": 559,
+    "index": 1271,
+    "name": "Columns format",
+    "frankenstyle": "format_columns",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_columns",
+    "shortdescription": "Topic based course format with the ability to arrange the topics in columns except 0.",
+    "timelastreleased": {
+        "absdate": "Monday, 14 March 2016, 1:37 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-03-14T01:37:19+08:00"
+    },
+    "aggsites": "64",
+    "aggdownloads": "21",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/559/cn_logo2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/559/cn_logo2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/559/Columns_Screen_Shot_23_edit.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/559/Columns_Screen_Shot_24_edit.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/559/Columns_Screen_Shot_Two.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/559/Columns_Screen_Shot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        }
+    ],
+    "descriptors": []
+}

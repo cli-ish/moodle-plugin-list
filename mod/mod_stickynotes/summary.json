@@ -1,0 +1,53 @@
+{
+    "id": 2756,
+    "index": 439,
+    "name": "Sticky Notes",
+    "frankenstyle": "mod_stickynotes",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_stickynotes",
+    "shortdescription": "Activity for creating a sticky notes wall for your brainstormings, ranking...",
+    "timelastreleased": {
+        "absdate": "Monday, 18 July 2022, 8:10 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-07-18T20:10:36+08:00"
+    },
+    "aggsites": "588",
+    "aggdownloads": "274",
+    "aggfavs": "34",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2756/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2756/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2756/capt01.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2756/capt02.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2756/capt03.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2756/capt04.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2756/capt05.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1889435,
+            "firstname": "Olivier",
+            "lastname": "Valentin",
+            "url": "https://moodle.org/user/profile.php?id=1889435"
+        }
+    ],
+    "descriptors": []
+}

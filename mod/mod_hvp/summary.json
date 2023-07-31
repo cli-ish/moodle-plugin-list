@@ -1,0 +1,74 @@
+{
+    "id": 1678,
+    "index": 4,
+    "name": "Interactive Content \u2013 H5P",
+    "frankenstyle": "mod_hvp",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_hvp",
+    "shortdescription": "Create and add rich content inside your LMS for free. Some examples of what you\r\nget with H5P are Interactive Video, Quizzes, Collage and Timeline.",
+    "timelastreleased": {
+        "absdate": "Monday, 12 June 2023, 4:18 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-12T16:18:31+08:00"
+    },
+    "aggsites": "26998",
+    "aggdownloads": "8k",
+    "aggfavs": "523",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1678/h5p-logo-box.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1678/h5p-logo-box.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1678/1-iv-viewing.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1678/2-iv-editing.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1678/3-results.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2046012,
+            "firstname": "Frode",
+            "lastname": "Petterson",
+            "url": "https://moodle.org/user/profile.php?id=2046012"
+        },
+        {
+            "id": 2038289,
+            "firstname": "Thomas",
+            "lastname": "Marstrander",
+            "url": "https://moodle.org/user/profile.php?id=2038289"
+        },
+        {
+            "id": 2080202,
+            "firstname": "P\u00e5l",
+            "lastname": "J\u00f8rgensen",
+            "url": "https://moodle.org/user/profile.php?id=2080202"
+        },
+        {
+            "id": 2090976,
+            "firstname": "Svein-Tore Griff",
+            "lastname": "With",
+            "url": "https://moodle.org/user/profile.php?id=2090976"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

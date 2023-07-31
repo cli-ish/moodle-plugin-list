@@ -1,0 +1,50 @@
+{
+    "id": 3071,
+    "index": 720,
+    "name": "Restrict by marking guide criterion score",
+    "frankenstyle": "availability_criteria_score",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_criteria_score",
+    "shortdescription": "Restrict course activity & resources by assignment marking guide score",
+    "timelastreleased": {
+        "absdate": "Wednesday, 25 January 2023, 7:03 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-25T07:03:47+08:00"
+    },
+    "aggsites": "26",
+    "aggdownloads": "142",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3071/availability_criterion_score-course-text.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3071/availability_criterion_score-restriction.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2822651,
+            "firstname": "Alex",
+            "lastname": "Morris",
+            "url": "https://moodle.org/user/profile.php?id=2822651"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

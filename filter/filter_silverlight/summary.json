@@ -1,0 +1,57 @@
+{
+    "id": 705,
+    "index": 1888,
+    "name": "Silverlight video embed filter",
+    "frankenstyle": "filter_silverlight",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_silverlight",
+    "shortdescription": "Silverlight Smooth Streaming media embed filter for Moodle 2.x. To be used with IIS Smooth Streaming server.",
+    "timelastreleased": {
+        "absdate": "Friday, 24 May 2013, 11:29 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-24T11:29:52+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/705/NetSpot.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/705/NetSpot.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/705/0419-ntdet-silverlight_settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/705/0419-ntdet-silverlight.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1344214,
+            "firstname": "Kirill",
+            "lastname": "Astashov",
+            "url": "https://moodle.org/user/profile.php?id=1344214"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 1014,
+    "index": 2071,
+    "name": "eledia webservicesuite",
+    "frankenstyle": "local_eledia_webservicesuite",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_eledia_webservicesuite",
+    "shortdescription": "This plugin adds a bundle of new functions to the moodle webservice. The new functions appear within the moodle webservice function list after installation.\r\nThe functions definition can be found within the API Documentation in Site Administration/Plugins/Web Services.\r\n\r\neLeDia supports and maintains this plugin for clients only. Please ask for our commercial support.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 2 January 2019, 10:23 PM",
+        "reldate": "5 years",
+        "iso8601date": "2019-01-02T22:23:41+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "1",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1014/eledia-logo-mu_ohne_raender.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1014/eledia-logo-mu_ohne_raender.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1014/service_with_added_functions.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1075745,
+            "firstname": "Benjamin",
+            "lastname": "Wolf",
+            "url": "https://moodle.org/user/profile.php?id=1075745"
+        }
+    ],
+    "descriptors": []
+}

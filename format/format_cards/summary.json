@@ -1,0 +1,44 @@
+{
+    "id": 2998,
+    "index": 403,
+    "name": "Cards format",
+    "frankenstyle": "format_cards",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_cards",
+    "shortdescription": "Show each section of your course as a large card",
+    "timelastreleased": {
+        "absdate": "Friday, 7 July 2023, 9:55 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-07T21:55:08+08:00"
+    },
+    "aggsites": "233",
+    "aggdownloads": "305",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2998/Screenshot%202022-08-31%20at%2016-06-24%20Course%20Cool%20test%20course.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2998/Screenshot%202022-08-31%20at%2016-07-08%20Course%20Cool%20test%20course.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2254773,
+            "firstname": "John",
+            "lastname": "Maydew",
+            "url": "https://moodle.org/user/profile.php?id=2254773"
+        }
+    ],
+    "descriptors": []
+}

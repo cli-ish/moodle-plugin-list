@@ -1,0 +1,46 @@
+{
+    "id": 1817,
+    "index": 323,
+    "name": "Use template on course creation",
+    "frankenstyle": "local_course_template",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_course_template",
+    "shortdescription": "This local plugin allows site administrators to create \"template\" courses which will be restored into new courses on course creation.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 17 May 2023, 3:21 AM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-17T03:21:33+08:00"
+    },
+    "aggsites": "295",
+    "aggdownloads": "415",
+    "aggfavs": "48",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1817/template-shortname.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": []
+}

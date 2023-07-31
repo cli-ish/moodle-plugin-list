@@ -1,0 +1,45 @@
+{
+    "id": 483,
+    "index": 757,
+    "name": "TaskChain",
+    "frankenstyle": "mod_taskchain",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_taskchain",
+    "shortdescription": "TaskChain activity module for Moodle 2.x",
+    "timelastreleased": {
+        "absdate": "Friday, 16 September 2022, 10:46 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-16T10:46:21+08:00"
+    },
+    "aggsites": "289",
+    "aggdownloads": "132",
+    "aggfavs": "41",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/483/TaskChain.for.Moodle.2x.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 8277,
+            "firstname": "Gordon",
+            "lastname": "Bateson",
+            "url": "https://moodle.org/user/profile.php?id=8277"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 1882,
+    "index": 235,
+    "name": "Sketch",
+    "frankenstyle": "atto_sketch",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_sketch",
+    "shortdescription": "Simple image \"paint like\" editor for atto.",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 September 2022, 9:14 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-29T21:14:50+08:00"
+    },
+    "aggsites": "1096",
+    "aggdownloads": "529",
+    "aggfavs": "36",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1882/sketch_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1882/sketch_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1882/atto_example.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1882/mobile_example.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 226766,
+            "firstname": "Matthew",
+            "lastname": "Davidson",
+            "url": "https://moodle.org/user/profile.php?id=226766"
+        }
+    ],
+    "descriptors": []
+}

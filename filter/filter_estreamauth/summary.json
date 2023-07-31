@@ -1,0 +1,47 @@
+{
+    "id": 1764,
+    "index": 732,
+    "name": "Planet eStream Authentication Plugin",
+    "frankenstyle": "filter_estreamauth",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_estreamauth",
+    "shortdescription": "The Planet eStream Authentication Plugin will automatically authenticate Moodle users with matching Planet eStream usernames when viewing embedding quizzes that have been added via the Planet eStream text editor plugins.",
+    "timelastreleased": {
+        "absdate": "Thursday, 23 December 2021, 9:40 PM",
+        "reldate": "19 months",
+        "iso8601date": "2021-12-23T21:40:03+08:00"
+    },
+    "aggsites": "84",
+    "aggdownloads": "139",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1764/230estream.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1764/230estream.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1764/Quiz.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1764/Quiz%201.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1764/quizScreenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1519383,
+            "firstname": "Planet",
+            "lastname": "eStream",
+            "url": "https://moodle.org/user/profile.php?id=1519383"
+        }
+    ],
+    "descriptors": []
+}

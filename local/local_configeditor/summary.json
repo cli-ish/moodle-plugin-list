@@ -1,0 +1,45 @@
+{
+    "id": 192,
+    "index": 1757,
+    "name": "Configurator",
+    "frankenstyle": "local_configeditor",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_configeditor",
+    "shortdescription": "Allows aribitrary editing of config values for core and plugins.\r\nThis is primarily designed for use with plugins types that don't properly support settings.php,\r\nbut may have other users as well.\r\nUse with caution.",
+    "timelastreleased": {
+        "absdate": "Friday, 23 December 2011, 6:48 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-12-23T18:48:16+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "6",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/192/configurator.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/192/configurator.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/192/configurator.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 858318,
+            "firstname": "Mark",
+            "lastname": "Johnson",
+            "url": "https://moodle.org/user/profile.php?id=858318"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id": "26724",
+        "name": "version-1.2-moodle-4.x",
+        "url": "https://moodle.org/plugins/download.php/26724/block_socialcomments_moodle26_2020080719.zip"
+    },
+    {
+        "id": "22521",
+        "name": "version-1.2-moodle-3.x",
+        "url": "https://moodle.org/plugins/download.php/22521/block_socialcomments_moodle36_2023090607.zip"
+    },
+    {
+        "id": "20020",
+        "name": "version-1.1-moodle-3.x",
+        "url": "https://moodle.org/plugins/download.php/20020/block_socialcomments_moodle37_2018090607.zip"
+    },
+    {
+        "id": "22468",
+        "name": "3.8",
+        "url": "https://moodle.org/plugins/download.php/22468/block_socialcomments_moodle29_2019010310.zip"
+    },
+    {
+        "id": "20019",
+        "name": "3.2",
+        "url": "https://moodle.org/plugins/download.php/20019/block_socialcomments_moodle26_2012090112.zip"
+    }
+]

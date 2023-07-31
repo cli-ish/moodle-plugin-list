@@ -1,0 +1,64 @@
+{
+    "id": 134,
+    "index": 151,
+    "name": "Invitation",
+    "frankenstyle": "enrol_invitation",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_invitation",
+    "shortdescription": "The invitation enrollment plugin enables teachers to send course invitations to some users by email.",
+    "timelastreleased": {
+        "absdate": "Monday, 8 May 2023, 11:13 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-08T11:13:00+08:00"
+    },
+    "aggsites": "409",
+    "aggdownloads": "792",
+    "aggfavs": "49",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/134/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/134/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/134/invitation-enrolment-email.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/134/invitation-enrolment-confimation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/134/invitation-enrolment-history.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/134/invitation-enrolment-invite.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/134/invitation-enrolment-method-settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/134/invitation-enrolment-participants.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/134/invitation-enrolment-plugin-settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1615960,
+            "firstname": "Michael",
+            "lastname": "Milette",
+            "url": "https://moodle.org/user/profile.php?id=1615960"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

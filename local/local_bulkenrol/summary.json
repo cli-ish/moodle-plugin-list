@@ -1,0 +1,46 @@
+{
+    "id": 2030,
+    "index": 77,
+    "name": "User bulk enrolment",
+    "frankenstyle": "local_bulkenrol",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_bulkenrol",
+    "shortdescription": "Moodle plugin which provides the possibility to bulk enrol a list of users who are identified by their e-mail adresses into a course.",
+    "timelastreleased": {
+        "absdate": "Sunday, 30 April 2023, 3:52 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-30T15:52:03+08:00"
+    },
+    "aggsites": "1847",
+    "aggdownloads": "1k",
+    "aggfavs": "50",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2030/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2030/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2030/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

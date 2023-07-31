@@ -1,0 +1,49 @@
+{
+    "id": 79,
+    "index": 1127,
+    "name": "SimpleSpeak text-to-speech",
+    "frankenstyle": "filter_simplespeak",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_simplespeak",
+    "shortdescription": "A Moodle filter to provide speech synthesis (text-to-speech/ TTS) services for arbitrary text.",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 September 2011, 2:23 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-09-29T02:23:25+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "35",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/79/flickr-timothymorgan-speech-75288771_c_t-cc-by.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/79/flickr-timothymorgan-speech-75288771_c_t-cc-by.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/79/moodle2-filter_simplespeak_quiz_sm3.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93815,
+            "firstname": "Nick",
+            "lastname": "Freear",
+            "url": "https://moodle.org/user/profile.php?id=93815"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Languages"
+        }
+    ]
+}

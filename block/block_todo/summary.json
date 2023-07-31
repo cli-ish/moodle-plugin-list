@@ -1,0 +1,44 @@
+{
+    "id": 1996,
+    "index": 1277,
+    "name": "My ToDo list",
+    "frankenstyle": "block_todo",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_todo",
+    "shortdescription": "Simple plugin implementing a personal ToDo list on the user's Moodle dashboard.",
+    "timelastreleased": {
+        "absdate": "Sunday, 15 July 2018, 8:16 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-07-15T20:16:47+08:00"
+    },
+    "aggsites": "328",
+    "aggdownloads": "20",
+    "aggfavs": "28",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1996/Screenshot_2018-01-05_18-10-01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1996/Screenshot_2018-01-05_18-12-43.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1601,
+            "firstname": "David",
+            "lastname": "Mudr\u00e1k",
+            "url": "https://moodle.org/user/profile.php?id=1601"
+        }
+    ],
+    "descriptors": []
+}

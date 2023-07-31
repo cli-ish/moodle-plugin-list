@@ -1,0 +1,47 @@
+[
+    {
+        "id": "7582",
+        "name": "1.3.0-build-2014122400",
+        "url": "https://moodle.org/plugins/download.php/7582/filter_dictionary_moodle25_2011010704.zip"
+    },
+    {
+        "id": "5713",
+        "name": "1.2.0-build-2014040200",
+        "url": "https://moodle.org/plugins/download.php/5713/filter_dictionary_moodle32_2020101212.zip"
+    },
+    {
+        "id": "1835",
+        "name": "1.0.2-build-2012121000",
+        "url": "https://moodle.org/plugins/download.php/1835/filter_dictionary_moodle29_2015110420.zip"
+    },
+    {
+        "id": "3257",
+        "name": "1.1.0-build-2013061800",
+        "url": "https://moodle.org/plugins/download.php/3257/filter_dictionary_moodle39_2015041105.zip"
+    },
+    {
+        "id": "1779",
+        "name": "1.0.2-build-2012120300",
+        "url": "https://moodle.org/plugins/download.php/1779/filter_dictionary_moodle26_2014091011.zip"
+    },
+    {
+        "id": "1772",
+        "name": "1.0.2-build-2012112800",
+        "url": "https://moodle.org/plugins/download.php/1772/filter_dictionary_moodle39_2010030912.zip"
+    },
+    {
+        "id": "1697",
+        "name": "1.0.1-build-2012111501",
+        "url": "https://moodle.org/plugins/download.php/1697/filter_dictionary_moodle40_2020080808.zip"
+    },
+    {
+        "id": "1693",
+        "name": "1.0.1-build-2012111500",
+        "url": "https://moodle.org/plugins/download.php/1693/filter_dictionary_moodle26_2015081120.zip"
+    },
+    {
+        "id": "1529",
+        "name": "1.0.0-build-2012101800",
+        "url": "https://moodle.org/plugins/download.php/1529/filter_dictionary_moodle30_2021060712.zip"
+    }
+]

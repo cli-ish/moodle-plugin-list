@@ -1,0 +1,53 @@
+{
+    "id": 1067,
+    "index": 1801,
+    "name": "2D/3D Structure Display Short Answer",
+    "frankenstyle": "qtype_easyostructure",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_easyostructure",
+    "shortdescription": "Short answer question type in which the teacher can easily build 2D/3D structures in Marvin Sketch and display in Marvin View.  Requires Marvin Applets from Chemaxon.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 April 2014, 8:19 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-09T08:19:07+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "5",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1067/structure_edit.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1067/structure_preview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

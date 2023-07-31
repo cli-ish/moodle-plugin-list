@@ -1,0 +1,40 @@
+{
+    "id": 2063,
+    "index": 1950,
+    "name": "EcoHub LTI Source",
+    "frankenstyle": "ltisource_ecohub",
+    "plugintype": {
+        "type": "ltisource",
+        "name": "External tool / LTI source"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/ltisource_ecohub",
+    "shortdescription": "Enable Moodle to launch Laerdal Medical courses with user-specific data for analytics and external compliance tracking purposes with a dedicated EcoHub activity.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 22 May 2018, 9:00 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-22T21:00:44+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2063/laerdal-logo_en_process.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2063/laerdal-logo_en_process.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2063/ltisource_ecohub_shot1.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2353759,
+            "firstname": "Martin",
+            "lastname": "Rieva",
+            "url": "https://moodle.org/user/profile.php?id=2353759"
+        }
+    ],
+    "descriptors": []
+}

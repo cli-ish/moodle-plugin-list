@@ -1,0 +1,55 @@
+{
+    "id": 1149,
+    "index": 211,
+    "name": "Generico Filter",
+    "frankenstyle": "filter_generico",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_generico",
+    "shortdescription": "Generico is a simple filter for creating templates of code snippets and text that can be inserted into Moodle text areas.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 December 2022, 11:43 AM",
+        "reldate": "7 months",
+        "iso8601date": "2022-12-22T11:43:45+08:00"
+    },
+    "aggsites": "2355",
+    "aggdownloads": "594",
+    "aggfavs": "89",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1149/generico.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1149/generico.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1149/Generico%20Filter%20Banner%20by%20Poodll.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1149/m27__Administration__Plugins__Filters__Generico%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1149/MoodleTile_GenericoFilter.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1149/Untitled.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

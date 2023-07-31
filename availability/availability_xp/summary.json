@@ -1,0 +1,45 @@
+{
+    "id": 1101,
+    "index": 98,
+    "name": "Level Up XP Availability",
+    "frankenstyle": "availability_xp",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_xp",
+    "shortdescription": "Restrict access to course content until students reach the required level.",
+    "timelastreleased": {
+        "absdate": "Monday, 9 November 2020, 1:31 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-11-09T13:31:56+08:00"
+    },
+    "aggsites": "2111",
+    "aggdownloads": "1k",
+    "aggfavs": "91",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1101/levelup-square-90x90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1101/levelup-square-90x90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1101/1-block.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

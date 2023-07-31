@@ -1,0 +1,56 @@
+{
+    "id": 2809,
+    "index": 370,
+    "name": "ClickView Video (Activity)",
+    "frankenstyle": "mod_clickview",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_clickview",
+    "shortdescription": "The ClickView activity plugin for Moodle enables you to quickly and safely browse through your entire ClickView library, the ClickView exchange and your own personal workspace from within Moodle.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 May 2023, 3:08 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-23T15:08:04+08:00"
+    },
+    "aggsites": "137",
+    "aggdownloads": "344",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2809/ClickView-Video-Activity-Moodle-Plugin-Thumbnail.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2809/Screenshot%202021-09-28%20205541.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2809/Screenshot%202021-09-28%20205552.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2809/Screenshot%202021-09-28%20205609.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2809/Screenshot%202021-09-28%20205625.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2809/Screenshot%202021-09-28%20205641.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4407584,
+            "firstname": "Shale",
+            "lastname": "Kuzmanovsk",
+            "url": "https://moodle.org/user/profile.php?id=4407584"
+        }
+    ],
+    "descriptors": []
+}

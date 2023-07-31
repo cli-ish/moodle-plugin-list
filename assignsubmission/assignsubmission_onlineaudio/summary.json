@@ -1,0 +1,57 @@
+{
+    "id": 418,
+    "index": 1040,
+    "name": "Online audio recording",
+    "frankenstyle": "assignsubmission_onlineaudio",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_onlineaudio",
+    "shortdescription": "Audio recorder (Flash 10.1+) submission method. Records locally and uploads via HTTP POST, so there's no need for a streaming server!",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 September 2016, 4:40 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-08T16:40:44+08:00"
+    },
+    "aggsites": "352",
+    "aggdownloads": "45",
+    "aggfavs": "32",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/418/microphone_256.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/418/microphone_256.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/418/student_recorder.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/418/student_submission.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1159203,
+            "firstname": "Paul",
+            "lastname": "Nicholls",
+            "url": "https://moodle.org/user/profile.php?id=1159203"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

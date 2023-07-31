@@ -1,0 +1,45 @@
+{
+    "id": 28,
+    "index": 982,
+    "name": "SCORM Cloud Course Format",
+    "frankenstyle": "format_scormcloud",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_scormcloud",
+    "shortdescription": "Provides a SCORM Cloud course format. (superseded by the new Single activity course format plugin)",
+    "timelastreleased": {
+        "absdate": "Saturday, 3 September 2011, 5:31 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-09-03T05:31:29+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "61",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/28/scormcloud_moodle.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/28/scormcloud_moodle.jpg?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

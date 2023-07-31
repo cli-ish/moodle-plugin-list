@@ -1,0 +1,50 @@
+{
+    "id": 1902,
+    "index": 681,
+    "name": "Download instructor files",
+    "frankenstyle": "local_instructor_files",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_instructor_files",
+    "shortdescription": "This local module allows a teacher to download all files uploaded by teachers to a given course in Moodle.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 June 2020, 1:47 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-16T01:47:53+08:00"
+    },
+    "aggsites": "265",
+    "aggdownloads": "154",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1902/local-instructor-files-download.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1902/local-instructor-files-settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": []
+}

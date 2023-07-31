@@ -1,0 +1,27 @@
+[
+    {
+        "id": "27622",
+        "name": "1.0.7-build-2022092700",
+        "url": "https://moodle.org/plugins/download.php/27622/enrol_gwpayments_moodle32_2015100210.zip"
+    },
+    {
+        "id": "25390",
+        "name": "1.0.5-build-2021081605",
+        "url": "https://moodle.org/plugins/download.php/25390/enrol_gwpayments_moodle32_2021020609.zip"
+    },
+    {
+        "id": "25388",
+        "name": "1.0.3-build-2021081603",
+        "url": "https://moodle.org/plugins/download.php/25388/enrol_gwpayments_moodle38_2020021106.zip"
+    },
+    {
+        "id": "25381",
+        "name": "1.0.2-build-2021081602",
+        "url": "https://moodle.org/plugins/download.php/25381/enrol_gwpayments_moodle27_2012081220.zip"
+    },
+    {
+        "id": "25005",
+        "name": "1.0.0-build-2021081600",
+        "url": "https://moodle.org/plugins/download.php/25005/enrol_gwpayments_moodle36_2020120304.zip"
+    }
+]

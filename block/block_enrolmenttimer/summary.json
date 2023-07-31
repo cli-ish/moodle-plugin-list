@@ -1,0 +1,70 @@
+{
+    "id": 1119,
+    "index": 933,
+    "name": "Enrolment Timer",
+    "frankenstyle": "block_enrolmenttimer",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_enrolmenttimer",
+    "shortdescription": "Block to show the user their remaining time enrolled in a course with live countdown and lots of settings to customise the display of this timer.",
+    "timelastreleased": {
+        "absdate": "Friday, 20 September 2019, 9:02 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-09-20T09:02:17+08:00"
+    },
+    "aggsites": "559",
+    "aggdownloads": "76",
+    "aggfavs": "72",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1119/logo-learningworks%5B1%5D.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1119/logo-learningworks%5B1%5D.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1119/version1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1119/version2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1119/version3.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2049685,
+            "firstname": "Learning",
+            "lastname": "Works",
+            "url": "https://moodle.org/user/profile.php?id=2049685"
+        },
+        {
+            "id": 1284414,
+            "firstname": "Jeremy",
+            "lastname": "FitzPatrick",
+            "url": "https://moodle.org/user/profile.php?id=1284414"
+        },
+        {
+            "id": 2170787,
+            "firstname": "Mathew",
+            "lastname": "May \ud83c\uddf3\ud83c\uddff",
+            "url": "https://moodle.org/user/profile.php?id=2170787"
+        },
+        {
+            "id": 1980868,
+            "firstname": "Zander",
+            "lastname": "Potgieter",
+            "url": "https://moodle.org/user/profile.php?id=1980868"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

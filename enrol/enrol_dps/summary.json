@@ -1,0 +1,55 @@
+{
+    "id": 177,
+    "index": 1859,
+    "name": "DPS Payment Gateway",
+    "frankenstyle": "enrol_dps",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_dps",
+    "shortdescription": "Simple enrolment plugin for Moodle 2.x using the DPS \"Payment Express\" credit\r\ncard payment gateway.\r\n",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 December 2011, 7:28 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-12-14T07:28:41+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "4",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/177/dps-screeny.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 155540,
+            "firstname": "Jonathan",
+            "lastname": "Harker",
+            "url": "https://moodle.org/user/profile.php?id=155540"
+        },
+        {
+            "id": 1159930,
+            "firstname": "Eugene",
+            "lastname": "Venter",
+            "url": "https://moodle.org/user/profile.php?id=1159930"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

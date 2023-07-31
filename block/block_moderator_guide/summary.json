@@ -1,0 +1,62 @@
+{
+    "id": 1791,
+    "index": 1710,
+    "name": "Moderator Guide",
+    "frankenstyle": "block_moderator_guide",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_moderator_guide",
+    "shortdescription": "This block displays guides for external teachers/graders. These guides are created by teachers and are based on templates created by administrators. The template creation system allows the generation of Moodle forms containing textarea, file uploader and links. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 October 2018, 9:34 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-10-23T21:34:46+08:00"
+    },
+    "aggsites": "46",
+    "aggdownloads": "6",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1791/Screen%20Shot%202017-01-19%20at%203.10.14%20pm.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1791/Screen%20Shot%202017-01-19%20at%203.10.33%20pm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1791/Screen%20Shot%202017-01-19%20at%203.11.06%20pm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1791/Screen%20Shot%202017-01-19%20at%203.11.29%20pm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1791/Screen%20Shot%202017-01-19%20at%203.11.47%20pm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1791/Screen%20Shot%202017-01-19%20at%203.12.14%20pm.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 542994,
+            "firstname": "J\u00e9r\u00f4me",
+            "lastname": "Mouneyrac",
+            "url": "https://moodle.org/user/profile.php?id=542994"
+        },
+        {
+            "id": 230467,
+            "firstname": "Jez",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=230467"
+        }
+    ],
+    "descriptors": []
+}

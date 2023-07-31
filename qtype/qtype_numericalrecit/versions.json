@@ -1,0 +1,17 @@
+[
+    {
+        "id": "29043",
+        "name": "v1.16.2-stable",
+        "url": "https://moodle.org/plugins/download.php/29043/qtype_numericalrecit_moodle36_2023090906.zip"
+    },
+    {
+        "id": "28657",
+        "name": "v1.16.1-stable",
+        "url": "https://moodle.org/plugins/download.php/28657/qtype_numericalrecit_moodle40_2015030812.zip"
+    },
+    {
+        "id": "27810",
+        "name": "v1.15.2-stable",
+        "url": "https://moodle.org/plugins/download.php/27810/qtype_numericalrecit_moodle31_2021050807.zip"
+    }
+]

@@ -1,0 +1,47 @@
+{
+    "id": 378,
+    "index": 1198,
+    "name": "Topics format (colours)",
+    "frankenstyle": "format_colours",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_colours",
+    "shortdescription": "This course format, based on the 'Topics' standard format, allows a\r\nteacher to specify the foreground and background colours for each\r\ncourse section.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 11 December 2012, 11:04 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-12-11T23:04:06+08:00"
+    },
+    "aggsites": "55",
+    "aggdownloads": "27",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/378/format_colours.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/378/format_colours.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/378/format_colours.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/378/format_colours2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/378/format_colours3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": []
+}

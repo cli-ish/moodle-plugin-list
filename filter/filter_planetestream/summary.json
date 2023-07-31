@@ -1,0 +1,60 @@
+{
+    "id": 1421,
+    "index": 626,
+    "name": "Planet eStream iFrame Filter",
+    "frankenstyle": "filter_planetestream",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_planetestream",
+    "shortdescription": "The Planet eStream Moodle iFrame Filter interacts with all other Planet eStream Moodle Plugins to                         provide enhanced mobile device streaming support, and to broaden the scope of the locations                         within Moodle where Planet eStream content can be embedded.",
+    "timelastreleased": {
+        "absdate": "Friday, 9 September 2016, 12:09 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-09T00:09:45+08:00"
+    },
+    "aggsites": "169",
+    "aggdownloads": "180",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1421/230estream.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1421/230estream.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1421/iFrame.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1421/iFrame.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1421/Moodle%20Editor%206.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1519383,
+            "firstname": "Planet",
+            "lastname": "eStream",
+            "url": "https://moodle.org/user/profile.php?id=1519383"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 405,
+    "index": 2012,
+    "name": "BFW LMS",
+    "frankenstyle": "block_bfwpub",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_bfwpub",
+    "shortdescription": "This is the Moodle 2 BFW-LMS integration plugin which integrates Moodle with BFW LMS (http://bfwpub.com/catalog/)\r\nThis plugin will work with Moodle 2.x. It is developed as a Moodle plugin/block.",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 August 2012, 11:21 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-08-25T23:21:10+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "2",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 860687,
+            "firstname": "Aaron",
+            "lastname": "Zeckoski",
+            "url": "https://moodle.org/user/profile.php?id=860687"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

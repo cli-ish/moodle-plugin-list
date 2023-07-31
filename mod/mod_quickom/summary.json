@@ -1,0 +1,53 @@
+{
+    "id": 2506,
+    "index": 1987,
+    "name": "Quickom",
+    "frankenstyle": "mod_quickom",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_quickom",
+    "shortdescription": "QUICKOM - the leading technology platform for  live-class teaching and lecture hall-based conferences.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 February 2021, 3:06 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-23T15:06:26+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "2",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2506/QUICKOM_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2506/QUICKOM_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2506/20200821%20180644%20001.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2506/20200821%20181626%20001.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2506/20200821%20182221%20001.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2506/20200821%20182333%20001.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2506/20200821%20182400%20001.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3369873,
+            "firstname": "Beowulf",
+            "lastname": "Blockchain",
+            "url": "https://moodle.org/user/profile.php?id=3369873"
+        }
+    ],
+    "descriptors": []
+}

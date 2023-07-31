@@ -1,0 +1,52 @@
+{
+    "id": 1126,
+    "index": 1440,
+    "name": "Badge Awarder",
+    "frankenstyle": "block_badgeawarder",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_badgeawarder",
+    "shortdescription": "This block allows teachers to quickly and simply award badges in a given course by processing a CSV file upload.",
+    "timelastreleased": {
+        "absdate": "Friday, 22 January 2021, 7:26 PM",
+        "reldate": "3 years",
+        "iso8601date": "2021-01-22T19:26:20+08:00"
+    },
+    "aggsites": "85",
+    "aggdownloads": "13",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1126/badge_awarder_page_2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1126/badge_awarder_block.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1126/badge_settings_2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1349863,
+            "firstname": "Karen",
+            "lastname": "Holland",
+            "url": "https://moodle.org/user/profile.php?id=1349863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

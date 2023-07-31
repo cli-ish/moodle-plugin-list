@@ -1,0 +1,40 @@
+{
+    "id": 1751,
+    "index": 310,
+    "name": "Wiris Quizzes Embedded answer (Cloze) question type",
+    "frankenstyle": "qtype_multianswerwiris",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_multianswerwiris",
+    "shortdescription": "This is one of the seven question types of the Wiris Quizzes set. Please install Wiris Quizzes to obtain the entire plugin package with seven question types: ",
+    "timelastreleased": {
+        "absdate": "Friday, 23 June 2023, 5:18 PM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-23T17:18:45+08:00"
+    },
+    "aggsites": "2148",
+    "aggdownloads": "426",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1751/cloze_salmon_gray.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1751/cloze_salmon_gray.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1751/cloze_screen1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1343738,
+            "firstname": "WIRIS",
+            "lastname": "team",
+            "url": "https://moodle.org/user/profile.php?id=1343738"
+        }
+    ],
+    "descriptors": []
+}

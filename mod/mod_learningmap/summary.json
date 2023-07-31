@@ -1,0 +1,65 @@
+{
+    "id": 2870,
+    "index": 180,
+    "name": "Learning map",
+    "frankenstyle": "mod_learningmap",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_learningmap",
+    "shortdescription": "A learning map provides an easy way of improving the visualization of activities and their completion state in a moodle course. It can be used for easy creation of dependent activities and individualization of learning paths.",
+    "timelastreleased": {
+        "absdate": "Saturday, 3 June 2023, 7:25 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-03T19:25:58+08:00"
+    },
+    "aggsites": "709",
+    "aggdownloads": "682",
+    "aggfavs": "48",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2870/icon-mod_learningmap.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2870/icon-mod_learningmap.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2870/mod_learningmap-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2870/mod_learningmap-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2870/mod_learningmap-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2870/mod_learningmap-4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2870/mod_learningmap-6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2870/mod_learningmap-7%20%281%29.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2870/mod_learningmap-7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2870/mod_learningmap-8.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2870/mod_learningmap-9.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4744274,
+            "firstname": "Mebis",
+            "lastname": "Lernplattform",
+            "url": "https://moodle.org/user/profile.php?id=4744274"
+        }
+    ],
+    "descriptors": []
+}

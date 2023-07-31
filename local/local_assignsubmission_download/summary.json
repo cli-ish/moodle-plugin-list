@@ -1,0 +1,44 @@
+{
+    "id": 2692,
+    "index": 315,
+    "name": "Assign Submission Download",
+    "frankenstyle": "local_assignsubmission_download",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_assignsubmission_download",
+    "shortdescription": "The Assign Submission Download plugin (local_assignsubmission_download) allows to rename file submissions on download and to export a submission overview in various formats.",
+    "timelastreleased": {
+        "absdate": "Monday, 26 June 2023, 8:56 PM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-26T20:56:28+08:00"
+    },
+    "aggsites": "90",
+    "aggdownloads": "424",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2692/assign_submission-download_large.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2692/assign_submission-download_large.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2692/Screenshot%20-%20assign_submission-download_2.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2692/Screenshot%20-%20assign_submission-download.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": []
+}

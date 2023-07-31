@@ -1,0 +1,42 @@
+[
+    {
+        "id": "23383",
+        "name": "2.4-for-moodle-3.7-3.9-build-2021020501",
+        "url": "https://moodle.org/plugins/download.php/23383/assignfeedback_editpdfplus_moodle40_2019120904.zip"
+    },
+    {
+        "id": "19803",
+        "name": "2.2.4-build-2018121001",
+        "url": "https://moodle.org/plugins/download.php/19803/assignfeedback_editpdfplus_moodle32_2011070607.zip"
+    },
+    {
+        "id": "17889",
+        "name": "2.2.2-build-2018092002",
+        "url": "https://moodle.org/plugins/download.php/17889/assignfeedback_editpdfplus_moodle32_2021101107.zip"
+    },
+    {
+        "id": "17862",
+        "name": "2.2.1-build-2018092001",
+        "url": "https://moodle.org/plugins/download.php/17862/assignfeedback_editpdfplus_moodle26_2021031000.zip"
+    },
+    {
+        "id": "20386",
+        "name": "2.3.5-build-2019070102",
+        "url": "https://moodle.org/plugins/download.php/20386/assignfeedback_editpdfplus_moodle39_2015080517.zip"
+    },
+    {
+        "id": "20205",
+        "name": "2.3.4-build-2019070101",
+        "url": "https://moodle.org/plugins/download.php/20205/assignfeedback_editpdfplus_moodle40_2019071013.zip"
+    },
+    {
+        "id": "17861",
+        "name": "2.2-build-2018092000",
+        "url": "https://moodle.org/plugins/download.php/17861/assignfeedback_editpdfplus_moodle40_2023010510.zip"
+    },
+    {
+        "id": "17826",
+        "name": "2.1-build-2018091203",
+        "url": "https://moodle.org/plugins/download.php/17826/assignfeedback_editpdfplus_moodle25_2021120603.zip"
+    }
+]

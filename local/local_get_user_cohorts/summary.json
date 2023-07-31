@@ -1,0 +1,40 @@
+{
+    "id": 1896,
+    "index": 1607,
+    "name": "Get User Cohort",
+    "frankenstyle": "local_get_user_cohorts",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_get_user_cohorts",
+    "shortdescription": "This plugin can be used to retrieve the cohorts of a given user in Moodle by providing the USER ID",
+    "timelastreleased": {
+        "absdate": "Tuesday, 19 September 2017, 8:22 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-09-19T20:22:44+08:00"
+    },
+    "aggsites": "38",
+    "aggdownloads": "8",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1896/get_user_cohorts.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1466152,
+            "firstname": "Christos",
+            "lastname": "Savva",
+            "url": "https://moodle.org/user/profile.php?id=1466152"
+        }
+    ],
+    "descriptors": []
+}

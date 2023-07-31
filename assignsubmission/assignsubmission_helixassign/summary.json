@@ -1,0 +1,62 @@
+{
+    "id": 1057,
+    "index": 508,
+    "name": "MEDIAL Video Assignment Submission Plugin",
+    "frankenstyle": "assignsubmission_helixassign",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_helixassign",
+    "shortdescription": "This plugin allows Teachers and Students to create and respond to Video Assignments that are uploaded and cataloged in MEDIAL rather than Moodle itself",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 November 2022, 12:46 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-24T00:46:03+08:00"
+    },
+    "aggsites": "190",
+    "aggdownloads": "229",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1057/medial%20logo%2012.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1057/medial%20logo%2012.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1057/MEDIAL%20-%20Video%20Assignment.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1057/MEDIAL%20-%20Moodle%20Plugin%20-%20Assignment%20in%20Rich%20Text%20Editor.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1057/MEDIAL%20-%20Moodle%20Plugin%20-%20Video%20Assignment%20-%20Grade%20Book.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1057/MEDIAL%20-%20Moodle%20Plugin%20-%20Viewing%20Student%20Submissions.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1057/MEDIAL%20-%20Rich%20Text%20Editor%20Button.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1452899,
+            "firstname": "MEDIAL",
+            "lastname": "Streaming",
+            "url": "https://moodle.org/user/profile.php?id=1452899"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

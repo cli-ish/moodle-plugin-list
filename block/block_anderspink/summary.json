@@ -1,0 +1,57 @@
+{
+    "id": 1733,
+    "index": 1769,
+    "name": "Content Curation by Anders Pink",
+    "frankenstyle": "block_anderspink",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_anderspink",
+    "shortdescription": "Easily curate, control and display relevant external content on any topic, right alongside your programmes and courses.\r\n\r\nContent can be updated automatically every few hours, or you can manually curate and decide which articles to display.\r\n\r\nYou choose the keywords, sites and sources for any topic. We\u2019ll return the latest and most relevant content to support learners and help them stay smart. \r\n\r\nFree version available. Full customisation requires purchase of API key. \r\n\r\nFor more information see: https://anderspink.com/moodle-plugin",
+    "timelastreleased": {
+        "absdate": "Monday, 9 July 2018, 4:20 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-07-09T16:20:52+08:00"
+    },
+    "aggsites": "37",
+    "aggdownloads": "5",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1733/ap-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1733/ap-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1733/moodle1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1733/moodle2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2162837,
+            "firstname": "Jake",
+            "lastname": "Salmon",
+            "url": "https://moodle.org/user/profile.php?id=2162837"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

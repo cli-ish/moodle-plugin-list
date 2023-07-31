@@ -1,0 +1,45 @@
+{
+    "id": 209,
+    "index": 1510,
+    "name": "fabric",
+    "frankenstyle": "theme_fabric",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_fabric",
+    "shortdescription": "A two column theme from Newschool Learning.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 February 2012, 8:06 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-02-01T20:06:47+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "11",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/209/logo1.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/209/logo1.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/209/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

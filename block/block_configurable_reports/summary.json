@@ -1,0 +1,51 @@
+{
+    "id": 82,
+    "index": 7,
+    "name": "Configurable Reports",
+    "frankenstyle": "block_configurable_reports",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_configurable_reports",
+    "shortdescription": "This block is a Moodle custom reports builder.\r\n\r\nYou can create custom reports without SQL knowledge. It's a tool suitable for admins or teachers.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 4 November 2020, 12:33 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-11-04T00:33:30+08:00"
+    },
+    "aggsites": "15000",
+    "aggdownloads": "5k",
+    "aggfavs": "423",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/82/UserReport.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        },
+        {
+            "id": 119927,
+            "firstname": "Sara",
+            "lastname": "Arjona T\u00e9llez",
+            "url": "https://moodle.org/user/profile.php?id=119927"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

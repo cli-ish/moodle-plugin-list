@@ -1,0 +1,68 @@
+{
+    "id": 1317,
+    "index": 1291,
+    "name": "CopyCheck Plagiarism Plugin",
+    "frankenstyle": "plagiarism_copycheck",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_copycheck",
+    "shortdescription": "CopyCheck is a commercial plagiarism detection service which is fully integrated in the Moodle core and in Moodle assignments. You must have a paid license to be able to use this plugin. Any language can be processed  e.g. Japanese, chinese or computer programs.  ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 November 2019, 11:07 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-11-26T23:07:53+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "20",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1317/logoCopyCheck.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1317/logoCopyCheck.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1317/p01.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1317/p02.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1317/p03.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1317/p04.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1317/p05.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1317/p08.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1317/p09.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1317/p10.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1317/p11.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1317/p12.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1809738,
+            "firstname": "Gerie",
+            "lastname": "Alards",
+            "url": "https://moodle.org/user/profile.php?id=1809738"
+        }
+    ],
+    "descriptors": []
+}

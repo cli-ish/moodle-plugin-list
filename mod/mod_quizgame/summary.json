@@ -1,0 +1,59 @@
+{
+    "id": 1225,
+    "index": 281,
+    "name": "Quizventure",
+    "frankenstyle": "mod_quizgame",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_quizgame",
+    "shortdescription": "Quizventure is an activity module that loads quiz questions from the course it's added to. The possible answers come down as space ships and you have to shoot the correct one.",
+    "timelastreleased": {
+        "absdate": "Saturday, 28 January 2023, 5:47 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-28T05:47:16+08:00"
+    },
+    "aggsites": "1725",
+    "aggdownloads": "457",
+    "aggfavs": "122",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1225/ship.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1225/ship.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1225/Bt8unIFIQAA8mz8.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1225/quizventure.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1779959,
+            "firstname": "John",
+            "lastname": "Okely",
+            "url": "https://moodle.org/user/profile.php?id=1779959"
+        },
+        {
+            "id": 45256,
+            "firstname": "Stephen",
+            "lastname": "Bourget",
+            "url": "https://moodle.org/user/profile.php?id=45256"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 2037,
+    "index": 826,
+    "name": "Commander / quick navigation",
+    "frankenstyle": "local_commander",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_commander",
+    "shortdescription": "Quick navigation / commander is a command dialog inspired by PhpStorm `Action` and `oh-my-zsh`. It will make navigation faster in Moodle. ",
+    "timelastreleased": {
+        "absdate": "Monday, 28 November 2022, 10:42 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-28T22:42:33+08:00"
+    },
+    "aggsites": "196",
+    "aggdownloads": "120",
+    "aggfavs": "29",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2037/FaviconBig.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2037/FaviconBig.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2037/2018-03-25_04-38-44.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2037/2018-03-29_10-59-42.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2037/2018-03-29_11-01-18.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1487326,
+            "firstname": "Luuk",
+            "lastname": "Verhoeven",
+            "url": "https://moodle.org/user/profile.php?id=1487326"
+        },
+        {
+            "id": 4342922,
+            "firstname": "Vincent",
+            "lastname": "Cornelis",
+            "url": "https://moodle.org/user/profile.php?id=4342922"
+        }
+    ],
+    "descriptors": []
+}

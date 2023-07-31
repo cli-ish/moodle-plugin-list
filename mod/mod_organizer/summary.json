@@ -1,0 +1,45 @@
+{
+    "id": 1244,
+    "index": 88,
+    "name": "Organizer",
+    "frankenstyle": "mod_organizer",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_organizer",
+    "shortdescription": "The organizer (mod/organizer) allows participants to subscribe to events, which can be created easily and efficiently by teachers.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 July 2023, 5:54 PM",
+        "reldate": "4 days",
+        "iso8601date": "2023-07-27T17:54:38+08:00"
+    },
+    "aggsites": "932",
+    "aggdownloads": "1k",
+    "aggfavs": "93",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1244/organizer.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1244/organizer.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1244/organizer.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+[
+    {
+        "id": "12990",
+        "name": "3.7.1-build-2017010400",
+        "url": "https://moodle.org/plugins/download.php/12990/mod_activequiz_moodle34_2020010902.zip"
+    },
+    {
+        "id": "10736",
+        "name": "3.7-build-2016030601",
+        "url": "https://moodle.org/plugins/download.php/10736/mod_activequiz_moodle36_2019060314.zip"
+    },
+    {
+        "id": "8994",
+        "name": "3.5.5-build-2015072200",
+        "url": "https://moodle.org/plugins/download.php/8994/mod_activequiz_moodle40_2013021203.zip"
+    },
+    {
+        "id": "8910",
+        "name": "3.4.5-build-2015030903",
+        "url": "https://moodle.org/plugins/download.php/8910/mod_activequiz_moodle28_2017020514.zip"
+    },
+    {
+        "id": "8722",
+        "name": "3.4.4-build-2015030902",
+        "url": "https://moodle.org/plugins/download.php/8722/mod_activequiz_moodle25_2021110715.zip"
+    },
+    {
+        "id": "9962",
+        "name": "3.6.4-build-2015120300",
+        "url": "https://moodle.org/plugins/download.php/9962/mod_activequiz_moodle28_2011011004.zip"
+    },
+    {
+        "id": "8993",
+        "name": "3.6.3-build-2015072200",
+        "url": "https://moodle.org/plugins/download.php/8993/mod_activequiz_moodle40_2011010811.zip"
+    },
+    {
+        "id": "8724",
+        "name": "3.6.1-build-2015060400",
+        "url": "https://moodle.org/plugins/download.php/8724/mod_activequiz_moodle38_2014050617.zip"
+    },
+    {
+        "id": "8723",
+        "name": "3.5.3-build-2015060101",
+        "url": "https://moodle.org/plugins/download.php/8723/mod_activequiz_moodle28_2014100716.zip"
+    },
+    {
+        "id": "8666",
+        "name": "3.6.0-build-2015060100",
+        "url": "https://moodle.org/plugins/download.php/8666/mod_activequiz_moodle39_2017030907.zip"
+    },
+    {
+        "id": "8665",
+        "name": "3.5.2-build-2015060100",
+        "url": "https://moodle.org/plugins/download.php/8665/mod_activequiz_moodle27_2020020709.zip"
+    },
+    {
+        "id": "8638",
+        "name": "3.5.1-build-2015052700",
+        "url": "https://moodle.org/plugins/download.php/8638/mod_activequiz_moodle34_2023020900.zip"
+    },
+    {
+        "id": "8524",
+        "name": "3.5-build-2015043000",
+        "url": "https://moodle.org/plugins/download.php/8524/mod_activequiz_moodle36_2010080518.zip"
+    },
+    {
+        "id": "8664",
+        "name": "3.4.3-build-2015030900",
+        "url": "https://moodle.org/plugins/download.php/8664/mod_activequiz_moodle28_2010080114.zip"
+    },
+    {
+        "id": "8657",
+        "name": "3.4.2-build-2015030900",
+        "url": "https://moodle.org/plugins/download.php/8657/mod_activequiz_moodle35_2011030400.zip"
+    }
+]

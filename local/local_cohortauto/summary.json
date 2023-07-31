@@ -1,0 +1,50 @@
+{
+    "id": 2331,
+    "index": 900,
+    "name": "Auto-cohort plugin",
+    "frankenstyle": "local_cohortauto",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_cohortauto",
+    "shortdescription": "Automatically adds users into auto-created cohorts, with names that derived from users' profile fields.",
+    "timelastreleased": {
+        "absdate": "Monday, 2 December 2019, 6:06 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-12-02T06:06:53+08:00"
+    },
+    "aggsites": "451",
+    "aggdownloads": "94",
+    "aggfavs": "31",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2331/cohortauto-convert.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2331/cohortauto-view.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2705197,
+            "firstname": "David",
+            "lastname": "Thompson",
+            "url": "https://moodle.org/user/profile.php?id=2705197"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

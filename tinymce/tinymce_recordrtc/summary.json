@@ -1,0 +1,53 @@
+{
+    "id": 1892,
+    "index": 940,
+    "name": "RecordRTC TinyMCE",
+    "frankenstyle": "tinymce_recordrtc",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_recordrtc",
+    "shortdescription": "Add audio and video annotations to text, anywhere a TinyMCE text editor is present. This plugin adds buttons for recording audio or video (with audio) to the editor's toolbar. Using WebRTC technologies, all recording is done instantly in the browser. After recording, users can embed the annotation directly into the text they are currently editing. The recording will appear as an audio or video player in the published writing.\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 30 January 2020, 4:57 AM",
+        "reldate": "4 years",
+        "iso8601date": "2020-01-30T04:57:07+08:00"
+    },
+    "aggsites": "820",
+    "aggdownloads": "74",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1892/webrtc.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1892/webrtc.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1892/recordrtc-20170713-01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1892/recordrtc-20170713-02?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1892/recordrtc-20170713-03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1892/recordrtc-20170713-04.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1892/recordrtc-20170713-05.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1370546,
+            "firstname": "Jesus",
+            "lastname": "Federico",
+            "url": "https://moodle.org/user/profile.php?id=1370546"
+        }
+    ],
+    "descriptors": []
+}

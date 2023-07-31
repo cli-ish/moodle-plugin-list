@@ -1,0 +1,52 @@
+{
+    "id": 643,
+    "index": 1788,
+    "name": "Cloudyday",
+    "frankenstyle": "theme_cloudyday",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_cloudyday",
+    "shortdescription": "Cloudy Day is a fixed width 2 column theme with tabbed navigation.\r\n\r\nCloudy Day is designed to make content look clean and crisp making use of the new Moodle icons as well. It also adds top level navigation across the top with a 'My Courses' menu added as well. Course content can appear to be a 'Tabs' and when using 'One section per page' offer an extended set of navigation tabs.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 April 2013, 1:08 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-23T01:08:25+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/643/mlogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/643/mlogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/643/Screen%20Shot%203.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/643/Screen%20Shot%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/643/Screen%20Shot%202.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1306874,
+            "firstname": "Jason",
+            "lastname": "Cleaver",
+            "url": "https://moodle.org/user/profile.php?id=1306874"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

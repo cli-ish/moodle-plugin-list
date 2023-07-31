@@ -1,0 +1,50 @@
+{
+    "id": 2169,
+    "index": 595,
+    "name": "Poodll Subtitle",
+    "frankenstyle": "atto_subtitle",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_subtitle",
+    "shortdescription": "Poodll Subtitle is a simple subtitle editor for audio and video files in Moodle.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 July 2021, 10:25 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-07-06T10:25:42+08:00"
+    },
+    "aggsites": "207",
+    "aggdownloads": "196",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2169/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2169/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2169/Poodll%20Subtitle-07-07-01.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2169/2018-10-12_23-02-50.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2169/2018-10-12_23-04-54.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2169/MoodleTile_PoodllSubtitles_community.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

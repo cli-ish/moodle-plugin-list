@@ -1,0 +1,68 @@
+{
+    "id": 3052,
+    "index": 818,
+    "name": "RumbleTalk Group Chat",
+    "frankenstyle": "mod_rumbletalkchat",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_rumbletalkchat",
+    "shortdescription": "RumbleTalk Group Chat plugin integrates with Moodle users base. The chat is free for a limited number of seats. A paid subscription is available for you to enjoy the advanced features and extra seats. Now, you can create a private class discussion or add it as a live event chat on any of your Moodle pages.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 24 January 2023, 6:26 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-24T18:26:14+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "122",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3052/Group%20Chat.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3052/Moderated%20Chat.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3052/Polls.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3052/Private%20Chat.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3052/RumbleTalk%20Calls.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3052/RumbleTalk%20Chats.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3052/RumbleTalk%20Moderated%20Chat%201.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3052/RumbleTalk%20Moderated%20Chat%202.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3052/RumbleTalk%20Restrictions.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3052/RumbleTalk%20Social%20Chat.jpeg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2441352,
+            "firstname": "RumbleTalk",
+            "lastname": "Ltd",
+            "url": "https://moodle.org/user/profile.php?id=2441352"
+        }
+    ],
+    "descriptors": []
+}

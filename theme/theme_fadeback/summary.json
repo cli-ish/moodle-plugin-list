@@ -1,0 +1,45 @@
+{
+    "id": 154,
+    "index": 1209,
+    "name": "fadeback",
+    "frankenstyle": "theme_fadeback",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_fadeback",
+    "shortdescription": "A two column theme with a settings page to change logo and link color. From Newschool Learning",
+    "timelastreleased": {
+        "absdate": "Sunday, 9 December 2012, 8:25 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-12-09T08:25:50+08:00"
+    },
+    "aggsites": "34",
+    "aggdownloads": "26",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/154/logo1.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/154/logo1.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/154/screenshot%20copy.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

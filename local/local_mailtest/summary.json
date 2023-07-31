@@ -1,0 +1,58 @@
+{
+    "id": 1527,
+    "index": 39,
+    "name": "Moodle eMail Test",
+    "frankenstyle": "local_mailtest",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_mailtest",
+    "shortdescription": "Moodle eMailTest allows administrators to test Moodle's email system. A trace of the SMTP dialogue will be displayed if the email message cannot be sent for any reason. The eMail Test for Moodle plugin does not store any personal data about any user.",
+    "timelastreleased": {
+        "absdate": "Saturday, 6 May 2023, 10:07 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-06T22:07:13+08:00"
+    },
+    "aggsites": "10795",
+    "aggdownloads": "1k",
+    "aggfavs": "118",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1527/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1527/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1527/mailtest-form.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1527/mailtest-example-error.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1527/mailtest-example-success.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1527/moodle-32.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1527/moodle-local_mailtest-menu-v0.1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1615960,
+            "firstname": "Michael",
+            "lastname": "Milette",
+            "url": "https://moodle.org/user/profile.php?id=1615960"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

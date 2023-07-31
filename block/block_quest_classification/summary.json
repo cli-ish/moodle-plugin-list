@@ -1,0 +1,40 @@
+{
+    "id": 1447,
+    "index": 800,
+    "name": "QUESTournament Classification",
+    "frankenstyle": "block_quest_classification",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quest_classification",
+    "shortdescription": "Moodle block for showing the Questournament classification in any page of the course.",
+    "timelastreleased": {
+        "absdate": "Saturday, 3 September 2022, 1:02 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-03T01:02:53+08:00"
+    },
+    "aggsites": "23",
+    "aggdownloads": "124",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1447/QUESTOURnament_Big_podium.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1447/QUESTOURnament_Big_podium.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1447/TD_IT-07-%20QUEST%20optativo%20clasification.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 478486,
+            "firstname": "Juan Pablo",
+            "lastname": "de Castro",
+            "url": "https://moodle.org/user/profile.php?id=478486"
+        }
+    ],
+    "descriptors": []
+}

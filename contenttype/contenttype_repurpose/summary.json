@@ -1,0 +1,47 @@
+{
+    "id": 2753,
+    "index": 669,
+    "name": "Repurpose resources",
+    "frankenstyle": "contenttype_repurpose",
+    "plugintype": {
+        "type": "contenttype",
+        "name": "Content bank"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/contenttype_repurpose",
+    "shortdescription": "A content type plugin that imports Moodle resources for use in the content bank. It currently supports creating H5P from questions in the Moodle question bank and from Moodle repository files.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 June 2022, 11:05 AM",
+        "reldate": "14 months",
+        "iso8601date": "2022-06-01T11:05:53+08:00"
+    },
+    "aggsites": "243",
+    "aggdownloads": "157",
+    "aggfavs": "23",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2753/00menu.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2753/01form.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2753/content.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1470073,
+            "firstname": "Daniel",
+            "lastname": "Thies",
+            "url": "https://moodle.org/user/profile.php?id=1470073"
+        }
+    ],
+    "descriptors": []
+}

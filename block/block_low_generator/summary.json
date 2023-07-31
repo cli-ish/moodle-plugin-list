@@ -1,0 +1,49 @@
+{
+    "id": 488,
+    "index": 1574,
+    "name": "Learning Outcome Generator",
+    "frankenstyle": "block_low_generator",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_low_generator",
+    "shortdescription": "The generator of flowcharts for use in the Learning Outcome Wizard",
+    "timelastreleased": {
+        "absdate": "Wednesday, 24 October 2012, 9:42 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-24T09:42:40+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "9",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/488/moodle_wizard_logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/488/moodle_wizard_logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/488/generator%202.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/488/generator1.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1517530,
+            "firstname": "Anthony",
+            "lastname": "Franzi",
+            "url": "https://moodle.org/user/profile.php?id=1517530"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

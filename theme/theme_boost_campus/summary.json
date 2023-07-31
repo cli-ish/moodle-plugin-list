@@ -1,0 +1,56 @@
+{
+    "id": 1925,
+    "index": 409,
+    "name": "Boost Campus",
+    "frankenstyle": "theme_boost_campus",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_boost_campus",
+    "shortdescription": "Moodle Boost child theme which is intended to meet the needs of university campuses and adds several features and improvements.",
+    "timelastreleased": {
+        "absdate": "Friday, 4 November 2022, 4:59 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-04T04:59:15+08:00"
+    },
+    "aggsites": "1508",
+    "aggdownloads": "300",
+    "aggfavs": "76",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1925/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1925/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1925/course_edit.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1925/course.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1925/footer.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1925/login.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

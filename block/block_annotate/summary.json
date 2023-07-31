@@ -1,0 +1,59 @@
+{
+    "id": 1595,
+    "index": 1345,
+    "name": "Annotate",
+    "frankenstyle": "block_annotate",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_annotate",
+    "shortdescription": "Collaborative course material review and annotation in Moodle.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 December 2016, 12:56 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-06T00:56:10+08:00"
+    },
+    "aggsites": "68",
+    "aggdownloads": "17",
+    "aggfavs": "23",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1595/new-blue.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1595/new-blue.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1595/ss_anno_notes.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1595/m-course-view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1595/ss_anno_1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1595/ss_anno_free.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1959009,
+            "firstname": "Textensor",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1959009"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

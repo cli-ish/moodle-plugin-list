@@ -1,0 +1,47 @@
+{
+    "id": 2315,
+    "index": 2061,
+    "name": "Jewish/Hebrew calendar type",
+    "frankenstyle": "calendartype_jewish",
+    "plugintype": {
+        "type": "calendartype",
+        "name": "Calendar type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/calendartype_jewish",
+    "shortdescription": "Jewish (Hebrew) calendar for Moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 June 2019, 4:09 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-06-28T04:09:43+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "1",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2315/small_he_calendar.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2315/small_he_calendar.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2315/small_he_calendar.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2315/jewish_calendar_big.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2315/large_he_calendar.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 528592,
+            "firstname": "Yedidia",
+            "lastname": "Klein",
+            "url": "https://moodle.org/user/profile.php?id=528592"
+        }
+    ],
+    "descriptors": []
+}

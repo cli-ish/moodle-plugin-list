@@ -1,0 +1,56 @@
+{
+    "id": 3010,
+    "index": 1580,
+    "name": "Isard VDI Open Source Virtual Desktops",
+    "frankenstyle": "mod_isardvdi",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_isardvdi",
+    "shortdescription": "This plugin will allow a teacher to create a virtual desktops activity that will allow users to jump to their virtual desktops in an IsardVDI instance.",
+    "timelastreleased": {
+        "absdate": "Friday, 24 March 2023, 9:31 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-24T21:31:49+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "9",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3010/isard_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3010/isard_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3010/moodle_activity.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3010/moodle_gentoken.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3010/moodle_setup.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3010/Screenshot%202022-10-03%20at%2011-28-53%20IsardVDI%20-%20Desktops.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5176528,
+            "firstname": "Isard",
+            "lastname": "VDI",
+            "url": "https://moodle.org/user/profile.php?id=5176528"
+        },
+        {
+            "id": 5020462,
+            "firstname": "Antonio",
+            "lastname": "Manzano",
+            "url": "https://moodle.org/user/profile.php?id=5020462"
+        }
+    ],
+    "descriptors": []
+}

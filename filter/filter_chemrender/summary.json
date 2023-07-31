@@ -1,0 +1,55 @@
+{
+    "id": 1655,
+    "index": 1449,
+    "name": "ChemRender filter",
+    "frankenstyle": "filter_chemrender",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_chemrender",
+    "shortdescription": "Render 2-D and 3-D molecular structures and spectra from open chemical data files.",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 June 2016, 3:09 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-06-16T03:09:20+08:00"
+    },
+    "aggsites": "38",
+    "aggdownloads": "13",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1655/ChemRender1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1655/ChemRender2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1655/ChemRender3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1655/ChemRender4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2076280,
+            "firstname": "Jonathan",
+            "lastname": "Erde",
+            "url": "https://moodle.org/user/profile.php?id=2076280"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

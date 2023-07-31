@@ -1,0 +1,64 @@
+{
+    "id": 1322,
+    "index": 1378,
+    "name": "ipal",
+    "frankenstyle": "mod_ipal",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_ipal",
+    "shortdescription": "This Moodle module (/mod/ipal/) allows Moodle to support in-class polling/\"clickers\"/\"Peer Instruction\"/concept quizzes/anonymous surveys/etc. \r\nStudents can respond using any web-enabled device or the free IPAL App we have written for both the Android and iOS smartphones.\r\nTeachers can create questions, use questions from the standard question bank, or import ConcepTest provided by Harvard Physics Professor Mazur.",
+    "timelastreleased": {
+        "absdate": "Thursday, 7 March 2019, 1:04 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-03-07T01:04:16+08:00"
+    },
+    "aggsites": "107",
+    "aggdownloads": "15",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1322/logo2.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1322/logo2.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1322/AddIPALActivity.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1322/ComPADREQuestions.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1322/IPALSettings.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1322/StudentPollingGUI.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1322/TeacherChangeQuestionGUI.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1322/TeacherHistogramGUI.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1322/TeacherPollingInterface.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 249562,
+            "firstname": "Bill",
+            "lastname": "Junkin",
+            "url": "https://moodle.org/user/profile.php?id=249562"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

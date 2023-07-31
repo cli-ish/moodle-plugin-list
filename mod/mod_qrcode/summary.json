@@ -1,0 +1,40 @@
+{
+    "id": 2165,
+    "index": 1664,
+    "name": "GradeQR",
+    "frankenstyle": "mod_qrcode",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_qrcode",
+    "shortdescription": "Use QR codes to quickly grade assignments for completion. Students show you their work, show you their QR code, you scan it, and the grade is entered into Moodle's gradebook.",
+    "timelastreleased": {
+        "absdate": "Monday, 28 January 2019, 6:59 AM",
+        "reldate": "5 years",
+        "iso8601date": "2019-01-28T06:59:35+08:00"
+    },
+    "aggsites": "35",
+    "aggdownloads": "7",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2165/GradeQR.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2475244,
+            "firstname": "Michael",
+            "lastname": "Backus",
+            "url": "https://moodle.org/user/profile.php?id=2475244"
+        }
+    ],
+    "descriptors": []
+}

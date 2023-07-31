@@ -1,0 +1,58 @@
+{
+    "id": 214,
+    "index": 116,
+    "name": "HotPot",
+    "frankenstyle": "mod_hotpot",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_hotpot",
+    "shortdescription": "HotPot module for Moodle 2.x",
+    "timelastreleased": {
+        "absdate": "Thursday, 15 September 2022, 10:32 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-15T10:32:03+08:00"
+    },
+    "aggsites": "5578",
+    "aggdownloads": "1k",
+    "aggfavs": "76",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/214/hotpot.jcloze.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/214/hotpot.jcross.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/214/hotpot.jmatch.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/214/hotpot.jmix.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/214/hotpot.jquiz.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 8277,
+            "firstname": "Gordon",
+            "lastname": "Bateson",
+            "url": "https://moodle.org/user/profile.php?id=8277"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

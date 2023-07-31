@@ -1,0 +1,22 @@
+[
+    {
+        "id": "6189",
+        "name": "0.3.1",
+        "url": "https://moodle.org/plugins/download.php/6189/local_tdmmodatcursor_moodle32_2023111119.zip"
+    },
+    {
+        "id": "6158",
+        "name": "0.3.0",
+        "url": "https://moodle.org/plugins/download.php/6158/local_tdmmodatcursor_moodle25_2022030902.zip"
+    },
+    {
+        "id": "5953",
+        "name": "0.2.0",
+        "url": "https://moodle.org/plugins/download.php/5953/local_tdmmodatcursor_moodle29_2023020404.zip"
+    },
+    {
+        "id": "5417",
+        "name": "0.1.0",
+        "url": "https://moodle.org/plugins/download.php/5417/local_tdmmodatcursor_moodle36_2019030218.zip"
+    }
+]

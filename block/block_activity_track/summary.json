@@ -1,0 +1,45 @@
+{
+    "id": 217,
+    "index": 1131,
+    "name": "Activity track",
+    "frankenstyle": "block_activity_track",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_activity_track",
+    "shortdescription": "This block show the total no. of activities pending and completed in percentage and number in a course where course completion is activated.",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 June 2020, 2:50 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-18T14:50:13+08:00"
+    },
+    "aggsites": "73",
+    "aggdownloads": "34",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/217/Screenshot%20from%202013-01-02%20204624.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1401986,
+            "firstname": "Swati",
+            "lastname": "Sra",
+            "url": "https://moodle.org/user/profile.php?id=1401986"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

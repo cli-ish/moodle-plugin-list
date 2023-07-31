@@ -1,0 +1,71 @@
+{
+    "id": 3109,
+    "index": 961,
+    "name": "Motrain",
+    "frankenstyle": "block_motrain",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_motrain",
+    "shortdescription": "Motrain is a motivational design and marketing engine for Moodle. Learners earn virtual coins for completions, as well as for actions on other platforms, like making a purchase on your e-commerce site. Learners spend their coins on real incentives populated by your organization (or your affiliates).",
+    "timelastreleased": {
+        "absdate": "Friday, 14 July 2023, 12:19 PM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-14T12:19:39+08:00"
+    },
+    "aggsites": "33",
+    "aggdownloads": "66",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3109/motrain-logo%402x.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3109/motrain-logo%402x.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3109/1Store.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3109/2Store1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3109/3Raffle.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3109/Auction.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3109/Fundraiser.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3109/Motrain-Admindata.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3109/Motrain-Adminstore.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3109/SSO%20and%20Leaderboard.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3109/zLeaderboard1.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        },
+        {
+            "id": 2080141,
+            "firstname": "Jeff",
+            "lastname": "Campbell",
+            "url": "https://moodle.org/user/profile.php?id=2080141"
+        }
+    ],
+    "descriptors": []
+}

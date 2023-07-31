@@ -1,0 +1,45 @@
+{
+    "id": 709,
+    "index": 2052,
+    "name": "makeanonymous",
+    "frankenstyle": "local_eledia_makeanonymous",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_eledia_makeanonymous",
+    "shortdescription": "This plugin anonymizes data of deleted users, optionally with a delay time.",
+    "timelastreleased": {
+        "absdate": "Friday, 12 December 2014, 7:56 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-12T19:56:40+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "1",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/709/eledia-logo-mu_ohne_raender.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/709/eledia-logo-mu_ohne_raender.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/709/makeanonymous_27.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1279450,
+            "firstname": "Matthias",
+            "lastname": "Berlin (Schwabe)",
+            "url": "https://moodle.org/user/profile.php?id=1279450"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

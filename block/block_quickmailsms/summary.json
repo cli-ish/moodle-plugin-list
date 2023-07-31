@@ -1,0 +1,65 @@
+{
+    "id": 463,
+    "index": 1029,
+    "name": "QuickmailSMS",
+    "frankenstyle": "block_quickmailsms",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quickmailsms",
+    "shortdescription": "A slight modification of quickmail to allow teachers to send text messages to users.",
+    "timelastreleased": {
+        "absdate": "Sunday, 31 January 2016, 11:57 AM",
+        "reldate": "8 years",
+        "iso8601date": "2016-01-31T11:57:37+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "50",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/463/qmsms.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/463/qmsms.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/463/allhistory.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/463/block.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/463/composenewtext.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/463/configuration.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/463/drafts.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/463/singlehistory.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 519127,
+            "firstname": "Paul",
+            "lastname": "P.",
+            "url": "https://moodle.org/user/profile.php?id=519127"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

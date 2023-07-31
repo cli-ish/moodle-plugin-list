@@ -1,0 +1,68 @@
+{
+    "id": 2814,
+    "index": 706,
+    "name": "ClassLink OAuth2",
+    "frankenstyle": "auth_classlink",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_classlink",
+    "shortdescription": "The ClassLink OAuth2 plugin provides single-sign-on functionality with ClassLink LaunchPad using configurable identity providers and the scope of ClassLink OAuth2.",
+    "timelastreleased": {
+        "absdate": "Friday, 12 November 2021, 2:30 PM",
+        "reldate": "21 months",
+        "iso8601date": "2021-11-12T14:30:58+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "147",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2814/classlink.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2814/classlink.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2814/Img%201.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2814/Img%2010.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2814/Img%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2814/img%203.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2814/Img%204.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2814/img%205.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2814/Img%206.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2814/img%207.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2814/Img%208.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2814/Img%209.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2062393,
+            "firstname": "Gopal",
+            "lastname": "Sharma",
+            "url": "https://moodle.org/user/profile.php?id=2062393"
+        }
+    ],
+    "descriptors": []
+}

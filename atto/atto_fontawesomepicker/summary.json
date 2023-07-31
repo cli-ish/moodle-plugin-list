@@ -1,0 +1,44 @@
+{
+    "id": 2932,
+    "index": 411,
+    "name": "Font awesome",
+    "frankenstyle": "atto_fontawesomepicker",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_fontawesomepicker",
+    "shortdescription": "Add Font Awesome Icon. Configurable by the Moodle admin to define suggested icons.",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 April 2023, 11:16 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-13T23:16:23+08:00"
+    },
+    "aggsites": "223",
+    "aggdownloads": "300",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2932/font-awesome-brands.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2932/font-awesome-brands.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2932/atto-editor.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2932/config.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4787829,
+            "firstname": "DNE",
+            "lastname": "- Minist\u00e8re de l'Education Nationale",
+            "url": "https://moodle.org/user/profile.php?id=4787829"
+        }
+    ],
+    "descriptors": []
+}

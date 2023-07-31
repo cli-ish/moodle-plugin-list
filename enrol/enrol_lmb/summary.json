@@ -1,0 +1,49 @@
+{
+    "id": 291,
+    "index": 1011,
+    "name": "Banner/Luminis Message Broker",
+    "frankenstyle": "enrol_lmb",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_lmb",
+    "shortdescription": "Process courses, users, and enrollments out of Ellucian Banner. Includes support for realtime notifications from Luminis Message Broker, and Glassfish w/Legacy Adapter.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 February 2020, 10:20 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-02-27T10:20:23+08:00"
+    },
+    "aggsites": "70",
+    "aggdownloads": "54",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 139623,
+            "firstname": "Eric",
+            "lastname": "Merrill",
+            "url": "https://moodle.org/user/profile.php?id=139623"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 1861,
+    "index": 1470,
+    "name": "Skype Web",
+    "frankenstyle": "block_skypeweb",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_skypeweb",
+    "shortdescription": "This block allows you to send and receive Skype for Business chat messages. This is usable by itself or as part of the wider Moodle / Microsoft Office 365 plugin suite.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 7 August 2019, 4:18 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-08-07T16:18:29+08:00"
+    },
+    "aggsites": "103",
+    "aggdownloads": "12",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1861/download%20%281%29.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1861/download.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1540471,
+            "firstname": "Enovation",
+            "lastname": "Dev Team",
+            "url": "https://moodle.org/user/profile.php?id=1540471"
+        },
+        {
+            "id": 1835508,
+            "firstname": "James",
+            "lastname": "McQuillan",
+            "url": "https://moodle.org/user/profile.php?id=1835508"
+        }
+    ],
+    "descriptors": []
+}

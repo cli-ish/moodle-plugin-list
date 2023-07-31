@@ -1,0 +1,53 @@
+{
+    "id": 1728,
+    "index": 144,
+    "name": "Moodle plugin skeleton generator",
+    "frankenstyle": "tool_pluginskel",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_pluginskel",
+    "shortdescription": "Allows developers to quickly generate code skeleton for a new Moodle plugin.",
+    "timelastreleased": {
+        "absdate": "Thursday, 9 February 2023, 7:39 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-09T07:39:55+08:00"
+    },
+    "aggsites": "617",
+    "aggdownloads": "836",
+    "aggfavs": "79",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1728/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1728/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1728/00-blueprint.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1728/01-web-index.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1728/02-web-wizard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1728/03-cli-help.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1728/04-yaml-php.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1601,
+            "firstname": "David",
+            "lastname": "Mudr\u00e1k",
+            "url": "https://moodle.org/user/profile.php?id=1601"
+        }
+    ],
+    "descriptors": []
+}

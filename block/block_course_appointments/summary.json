@@ -1,0 +1,52 @@
+{
+    "id": 190,
+    "index": 1323,
+    "name": "Appointments",
+    "frankenstyle": "block_course_appointments",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_appointments",
+    "shortdescription": "This block provides a form for teachers to book 1 to 1 appointments with Students on a class. The\r\nstudent can be notified of the appointment, and it will be added to both users' calendars.",
+    "timelastreleased": {
+        "absdate": "Sunday, 31 March 2013, 9:33 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-31T21:33:54+08:00"
+    },
+    "aggsites": "48",
+    "aggdownloads": "18",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/190/appointments1.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/190/appointments1.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/190/appointments1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/190/appointments2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/190/appointments3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 858318,
+            "firstname": "Mark",
+            "lastname": "Johnson",
+            "url": "https://moodle.org/user/profile.php?id=858318"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

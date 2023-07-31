@@ -1,0 +1,49 @@
+{
+    "id": 103,
+    "index": 1175,
+    "name": "Crot Plagiarism Checker",
+    "frankenstyle": "plagiarism_crot",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_crot",
+    "shortdescription": "This FREE plugin  is aimed at digital plagiarism detection: it uncovers assignments copied from peers at the same institution. The module is language independent. \r\n\r\nMaintainer: Sergey Butakov\r\nMore information: crotsoftware.com",
+    "timelastreleased": {
+        "absdate": "Thursday, 12 September 2013, 8:59 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-12T08:59:14+08:00"
+    },
+    "aggsites": "23",
+    "aggdownloads": "29",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/103/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/103/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/103/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 760218,
+            "firstname": "Sergey",
+            "lastname": "Butakov",
+            "url": "https://moodle.org/user/profile.php?id=760218"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

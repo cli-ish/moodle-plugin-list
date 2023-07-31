@@ -1,0 +1,45 @@
+{
+    "id": 1493,
+    "index": 891,
+    "name": "Paste special",
+    "frankenstyle": "atto_pastespecial",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_pastespecial",
+    "shortdescription": "PasteSpecial button for Atto reduces clutter when pasting from non-Atto text editors.",
+    "timelastreleased": {
+        "absdate": "Monday, 14 March 2016, 9:40 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-03-14T21:40:21+08:00"
+    },
+    "aggsites": "872",
+    "aggdownloads": "100",
+    "aggfavs": "29",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1493/Pastespecial.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1833092,
+            "firstname": "Joseph",
+            "lastname": "Inhofer",
+            "url": "https://moodle.org/user/profile.php?id=1833092"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": 635,
+    "index": 1208,
+    "name": "Enrollments And Transcripts",
+    "frankenstyle": "block_enrolltranscripts",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_enrolltranscripts",
+    "shortdescription": "This block displays the courses enrolled by the users with the enrolled date. This block also displays the course transcripts once the user completes the course with any of the course completion criteria.\r\n\r\nNote: This block need the  \"certificate\" module to be installed to get the transcripts. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 21 March 2013, 12:30 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-21T00:30:31+08:00"
+    },
+    "aggsites": "49",
+    "aggdownloads": "26",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/635/enrollments.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/635/enrolltranscript.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/635/transcripts.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1296953,
+            "firstname": "Niranjan",
+            "lastname": "eAbyas",
+            "url": "https://moodle.org/user/profile.php?id=1296953"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

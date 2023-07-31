@@ -1,0 +1,27 @@
+[
+    {
+        "id": "28554",
+        "name": "4.0.0",
+        "url": "https://moodle.org/plugins/download.php/28554/format_timeline_moodle28_2014091114.zip"
+    },
+    {
+        "id": "24517",
+        "name": "3.11.0",
+        "url": "https://moodle.org/plugins/download.php/24517/format_timeline_moodle35_2021080602.zip"
+    },
+    {
+        "id": "23622",
+        "name": "1.0.2",
+        "url": "https://moodle.org/plugins/download.php/23622/format_timeline_moodle38_2012090711.zip"
+    },
+    {
+        "id": "23600",
+        "name": "1.0.1",
+        "url": "https://moodle.org/plugins/download.php/23600/format_timeline_moodle25_2016100110.zip"
+    },
+    {
+        "id": "22471",
+        "name": "1.0.0",
+        "url": "https://moodle.org/plugins/download.php/22471/format_timeline_moodle38_2021020617.zip"
+    }
+]

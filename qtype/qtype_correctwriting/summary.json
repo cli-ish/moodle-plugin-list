@@ -1,0 +1,49 @@
+{
+    "id": 642,
+    "index": 523,
+    "name": "Correct writing",
+    "frankenstyle": "qtype_correctwriting",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_correctwriting",
+    "shortdescription": "Correct Writing question type are focused on the learning grammar of the new language. It can found various mistakes in student's response and give mistake messages and hints.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 December 2022, 8:27 PM",
+        "reldate": "7 months",
+        "iso8601date": "2022-12-22T20:27:59+08:00"
+    },
+    "aggsites": "121",
+    "aggdownloads": "226",
+    "aggfavs": "35",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/642/alll.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/642/CorrectWritingStudentAnswer.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 104931,
+            "firstname": "Oleg",
+            "lastname": "Sychev",
+            "url": "https://moodle.org/user/profile.php?id=104931"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 4,
+            "value": "Languages"
+        }
+    ]
+}

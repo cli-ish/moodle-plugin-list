@@ -1,0 +1,49 @@
+{
+    "id": 334,
+    "index": 955,
+    "name": "Forum Aggregator",
+    "frankenstyle": "block_forum_aggregator",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_forum_aggregator",
+    "shortdescription": "Customized forum block, which allows teacher to select from which forums are latest posts shown on a course page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 24 March 2020, 5:12 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-03-24T05:12:05+08:00"
+    },
+    "aggsites": "195",
+    "aggdownloads": "68",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/334/forum_aggregator_scn2.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/334/forum_aggregator_view.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1006015,
+            "firstname": "T\u00f5nis",
+            "lastname": "Tartes",
+            "url": "https://moodle.org/user/profile.php?id=1006015"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

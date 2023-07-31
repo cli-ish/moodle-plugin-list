@@ -1,0 +1,49 @@
+{
+    "id": 1370,
+    "index": 169,
+    "name": "Mathslate for  Atto",
+    "frankenstyle": "atto_mathslate",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_mathslate",
+    "shortdescription": "Mathslate is a customizable graphical tool for constructing mathematics within Moodle.\r\nThis plugin adds the tool to the Atto editor. It may be used in addition to or as a replacement for other formula editors.",
+    "timelastreleased": {
+        "absdate": "Sunday, 30 April 2023, 12:51 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-30T00:51:42+08:00"
+    },
+    "aggsites": "807",
+    "aggdownloads": "714",
+    "aggfavs": "23",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1370/mathslate2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1370/mathslate2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1370/Mathslate%20for%20Atto.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1470073,
+            "firstname": "Daniel",
+            "lastname": "Thies",
+            "url": "https://moodle.org/user/profile.php?id=1470073"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": 2122,
+    "index": 149,
+    "name": "Restriction by cohort",
+    "frankenstyle": "availability_cohort",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_cohort",
+    "shortdescription": "Moodle availability plugin which lets users restrict resources, activities and sections based on cohorts.",
+    "timelastreleased": {
+        "absdate": "Sunday, 19 March 2023, 6:21 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-19T18:21:04+08:00"
+    },
+    "aggsites": "1163",
+    "aggdownloads": "812",
+    "aggfavs": "50",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2122/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2122/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2122/availability_cohort_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        },
+        {
+            "id": 1350696,
+            "firstname": "Luca",
+            "lastname": "B\u00f6sch",
+            "url": "https://moodle.org/user/profile.php?id=1350696"
+        }
+    ],
+    "descriptors": []
+}

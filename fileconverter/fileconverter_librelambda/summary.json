@@ -1,0 +1,40 @@
+{
+    "id": 2267,
+    "index": 440,
+    "name": "LibreLambda document converter",
+    "frankenstyle": "fileconverter_librelambda",
+    "plugintype": {
+        "type": "fileconverter",
+        "name": "Document converter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/fileconverter_librelambda",
+    "shortdescription": "This is a file converter plugin for Moodle. The primary function of this plugin is to convert student submissions into the PDF file format, to allow teachers to use the annotate PDF functionality of Moodle. With this plugin you are in control of the conversion process and architecture.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 8 February 2023, 11:51 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-08T23:51:53+08:00"
+    },
+    "aggsites": "507",
+    "aggdownloads": "274",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2267/librelambda_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2267/librelambda_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2267/Selection_058.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

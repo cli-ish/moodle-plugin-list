@@ -1,0 +1,67 @@
+[
+    {
+        "id": "26613",
+        "name": "2.0-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/26613/qtype_varnumeric_moodle38_2020020610.zip"
+    },
+    {
+        "id": "20525",
+        "name": "1.9-for-moodle-3.5",
+        "url": "https://moodle.org/plugins/download.php/20525/qtype_varnumeric_moodle33_2020011213.zip"
+    },
+    {
+        "id": "18296",
+        "name": "1.8-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/18296/qtype_varnumeric_moodle27_2015070605.zip"
+    },
+    {
+        "id": "7224",
+        "name": "1.6-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/7224/qtype_varnumeric_moodle27_2019120505.zip"
+    },
+    {
+        "id": "5882",
+        "name": "1.5-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/5882/qtype_varnumeric_moodle40_2023080713.zip"
+    },
+    {
+        "id": "2369",
+        "name": "1.2-for-moodle-2.3",
+        "url": "https://moodle.org/plugins/download.php/2369/qtype_varnumeric_moodle35_2021120814.zip"
+    },
+    {
+        "id": "1215",
+        "name": "1.1-for-moodle-2.2",
+        "url": "https://moodle.org/plugins/download.php/1215/qtype_varnumeric_moodle38_2019081213.zip"
+    },
+    {
+        "id": "1214",
+        "name": "1.1-for-moodle-2.1",
+        "url": "https://moodle.org/plugins/download.php/1214/qtype_varnumeric_moodle37_2019110702.zip"
+    },
+    {
+        "id": "17603",
+        "name": "1.7-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/17603/qtype_varnumeric_moodle40_2020100315.zip"
+    },
+    {
+        "id": "5165",
+        "name": "1.4-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/5165/qtype_varnumeric_moodle32_2013050314.zip"
+    },
+    {
+        "id": "3295",
+        "name": "1.3-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/3295/qtype_varnumeric_moodle25_2013010503.zip"
+    },
+    {
+        "id": "1216",
+        "name": "1.1-for-moodle-2.3",
+        "url": "https://moodle.org/plugins/download.php/1216/qtype_varnumeric_moodle35_2018010802.zip"
+    },
+    {
+        "id": "537",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/537/qtype_varnumeric_moodle26_2014110518.zip"
+    }
+]

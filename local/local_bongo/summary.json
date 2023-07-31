@@ -1,0 +1,50 @@
+{
+    "id": 2224,
+    "index": 1505,
+    "name": "Bongo",
+    "frankenstyle": "local_bongo",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_bongo",
+    "shortdescription": "Bongo is a video assessment solution for soft skill development and the real-world application of knowledge.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 March 2021, 2:03 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-23T02:03:41+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "11",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2224/Bongo-Circle-Blue.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2224/Bongo-Circle-Blue.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2224/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2224/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2224/3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2224/4.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2479130,
+            "firstname": "Brian",
+            "lastname": "Kelly",
+            "url": "https://moodle.org/user/profile.php?id=2479130"
+        }
+    ],
+    "descriptors": []
+}

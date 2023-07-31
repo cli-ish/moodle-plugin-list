@@ -1,0 +1,45 @@
+{
+    "id": 1113,
+    "index": 1796,
+    "name": "Word count",
+    "frankenstyle": "assignsubmission_wordcount",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_wordcount",
+    "shortdescription": "A simple plugin that adds a \"Word count\" submission type to assign activities.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 May 2014, 6:46 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-06T18:46:24+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "5",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1113/wordcount.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 33910,
+            "firstname": "Dave",
+            "lastname": "Balch",
+            "url": "https://moodle.org/user/profile.php?id=33910"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

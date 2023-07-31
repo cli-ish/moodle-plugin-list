@@ -1,0 +1,46 @@
+{
+    "id": 1919,
+    "index": 520,
+    "name": "Local Pages",
+    "frankenstyle": "local_pages",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_pages",
+    "shortdescription": "This plugin is to enable Custom pages and forms in Moodle.\r\nIt provides a quick way to create custom contact forms and custom page content.\r\n\r\nThe pages created can be publicly accessed or available to certain users based on settings you choose for the page.  \r\nThis allows you to create pages such as: \"terms and conditions\", marketing material and more.",
+    "timelastreleased": {
+        "absdate": "Thursday, 4 November 2021, 7:03 AM",
+        "reldate": "21 months",
+        "iso8601date": "2021-11-04T07:03:02+08:00"
+    },
+    "aggsites": "951",
+    "aggdownloads": "226",
+    "aggfavs": "59",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1919/logo-1.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1919/logo-1.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1919/Page%20Setup.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2288404,
+            "firstname": "Kevin",
+            "lastname": "Dibble",
+            "url": "https://moodle.org/user/profile.php?id=2288404"
+        },
+        {
+            "id": 2049685,
+            "firstname": "Learning",
+            "lastname": "Works",
+            "url": "https://moodle.org/user/profile.php?id=2049685"
+        }
+    ],
+    "descriptors": []
+}

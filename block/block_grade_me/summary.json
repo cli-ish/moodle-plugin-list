@@ -1,0 +1,61 @@
+{
+    "id": 953,
+    "index": 106,
+    "name": "Grade Me",
+    "frankenstyle": "block_grade_me",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_grade_me",
+    "shortdescription": "Shows a teacher all of the assignments and manual quiz questions (essays and file responses) that have been submitted, but not graded.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 March 2023, 1:51 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-01T01:51:13+08:00"
+    },
+    "aggsites": "3428",
+    "aggdownloads": "1k",
+    "aggfavs": "169",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/953/grademe.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1229346,
+            "firstname": "Tyler",
+            "lastname": "Bannister",
+            "url": "https://moodle.org/user/profile.php?id=1229346"
+        },
+        {
+            "id": 1998849,
+            "firstname": "Logan",
+            "lastname": "Reynolds",
+            "url": "https://moodle.org/user/profile.php?id=1998849"
+        },
+        {
+            "id": 1835508,
+            "firstname": "James",
+            "lastname": "McQuillan",
+            "url": "https://moodle.org/user/profile.php?id=1835508"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

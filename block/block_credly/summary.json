@@ -1,0 +1,55 @@
+{
+    "id": 1249,
+    "index": 1741,
+    "name": "Credly",
+    "frankenstyle": "block_credly",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_credly",
+    "shortdescription": "A moodle block to integrate with the Credly Open Credit API",
+    "timelastreleased": {
+        "absdate": "Friday, 14 July 2017, 3:13 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-07-14T03:13:01+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "6",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1249/block_credly_01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1249/block_credly_02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1249/block_credly_03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1249/block_credly_04.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 90238,
+            "firstname": "Deds",
+            "lastname": "Castillo",
+            "url": "https://moodle.org/user/profile.php?id=90238"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

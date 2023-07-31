@@ -1,0 +1,59 @@
+{
+    "id": 478,
+    "index": 1079,
+    "name": "oohoo - Text to Speech",
+    "frankenstyle": "block_tts",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_tts",
+    "shortdescription": "OOHOO Text to Speech is a Moodle block that reads outloud the content of a resource",
+    "timelastreleased": {
+        "absdate": "Saturday, 10 May 2014, 6:19 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-10T06:19:47+08:00"
+    },
+    "aggsites": "104",
+    "aggdownloads": "40",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/478/tts-Moodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/478/tts-Moodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/478/screenshot_tts_01_en.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/478/screenshot_tts_02_en.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 106123,
+            "firstname": "Patrick",
+            "lastname": "Thibaudeau",
+            "url": "https://moodle.org/user/profile.php?id=106123"
+        },
+        {
+            "id": 1413693,
+            "firstname": "Nicolas",
+            "lastname": "Bretin",
+            "url": "https://moodle.org/user/profile.php?id=1413693"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Languages"
+        }
+    ]
+}

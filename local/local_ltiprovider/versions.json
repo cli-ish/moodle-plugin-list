@@ -1,0 +1,47 @@
+[
+    {
+        "id": "10423",
+        "name": "2.9.0",
+        "url": "https://moodle.org/plugins/download.php/10423/local_ltiprovider_moodle28_2023050213.zip"
+    },
+    {
+        "id": "10424",
+        "name": "2.7.2",
+        "url": "https://moodle.org/plugins/download.php/10424/local_ltiprovider_moodle35_2011031110.zip"
+    },
+    {
+        "id": "5292",
+        "name": "2.3.1",
+        "url": "https://moodle.org/plugins/download.php/5292/local_ltiprovider_moodle35_2020020309.zip"
+    },
+    {
+        "id": "2335",
+        "name": "2.2",
+        "url": "https://moodle.org/plugins/download.php/2335/local_ltiprovider_moodle40_2021040305.zip"
+    },
+    {
+        "id": "9345",
+        "name": "2.7.1",
+        "url": "https://moodle.org/plugins/download.php/9345/local_ltiprovider_moodle37_2016110313.zip"
+    },
+    {
+        "id": "6882",
+        "name": "2.7.0",
+        "url": "https://moodle.org/plugins/download.php/6882/local_ltiprovider_moodle29_2021010813.zip"
+    },
+    {
+        "id": "5046",
+        "name": "2.3",
+        "url": "https://moodle.org/plugins/download.php/5046/local_ltiprovider_moodle35_2018091007.zip"
+    },
+    {
+        "id": "466",
+        "name": "2.1",
+        "url": "https://moodle.org/plugins/download.php/466/local_ltiprovider_moodle36_2022010504.zip"
+    },
+    {
+        "id": "404",
+        "name": "2.0",
+        "url": "https://moodle.org/plugins/download.php/404/local_ltiprovider_moodle31_2019050207.zip"
+    }
+]

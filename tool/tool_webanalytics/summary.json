@@ -1,0 +1,53 @@
+{
+    "id": 2067,
+    "index": 574,
+    "name": "Web Analytics",
+    "frankenstyle": "tool_webanalytics",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_webanalytics",
+    "shortdescription": "A Moodle admin tool adding Web Analytics to your Moodle site. The plugin currently supports following analytics tools: Matomo (formerly Piwik), Google Universal Analytics, Google Tag Manager, Google Legacy Analytics (soon deprecated by Google)",
+    "timelastreleased": {
+        "absdate": "Monday, 31 May 2021, 6:11 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-31T18:11:49+08:00"
+    },
+    "aggsites": "609",
+    "aggdownloads": "205",
+    "aggfavs": "29",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2067/web-analytics.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2067/web-analytics.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2067/web_analytics_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2067/web_analytics_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2067/web_analytics_3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 1608390,
+            "firstname": "Dmitrii",
+            "lastname": "Metelkin",
+            "url": "https://moodle.org/user/profile.php?id=1608390"
+        }
+    ],
+    "descriptors": []
+}

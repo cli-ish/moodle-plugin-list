@@ -1,0 +1,40 @@
+{
+    "id": 2329,
+    "index": 1458,
+    "name": "ProFormA format",
+    "frankenstyle": "qformat_proforma",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_proforma",
+    "shortdescription": "converts ProFormA tasks into proforma programming quiz questions. \r\n\r\nThis question format is needed by the question type ProFormA.",
+    "timelastreleased": {
+        "absdate": "Saturday, 8 July 2023, 3:08 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-08T15:08:04+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "13",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2329/import_screenshot_en.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2359268,
+            "firstname": "Karin",
+            "lastname": "Borm",
+            "url": "https://moodle.org/user/profile.php?id=2359268"
+        }
+    ],
+    "descriptors": []
+}

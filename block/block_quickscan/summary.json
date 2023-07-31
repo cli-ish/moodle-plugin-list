@@ -1,0 +1,58 @@
+{
+    "id": 1040,
+    "index": 888,
+    "name": "QuickScan Dyslexia Screening",
+    "frankenstyle": "block_quickscan",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quickscan",
+    "shortdescription": "This is the Pico QuickScan Dyslexia Screening block for Moodle 2.3+.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 March 2014, 8:11 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-03-18T20:11:55+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": "102",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1040/pico-logo-sml.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1040/pico-logo-sml.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1040/Screenshot%20from%202014-03-19%20101815.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1040/Screenshot%20from%202014-03-19%20103002.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1040/Screenshot%20from%202014-03-19%20105408.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 41888,
+            "firstname": "Tony",
+            "lastname": "Butler",
+            "url": "https://moodle.org/user/profile.php?id=41888"
+        },
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

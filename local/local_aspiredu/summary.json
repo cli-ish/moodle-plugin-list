@@ -1,0 +1,49 @@
+{
+    "id": 1458,
+    "index": 1016,
+    "name": "Dropout Detective\u2122",
+    "frankenstyle": "local_aspiredu",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_aspiredu",
+    "shortdescription": "Dropout Detective\u2122 identifies students that are most at risk of dropping out of or failing courses. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 May 2023, 5:10 AM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-18T05:10:34+08:00"
+    },
+    "aggsites": "61",
+    "aggdownloads": "53",
+    "aggfavs": "39",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1458/aspire_analytics.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1458/aspire_analytics.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1458/identify-img-657x433.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1458/instructors-img-657x439.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1621407,
+            "firstname": "Kim",
+            "lastname": "Munzo",
+            "url": "https://moodle.org/user/profile.php?id=1621407"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

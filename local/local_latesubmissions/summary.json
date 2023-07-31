@@ -1,0 +1,44 @@
+{
+    "id": 2231,
+    "index": 1971,
+    "name": "Students at risk of missing assignment due dates",
+    "frankenstyle": "local_latesubmissions",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_latesubmissions",
+    "shortdescription": "This Moodle plugin adds a new predictive model to identify students that are likely to miss assignment due dates. The model automatically generates insights for teachers about these students.",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 July 2019, 11:51 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-07-11T11:51:19+08:00"
+    },
+    "aggsites": "21",
+    "aggdownloads": "2",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2231/latesubmissions-screenshot1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2231/latesubmissions-screenshot2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 122326,
+            "firstname": "David",
+            "lastname": "Monlla\u00f3",
+            "url": "https://moodle.org/user/profile.php?id=122326"
+        }
+    ],
+    "descriptors": []
+}

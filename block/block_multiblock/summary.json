@@ -1,0 +1,53 @@
+{
+    "id": 2446,
+    "index": 382,
+    "name": "Multiblock",
+    "frankenstyle": "block_multiblock",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_multiblock",
+    "shortdescription": "Using Multiblock you can collect all those blocks together and use 'one block's\r\nworth' of space and put all those blocks into the one space with one of several\r\nlayouts, whether it's tabs or an accordion, or something else. Several preset\r\nlayouts are bundled with Multiblock.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 25 January 2023, 6:47 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-25T06:47:31+08:00"
+    },
+    "aggsites": "698",
+    "aggdownloads": "326",
+    "aggfavs": "46",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2446/accordion.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2446/columns-2-66-33.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2446/dropdown.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2446/tabbed-list.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2446/vertical-tabbed-list.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

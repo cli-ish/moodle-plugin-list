@@ -1,0 +1,49 @@
+{
+    "id": 718,
+    "index": 426,
+    "name": "Algebra",
+    "frankenstyle": "qtype_algebra",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_algebra",
+    "shortdescription": "Question type where the student must answer by typing an algebra formula. Correctness can be checked by three different methods.",
+    "timelastreleased": {
+        "absdate": "Sunday, 17 July 2022, 8:19 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-07-17T20:19:29+08:00"
+    },
+    "aggsites": "655",
+    "aggdownloads": "286",
+    "aggfavs": "28",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/718/algebra%20screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 8026,
+            "firstname": "Jean-Michel",
+            "lastname": "V\u00e9drine",
+            "url": "https://moodle.org/user/profile.php?id=8026"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

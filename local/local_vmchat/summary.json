@@ -1,0 +1,62 @@
+{
+    "id": 1171,
+    "index": 1360,
+    "name": "Vm Chat",
+    "frankenstyle": "local_vmchat",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_vmchat",
+    "shortdescription": "Footer Chat for Moodle",
+    "timelastreleased": {
+        "absdate": "Wednesday, 7 September 2016, 4:43 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-07T16:43:40+08:00"
+    },
+    "aggsites": "71",
+    "aggdownloads": "16",
+    "aggfavs": "34",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1171/Screen%20Shot%202014-07-08%20at%2010.12.57%20AM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1171/Screen%20Shot%202014-07-08%20at%2010.13.20%20AM.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1171/Screen%20Shot%202014-07-08%20at%2010.16.28%20AM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 173685,
+            "firstname": "Jai",
+            "lastname": "Gupta",
+            "url": "https://moodle.org/user/profile.php?id=173685"
+        },
+        {
+            "id": 1143772,
+            "firstname": "Pinky",
+            "lastname": "Sharma",
+            "url": "https://moodle.org/user/profile.php?id=1143772"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

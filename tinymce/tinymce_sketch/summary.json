@@ -1,0 +1,40 @@
+{
+    "id": 1883,
+    "index": 854,
+    "name": "Sketch",
+    "frankenstyle": "tinymce_sketch",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_sketch",
+    "shortdescription": "Simple image \"paint like\" editor for legacy tinymce.",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 September 2022, 9:16 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-29T21:16:08+08:00"
+    },
+    "aggsites": "192",
+    "aggdownloads": "112",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1883/icon2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1883/icon2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1883/tiny_example.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 226766,
+            "firstname": "Matthew",
+            "lastname": "Davidson",
+            "url": "https://moodle.org/user/profile.php?id=226766"
+        }
+    ],
+    "descriptors": []
+}

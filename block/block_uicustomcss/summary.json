@@ -1,0 +1,51 @@
+{
+    "id": 1280,
+    "index": 692,
+    "name": "UI Custom CSS",
+    "frankenstyle": "block_uicustomcss",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_uicustomcss",
+    "shortdescription": "The uicustomcss module is designed to allow instructors of a course to create custom css that will only be applied to their\r\ncourse and, if they choose, other pages inside their course.",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 December 2014, 6:14 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-18T06:14:07+08:00"
+    },
+    "aggsites": "147",
+    "aggdownloads": "150",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1280/ScreenClip%20%5B2%5D.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 525031,
+            "firstname": "Nate",
+            "lastname": "Baxley",
+            "url": "https://moodle.org/user/profile.php?id=525031"
+        },
+        {
+            "id": 2074982,
+            "firstname": "davis",
+            "lastname": "dan",
+            "url": "https://moodle.org/user/profile.php?id=2074982"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

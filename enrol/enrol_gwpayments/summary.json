@@ -1,0 +1,56 @@
+{
+    "id": 2789,
+    "index": 432,
+    "name": "Gateway Payments Enrolment",
+    "frankenstyle": "enrol_gwpayments",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_gwpayments",
+    "shortdescription": "Gateway Payments enrolment method -- Enrol on payment - extended with discounts and cohort restrictions.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 27 September 2022, 5:41 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-27T17:41:34+08:00"
+    },
+    "aggsites": "94",
+    "aggdownloads": "280",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2789/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2789/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2789/3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2789/4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1911653,
+            "firstname": "Rogier",
+            "lastname": "van Dongen",
+            "url": "https://moodle.org/user/profile.php?id=1911653"
+        },
+        {
+            "id": 1880313,
+            "firstname": "Sebsoft",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=1880313"
+        }
+    ],
+    "descriptors": []
+}

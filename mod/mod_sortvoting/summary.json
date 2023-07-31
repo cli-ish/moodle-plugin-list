@@ -1,0 +1,53 @@
+{
+    "id": 3140,
+    "index": 947,
+    "name": "Preference Sort Voting",
+    "frankenstyle": "mod_sortvoting",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_sortvoting",
+    "shortdescription": "This plugin lets you rank multiple options in order of preference, instead of just choosing one.",
+    "timelastreleased": {
+        "absdate": "Monday, 19 June 2023, 10:57 PM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-19T22:57:16+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "71",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3140/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3140/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3140/Results.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3140/Settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3140/Voting.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4321919,
+            "firstname": "Odei",
+            "lastname": "Alba",
+            "url": "https://moodle.org/user/profile.php?id=4321919"
+        },
+        {
+            "id": 4922680,
+            "firstname": "Odei",
+            "lastname": "Alba",
+            "url": "https://moodle.org/user/profile.php?id=4922680"
+        }
+    ],
+    "descriptors": []
+}

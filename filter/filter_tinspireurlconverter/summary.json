@@ -1,0 +1,45 @@
+{
+    "id": 77,
+    "index": 1432,
+    "name": "TI-Nspire URL Converter",
+    "frankenstyle": "filter_tinspireurlconverter",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_tinspireurlconverter",
+    "shortdescription": "Converts TI-Nspire document links (.tns and .tnsp) into TI-Nspire Document Player instances.  This allows for the documents to be viewed within Moodle.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 11 January 2012, 12:26 AM",
+        "reldate": "12 years",
+        "iso8601date": "2012-01-11T00:26:01+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "14",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/77/snowflake.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1377007,
+            "firstname": "Robert",
+            "lastname": "Jenks",
+            "url": "https://moodle.org/user/profile.php?id=1377007"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

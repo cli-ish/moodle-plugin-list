@@ -1,0 +1,45 @@
+{
+    "id": 370,
+    "index": 1206,
+    "name": "Flexpage Theme",
+    "frankenstyle": "theme_flexpage",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_flexpage",
+    "shortdescription": "Moodlerooms is proud to release the Flexpage Theme, which allows for the new and improved layout in the Flexpage course format",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 July 2017, 10:13 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-07-18T22:13:32+08:00"
+    },
+    "aggsites": "66",
+    "aggdownloads": "26",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/370/flex_page_theme.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

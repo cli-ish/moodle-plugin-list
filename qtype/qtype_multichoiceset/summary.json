@@ -1,0 +1,51 @@
+{
+    "id": 1100,
+    "index": 79,
+    "name": "All-or-Nothing Multiple Choice",
+    "frankenstyle": "qtype_multichoiceset",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_multichoiceset",
+    "shortdescription": "The all-or-nothing multiple choice question is a version of the core multi-answer multiple choice question with modified grading. In an all-or-nothing multiple choice question, a respondent can choose one or more answers. If the chosen answers correspond exactly to the correct choices defined in the question, the respondent gets 100%. If he/she chooses any incorrect choices or does not select all of the correct choices, the grade is 0%.",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 August 2022, 7:52 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-08-11T19:52:26+08:00"
+    },
+    "aggsites": "3962",
+    "aggdownloads": "1k",
+    "aggfavs": "75",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1100/All-or-nothing_MC_question_08.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 8026,
+            "firstname": "Jean-Michel",
+            "lastname": "V\u00e9drine",
+            "url": "https://moodle.org/user/profile.php?id=8026"
+        },
+        {
+            "id": 726938,
+            "firstname": "Eoin",
+            "lastname": "Campbell",
+            "url": "https://moodle.org/user/profile.php?id=726938"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

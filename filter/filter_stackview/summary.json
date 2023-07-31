@@ -1,0 +1,52 @@
+{
+    "id": 3024,
+    "index": 825,
+    "name": "Filter stackview",
+    "frankenstyle": "filter_stackview",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_stackview",
+    "shortdescription": "This filter converts mod_stackview `[[stackview 3]]` shortcode to an embeddable widget (iframe).",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 October 2022, 5:15 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-10-27T05:15:46+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "121",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3024/logo.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3024/logo.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3024/screenshot.gif?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4923962,
+            "firstname": "Luuk",
+            "lastname": "Verhoeven (Avetica)",
+            "url": "https://moodle.org/user/profile.php?id=4923962"
+        },
+        {
+            "id": 5046613,
+            "firstname": "Admin",
+            "lastname": "Federatie Medisch Specialisten",
+            "url": "https://moodle.org/user/profile.php?id=5046613"
+        },
+        {
+            "id": 4940958,
+            "firstname": "hamza",
+            "lastname": "tamyachte",
+            "url": "https://moodle.org/user/profile.php?id=4940958"
+        }
+    ],
+    "descriptors": []
+}

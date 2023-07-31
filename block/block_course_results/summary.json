@@ -1,0 +1,45 @@
+{
+    "id": 222,
+    "index": 1665,
+    "name": "Course Results",
+    "frankenstyle": "block_course_results",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_results",
+    "shortdescription": "Shows X students with highest / lowest grades within a course.\r\nLocalizations: EN, PL, RU",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 March 2012, 4:20 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-14T16:20:37+08:00"
+    },
+    "aggsites": "35",
+    "aggdownloads": "7",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/222/CropperCapture%5B37%5D.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/222/CropperCapture%5B37%5D.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/222/course_results.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1414155,
+            "firstname": "Mike",
+            "lastname": "K",
+            "url": "https://moodle.org/user/profile.php?id=1414155"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

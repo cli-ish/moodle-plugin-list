@@ -1,0 +1,62 @@
+{
+    "id": 2120,
+    "index": 2049,
+    "name": "CoBRA",
+    "frankenstyle": "mod_cobra",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_cobra",
+    "shortdescription": "CoBRA helps French speaking learners to read texts in English and Dutch, getting contextualized information on all words and expression of the text and with the ability to collect words and expressions into a personal glossary.",
+    "timelastreleased": {
+        "absdate": "Monday, 2 December 2019, 5:35 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-12-02T17:35:06+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "1",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2120/Corpus%20selection.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2120/Display%20parameters.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2120/Main%20view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2120/My%20complete%20glossary%20view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2120/View%20after%20clicking%20add%20to%20my%20glossary%20button.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2120/View%20after%20clicking%20on%20a%20word.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1911669,
+            "firstname": "Jean-Roch",
+            "lastname": "Meurisse",
+            "url": "https://moodle.org/user/profile.php?id=1911669"
+        },
+        {
+            "id": 2094810,
+            "firstname": "Laurence",
+            "lastname": "Dumortier",
+            "url": "https://moodle.org/user/profile.php?id=2094810"
+        }
+    ],
+    "descriptors": []
+}

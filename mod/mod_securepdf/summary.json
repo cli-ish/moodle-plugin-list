@@ -1,0 +1,40 @@
+{
+    "id": 2582,
+    "index": 317,
+    "name": "Secure PDF",
+    "frankenstyle": "mod_securepdf",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_securepdf",
+    "shortdescription": "Share your PDF to students without letting them to download or save it.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 11 April 2023, 1:53 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-11T01:53:44+08:00"
+    },
+    "aggsites": "550",
+    "aggdownloads": "422",
+    "aggfavs": "30",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2582/icon_48.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2582/icon_48.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2582/securepdf_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 528592,
+            "firstname": "Yedidia",
+            "lastname": "Klein",
+            "url": "https://moodle.org/user/profile.php?id=528592"
+        }
+    ],
+    "descriptors": []
+}

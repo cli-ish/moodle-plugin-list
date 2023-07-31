@@ -1,0 +1,49 @@
+{
+    "id": 582,
+    "index": 909,
+    "name": "PDF feedback",
+    "frankenstyle": "assignfeedback_pdf",
+    "plugintype": {
+        "type": "assignfeedback",
+        "name": "Assignment / Feedback plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignfeedback_pdf",
+    "shortdescription": "This allows a teacher to annotate and return PDF files that have been submitted by students. Teachers can add and position comments and draw lines, ovals, stamps, rectangles and highlights onto the student's work, from within the browser. For Moodle 2.6 and above, I advise you use the standard functionality instead.",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 November 2016, 4:47 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-11-24T04:47:30+08:00"
+    },
+    "aggsites": "609",
+    "aggdownloads": "88",
+    "aggfavs": "18",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/582/assignsubmission_pdf_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/582/assignsubmission_pdf_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/582/assignsubmission_pdf1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/582/assignsubmission_pdf2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

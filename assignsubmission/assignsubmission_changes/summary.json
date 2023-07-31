@@ -1,0 +1,59 @@
+{
+    "id": 1921,
+    "index": 1727,
+    "name": "Changes",
+    "frankenstyle": "assignsubmission_changes",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_changes",
+    "shortdescription": "This plugin provides a changelog for student submissions. You can see when a file was updated and the changed pages in PDF submissions.",
+    "timelastreleased": {
+        "absdate": "Monday, 1 January 2018, 12:22 AM",
+        "reldate": "6 years",
+        "iso8601date": "2018-01-01T00:22:35+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "6",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1921/changes_admin_settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1921/changes_submission_details.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1921/changes_submission_overview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1921/changes_submission_settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1921/changes_submission_status.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2289236,
+            "firstname": "Hendrik",
+            "lastname": "W\u00fcrz",
+            "url": "https://moodle.org/user/profile.php?id=2289236"
+        },
+        {
+            "id": 1484403,
+            "firstname": "Guido",
+            "lastname": "Roessling",
+            "url": "https://moodle.org/user/profile.php?id=1484403"
+        }
+    ],
+    "descriptors": []
+}

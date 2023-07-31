@@ -1,0 +1,51 @@
+{
+    "id": 497,
+    "index": 1947,
+    "name": "Kitmoo",
+    "frankenstyle": "mod_kitmoo",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_kitmoo",
+    "shortdescription": "Module to create graphical environments in a course.",
+    "timelastreleased": {
+        "absdate": "Monday, 29 October 2012, 4:55 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-29T04:55:33+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/497/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/497/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/497/screen.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1519218,
+            "firstname": "Jair Alexander",
+            "lastname": "Ria\u00f1o Casta\u00f1eda",
+            "url": "https://moodle.org/user/profile.php?id=1519218"
+        },
+        {
+            "id": 1482649,
+            "firstname": "Andr\u00e9s",
+            "lastname": "Rodr\u00edguez",
+            "url": "https://moodle.org/user/profile.php?id=1482649"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

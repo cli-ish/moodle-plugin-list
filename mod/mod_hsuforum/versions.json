@@ -1,0 +1,127 @@
+[
+    {
+        "id": "29610",
+        "name": "4.1.3",
+        "url": "https://moodle.org/plugins/download.php/29610/mod_hsuforum_moodle37_2020040306.zip"
+    },
+    {
+        "id": "28927",
+        "name": "4.0.7",
+        "url": "https://moodle.org/plugins/download.php/28927/mod_hsuforum_moodle37_2019060705.zip"
+    },
+    {
+        "id": "27750",
+        "name": "3.11.6",
+        "url": "https://moodle.org/plugins/download.php/27750/mod_hsuforum_moodle26_2012091103.zip"
+    },
+    {
+        "id": "24366",
+        "name": "3.10.3",
+        "url": "https://moodle.org/plugins/download.php/24366/mod_hsuforum_moodle36_2016010300.zip"
+    },
+    {
+        "id": "23946",
+        "name": "3.9.3",
+        "url": "https://moodle.org/plugins/download.php/23946/mod_hsuforum_moodle33_2017100215.zip"
+    },
+    {
+        "id": "21991",
+        "name": "3.8.3",
+        "url": "https://moodle.org/plugins/download.php/21991/mod_hsuforum_moodle25_2017020218.zip"
+    },
+    {
+        "id": "20896",
+        "name": "3.7.3",
+        "url": "https://moodle.org/plugins/download.php/20896/mod_hsuforum_moodle27_2013010300.zip"
+    },
+    {
+        "id": "20393",
+        "name": "3.6.3",
+        "url": "https://moodle.org/plugins/download.php/20393/mod_hsuforum_moodle35_2015020505.zip"
+    },
+    {
+        "id": "18670",
+        "name": "3.5.2",
+        "url": "https://moodle.org/plugins/download.php/18670/mod_hsuforum_moodle37_2022020707.zip"
+    },
+    {
+        "id": "17871",
+        "name": "3.4.3",
+        "url": "https://moodle.org/plugins/download.php/17871/mod_hsuforum_moodle25_2011110414.zip"
+    },
+    {
+        "id": "16745",
+        "name": "3.3.3",
+        "url": "https://moodle.org/plugins/download.php/16745/mod_hsuforum_moodle33_2018050808.zip"
+    },
+    {
+        "id": "14444",
+        "name": "3.2.3",
+        "url": "https://moodle.org/plugins/download.php/14444/mod_hsuforum_moodle29_2023040502.zip"
+    },
+    {
+        "id": "13139",
+        "name": "3.1.3",
+        "url": "https://moodle.org/plugins/download.php/13139/mod_hsuforum_moodle27_2016090111.zip"
+    },
+    {
+        "id": "11829",
+        "name": "3.0.4-build-20160509",
+        "url": "https://moodle.org/plugins/download.php/11829/mod_hsuforum_moodle36_2022060118.zip"
+    },
+    {
+        "id": "11054",
+        "name": "2.9.3-build-20160204",
+        "url": "https://moodle.org/plugins/download.php/11054/mod_hsuforum_moodle38_2011060403.zip"
+    },
+    {
+        "id": "8987",
+        "name": "2.8.0-build-20150708",
+        "url": "https://moodle.org/plugins/download.php/8987/mod_hsuforum_moodle37_2016120414.zip"
+    },
+    {
+        "id": "7985",
+        "name": "2.7.0-build-20141229",
+        "url": "https://moodle.org/plugins/download.php/7985/mod_hsuforum_moodle40_2023020318.zip"
+    },
+    {
+        "id": "6202",
+        "name": "2.6.0-build-20140603",
+        "url": "https://moodle.org/plugins/download.php/6202/mod_hsuforum_moodle30_2023080902.zip"
+    },
+    {
+        "id": "6201",
+        "name": "2.5.0-build-20131227",
+        "url": "https://moodle.org/plugins/download.php/6201/mod_hsuforum_moodle34_2018100501.zip"
+    },
+    {
+        "id": "3018",
+        "name": "2.4.0-build-20130711",
+        "url": "https://moodle.org/plugins/download.php/3018/mod_hsuforum_moodle33_2012070513.zip"
+    },
+    {
+        "id": "2071",
+        "name": "2.3.0-build-20121228",
+        "url": "https://moodle.org/plugins/download.php/2071/mod_hsuforum_moodle38_2010081019.zip"
+    },
+    {
+        "id": "1128",
+        "name": "2.2.0-build-20120629",
+        "url": "https://moodle.org/plugins/download.php/1128/mod_hsuforum_moodle25_2018070217.zip"
+    },
+    {
+        "id": "28487",
+        "name": "4.0.5",
+        "url": "https://moodle.org/plugins/download.php/28487/mod_hsuforum_moodle39_2020120218.zip"
+    },
+    {
+        "id": "26819",
+        "name": "3.11.3",
+        "url": "https://moodle.org/plugins/download.php/26819/mod_hsuforum_moodle30_2017050511.zip"
+    },
+    {
+        "id": "26532",
+        "name": "3.11.5",
+        "url": "https://moodle.org/plugins/download.php/26532/mod_hsuforum_moodle33_2015030120.zip"
+    }
+]

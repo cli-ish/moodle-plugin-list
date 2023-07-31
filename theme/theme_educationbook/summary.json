@@ -1,0 +1,45 @@
+{
+    "id": 70,
+    "index": 1634,
+    "name": "Education Book",
+    "frankenstyle": "theme_educationbook",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_educationbook",
+    "shortdescription": "Education Book has a simple and clean design. It has a flexible system that enable the administrator to adjust the top menu and choose your own favorite color scheme.",
+    "timelastreleased": {
+        "absdate": "Friday, 23 September 2011, 11:37 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-09-23T11:37:52+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "8",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/70/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1374394,
+            "firstname": "Jessica",
+            "lastname": "Wu",
+            "url": "https://moodle.org/user/profile.php?id=1374394"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

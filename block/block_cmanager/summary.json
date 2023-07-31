@@ -1,0 +1,73 @@
+{
+    "id": 393,
+    "index": 1091,
+    "name": "Course Request Manager",
+    "frankenstyle": "block_cmanager",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_cmanager",
+    "shortdescription": "Do you struggle to manage requests for moodle courses from your users? No more!! Course Request Manager allows you to create custom request forms with mandatory or optional fields. The tool allows for quick approval of course requests and can automatically send users details of their new courses including enrollment keys etc. Simplify your admin role by installing this essential plugin!",
+    "timelastreleased": {
+        "absdate": "Monday, 17 September 2018, 5:37 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-09-17T17:37:30+08:00"
+    },
+    "aggsites": "121",
+    "aggdownloads": "39",
+    "aggfavs": "45",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/393/crmicon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/393/crmicon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/393/Screen%20Shot%202015-05-28%20at%2021.16.45.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/393/crmicon.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/393/Screen%20Shot%202015-05-28%20at%2021.13.45.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/393/Screen%20Shot%202015-05-28%20at%2021.24.14.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/393/Screen%20Shot%202015-05-28%20at%2021.24.53.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/393/Screen%20Shot%202015-05-28%20at%2021.25.48.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/393/Screen%20Shot%202015-05-28%20at%2021.26.18.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/393/Screen%20Shot%202015-05-28%20at%2021.26.41.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/393/Screen%20Shot%202015-05-28%20at%2021.27.16.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/393/Screen%20Shot%202015-05-28%20at%2021.28.22.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1615960,
+            "firstname": "Michael",
+            "lastname": "Milette",
+            "url": "https://moodle.org/user/profile.php?id=1615960"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 689,
+    "index": 2086,
+    "name": "Sanity checker utility",
+    "frankenstyle": "local_sanitychecker",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_sanitychecker",
+    "shortdescription": "This plugin provides an interface to implement sanity checks on moodle and solves some issues (see : https://github.com/eviweb/moodle-local_sanitychecker/wiki)",
+    "timelastreleased": {
+        "absdate": "Tuesday, 17 December 2013, 8:20 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-12-17T20:20:56+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "1",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 373336,
+            "firstname": "Eric",
+            "lastname": "Villard",
+            "url": "https://moodle.org/user/profile.php?id=373336"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

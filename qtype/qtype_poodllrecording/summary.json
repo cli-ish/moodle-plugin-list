@@ -1,0 +1,62 @@
+{
+    "id": 311,
+    "index": 282,
+    "name": "Poodll Recording",
+    "frankenstyle": "qtype_poodllrecording",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_poodllrecording",
+    "shortdescription": "An audio/video recording question type for Moodle. It uses HTML5 audio and video recording on supported browsers, and falls back to flash and other technologies where required. It is also possible to provide responses to questions using the Poodll whiteboard feature. It requires the Poodll filter be installed. Recording from mobile devices is also supported.",
+    "timelastreleased": {
+        "absdate": "Friday, 19 May 2023, 9:12 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-19T21:12:51+08:00"
+    },
+    "aggsites": "1443",
+    "aggdownloads": "455",
+    "aggfavs": "38",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/311/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/311/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/311/Poodll%20Recording%20Banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/311/2018-06-28_16-42-12.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/311/2018-06-28_17-04-32.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/311/MoodleTile_Question.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/311/newwhiteboard.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

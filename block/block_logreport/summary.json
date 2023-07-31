@@ -1,0 +1,44 @@
+{
+    "id": 2144,
+    "index": 1280,
+    "name": "Log report",
+    "frankenstyle": "block_logreport",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_logreport",
+    "shortdescription": "This plugin will make available existing log report with easy and quick navigation, without refreshing the page including filters and pagination.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 February 2020, 5:35 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-02-24T17:35:02+08:00"
+    },
+    "aggsites": "115",
+    "aggdownloads": "20",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2144/blockview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2144/Log%20report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1489267,
+            "firstname": "Naveen",
+            "lastname": "eAbyas",
+            "url": "https://moodle.org/user/profile.php?id=1489267"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,47 @@
+{
+    "id": 2656,
+    "index": 793,
+    "name": "DBConcept",
+    "frankenstyle": "filter_dbconcept",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_dbconcept",
+    "shortdescription": "Plugin filter to create Merise schema from text ([Mocodo](http://mocodo.wingi.net/) format).",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 August 2022, 8:45 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-08-23T20:45:15+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "125",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2656/index.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2656/index.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2656/vmware_CzgU9xNLWH.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2656/vmware_ifR3pBH2gT.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2656/vmware_JrgE2MoFqw.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 262539,
+            "firstname": "Erwan",
+            "lastname": "Gallenne",
+            "url": "https://moodle.org/user/profile.php?id=262539"
+        }
+    ],
+    "descriptors": []
+}

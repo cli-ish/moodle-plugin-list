@@ -1,0 +1,68 @@
+{
+    "id": 1440,
+    "index": 746,
+    "name": "ClassicPay",
+    "frankenstyle": "enrol_classicpay",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_classicpay",
+    "shortdescription": "The Sebsoft ClassicPay enrolment Plugin offers you the possibility to set up paid courses.\r\nIt uses the PayNL payment gateway to provide payments supporting a wide variety of payment methods.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 13 April 2022, 9:56 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-13T21:56:58+08:00"
+    },
+    "aggsites": "74",
+    "aggdownloads": "135",
+    "aggfavs": "32",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1440/1.%20admin-settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1440/2.%20admin-coupons.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1440/3.%20admin-transactions.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1440/4.%20admin-enrolments.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1440/5.%20admin-conninfo%20.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1440/6.%20enrolment-settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1440/7.%20course-coupons.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1440/8.%20course-buy.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1880313,
+            "firstname": "Sebsoft",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=1880313"
+        },
+        {
+            "id": 1911653,
+            "firstname": "Rogier",
+            "lastname": "van Dongen",
+            "url": "https://moodle.org/user/profile.php?id=1911653"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": 758,
+    "index": 2074,
+    "name": "Skim Import",
+    "frankenstyle": "tinymce_skim",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_skim",
+    "shortdescription": "The Skim Import plugin converts notes exported from the Skim PDF annotation tool into a format that displays nicely in Moodle.",
+    "timelastreleased": {
+        "absdate": "Monday, 14 May 2018, 7:01 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-14T19:01:47+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "1",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/758/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/758/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/758/2018-05-14_19-58-41.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

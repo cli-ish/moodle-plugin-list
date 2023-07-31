@@ -1,0 +1,62 @@
+{
+    "id": 1772,
+    "index": 242,
+    "name": "Panopto",
+    "frankenstyle": "block_panopto",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_panopto",
+    "shortdescription": "Allows courses to be connected with multiple Panopto servers. Panopto is a video recording/streaming service that allows teachers to record lectures and embed them directly into Moodle. https://www.panopto.com/panopto-for-education/",
+    "timelastreleased": {
+        "absdate": "Wednesday, 15 March 2023, 4:21 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-15T04:21:16+08:00"
+    },
+    "aggsites": "675",
+    "aggdownloads": "520",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1772/logo.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1772/logo.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1772/blockImage.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1772/bltiTool.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1772/embeddedAnnouncement.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1772/panoptoAtto.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1772/panoptoTinyMCE.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2151851,
+            "firstname": "joseph",
+            "lastname": "malmsten",
+            "url": "https://moodle.org/user/profile.php?id=2151851"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

@@ -1,0 +1,142 @@
+[
+    {
+        "id": "27803",
+        "name": "3.9.5-build-2022102600",
+        "url": "https://moodle.org/plugins/download.php/27803/qformat_wordtable_moodle39_2022100109.zip"
+    },
+    {
+        "id": "26322",
+        "name": "3.9.3-build-2022040400",
+        "url": "https://moodle.org/plugins/download.php/26322/qformat_wordtable_moodle25_2012031018.zip"
+    },
+    {
+        "id": "21963",
+        "name": "3.6.3-build-2020071101",
+        "url": "https://moodle.org/plugins/download.php/21963/qformat_wordtable_moodle25_2020010814.zip"
+    },
+    {
+        "id": "19959",
+        "name": "3.6-build-2019071601",
+        "url": "https://moodle.org/plugins/download.php/19959/qformat_wordtable_moodle32_2020050817.zip"
+    },
+    {
+        "id": "14758",
+        "name": "3.5.21-build-2017090201",
+        "url": "https://moodle.org/plugins/download.php/14758/qformat_wordtable_moodle33_2015120112.zip"
+    },
+    {
+        "id": "6018",
+        "name": "v2.8.5-build-20140512.1-9",
+        "url": "https://moodle.org/plugins/download.php/6018/qformat_wordtable_moodle35_2015080506.zip"
+    },
+    {
+        "id": "26334",
+        "name": "3.9.4-build-2022040500",
+        "url": "https://moodle.org/plugins/download.php/26334/qformat_wordtable_moodle27_2015061115.zip"
+    },
+    {
+        "id": "25050",
+        "name": "3.9.2-build-2021083100",
+        "url": "https://moodle.org/plugins/download.php/25050/qformat_wordtable_moodle33_2011020606.zip"
+    },
+    {
+        "id": "24997",
+        "name": "3.9.1-build-2021082300",
+        "url": "https://moodle.org/plugins/download.php/24997/qformat_wordtable_moodle25_2012020703.zip"
+    },
+    {
+        "id": "24985",
+        "name": "3.9.0-build-2021082100",
+        "url": "https://moodle.org/plugins/download.php/24985/qformat_wordtable_moodle33_2021021219.zip"
+    },
+    {
+        "id": "24827",
+        "name": "3.6.4-build-2021072900",
+        "url": "https://moodle.org/plugins/download.php/24827/qformat_wordtable_moodle37_2019090719.zip"
+    },
+    {
+        "id": "21960",
+        "name": "3.6.2-build-2020071001",
+        "url": "https://moodle.org/plugins/download.php/21960/qformat_wordtable_moodle38_2013070213.zip"
+    },
+    {
+        "id": "21785",
+        "name": "3.6.1-build-2020061801",
+        "url": "https://moodle.org/plugins/download.php/21785/qformat_wordtable_moodle37_2012020907.zip"
+    },
+    {
+        "id": "17537",
+        "name": "3.5.23-build-2018080301",
+        "url": "https://moodle.org/plugins/download.php/17537/qformat_wordtable_moodle25_2020060620.zip"
+    },
+    {
+        "id": "17023",
+        "name": "3.5.22-build-2018060401",
+        "url": "https://moodle.org/plugins/download.php/17023/qformat_wordtable_moodle38_2012060409.zip"
+    },
+    {
+        "id": "14634",
+        "name": "3.5.19-build-2017081401",
+        "url": "https://moodle.org/plugins/download.php/14634/qformat_wordtable_moodle38_2016070206.zip"
+    },
+    {
+        "id": "14548",
+        "name": "3.5.18-build-20170806",
+        "url": "https://moodle.org/plugins/download.php/14548/qformat_wordtable_moodle31_2020080108.zip"
+    },
+    {
+        "id": "14049",
+        "name": "3.5.17-build-20170521",
+        "url": "https://moodle.org/plugins/download.php/14049/qformat_wordtable_moodle37_2016011001.zip"
+    },
+    {
+        "id": "12959",
+        "name": "3.5.15-build-20170105",
+        "url": "https://moodle.org/plugins/download.php/12959/qformat_wordtable_moodle26_2011120418.zip"
+    },
+    {
+        "id": "12876",
+        "name": "3.5.14-build-20161216",
+        "url": "https://moodle.org/plugins/download.php/12876/qformat_wordtable_moodle29_2019091120.zip"
+    },
+    {
+        "id": "12592",
+        "name": "3.5.13-build-20161114",
+        "url": "https://moodle.org/plugins/download.php/12592/qformat_wordtable_moodle26_2011110419.zip"
+    },
+    {
+        "id": "12536",
+        "name": "3.5.12-build-20161105",
+        "url": "https://moodle.org/plugins/download.php/12536/qformat_wordtable_moodle28_2010060109.zip"
+    },
+    {
+        "id": "12521",
+        "name": "3.5.11-build-20161102",
+        "url": "https://moodle.org/plugins/download.php/12521/qformat_wordtable_moodle29_2011050820.zip"
+    },
+    {
+        "id": "12512",
+        "name": "3.5.10-build-20161031",
+        "url": "https://moodle.org/plugins/download.php/12512/qformat_wordtable_moodle31_2014061218.zip"
+    },
+    {
+        "id": "12194",
+        "name": "3.5.9-build-20160909",
+        "url": "https://moodle.org/plugins/download.php/12194/qformat_wordtable_moodle30_2016120818.zip"
+    },
+    {
+        "id": "11532",
+        "name": "3.5.7-build-20160612",
+        "url": "https://moodle.org/plugins/download.php/11532/qformat_wordtable_moodle30_2014010906.zip"
+    },
+    {
+        "id": "10063",
+        "name": "3.5.1-build-20151215",
+        "url": "https://moodle.org/plugins/download.php/10063/qformat_wordtable_moodle35_2014040115.zip"
+    },
+    {
+        "id": "9424",
+        "name": "3.4.3-build-20150930",
+        "url": "https://moodle.org/plugins/download.php/9424/qformat_wordtable_moodle25_2023061108.zip"
+    }
+]

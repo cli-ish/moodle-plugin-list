@@ -1,0 +1,45 @@
+{
+    "id": 1174,
+    "index": 2073,
+    "name": "Vi like editor",
+    "frankenstyle": "editor_webvi",
+    "plugintype": {
+        "type": "editor",
+        "name": "Editor"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/editor_webvi",
+    "shortdescription": "This is vi for Moodle. No really - it works!\r\n\r\nWhy? Why not ?",
+    "timelastreleased": {
+        "absdate": "Friday, 9 December 2016, 9:33 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-09T09:33:30+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "1",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1174/IMG_20140704_232726.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1174/IMG_20140704_232726.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1174/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1337843,
+            "firstname": "Damyon",
+            "lastname": "Wiese",
+            "url": "https://moodle.org/user/profile.php?id=1337843"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

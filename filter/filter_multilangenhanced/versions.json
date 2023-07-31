@@ -1,0 +1,32 @@
+[
+    {
+        "id": "29447",
+        "name": "4.0.0-build-2023061403",
+        "url": "https://moodle.org/plugins/download.php/29447/filter_multilangenhanced_moodle32_2019111107.zip"
+    },
+    {
+        "id": "29446",
+        "name": "4.0.0-build-2023061402",
+        "url": "https://moodle.org/plugins/download.php/29446/filter_multilangenhanced_moodle38_2023040209.zip"
+    },
+    {
+        "id": "29445",
+        "name": "3.9.0-build-2023061401",
+        "url": "https://moodle.org/plugins/download.php/29445/filter_multilangenhanced_moodle40_2016050119.zip"
+    },
+    {
+        "id": "5994",
+        "name": "2.4.0-build-2012101000",
+        "url": "https://moodle.org/plugins/download.php/5994/filter_multilangenhanced_moodle28_2019060405.zip"
+    },
+    {
+        "id": "1875",
+        "name": "2.2.0-build-2012101000",
+        "url": "https://moodle.org/plugins/download.php/1875/filter_multilangenhanced_moodle29_2018031017.zip"
+    },
+    {
+        "id": "1876",
+        "name": "1.9.0-build-2012100900",
+        "url": "https://moodle.org/plugins/download.php/1876/filter_multilangenhanced_moodle28_2010090800.zip"
+    }
+]

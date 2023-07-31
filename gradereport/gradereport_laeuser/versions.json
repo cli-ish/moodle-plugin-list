@@ -1,0 +1,22 @@
+[
+    {
+        "id": "5753",
+        "name": "laeuser-2.5-2.6",
+        "url": "https://moodle.org/plugins/download.php/5753/gradereport_laeuser_moodle26_2021010305.zip"
+    },
+    {
+        "id": "5454",
+        "name": "2014022400",
+        "url": "https://moodle.org/plugins/download.php/5454/gradereport_laeuser_moodle27_2017071204.zip"
+    },
+    {
+        "id": "5405",
+        "name": "2014021600",
+        "url": "https://moodle.org/plugins/download.php/5405/gradereport_laeuser_moodle37_2018060912.zip"
+    },
+    {
+        "id": "5376",
+        "name": "2014020800",
+        "url": "https://moodle.org/plugins/download.php/5376/gradereport_laeuser_moodle40_2012010907.zip"
+    }
+]

@@ -1,0 +1,40 @@
+{
+    "id": 10,
+    "index": 347,
+    "name": "Navigation buttons",
+    "frankenstyle": "block_navbuttons",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_navbuttons",
+    "shortdescription": "Add customisable navigation buttons (next/prev/etc.) to the bottom of each activity page (Moodle 1.9/2.0+)",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 April 2023, 7:01 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-18T19:01:42+08:00"
+    },
+    "aggsites": "656",
+    "aggdownloads": "379",
+    "aggfavs": "43",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/10/navbuttons-screenshot.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/10/navbuttons-screenshot.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/10/navbuttons-screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 81,
+    "index": 1330,
+    "name": "Calculated Objects",
+    "frankenstyle": "qtype_calculatedobjects",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_calculatedobjects",
+    "shortdescription": "This a Moodle question type which extends the built-in 'calculated' question type. Teachers can create questions like,\r\n\r\n How much is {apples} + {oranges}",
+    "timelastreleased": {
+        "absdate": "Friday, 15 June 2012, 5:50 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-15T05:50:33+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "18",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/81/icon-120.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/81/icon-120.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/81/mdl-q-calcobjects-5a-sub-green.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93815,
+            "firstname": "Nick",
+            "lastname": "Freear",
+            "url": "https://moodle.org/user/profile.php?id=93815"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

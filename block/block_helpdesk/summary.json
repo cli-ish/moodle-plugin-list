@@ -1,0 +1,63 @@
+{
+    "id": 548,
+    "index": 1253,
+    "name": "Help Desk",
+    "frankenstyle": "block_helpdesk",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_helpdesk",
+    "shortdescription": "Moodle help desk block to facilitate technical support within Moodle.",
+    "timelastreleased": {
+        "absdate": "Saturday, 31 May 2014, 1:40 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-31T01:40:10+08:00"
+    },
+    "aggsites": "221",
+    "aggdownloads": "22",
+    "aggfavs": "20",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/548/ticket.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 827113,
+            "firstname": "Jonathan",
+            "lastname": "Doane",
+            "url": "https://moodle.org/user/profile.php?id=827113"
+        },
+        {
+            "id": 82371,
+            "firstname": "Matt",
+            "lastname": "Oquist",
+            "url": "https://moodle.org/user/profile.php?id=82371"
+        },
+        {
+            "id": 1315150,
+            "firstname": "David",
+            "lastname": "Zaharee",
+            "url": "https://moodle.org/user/profile.php?id=1315150"
+        },
+        {
+            "id": 542994,
+            "firstname": "J\u00e9r\u00f4me",
+            "lastname": "Mouneyrac",
+            "url": "https://moodle.org/user/profile.php?id=542994"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

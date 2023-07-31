@@ -1,0 +1,45 @@
+{
+    "id": 724,
+    "index": 846,
+    "name": "Shared Resources Center",
+    "frankenstyle": "local_sharedresources",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_sharedresources",
+    "shortdescription": "This additional component provides Moodle with a sote level Library front end, for exploring searching or browsing common pool of public resources, using a rich metadata based search engine.  ",
+    "timelastreleased": {
+        "absdate": "Sunday, 20 November 2022, 5:22 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-20T17:22:51+08:00"
+    },
+    "aggsites": "27",
+    "aggdownloads": "114",
+    "aggfavs": "21",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/724/resource_library.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

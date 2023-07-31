@@ -1,0 +1,45 @@
+{
+    "id": 14,
+    "index": 833,
+    "name": "UploadPDF",
+    "frankenstyle": "assignment_uploadpdf",
+    "plugintype": {
+        "type": "assignment",
+        "name": "Assignment / Legacy plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignment_uploadpdf",
+    "shortdescription": "Annotate student's work within your browser and return it as a PDF",
+    "timelastreleased": {
+        "absdate": "Saturday, 2 March 2013, 5:25 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-02T05:25:01+08:00"
+    },
+    "aggsites": "80",
+    "aggdownloads": "117",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/14/uploadpdf.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/14/uploadpdf.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/14/uploadpdf.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

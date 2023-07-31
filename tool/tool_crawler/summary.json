@@ -1,0 +1,71 @@
+{
+    "id": 1670,
+    "index": 1057,
+    "name": "Link crawler robot",
+    "frankenstyle": "tool_crawler",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_crawler",
+    "shortdescription": "An admin tool robot crawler which scans your moodle for broken, large or slow links.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 October 2020, 11:42 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-10-13T11:42:04+08:00"
+    },
+    "aggsites": "138",
+    "aggdownloads": "43",
+    "aggfavs": "33",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1670/spider.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1670/spider.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1670/1%20Settings?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1670/2%20Crawler%20status?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1670/3%20Recent%20urls?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1670/4%20URL%20details?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        },
+        {
+            "id": 2132462,
+            "firstname": "Daniel",
+            "lastname": "Thee Roperto",
+            "url": "https://moodle.org/user/profile.php?id=2132462"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

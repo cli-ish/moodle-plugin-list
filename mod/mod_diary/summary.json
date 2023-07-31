@@ -1,0 +1,62 @@
+{
+    "id": 2541,
+    "index": 241,
+    "name": "Diary",
+    "frankenstyle": "mod_diary",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_diary",
+    "shortdescription": "Diary is a very advanced version of the Journal plugin. The most notable addition is the capability to make multiple entries per day, and do so on multiple days. This allows students to revise their writing while retaining the original version. The addition of statistics with auto rating for any min/max combination of characters, words, sentences, or paragraphs also helps to track revision progress of a students writing. The activity can be set to use multiple, time released, writing prompts with each one having it's own auto-rating settings.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 10 May 2023, 1:20 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-10T01:20:25+08:00"
+    },
+    "aggsites": "738",
+    "aggdownloads": "520",
+    "aggfavs": "32",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2541/monologo.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2541/monologo.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2541/1DiarySetup.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2541/2Studentfirstview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2541/3Studenteditingentry.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2541/4Studententryview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2541/5Teacherratingview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2541/6Studentcaneditmultipletimes.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2541/7Teacherratingallentriesforsingleuser.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2541/JournaltoDiaryxfr.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 94615,
+            "firstname": "AL",
+            "lastname": "Rachels",
+            "url": "https://moodle.org/user/profile.php?id=94615"
+        }
+    ],
+    "descriptors": []
+}

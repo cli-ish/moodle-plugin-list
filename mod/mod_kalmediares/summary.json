@@ -1,0 +1,44 @@
+{
+    "id": 1942,
+    "index": 567,
+    "name": "YU Kaltura Media Resource",
+    "frankenstyle": "mod_kalmediares",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_kalmediares",
+    "shortdescription": "Media Resource plugin for third-party's non-KAF \"YU Kaltura Media Package\"",
+    "timelastreleased": {
+        "absdate": "Friday, 20 January 2023, 8:52 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-20T20:52:41+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "208",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1942/plugin_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1942/plugin_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1942/screenshot_kalmediares_01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1942/screenshot_kalmediares_02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2038985,
+            "firstname": "Tomoya",
+            "lastname": "Saito",
+            "url": "https://moodle.org/user/profile.php?id=2038985"
+        }
+    ],
+    "descriptors": []
+}

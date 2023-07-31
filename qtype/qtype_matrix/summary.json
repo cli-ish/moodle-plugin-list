@@ -1,0 +1,51 @@
+{
+    "id": 264,
+    "index": 276,
+    "name": "Matrix question",
+    "frankenstyle": "qtype_matrix",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_matrix",
+    "shortdescription": "Matrix question type. ",
+    "timelastreleased": {
+        "absdate": "Monday, 31 July 2023, 9:24 PM",
+        "reldate": "2 hours",
+        "iso8601date": "2023-07-31T21:24:50+08:00"
+    },
+    "aggsites": "1269",
+    "aggdownloads": "467",
+    "aggfavs": "39",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/264/kprime%20-%20screen%20shot%201.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1433422,
+            "firstname": "Laurent",
+            "lastname": "Opprecht",
+            "url": "https://moodle.org/user/profile.php?id=1433422"
+        },
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

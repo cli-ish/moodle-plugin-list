@@ -1,0 +1,22 @@
+[
+    {
+        "id": "23176",
+        "name": "1.1.2",
+        "url": "https://moodle.org/plugins/download.php/23176/auth_emailotp_moodle34_2015020402.zip"
+    },
+    {
+        "id": "22971",
+        "name": "1.1.1",
+        "url": "https://moodle.org/plugins/download.php/22971/auth_emailotp_moodle27_2019020508.zip"
+    },
+    {
+        "id": "22915",
+        "name": "1.1.0",
+        "url": "https://moodle.org/plugins/download.php/22915/auth_emailotp_moodle39_2013100215.zip"
+    },
+    {
+        "id": "22855",
+        "name": "1.0.2",
+        "url": "https://moodle.org/plugins/download.php/22855/auth_emailotp_moodle36_2018030611.zip"
+    }
+]

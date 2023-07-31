@@ -1,0 +1,44 @@
+{
+    "id": 3053,
+    "index": 620,
+    "name": "Restriction by time",
+    "frankenstyle": "availability_time",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_time",
+    "shortdescription": "Restrict activities / sections to a time period",
+    "timelastreleased": {
+        "absdate": "Monday, 6 February 2023, 4:22 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-06T04:22:21+08:00"
+    },
+    "aggsites": "103",
+    "aggdownloads": "184",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3053/availability_time-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3053/availability_time-2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4332228,
+            "firstname": "Stefan",
+            "lastname": "Hanauska",
+            "url": "https://moodle.org/user/profile.php?id=4332228"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,63 @@
+{
+    "id": 1157,
+    "index": 2125,
+    "name": "MediaCore Repository File Picker",
+    "frankenstyle": "repository_mediacore",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_mediacore",
+    "shortdescription": "Provides a custom 'repository' file picker as part of Moodle's built-in media integration.",
+    "timelastreleased": {
+        "absdate": "Friday, 20 June 2014, 4:02 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-20T04:02:01+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": null,
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1157/mediacore_logo_90x90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1157/mediacore_logo_90x90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1157/Screen_Shot_2014-06-24_at_9.43.59_AM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1157/Screen-Shot-2014-06-24-at-9.42.13-AM.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1437567,
+            "firstname": "MediaCore",
+            "lastname": "Support",
+            "url": "https://moodle.org/user/profile.php?id=1437567"
+        },
+        {
+            "id": 1572219,
+            "firstname": "Derek",
+            "lastname": "Harnanansingh",
+            "url": "https://moodle.org/user/profile.php?id=1572219"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

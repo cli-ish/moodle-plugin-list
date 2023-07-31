@@ -1,0 +1,58 @@
+{
+    "id": 179,
+    "index": 1278,
+    "name": "Quickfind List",
+    "frankenstyle": "block_quickfindlist",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quickfindlist",
+    "shortdescription": "Quick Find List Block for Moodle\r\n\r\nThis block allows quick searching of users from a block, and displays a configurable link for\r\neach search result",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 February 2018, 4:28 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-02-06T04:28:42+08:00"
+    },
+    "aggsites": "277",
+    "aggdownloads": "20",
+    "aggfavs": "19",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/179/quickfindlist2.jpeg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/179/quickfindlist2.jpeg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/179/quickfindlist1.jpeg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/179/quickfindlist2.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/179/quickfindlist3.jpeg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 858318,
+            "firstname": "Mark",
+            "lastname": "Johnson",
+            "url": "https://moodle.org/user/profile.php?id=858318"
+        },
+        {
+            "id": 1468589,
+            "firstname": "Ray",
+            "lastname": "Morris",
+            "url": "https://moodle.org/user/profile.php?id=1468589"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

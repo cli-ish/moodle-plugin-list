@@ -1,0 +1,67 @@
+[
+    {
+        "id": "26931",
+        "name": "3.0-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/26931/report_editdates_moodle34_2013051211.zip"
+    },
+    {
+        "id": "23127",
+        "name": "2.9-for-moodle-3.7",
+        "url": "https://moodle.org/plugins/download.php/23127/report_editdates_moodle40_2023081217.zip"
+    },
+    {
+        "id": "20557",
+        "name": "2.8-for-moodle-3.5",
+        "url": "https://moodle.org/plugins/download.php/20557/report_editdates_moodle37_2020020318.zip"
+    },
+    {
+        "id": "18314",
+        "name": "2.7-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/18314/report_editdates_moodle35_2011070400.zip"
+    },
+    {
+        "id": "11905",
+        "name": "2.5-for-moodle-3.0",
+        "url": "https://moodle.org/plugins/download.php/11905/report_editdates_moodle37_2013080920.zip"
+    },
+    {
+        "id": "10056",
+        "name": "2.4-for-moodle-2.7",
+        "url": "https://moodle.org/plugins/download.php/10056/report_editdates_moodle34_2022080120.zip"
+    },
+    {
+        "id": "5233",
+        "name": "2.2-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/5233/report_editdates_moodle28_2012010200.zip"
+    },
+    {
+        "id": "4014",
+        "name": "2.1-for-moodle-2.2-2.4",
+        "url": "https://moodle.org/plugins/download.php/4014/report_editdates_moodle25_2013020304.zip"
+    },
+    {
+        "id": "17618",
+        "name": "2.6-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/17618/report_editdates_moodle27_2013030820.zip"
+    },
+    {
+        "id": "7239",
+        "name": "2.3-for-moodle-2.7",
+        "url": "https://moodle.org/plugins/download.php/7239/report_editdates_moodle28_2013111210.zip"
+    },
+    {
+        "id": "3759",
+        "name": "2.1-for-moodle-2.2",
+        "url": "https://moodle.org/plugins/download.php/3759/report_editdates_moodle26_2012040119.zip"
+    },
+    {
+        "id": "1152",
+        "name": "v2",
+        "url": "https://moodle.org/plugins/download.php/1152/report_editdates_moodle28_2013011216.zip"
+    },
+    {
+        "id": "813",
+        "name": "2011051801",
+        "url": "https://moodle.org/plugins/download.php/813/report_editdates_moodle39_2012060405.zip"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "25505",
+        "name": "2.12.3",
+        "url": "https://moodle.org/plugins/download.php/25505/local_mootivated_moodle29_2021040600.zip"
+    },
+    {
+        "id": "24329",
+        "name": "2.11.0",
+        "url": "https://moodle.org/plugins/download.php/24329/local_mootivated_moodle25_2013040407.zip"
+    },
+    {
+        "id": "23424",
+        "name": "2.10.0",
+        "url": "https://moodle.org/plugins/download.php/23424/local_mootivated_moodle40_2017110411.zip"
+    },
+    {
+        "id": "23232",
+        "name": "2.9.1",
+        "url": "https://moodle.org/plugins/download.php/23232/local_mootivated_moodle29_2012010111.zip"
+    },
+    {
+        "id": "22156",
+        "name": "2.8.1",
+        "url": "https://moodle.org/plugins/download.php/22156/local_mootivated_moodle36_2018011119.zip"
+    },
+    {
+        "id": "22138",
+        "name": "2.7.0",
+        "url": "https://moodle.org/plugins/download.php/22138/local_mootivated_moodle26_2013070200.zip"
+    }
+]

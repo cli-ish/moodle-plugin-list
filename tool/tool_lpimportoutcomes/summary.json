@@ -1,0 +1,47 @@
+{
+    "id": 1660,
+    "index": 1938,
+    "name": "Migrate outcomes to a competency framework",
+    "frankenstyle": "tool_lpimportoutcomes",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_lpimportoutcomes",
+    "shortdescription": " Tool to import outcomes into a competency framework.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 June 2016, 11:03 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-06-21T11:03:41+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "3",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1660/Screenshot%20from%202016-06-27%20115137.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1660/Screenshot%20from%202016-06-27%20115234.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1660/Screenshot%20from%202016-06-27%20115335.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        }
+    ],
+    "descriptors": []
+}

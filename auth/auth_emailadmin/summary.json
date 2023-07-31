@@ -1,0 +1,49 @@
+{
+    "id": 549,
+    "index": 188,
+    "name": "Email-based self-registration with admin confirmation",
+    "frankenstyle": "auth_emailadmin",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_emailadmin",
+    "shortdescription": "Provides email-based self-registration with admin confirmation instead of user confirmation.",
+    "timelastreleased": {
+        "absdate": "Friday, 1 October 2021, 9:44 AM",
+        "reldate": "22 months",
+        "iso8601date": "2021-10-01T09:44:31+08:00"
+    },
+    "aggsites": "1451",
+    "aggdownloads": "663",
+    "aggfavs": "120",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/549/screenshot1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/549/screenshot2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1532864,
+            "firstname": "Felipe",
+            "lastname": "Carasso",
+            "url": "https://moodle.org/user/profile.php?id=1532864"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

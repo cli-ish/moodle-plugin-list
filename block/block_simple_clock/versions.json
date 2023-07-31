@@ -1,0 +1,17 @@
+[
+    {
+        "id": "16059",
+        "name": "version-for-moodle-2.9-onwards",
+        "url": "https://moodle.org/plugins/download.php/16059/block_simple_clock_moodle39_2015040906.zip"
+    },
+    {
+        "id": "7064",
+        "name": "version-for-moodle-2.0-to-2.8",
+        "url": "https://moodle.org/plugins/download.php/7064/block_simple_clock_moodle38_2020110119.zip"
+    },
+    {
+        "id": "2",
+        "name": "version-for-moodle-1.9",
+        "url": "https://moodle.org/plugins/download.php/2/block_simple_clock_moodle25_2015120906.zip"
+    }
+]

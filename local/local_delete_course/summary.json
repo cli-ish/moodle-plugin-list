@@ -1,0 +1,47 @@
+{
+    "id": 2744,
+    "index": 1906,
+    "name": "Delete course",
+    "frankenstyle": "local_delete_course",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_delete_course",
+    "shortdescription": "This local plugin allows edit teachers to delete their courses. It adds an option in course admin menu.",
+    "timelastreleased": {
+        "absdate": "Friday, 6 August 2021, 4:24 PM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-06T16:24:36+08:00"
+    },
+    "aggsites": "40",
+    "aggdownloads": "3",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2744/Captura%20de%20Tela%202021-06-21%20a%CC%80s%2010.23.03.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2744/Captura%20de%20Tela%202021-06-21%20a%CC%80s%2010.23.38.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2744/Captura%20de%20Tela%202021-06-21%20a%CC%80s%2010.24.05.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1517181,
+            "firstname": "Marcelo",
+            "lastname": "Schmitt",
+            "url": "https://moodle.org/user/profile.php?id=1517181"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 1284,
+    "index": 1224,
+    "name": "a2fa QR code input",
+    "frankenstyle": "profilefield_afaqr",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_afaqr",
+    "shortdescription": "A QR field for the A2FA plugin (Another 2-Factor Authentication)",
+    "timelastreleased": {
+        "absdate": "Sunday, 23 November 2014, 3:53 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-11-23T15:53:37+08:00"
+    },
+    "aggsites": "218",
+    "aggdownloads": "24",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1284/Screen%20Shot%202014-11-05%20at%207.23.20%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1878626,
+            "firstname": "Sam",
+            "lastname": "Battat",
+            "url": "https://moodle.org/user/profile.php?id=1878626"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

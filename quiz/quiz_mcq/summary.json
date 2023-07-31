@@ -1,0 +1,45 @@
+{
+    "id": 769,
+    "index": 1254,
+    "name": "MCQ breakdown",
+    "frankenstyle": "quiz_mcq",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_mcq",
+    "shortdescription": "Provides a tabular breakdown of results for quizzes containing MCQs.",
+    "timelastreleased": {
+        "absdate": "Saturday, 14 December 2019, 12:41 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-12-14T00:41:48+08:00"
+    },
+    "aggsites": "187",
+    "aggdownloads": "22",
+    "aggfavs": "28",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/769/mcq_screen.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 62931,
+            "firstname": "Steve",
+            "lastname": "Bond",
+            "url": "https://moodle.org/user/profile.php?id=62931"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

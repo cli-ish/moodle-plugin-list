@@ -1,0 +1,59 @@
+{
+    "id": 1264,
+    "index": 986,
+    "name": "A2FA (Another 2-Factor Auth)",
+    "frankenstyle": "auth_a2fa",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_a2fa",
+    "shortdescription": "Two-factor authentication method. Using Google Authentication mobile app",
+    "timelastreleased": {
+        "absdate": "Sunday, 28 July 2019, 4:24 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-07-28T16:24:49+08:00"
+    },
+    "aggsites": "197",
+    "aggdownloads": "60",
+    "aggfavs": "26",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1264/Screen%20Shot%202014-11-05%20at%207.23.20%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1264/Screen%20Shot%202014-11-05%20at%207.23.50%20PM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1878626,
+            "firstname": "Sam",
+            "lastname": "Battat",
+            "url": "https://moodle.org/user/profile.php?id=1878626"
+        },
+        {
+            "id": 542994,
+            "firstname": "J\u00e9r\u00f4me",
+            "lastname": "Mouneyrac",
+            "url": "https://moodle.org/user/profile.php?id=542994"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

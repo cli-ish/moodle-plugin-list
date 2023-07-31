@@ -1,0 +1,27 @@
+[
+    {
+        "id": "14567",
+        "name": "2.0.1",
+        "url": "https://moodle.org/plugins/download.php/14567/format_mindmap_moodle38_2015020407.zip"
+    },
+    {
+        "id": "8335",
+        "name": "1.1.3",
+        "url": "https://moodle.org/plugins/download.php/8335/format_mindmap_moodle27_2015040911.zip"
+    },
+    {
+        "id": "14379",
+        "name": "2.0",
+        "url": "https://moodle.org/plugins/download.php/14379/format_mindmap_moodle33_2022030603.zip"
+    },
+    {
+        "id": "10316",
+        "name": "1.1.5.2",
+        "url": "https://moodle.org/plugins/download.php/10316/format_mindmap_moodle31_2015010613.zip"
+    },
+    {
+        "id": "9769",
+        "name": "1.1.5.1",
+        "url": "https://moodle.org/plugins/download.php/9769/format_mindmap_moodle30_2023060720.zip"
+    }
+]

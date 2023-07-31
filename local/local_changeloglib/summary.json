@@ -1,0 +1,56 @@
+{
+    "id": 1920,
+    "index": 1766,
+    "name": "Changelog Lib",
+    "frankenstyle": "local_changeloglib",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_changeloglib",
+    "shortdescription": "This plugin provides helper methods to handle the backup process of files which are required for a changelog generation.",
+    "timelastreleased": {
+        "absdate": "Sunday, 24 January 2021, 10:20 PM",
+        "reldate": "3 years",
+        "iso8601date": "2021-01-24T22:20:22+08:00"
+    },
+    "aggsites": "54",
+    "aggdownloads": "5",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1920/changeloglib_backuplib.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1920/changeloglib_diffdetector.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1920/changeloglib_pdftotext.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1920/changeloglib_update_detector.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2289236,
+            "firstname": "Hendrik",
+            "lastname": "W\u00fcrz",
+            "url": "https://moodle.org/user/profile.php?id=2289236"
+        },
+        {
+            "id": 1484403,
+            "firstname": "Guido",
+            "lastname": "Roessling",
+            "url": "https://moodle.org/user/profile.php?id=1484403"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 194,
+    "index": 1584,
+    "name": "Auto Black",
+    "frankenstyle": "theme_autoblack",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_autoblack",
+    "shortdescription": "Auto Black moodle template is tested on moodle 2.0 or above, It has a dark background and simple design. ",
+    "timelastreleased": {
+        "absdate": "Saturday, 28 January 2012, 10:31 PM",
+        "reldate": "12 years",
+        "iso8601date": "2012-01-28T22:31:13+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "9",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/194/aublack.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/194/aublack.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/194/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1407462,
+            "firstname": "Jack",
+            "lastname": "Zhou",
+            "url": "https://moodle.org/user/profile.php?id=1407462"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

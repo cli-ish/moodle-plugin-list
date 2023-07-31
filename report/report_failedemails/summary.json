@@ -1,0 +1,40 @@
+{
+    "id": 3106,
+    "index": 702,
+    "name": "Failed emails",
+    "frankenstyle": "report_failedemails",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_failedemails",
+    "shortdescription": "Plugin generates a report of failed emails due to various reasons. A very simple report where you can see which emails failed for which user at what time with email subject and message.",
+    "timelastreleased": {
+        "absdate": "Monday, 3 April 2023, 4:00 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-03T04:00:44+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "148",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3106/Capture.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 5378593,
+            "firstname": "Krishna Mohan",
+            "lastname": "Prasad",
+            "url": "https://moodle.org/user/profile.php?id=5378593"
+        }
+    ],
+    "descriptors": []
+}

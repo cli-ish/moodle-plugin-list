@@ -1,0 +1,47 @@
+{
+    "id": 415,
+    "index": 1310,
+    "name": "Login as",
+    "frankenstyle": "local_loginas",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_loginas",
+    "shortdescription": "A local plugin that allows admin to add a list of loginas action links to the settings block.",
+    "timelastreleased": {
+        "absdate": "Monday, 6 February 2017, 11:38 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-02-06T11:38:09+08:00"
+    },
+    "aggsites": "154",
+    "aggdownloads": "18",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/415/logo.PNG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/415/logo.PNG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/415/configuration-settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/415/courseusers-ajax-list.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/415/courseusers-setting-link.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 150168,
+            "firstname": "Itamar",
+            "lastname": "Tzadok",
+            "url": "https://moodle.org/user/profile.php?id=150168"
+        }
+    ],
+    "descriptors": []
+}

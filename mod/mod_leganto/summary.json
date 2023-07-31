@@ -1,0 +1,53 @@
+{
+    "id": 1945,
+    "index": 592,
+    "name": "Leganto reading list",
+    "frankenstyle": "mod_leganto",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_leganto",
+    "shortdescription": "The Leganto reading list module enables a teacher to include a selection of citations from associated Leganto reading lists directly within the content of their course. Please note that this integration plugin depends on a paid subscription to the ExLibris Leganto reading lists service (see http://www.exlibrisgroup.com/category/Leganto for details).",
+    "timelastreleased": {
+        "absdate": "Thursday, 2 June 2022, 12:42 AM",
+        "reldate": "14 months",
+        "iso8601date": "2022-06-02T00:42:24+08:00"
+    },
+    "aggsites": "37",
+    "aggdownloads": "198",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1945/leganto_large.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1945/leganto_large.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1945/config.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1945/embedded.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1945/separate.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 41888,
+            "firstname": "Tony",
+            "lastname": "Butler",
+            "url": "https://moodle.org/user/profile.php?id=41888"
+        },
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        }
+    ],
+    "descriptors": []
+}

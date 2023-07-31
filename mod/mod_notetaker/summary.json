@@ -1,0 +1,44 @@
+{
+    "id": 2536,
+    "index": 1404,
+    "name": "Notetaker",
+    "frankenstyle": "mod_notetaker",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_notetaker",
+    "shortdescription": "A simple notetaker activity that allows a student to create notes within a course. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 December 2020, 1:24 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-12-30T01:24:49+08:00"
+    },
+    "aggsites": "122",
+    "aggdownloads": "14",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2536/notetaker_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2536/notetaker_2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1959466,
+            "firstname": "Joanna",
+            "lastname": "Beaver",
+            "url": "https://moodle.org/user/profile.php?id=1959466"
+        }
+    ],
+    "descriptors": []
+}

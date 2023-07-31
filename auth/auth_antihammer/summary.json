@@ -1,0 +1,51 @@
+{
+    "id": 1522,
+    "index": 453,
+    "name": "Anti-hammering / Login blocker",
+    "frankenstyle": "auth_antihammer",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_antihammer",
+    "shortdescription": "The Sebsoft Anti Hammering Authentication Plugin offers you the possibility to prevent hammering your login system.\r\nThis plugin can be configured to \"smart detect\" so called hammering on IP basis or for users in general.",
+    "timelastreleased": {
+        "absdate": "Monday, 3 October 2022, 3:58 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-10-03T15:58:10+08:00"
+    },
+    "aggsites": "207",
+    "aggdownloads": "264",
+    "aggfavs": "21",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1522/settings.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1880313,
+            "firstname": "Sebsoft",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=1880313"
+        },
+        {
+            "id": 1911653,
+            "firstname": "Rogier",
+            "lastname": "van Dongen",
+            "url": "https://moodle.org/user/profile.php?id=1911653"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

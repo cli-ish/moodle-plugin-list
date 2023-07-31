@@ -1,0 +1,53 @@
+{
+    "id": 1978,
+    "index": 921,
+    "name": "Course completion overview",
+    "frankenstyle": "report_completionoverview",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_completionoverview",
+    "shortdescription": "The course completion overview report is a simple reporting tool based on the existing course completion report. This plugin allows the Moodle Admin and system level Managers to view course completion tracking information from a centralised location rather than having to access each course individually.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 November 2017, 11:37 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-11-22T23:37:07+08:00"
+    },
+    "aggsites": "851",
+    "aggdownloads": "83",
+    "aggfavs": "32",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1978/google.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1978/google.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1978/completion-1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1978/completion-2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1978/completion-3.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1959151,
+            "firstname": "Jim",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=1959151"
+        },
+        {
+            "id": 1827890,
+            "firstname": "Ian",
+            "lastname": "F",
+            "url": "https://moodle.org/user/profile.php?id=1827890"
+        }
+    ],
+    "descriptors": []
+}

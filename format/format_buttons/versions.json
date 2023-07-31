@@ -1,0 +1,117 @@
+[
+    {
+        "id": "28551",
+        "name": "4.x",
+        "url": "https://moodle.org/plugins/download.php/28551/format_buttons_moodle30_2014010705.zip"
+    },
+    {
+        "id": "22121",
+        "name": "3.x",
+        "url": "https://moodle.org/plugins/download.php/22121/format_buttons_moodle29_2016040815.zip"
+    },
+    {
+        "id": "17251",
+        "name": "2.x",
+        "url": "https://moodle.org/plugins/download.php/17251/format_buttons_moodle38_2018121104.zip"
+    },
+    {
+        "id": "20380",
+        "name": "build-2019100701",
+        "url": "https://moodle.org/plugins/download.php/20380/format_buttons_moodle40_2022121206.zip"
+    },
+    {
+        "id": "20379",
+        "name": "build-2019100700",
+        "url": "https://moodle.org/plugins/download.php/20379/format_buttons_moodle38_2014120210.zip"
+    },
+    {
+        "id": "20362",
+        "name": "build-2019100200",
+        "url": "https://moodle.org/plugins/download.php/20362/format_buttons_moodle27_2016061207.zip"
+    },
+    {
+        "id": "17247",
+        "name": "build-2018062600",
+        "url": "https://moodle.org/plugins/download.php/17247/format_buttons_moodle28_2011060114.zip"
+    },
+    {
+        "id": "16165",
+        "name": "build-2018022400",
+        "url": "https://moodle.org/plugins/download.php/16165/format_buttons_moodle37_2011070319.zip"
+    },
+    {
+        "id": "16158",
+        "name": "build-2018022200",
+        "url": "https://moodle.org/plugins/download.php/16158/format_buttons_moodle31_2011031218.zip"
+    },
+    {
+        "id": "16100",
+        "name": "build-2018022100",
+        "url": "https://moodle.org/plugins/download.php/16100/format_buttons_moodle37_2012121212.zip"
+    },
+    {
+        "id": "15572",
+        "name": "build-2017120700",
+        "url": "https://moodle.org/plugins/download.php/15572/format_buttons_moodle40_2015100607.zip"
+    },
+    {
+        "id": "15559",
+        "name": "build-2017120500",
+        "url": "https://moodle.org/plugins/download.php/15559/format_buttons_moodle37_2018080308.zip"
+    },
+    {
+        "id": "14387",
+        "name": "build-2017071000",
+        "url": "https://moodle.org/plugins/download.php/14387/format_buttons_moodle36_2010021100.zip"
+    },
+    {
+        "id": "14368",
+        "name": "build-2017070700",
+        "url": "https://moodle.org/plugins/download.php/14368/format_buttons_moodle38_2016050309.zip"
+    },
+    {
+        "id": "14311",
+        "name": "build-2017062800",
+        "url": "https://moodle.org/plugins/download.php/14311/format_buttons_moodle26_2013060209.zip"
+    },
+    {
+        "id": "13881",
+        "name": "build-2017051100",
+        "url": "https://moodle.org/plugins/download.php/13881/format_buttons_moodle32_2013091004.zip"
+    },
+    {
+        "id": "13811",
+        "name": "build-2017050700",
+        "url": "https://moodle.org/plugins/download.php/13811/format_buttons_moodle39_2018110509.zip"
+    },
+    {
+        "id": "13809",
+        "name": "build-2017050616",
+        "url": "https://moodle.org/plugins/download.php/13809/format_buttons_moodle26_2022070714.zip"
+    },
+    {
+        "id": "13808",
+        "name": "build-2017050600",
+        "url": "https://moodle.org/plugins/download.php/13808/format_buttons_moodle26_2018110912.zip"
+    },
+    {
+        "id": "12195",
+        "name": "build-2016091100",
+        "url": "https://moodle.org/plugins/download.php/12195/format_buttons_moodle34_2022120403.zip"
+    },
+    {
+        "id": "12002",
+        "name": "build-2016081700",
+        "url": "https://moodle.org/plugins/download.php/12002/format_buttons_moodle32_2011070506.zip"
+    },
+    {
+        "id": "11877",
+        "name": "build-2016073000",
+        "url": "https://moodle.org/plugins/download.php/11877/format_buttons_moodle39_2018090219.zip"
+    },
+    {
+        "id": "11864",
+        "name": "build-2016072700",
+        "url": "https://moodle.org/plugins/download.php/11864/format_buttons_moodle30_2019090818.zip"
+    }
+]

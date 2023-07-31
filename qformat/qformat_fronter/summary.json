@@ -1,0 +1,45 @@
+{
+    "id": 1270,
+    "index": 2066,
+    "name": "Fronter",
+    "frankenstyle": "qformat_fronter",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_fronter",
+    "shortdescription": "Moodle question import format to import questions saved as an XML file from the Fronter LMS into Moodle",
+    "timelastreleased": {
+        "absdate": "Wednesday, 6 March 2019, 8:46 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-03-06T20:46:45+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "1",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1270/import_questions.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 8026,
+            "firstname": "Jean-Michel",
+            "lastname": "V\u00e9drine",
+            "url": "https://moodle.org/user/profile.php?id=8026"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

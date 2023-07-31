@@ -1,0 +1,65 @@
+{
+    "id": 2118,
+    "index": 1240,
+    "name": "Remaining Lesson Timer",
+    "frankenstyle": "block_remaining_lesson_timer",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_remaining_lesson_timer",
+    "shortdescription": "Block for displaying the elapsed and remaining time in a timed lesson ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 October 2018, 4:08 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-10-30T04:08:47+08:00"
+    },
+    "aggsites": "98",
+    "aggdownloads": "23",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2118/moodle-2.x-lesson-time-limit-setting.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2118/RLT-3.5-screenshot-2018-07-11--14-03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2118/RLT-3.5-screenshot-2018-09-18--00-15-01.355Z.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2118/RTL-3.5-screenshot-2018-09-19--13-32-47.073Z.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2118/RTL-3.5-screenshot-2018-09-19--13-34-47.941Z.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2118/RTL-3.5-screenshot-2018-09-19--13-43-10.647Z.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2118/RTL-screenshot-2018-09-18--10-30-40.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2118/RTL-screenshot-2018-10-03--17-52-48.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2118/RTL-screenshot-2018-10-04--00-15-45.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 314570,
+            "firstname": "Greg",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=314570"
+        }
+    ],
+    "descriptors": []
+}

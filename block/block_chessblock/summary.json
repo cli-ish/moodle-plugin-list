@@ -1,0 +1,40 @@
+{
+    "id": 1726,
+    "index": 1211,
+    "name": "ChessBlock",
+    "frankenstyle": "block_chessblock",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_chessblock",
+    "shortdescription": "Chess game.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 2 November 2016, 11:22 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-11-02T23:22:33+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "26",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1726/f2c39743ab8457eb9124df0f0404439a.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2128471,
+            "firstname": "Ardit",
+            "lastname": "Dika",
+            "url": "https://moodle.org/user/profile.php?id=2128471"
+        }
+    ],
+    "descriptors": []
+}

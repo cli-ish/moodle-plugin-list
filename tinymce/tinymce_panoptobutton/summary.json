@@ -1,0 +1,49 @@
+{
+    "id": 1773,
+    "index": 971,
+    "name": "Panopto Button - TinyMCE",
+    "frankenstyle": "tinymce_panoptobutton",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_panoptobutton",
+    "shortdescription": "Adds a button in tinyMCE to embed videos from a panopto server. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 September 2022, 1:06 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-08T01:06:33+08:00"
+    },
+    "aggsites": "225",
+    "aggdownloads": "63",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1773/logo.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1773/logo.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1773/panoptoTinyMCE.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2151851,
+            "firstname": "joseph",
+            "lastname": "malmsten",
+            "url": "https://moodle.org/user/profile.php?id=2151851"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

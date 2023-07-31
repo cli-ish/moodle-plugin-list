@@ -1,0 +1,59 @@
+{
+    "id": 668,
+    "index": 1170,
+    "name": "Multiple Enrollments",
+    "frankenstyle": "local_multiple_enrollments",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_multiple_enrollments",
+    "shortdescription": "Plugin that provides single screen to enrol/unenrol multiple users and courses in just a few clicks.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 March 2013, 1:07 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-26T13:07:43+08:00"
+    },
+    "aggsites": "125",
+    "aggdownloads": "29",
+    "aggfavs": "20",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/668/Im1-Location-Admin-Menu.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/668/Im2-New-Enrollment.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/668/Im3-Existing-Enrollment.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/668/Im4-Screen-After-Assign.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 61524,
+            "firstname": "Livetek Software",
+            "lastname": "Consulting Services",
+            "url": "https://moodle.org/user/profile.php?id=61524"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

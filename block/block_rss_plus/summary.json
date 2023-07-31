@@ -1,0 +1,49 @@
+{
+    "id": 289,
+    "index": 1327,
+    "name": "RSS Plus",
+    "frankenstyle": "block_rss_plus",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_rss_plus",
+    "shortdescription": "A slightly more visually appealing RSS News Feed block for Moodle 2.0+ ",
+    "timelastreleased": {
+        "absdate": "Friday, 26 August 2016, 11:31 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-26T23:31:09+08:00"
+    },
+    "aggsites": "35",
+    "aggdownloads": "18",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/289/RSS_Plus_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/289/RSS_Plus_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/289/rss_plus_screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 299683,
+            "firstname": "Shaun",
+            "lastname": "Daubney",
+            "url": "https://moodle.org/user/profile.php?id=299683"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

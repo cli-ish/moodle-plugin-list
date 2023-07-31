@@ -1,0 +1,45 @@
+{
+    "id": 629,
+    "index": 1585,
+    "name": "Bakery SSO",
+    "frankenstyle": "auth_bakery",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_bakery",
+    "shortdescription": "SSO Authentication via a Bakery [Drupal] Master Server contributed by IDEA",
+    "timelastreleased": {
+        "absdate": "Friday, 15 February 2013, 6:59 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-02-15T18:59:54+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "9",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1559819,
+            "firstname": "Marjan",
+            "lastname": "Stojnev",
+            "url": "https://moodle.org/user/profile.php?id=1559819"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

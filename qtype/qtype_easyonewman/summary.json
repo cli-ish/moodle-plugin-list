@@ -1,0 +1,49 @@
+{
+    "id": 1098,
+    "index": 1623,
+    "name": "Newman Projections",
+    "frankenstyle": "qtype_easyonewman",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_easyonewman",
+    "shortdescription": "Drag and drop question in which students build Newman projections.  Tests students knowledge of drawing and interpreting Newman Projections.  ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 16 April 2014, 9:54 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-16T09:54:30+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "8",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1098/new_preview.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

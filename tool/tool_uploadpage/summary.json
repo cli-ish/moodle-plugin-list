@@ -1,0 +1,50 @@
+{
+    "id": 2430,
+    "index": 1841,
+    "name": "Upload Single Page Courses",
+    "frankenstyle": "tool_uploadpage",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_uploadpage",
+    "shortdescription": "This admin tool will bulk create course with a single Page activity from a text delimted file.",
+    "timelastreleased": {
+        "absdate": "Monday, 17 August 2020, 4:21 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-17T16:21:00+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "4",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2430/moodle-tool_uploadpage-1.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2430/moodle-tool_uploadpage-2.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2430/moodle-tool_uploadpage-3.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2430/moodle-tool_uploadpage-4.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2918578,
+            "firstname": "Lushonline",
+            "lastname": "Consulting",
+            "url": "https://moodle.org/user/profile.php?id=2918578"
+        }
+    ],
+    "descriptors": []
+}

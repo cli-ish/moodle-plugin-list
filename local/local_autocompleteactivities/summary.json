@@ -1,0 +1,47 @@
+{
+    "id": 3066,
+    "index": 1397,
+    "name": "Autocomplete Activities",
+    "frankenstyle": "local_autocompleteactivities",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_autocompleteactivities",
+    "shortdescription": " If your course is offering the same material in different formats (e.g., book and PDF), this plugin can automatically mark all activities with the same material as done once one of them was completed (configurable via regular expressions)",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 June 2023, 11:29 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-13T23:29:24+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "15",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3066/autocomplete_disabled.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3066/autocomplete_enabled.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3066/settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4566749,
+            "firstname": "Dirk",
+            "lastname": "V",
+            "url": "https://moodle.org/user/profile.php?id=4566749"
+        }
+    ],
+    "descriptors": []
+}

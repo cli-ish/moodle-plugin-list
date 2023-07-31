@@ -1,0 +1,45 @@
+{
+    "id": 1091,
+    "index": 1357,
+    "name": "Splash",
+    "frankenstyle": "theme_splash",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_splash",
+    "shortdescription": "This theme was part of the Moodle core distribution, but for Moodle 2.7+ has been moved to Moodle Plugins. \r\nThis theme will work on Moodle 2.8, 2.9 & 3.0.\r\n\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 14 April 2014, 1:37 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-14T13:37:17+08:00"
+    },
+    "aggsites": "101",
+    "aggdownloads": "16",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1091/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

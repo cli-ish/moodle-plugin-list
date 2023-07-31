@@ -1,0 +1,32 @@
+[
+    {
+        "id": "28903",
+        "name": "1.2.1",
+        "url": "https://moodle.org/plugins/download.php/28903/tiny_c4l_moodle35_2010020809.zip"
+    },
+    {
+        "id": "28827",
+        "name": "1.2.0",
+        "url": "https://moodle.org/plugins/download.php/28827/tiny_c4l_moodle34_2010060112.zip"
+    },
+    {
+        "id": "28690",
+        "name": "1.1.2",
+        "url": "https://moodle.org/plugins/download.php/28690/tiny_c4l_moodle28_2015050301.zip"
+    },
+    {
+        "id": "28586",
+        "name": "1.1.1",
+        "url": "https://moodle.org/plugins/download.php/28586/tiny_c4l_moodle29_2021011119.zip"
+    },
+    {
+        "id": "28453",
+        "name": "1.1.0",
+        "url": "https://moodle.org/plugins/download.php/28453/tiny_c4l_moodle39_2014110300.zip"
+    },
+    {
+        "id": "28094",
+        "name": "1.0.0",
+        "url": "https://moodle.org/plugins/download.php/28094/tiny_c4l_moodle30_2021050112.zip"
+    }
+]

@@ -1,0 +1,45 @@
+{
+    "id": 1632,
+    "index": 2081,
+    "name": "Abintegro",
+    "frankenstyle": "local_abintegro",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_abintegro",
+    "shortdescription": "Auth Token Authentication and Automatic Login For Moodle Users Into Abintegro",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 June 2016, 5:09 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-06-29T17:09:39+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "1",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1632/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1632/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1632/Screen%20Shot%202016-05-09%20at%2009.52.37.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1816836,
+            "firstname": "Josh",
+            "lastname": "Willcock",
+            "url": "https://moodle.org/user/profile.php?id=1816836"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

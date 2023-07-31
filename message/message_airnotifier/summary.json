@@ -1,0 +1,49 @@
+{
+    "id": 1020,
+    "index": 1307,
+    "name": "Mobile notifications",
+    "frankenstyle": "message_airnotifier",
+    "plugintype": {
+        "type": "message",
+        "name": "Notification plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/message_airnotifier",
+    "shortdescription": "Message output plugin that enables mobile push notifications in the official Moodle Mobile app.  See http://docs.moodle.org/en/Mobile_app_Push_Notifications for more information\r\n\r\nThis plugin will be integrated in Moodle core starting version 2.7.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 27 January 2015, 9:30 PM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-27T21:30:37+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "19",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 1774,
+    "index": 330,
+    "name": "Panopto button - Atto",
+    "frankenstyle": "atto_panoptobutton",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_panoptobutton",
+    "shortdescription": "Adds a button to the Atto editor to embed Panopto videos from a Panopto server.",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 September 2022, 1:17 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-08T01:17:12+08:00"
+    },
+    "aggsites": "451",
+    "aggdownloads": "405",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1774/logo.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1774/logo.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1774/panoptoAtto.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2151851,
+            "firstname": "joseph",
+            "lastname": "malmsten",
+            "url": "https://moodle.org/user/profile.php?id=2151851"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

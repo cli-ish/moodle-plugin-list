@@ -1,0 +1,45 @@
+{
+    "id": 979,
+    "index": 2044,
+    "name": "Hidden course",
+    "frankenstyle": "block_hiddencourse",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_hiddencourse",
+    "shortdescription": "The block is displayed only when the course is hidden. The warning message inside the block can be modified.\r\n--\r\nLe bloc n\u2019appara\u00eet que lorsque le cours est cach\u00e9. Le message dans le bloc peut \u00eatre personnalis\u00e9.",
+    "timelastreleased": {
+        "absdate": "Monday, 23 December 2013, 7:26 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-12-23T19:26:37+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "1",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/979/hide.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/979/hide.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/979/HiddenCourseWarning.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 873036,
+            "firstname": "Pascal",
+            "lastname": "Maury",
+            "url": "https://moodle.org/user/profile.php?id=873036"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

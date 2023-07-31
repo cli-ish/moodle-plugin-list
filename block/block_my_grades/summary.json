@@ -1,0 +1,45 @@
+{
+    "id": 719,
+    "index": 1223,
+    "name": "My Grades block",
+    "frankenstyle": "block_my_grades",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_my_grades",
+    "shortdescription": "The my_grades block provides a display of all enrolled courses, overall grades and links to grade reports from the My Home page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 14 April 2015, 10:22 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-04-14T22:22:18+08:00"
+    },
+    "aggsites": "221",
+    "aggdownloads": "24",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/719/my_grades_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1349863,
+            "firstname": "Karen",
+            "lastname": "Holland",
+            "url": "https://moodle.org/user/profile.php?id=1349863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

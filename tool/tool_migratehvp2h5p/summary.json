@@ -1,0 +1,62 @@
+{
+    "id": 2489,
+    "index": 163,
+    "name": "Migrate content from mod_hvp to mod_h5pactivity",
+    "frankenstyle": "tool_migratehvp2h5p",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_migratehvp2h5p",
+    "shortdescription": "Moodle plugin allowing to migrate activities created with the mod_hvp plugin created by Joubel to the new mod_h5pactivity created by Moodle HQ since Moodle 3.9.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 November 2022, 1:24 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-30T01:24:42+08:00"
+    },
+    "aggsites": "1544",
+    "aggdownloads": "738",
+    "aggfavs": "20",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2489/h5p_migrate.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2489/h5p_migrate.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2489/tool_migratehvp2h5p_cb-integration.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2489/tool_migratehvp2h5p_cli.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2489/tool_migratehvp2h5p_clihelp.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2489/tool_migratehvp2h5p_web.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1455465,
+            "firstname": "Moodle",
+            "lastname": "HQ",
+            "url": "https://moodle.org/user/profile.php?id=1455465"
+        },
+        {
+            "id": 57216,
+            "firstname": "Ferran",
+            "lastname": "Recio Calder\u00f3",
+            "url": "https://moodle.org/user/profile.php?id=57216"
+        },
+        {
+            "id": 119927,
+            "firstname": "Sara",
+            "lastname": "Arjona T\u00e9llez",
+            "url": "https://moodle.org/user/profile.php?id=119927"
+        }
+    ],
+    "descriptors": []
+}

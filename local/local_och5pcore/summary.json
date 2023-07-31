@@ -1,0 +1,50 @@
+{
+    "id": 2832,
+    "index": 627,
+    "name": "H5P Opencast Extension (Core)",
+    "frankenstyle": "local_och5pcore",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_och5pcore",
+    "shortdescription": "This local plugin helps to integrate Opencast Video into the Moodle H5P core.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 3 May 2023, 5:16 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-03T17:16:14+08:00"
+    },
+    "aggsites": "50",
+    "aggdownloads": "179",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2832/1.och5pcore-setting.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2832/2.och5pcore-editor-oc-video-dropdown.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2832/3.och5pcore-editor-oc-video-confirm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2832/4.och5pcore-player.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4609903,
+            "firstname": "Farbod",
+            "lastname": "Zamani Boroujeni",
+            "url": "https://moodle.org/user/profile.php?id=4609903"
+        }
+    ],
+    "descriptors": []
+}

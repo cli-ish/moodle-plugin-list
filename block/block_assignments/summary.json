@@ -1,0 +1,45 @@
+{
+    "id": 1498,
+    "index": 1423,
+    "name": "Assignments Block",
+    "frankenstyle": "block_assignments",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_assignments",
+    "shortdescription": "A plugin for the learning platform Moodle that shows graded and open assignments in one block.",
+    "timelastreleased": {
+        "absdate": "Sunday, 29 November 2015, 9:17 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-11-29T21:17:02+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "14",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1498/block_assignments%20Screenshot.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2001580,
+            "firstname": "Philip",
+            "lastname": "Raschke",
+            "url": "https://moodle.org/user/profile.php?id=2001580"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

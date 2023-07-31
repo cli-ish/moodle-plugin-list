@@ -1,0 +1,50 @@
+{
+    "id": 1986,
+    "index": 358,
+    "name": "360\u00b0 feedback",
+    "frankenstyle": "mod_threesixo",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_threesixo",
+    "shortdescription": "A simple 360\u00b0 feedback activity plugin for Moodle.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 July 2023, 12:47 AM",
+        "reldate": "7 days",
+        "iso8601date": "2023-07-24T00:47:04+08:00"
+    },
+    "aggsites": "860",
+    "aggdownloads": "356",
+    "aggfavs": "67",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1986/monologo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1986/monologo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1986/360-edit_items.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1986/360-participants.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1986/360-questionnaire.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1986/360-report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1967136,
+            "firstname": "Jun",
+            "lastname": "Pataleta",
+            "url": "https://moodle.org/user/profile.php?id=1967136"
+        }
+    ],
+    "descriptors": []
+}

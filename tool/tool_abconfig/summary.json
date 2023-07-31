@@ -1,0 +1,59 @@
+{
+    "id": 2403,
+    "index": 817,
+    "name": "A/B config",
+    "frankenstyle": "tool_abconfig",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_abconfig",
+    "shortdescription": "A way to A/B test config, or slowly turn on config for certain audiences or % of traffic.",
+    "timelastreleased": {
+        "absdate": "Thursday, 7 July 2022, 7:48 AM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-07T07:48:52+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "122",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2403/branch-solid.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2403/branch-solid.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2403/Add%20conditions.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2403/Edit%20experiment.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2403/Manage%20Experiments.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        },
+        {
+            "id": 2685812,
+            "firstname": "Peter",
+            "lastname": "Burnett",
+            "url": "https://moodle.org/user/profile.php?id=2685812"
+        }
+    ],
+    "descriptors": []
+}

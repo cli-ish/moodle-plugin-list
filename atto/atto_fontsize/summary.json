@@ -1,0 +1,51 @@
+{
+    "id": 1195,
+    "index": 150,
+    "name": "Font size",
+    "frankenstyle": "atto_fontsize",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_fontsize",
+    "shortdescription": "A plugin for atto to allow the font size to be altered.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 April 2015, 2:34 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-04-28T14:34:07+08:00"
+    },
+    "aggsites": "5593",
+    "aggdownloads": "807",
+    "aggfavs": "73",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1195/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1195/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1195/Screen%20Shot%202014-08-11%20at%2014.52.39.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 268794,
+            "firstname": "Andrew",
+            "lastname": "Lyons",
+            "url": "https://moodle.org/user/profile.php?id=268794"
+        },
+        {
+            "id": 1795164,
+            "firstname": "Adam",
+            "lastname": "Jenkins",
+            "url": "https://moodle.org/user/profile.php?id=1795164"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

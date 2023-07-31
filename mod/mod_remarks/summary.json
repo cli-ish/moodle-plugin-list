@@ -1,0 +1,49 @@
+{
+    "id": 568,
+    "index": 1890,
+    "name": "ReMarks Assignment",
+    "frankenstyle": "mod_remarks",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_remarks",
+    "shortdescription": "This plugin connects Moodle 2.2, 2.3, 2.4 and 2.5  with ReMarksPDF desktop and ReMarksPDF iPad e-grading solutions enabling a complete e-submission, allocation, marking, moderation and release workflow. ",
+    "timelastreleased": {
+        "absdate": "Sunday, 12 May 2013, 3:31 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-12T15:31:53+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "4",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/568/ReMarks%20logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/568/ReMarks%20logo.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1433347,
+            "firstname": "Prof Stephen",
+            "lastname": "Colbran",
+            "url": "https://moodle.org/user/profile.php?id=1433347"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

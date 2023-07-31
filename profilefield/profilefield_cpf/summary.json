@@ -1,0 +1,49 @@
+{
+    "id": 1103,
+    "index": 601,
+    "name": "CPF input",
+    "frankenstyle": "profilefield_cpf",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_cpf",
+    "shortdescription": "A cpf profile field type for moodle",
+    "timelastreleased": {
+        "absdate": "Saturday, 3 May 2014, 6:29 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-03T06:29:20+08:00"
+    },
+    "aggsites": "166",
+    "aggdownloads": "194",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1103/cpf_1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 968235,
+            "firstname": "Willian",
+            "lastname": "Mano",
+            "url": "https://moodle.org/user/profile.php?id=968235"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

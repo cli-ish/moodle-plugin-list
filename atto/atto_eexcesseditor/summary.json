@@ -1,0 +1,64 @@
+{
+    "id": 1620,
+    "index": 1749,
+    "name": "EEXCESS Editor",
+    "frankenstyle": "atto_eexcesseditor",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_eexcesseditor",
+    "shortdescription": "Atto EEXCESS editor",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 June 2016, 11:06 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-06-01T23:06:30+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "6",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1620/eexcess_Logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1620/eexcess_Logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1620/searchBar-dashboard-insert-citation.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1620/searchBar-dashboard-insert-image.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1620/searchBar-facet-scape-insert-citation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1620/searchBar-facet-scape-insert-image.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1620/searchBar-results-insert-citation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1620/searchBar-results-insert-image.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1620/select%20citation%20style.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1960979,
+            "firstname": "Artur",
+            "lastname": "Khotenko",
+            "url": "https://moodle.org/user/profile.php?id=1960979"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

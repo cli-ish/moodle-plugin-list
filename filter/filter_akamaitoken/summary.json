@@ -1,0 +1,44 @@
+{
+    "id": 2637,
+    "index": 890,
+    "name": "Akamai Media Services tokenized stream protection",
+    "frankenstyle": "filter_akamaitoken",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_akamaitoken",
+    "shortdescription": "Filter plugin that enables viewing SMP protected HLS media stream delivered by Akamai Media Services",
+    "timelastreleased": {
+        "absdate": "Friday, 24 March 2023, 8:14 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-24T20:14:12+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "101",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2637/akamai.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2637/akamai.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2637/akamai_filter_settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2637/akamai_filter_settings1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,53 @@
+{
+    "id": 2167,
+    "index": 494,
+    "name": "Cloud Poodll for Atto - audio and video recording",
+    "frankenstyle": "atto_cloudpoodll",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_cloudpoodll",
+    "shortdescription": "An audio and video recorder for Moodle. The recordings are stored in the cloud and can be automatically subtitled . Administrators can choose from recorder skins, and use Moodle capabilities to control the display of icons. Cloud Poodll for Atto is not dependent on any other plugin. Cloud Poodll for Atto is not dependent on any other plugins.",
+    "timelastreleased": {
+        "absdate": "Thursday, 30 March 2023, 3:59 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-30T15:59:04+08:00"
+    },
+    "aggsites": "277",
+    "aggdownloads": "237",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2167/dogavatar.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2167/dogavatar.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2167/Cloud%20Poodll%20for%20Atto%20Audio%20and%20video%20recording.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2167/2018-10-10_23-50-31.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2167/2018-10-10_23-51-49.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2167/2018-10-10_23-53-18.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2167/MoodleTile_CloudAtto.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

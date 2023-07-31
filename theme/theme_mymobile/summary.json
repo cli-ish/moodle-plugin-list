@@ -1,0 +1,59 @@
+{
+    "id": 44,
+    "index": 1082,
+    "name": "MyMobile",
+    "frankenstyle": "theme_mymobile",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_mymobile",
+    "shortdescription": "myMobile is a theme for Moodle 2+ that is customized and optimized for smart phones and tablets. It is based on jquerymobile. For a device support grid, please visit the jquerymobile website (http://jquerymobile.com/). ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 15 October 2013, 2:48 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-10-15T14:48:53+08:00"
+    },
+    "aggsites": "51",
+    "aggdownloads": "40",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/44/logo2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/44/logo2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/44/ipad.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/44/screenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        },
+        {
+            "id": 542994,
+            "firstname": "J\u00e9r\u00f4me",
+            "lastname": "Mouneyrac",
+            "url": "https://moodle.org/user/profile.php?id=542994"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

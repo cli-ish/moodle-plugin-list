@@ -1,0 +1,45 @@
+{
+    "id": 960,
+    "index": 1940,
+    "name": "Tema Moodle na Pr\u00e1tica",
+    "frankenstyle": "theme_mnp",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_mnp",
+    "shortdescription": "Tema customizado por Moodle na Pr\u00e1tica que teve como base o tema Clean.",
+    "timelastreleased": {
+        "absdate": "Thursday, 21 November 2013, 10:48 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-11-21T10:48:03+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "3",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/960/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/960/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/960/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 493238,
+            "firstname": "Leandro",
+            "lastname": "Maiotte",
+            "url": "https://moodle.org/user/profile.php?id=493238"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

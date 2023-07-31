@@ -1,0 +1,32 @@
+[
+    {
+        "id": "27355",
+        "name": "1.0.8-build-2022081400",
+        "url": "https://moodle.org/plugins/download.php/27355/tinymce_cloudpoodll_moodle38_2014121212.zip"
+    },
+    {
+        "id": "25714",
+        "name": "1.0.5-build-2021122200",
+        "url": "https://moodle.org/plugins/download.php/25714/tinymce_cloudpoodll_moodle39_2013110714.zip"
+    },
+    {
+        "id": "26775",
+        "name": "1.0.7-build-2022060500",
+        "url": "https://moodle.org/plugins/download.php/26775/tinymce_cloudpoodll_moodle30_2017080818.zip"
+    },
+    {
+        "id": "21120",
+        "name": "1.0.2-build-2020012500",
+        "url": "https://moodle.org/plugins/download.php/21120/tinymce_cloudpoodll_moodle29_2020070311.zip"
+    },
+    {
+        "id": "20663",
+        "name": "1.0.1-build-2019112100",
+        "url": "https://moodle.org/plugins/download.php/20663/tinymce_cloudpoodll_moodle27_2018050815.zip"
+    },
+    {
+        "id": "20092",
+        "name": "1.0.0-build-2019061801",
+        "url": "https://moodle.org/plugins/download.php/20092/tinymce_cloudpoodll_moodle33_2018091112.zip"
+    }
+]

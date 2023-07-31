@@ -1,0 +1,50 @@
+{
+    "id": 1364,
+    "index": 789,
+    "name": "Webcam snapshot",
+    "frankenstyle": "block_mfavatar",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mfavatar",
+    "shortdescription": "This block allows users to make a profile picture with their webcam.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 15 December 2021, 6:12 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-12-15T18:12:52+08:00"
+    },
+    "aggsites": "290",
+    "aggdownloads": "125",
+    "aggfavs": "40",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1364/FaviconBig.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1364/FaviconBig.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1364/2020-11-18_10-56-05.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1364/Snag_1e55b6c4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1487326,
+            "firstname": "Luuk",
+            "lastname": "Verhoeven",
+            "url": "https://moodle.org/user/profile.php?id=1487326"
+        },
+        {
+            "id": 4342922,
+            "firstname": "Vincent",
+            "lastname": "Cornelis",
+            "url": "https://moodle.org/user/profile.php?id=4342922"
+        }
+    ],
+    "descriptors": []
+}

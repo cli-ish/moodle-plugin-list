@@ -1,0 +1,45 @@
+{
+    "id": 1082,
+    "index": 1899,
+    "name": "FormFactor",
+    "frankenstyle": "theme_formfactor",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_formfactor",
+    "shortdescription": "This theme was part of the Moodle core distribution, but for Moodle 2.7+ has been moved to Moodle Plugins",
+    "timelastreleased": {
+        "absdate": "Monday, 14 April 2014, 12:53 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-14T12:53:51+08:00"
+    },
+    "aggsites": "81",
+    "aggdownloads": "3",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1082/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

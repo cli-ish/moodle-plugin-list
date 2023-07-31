@@ -1,0 +1,61 @@
+{
+    "id": 1588,
+    "index": 699,
+    "name": "Automatic enrolment in groups",
+    "frankenstyle": "tool_groupautoenrol",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_groupautoenrol",
+    "shortdescription": " Plugin to auto enrol users in Moodle courses groups",
+    "timelastreleased": {
+        "absdate": "Friday, 21 August 2020, 8:10 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-21T20:10:34+08:00"
+    },
+    "aggsites": "236",
+    "aggdownloads": "148",
+    "aggfavs": "15",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1588/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1588/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1588/Groupautoenrol%20en.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1588/Groupautoenrol%20fr.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 873036,
+            "firstname": "Pascal",
+            "lastname": "Maury",
+            "url": "https://moodle.org/user/profile.php?id=873036"
+        },
+        {
+            "id": 1575644,
+            "firstname": "Gemma",
+            "lastname": "Lesterhuis",
+            "url": "https://moodle.org/user/profile.php?id=1575644"
+        },
+        {
+            "id": 1487326,
+            "firstname": "Luuk",
+            "lastname": "Verhoeven",
+            "url": "https://moodle.org/user/profile.php?id=1487326"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

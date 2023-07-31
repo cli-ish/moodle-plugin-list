@@ -1,0 +1,45 @@
+{
+    "id": 1480,
+    "index": 1402,
+    "name": "Adhoc Task Manager",
+    "frankenstyle": "tool_adhoc",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_adhoc",
+    "shortdescription": "Adhoc task management interface for Moodle 2.7+.",
+    "timelastreleased": {
+        "absdate": "Thursday, 26 May 2016, 5:29 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-05-26T17:29:29+08:00"
+    },
+    "aggsites": "142",
+    "aggdownloads": "14",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1480/interface.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1899632,
+            "firstname": "Skylar",
+            "lastname": "Kelty",
+            "url": "https://moodle.org/user/profile.php?id=1899632"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 225,
+    "index": 1719,
+    "name": "Course Awards - Vote",
+    "frankenstyle": "block_courseaward_vote",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_courseaward_vote",
+    "shortdescription": "A block used to collect a student's grade for a course (based on UK inspectorate OFSTED's scheme) and optionally a comment also.",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 October 2012, 5:53 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-11T17:53:26+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "6",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/225/vote-student.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 266725,
+            "firstname": "Paul",
+            "lastname": "Vaughan",
+            "url": "https://moodle.org/user/profile.php?id=266725"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

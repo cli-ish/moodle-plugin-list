@@ -1,0 +1,22 @@
+[
+    {
+        "id": "18892",
+        "name": "3.1-build-2019020501",
+        "url": "https://moodle.org/plugins/download.php/18892/auth_googleoauth2_moodle37_2023121012.zip"
+    },
+    {
+        "id": "13548",
+        "name": "1.5-build-2014111902-stable-26",
+        "url": "https://moodle.org/plugins/download.php/13548/auth_googleoauth2_moodle28_2014060502.zip"
+    },
+    {
+        "id": "13549",
+        "name": "1.5-build-2014060703-stable-25",
+        "url": "https://moodle.org/plugins/download.php/13549/auth_googleoauth2_moodle35_2016110719.zip"
+    },
+    {
+        "id": "13547",
+        "name": "2.3-build-2016061204",
+        "url": "https://moodle.org/plugins/download.php/13547/auth_googleoauth2_moodle29_2017070714.zip"
+    }
+]

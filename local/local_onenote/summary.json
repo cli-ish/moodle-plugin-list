@@ -1,0 +1,67 @@
+{
+    "id": 1334,
+    "index": 103,
+    "name": "Microsoft OneNote",
+    "frankenstyle": "local_onenote",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_onenote",
+    "shortdescription": "This plugin provides a common client API for various other Moodle plugins that allow Moodle users to take advantage of Microsoft OneNote. This includes  operations such as browsing your notebooks, sections, and pages; students doing assignments in OneNote and teachers providing feedback on those assignments in OneNote.",
+    "timelastreleased": {
+        "absdate": "Thursday, 25 May 2023, 7:08 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-25T19:08:55+08:00"
+    },
+    "aggsites": "1074",
+    "aggdownloads": "1k",
+    "aggfavs": "25",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1334/local_o365-plugin.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1540471,
+            "firstname": "Enovation",
+            "lastname": "Dev Team",
+            "url": "https://moodle.org/user/profile.php?id=1540471"
+        },
+        {
+            "id": 1835508,
+            "firstname": "James",
+            "lastname": "McQuillan",
+            "url": "https://moodle.org/user/profile.php?id=1835508"
+        },
+        {
+            "id": 1977124,
+            "firstname": "Zion",
+            "lastname": "Brewer",
+            "url": "https://moodle.org/user/profile.php?id=1977124"
+        },
+        {
+            "id": 1937202,
+            "firstname": "Nima",
+            "lastname": "Mojgani",
+            "url": "https://moodle.org/user/profile.php?id=1937202"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Office"
+        }
+    ]
+}

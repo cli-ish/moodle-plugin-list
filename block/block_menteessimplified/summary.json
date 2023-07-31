@@ -1,0 +1,45 @@
+{
+    "id": 747,
+    "index": 2151,
+    "name": "Mentees Simplified Block",
+    "frankenstyle": "block_menteessimplified",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_menteessimplified",
+    "shortdescription": "This block is similar to the mentees block but the display of information is much easier to access by parents. It shows only the most relevant information so parents will not be lost looking for information.\r\n\r\nI hope it is of the greatest use. Thanks and regards.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 May 2013, 4:35 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-29T04:35:10+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1606331,
+            "firstname": "Antonio",
+            "lastname": "Carmona And\u00fajar",
+            "url": "https://moodle.org/user/profile.php?id=1606331"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Mentor"
+        }
+    ]
+}

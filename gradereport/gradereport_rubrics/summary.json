@@ -1,0 +1,44 @@
+{
+    "id": 2939,
+    "index": 569,
+    "name": "Rubrics report",
+    "frankenstyle": "gradereport_rubrics",
+    "plugintype": {
+        "type": "gradereport",
+        "name": "Gradebook report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradereport_rubrics",
+    "shortdescription": "The Rubrics report plugin allows teachers and managers to drill down past a student\u2019s overall advanced graded mark received, and to view all their students' grades and comments for all the criteria from the relevant rubric advanced grading.",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 May 2022, 6:02 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-05-05T18:02:27+08:00"
+    },
+    "aggsites": "475",
+    "aggdownloads": "207",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2939/gradereport_rubrics.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2939/gradereport_rubrics_datatoinclude.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4074596,
+            "firstname": "Brickfield",
+            "lastname": "Education Labs",
+            "url": "https://moodle.org/user/profile.php?id=4074596"
+        }
+    ],
+    "descriptors": []
+}

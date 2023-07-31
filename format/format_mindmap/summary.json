@@ -1,0 +1,44 @@
+{
+    "id": 1301,
+    "index": 478,
+    "name": "MindMap Format",
+    "frankenstyle": "format_mindmap",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_mindmap",
+    "shortdescription": "Mindmap Course Format  allows Moodle users using courses through interactive, personalized mindmap.\r\nAdditionally, it provides features unavailable in standard Moodle, which are: graphical presentation of conditional dependencies and distinction of modules where student have problems (and which are near deadline). ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 8 August 2017, 9:02 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-08-08T21:02:49+08:00"
+    },
+    "aggsites": "210",
+    "aggdownloads": "245",
+    "aggfavs": "57",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1301/mmc_logo.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1301/mmc_logo.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1301/mmcourse.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1301/mmregular.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 385877,
+            "firstname": "\u0141ukasz",
+            "lastname": "Sanokowski",
+            "url": "https://moodle.org/user/profile.php?id=385877"
+        }
+    ],
+    "descriptors": []
+}

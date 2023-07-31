@@ -1,0 +1,45 @@
+{
+    "id": 717,
+    "index": 115,
+    "name": "Drag-and-Drop Matching",
+    "frankenstyle": "qtype_ddmatch",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_ddmatch",
+    "shortdescription": "Drag-and-drop matching is a simple solution that is meant to help learners with matching quizzes. The students must simply \"drop\" their responses into a pre-defined space from the list of options that are available. The drag-and-drop interface makes learning fun and interesting. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 April 2023, 7:09 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-25T19:09:27+08:00"
+    },
+    "aggsites": "3205",
+    "aggdownloads": "1k",
+    "aggfavs": "91",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/717/DualCube_LOGO.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/717/DualCube_LOGO.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/717/drag%20and%20drop%20markers.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1832609,
+            "firstname": "DualCube",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1832609"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

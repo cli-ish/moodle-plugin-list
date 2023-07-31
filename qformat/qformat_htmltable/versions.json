@@ -1,0 +1,17 @@
+[
+    {
+        "id": "12534",
+        "name": "1.5-build-20161105",
+        "url": "https://moodle.org/plugins/download.php/12534/qformat_htmltable_moodle30_2019030506.zip"
+    },
+    {
+        "id": "7010",
+        "name": "1.3-build-20141008",
+        "url": "https://moodle.org/plugins/download.php/7010/qformat_htmltable_moodle40_2013101101.zip"
+    },
+    {
+        "id": "6583",
+        "name": "1.2-build-20140728",
+        "url": "https://moodle.org/plugins/download.php/6583/qformat_htmltable_moodle40_2012090500.zip"
+    }
+]

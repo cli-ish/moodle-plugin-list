@@ -1,0 +1,53 @@
+{
+    "id": 874,
+    "index": 1976,
+    "name": "Evernote",
+    "frankenstyle": "portfolio_evernote",
+    "plugintype": {
+        "type": "portfolio",
+        "name": "Portfolio"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/portfolio_evernote",
+    "shortdescription": "This is the Portfolio plugin for Evernote.",
+    "timelastreleased": {
+        "absdate": "Friday, 27 September 2013, 2:29 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-27T14:29:30+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "2",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/874/Evernote_Portfolio_1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/874/Evernote_Portfolio_2.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1459982,
+            "firstname": "Vishal",
+            "lastname": "Raheja",
+            "url": "https://moodle.org/user/profile.php?id=1459982"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

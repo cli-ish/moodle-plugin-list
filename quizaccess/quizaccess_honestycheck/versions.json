@@ -1,0 +1,37 @@
+[
+    {
+        "id": "29242",
+        "name": "v1.7-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/29242/quizaccess_honestycheck_moodle40_2019030608.zip"
+    },
+    {
+        "id": "17580",
+        "name": "v1.5-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/17580/quizaccess_honestycheck_moodle39_2017030320.zip"
+    },
+    {
+        "id": "16277",
+        "name": "v1.4-for-moodle-3.2",
+        "url": "https://moodle.org/plugins/download.php/16277/quizaccess_honestycheck_moodle38_2015110601.zip"
+    },
+    {
+        "id": "7231",
+        "name": "v1.3-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/7231/quizaccess_honestycheck_moodle31_2022030403.zip"
+    },
+    {
+        "id": "6034",
+        "name": "v1.2-for-moodle-2.2",
+        "url": "https://moodle.org/plugins/download.php/6034/quizaccess_honestycheck_moodle35_2020010614.zip"
+    },
+    {
+        "id": "26916",
+        "name": "v1.6-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/26916/quizaccess_honestycheck_moodle29_2018100712.zip"
+    },
+    {
+        "id": "2138",
+        "name": "v1.1-for-moodle-2.2",
+        "url": "https://moodle.org/plugins/download.php/2138/quizaccess_honestycheck_moodle36_2022120509.zip"
+    }
+]

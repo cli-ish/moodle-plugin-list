@@ -1,0 +1,61 @@
+{
+    "id": 23,
+    "index": 736,
+    "name": "Dataform",
+    "frankenstyle": "mod_dataform",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_dataform",
+    "shortdescription": "The Dataform module allows the course manager to design and construct an entry form from various input elements (text and rich text fields, urls, files, pictures, etc.) in a flexible layout. Users can then add information records to a collection, which can be viewed in various ways and searched for particular items. ",
+    "timelastreleased": {
+        "absdate": "Friday, 2 February 2018, 2:33 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-02-02T02:33:56+08:00"
+    },
+    "aggsites": "748",
+    "aggdownloads": "138",
+    "aggfavs": "62",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/23/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/23/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/23/dataform.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/23/df-inline-editing.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/23/df-photo-gallery.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/23/df-photo-gallery1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/23/df-user-masking.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/23/df-view-slideshow.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 150168,
+            "firstname": "Itamar",
+            "lastname": "Tzadok",
+            "url": "https://moodle.org/user/profile.php?id=150168"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

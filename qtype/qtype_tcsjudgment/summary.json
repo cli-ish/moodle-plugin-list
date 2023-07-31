@@ -1,0 +1,46 @@
+{
+    "id": 2690,
+    "index": 412,
+    "name": "Concordance of judgment",
+    "frankenstyle": "qtype_tcsjudgment",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_tcsjudgment",
+    "shortdescription": "Question type subplugin for concordance of judgment questions, based on the main question type for concordance questions (https://moodle.org/plugins/qtype_tcs).",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 March 2023, 9:44 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-29T21:44:30+08:00"
+    },
+    "aggsites": "98",
+    "aggdownloads": "296",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2690/qtype_tcs_judgmentquestion.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1911781,
+            "firstname": "Issam",
+            "lastname": "Taboubi",
+            "url": "https://moodle.org/user/profile.php?id=1911781"
+        },
+        {
+            "id": 1244964,
+            "firstname": "Gilles-Philippe",
+            "lastname": "Leblanc",
+            "url": "https://moodle.org/user/profile.php?id=1244964"
+        }
+    ],
+    "descriptors": []
+}

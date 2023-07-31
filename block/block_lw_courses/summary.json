@@ -1,0 +1,56 @@
+{
+    "id": 1916,
+    "index": 768,
+    "name": "My Courses",
+    "frankenstyle": "block_lw_courses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_lw_courses",
+    "shortdescription": "This block provides an alternative user dashboard for learners.",
+    "timelastreleased": {
+        "absdate": "Monday, 7 January 2019, 3:28 PM",
+        "reldate": "5 years",
+        "iso8601date": "2019-01-07T15:28:15+08:00"
+    },
+    "aggsites": "781",
+    "aggdownloads": "129",
+    "aggfavs": "61",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1916/logo-learningworks%5B1%5D.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1916/logo-learningworks%5B1%5D.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1916/grid.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1916/list.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2170787,
+            "firstname": "Mathew",
+            "lastname": "May \ud83c\uddf3\ud83c\uddff",
+            "url": "https://moodle.org/user/profile.php?id=2170787"
+        },
+        {
+            "id": 2049685,
+            "firstname": "Learning",
+            "lastname": "Works",
+            "url": "https://moodle.org/user/profile.php?id=2049685"
+        },
+        {
+            "id": 1284414,
+            "firstname": "Jeremy",
+            "lastname": "FitzPatrick",
+            "url": "https://moodle.org/user/profile.php?id=1284414"
+        }
+    ],
+    "descriptors": []
+}

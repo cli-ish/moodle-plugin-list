@@ -1,0 +1,53 @@
+{
+    "id": 1954,
+    "index": 2140,
+    "name": "CitizenCam Record",
+    "frankenstyle": "mod_citizencam",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_citizencam",
+    "shortdescription": "CitizenCam Record enables you to insert a CitizenCam video recording directly into your course thanks to a multi-view player.",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 December 2017, 6:06 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-12-14T18:06:18+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1954/CitizenCam_logo_white_background.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1954/CitizenCam_logo_white_background.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1954/choose_course.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1954/dialog.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1954/resource.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1954/settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1954/video.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2324299,
+            "firstname": "CitizenCam",
+            "lastname": "Dev",
+            "url": "https://moodle.org/user/profile.php?id=2324299"
+        }
+    ],
+    "descriptors": []
+}

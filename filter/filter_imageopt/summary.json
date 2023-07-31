@@ -1,0 +1,44 @@
+{
+    "id": 1815,
+    "index": 1116,
+    "name": "Image optimiser",
+    "frankenstyle": "filter_imageopt",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_imageopt",
+    "shortdescription": "Resize images to a configurable maximum size. Delay the loading of images until visible in the viewport.",
+    "timelastreleased": {
+        "absdate": "Monday, 10 May 2021, 4:41 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-10T16:41:07+08:00"
+    },
+    "aggsites": "550",
+    "aggdownloads": "35",
+    "aggfavs": "44",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1815/Screen%20Shot%202017-03-03%20at%2014.39.33.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1815/Screen%20Shot%202017-03-03%20at%2014.46.33.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 20491,
+            "firstname": "Guy",
+            "lastname": "Thomas",
+            "url": "https://moodle.org/user/profile.php?id=20491"
+        }
+    ],
+    "descriptors": []
+}

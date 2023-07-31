@@ -1,0 +1,22 @@
+[
+    {
+        "id": "17727",
+        "name": "2.1.1",
+        "url": "https://moodle.org/plugins/download.php/17727/block_quickcourselist_moodle32_2023021000.zip"
+    },
+    {
+        "id": "8421",
+        "name": "2.1",
+        "url": "https://moodle.org/plugins/download.php/8421/block_quickcourselist_moodle35_2022050600.zip"
+    },
+    {
+        "id": "5194",
+        "name": "2.0.1",
+        "url": "https://moodle.org/plugins/download.php/5194/block_quickcourselist_moodle26_2011040108.zip"
+    },
+    {
+        "id": "375",
+        "name": "2.0-build-2011122300",
+        "url": "https://moodle.org/plugins/download.php/375/block_quickcourselist_moodle39_2023080806.zip"
+    }
+]

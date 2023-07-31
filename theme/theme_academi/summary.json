@@ -1,0 +1,67 @@
+{
+    "id": 1451,
+    "index": 20,
+    "name": "Academi",
+    "frankenstyle": "theme_academi",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_academi",
+    "shortdescription": "Academi is a clever responsive moodle free theme ever suitable for your academy. Academi is a modern and customizable theme for all supported Moodle versions. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 January 2023, 9:58 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-19T21:58:35+08:00"
+    },
+    "aggsites": "7778",
+    "aggdownloads": "3k",
+    "aggfavs": "317",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1451/Academi_thumb.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1451/Academi_thumb.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1451/course-left-drawer.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1451/Course-view-page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1451/Dashboard-page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1451/drawer-right.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1451/Home-page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1451/Homepage-Arabic.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1451/Login-page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1451/Theme-setting-page.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1961886,
+            "firstname": "LMSACE",
+            "lastname": "e-learning experts",
+            "url": "https://moodle.org/user/profile.php?id=1961886"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

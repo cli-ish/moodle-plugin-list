@@ -1,0 +1,45 @@
+{
+    "id": 1276,
+    "index": 1518,
+    "name": "Dataform field access",
+    "frankenstyle": "block_dataformaccessfield",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_dataformaccessfield",
+    "shortdescription": "The Dataform field access block provides context and settings for Dataform field access rules. With such rules you can allow or prevent particular users (individually or by role) access to particular fields in particular views.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 February 2018, 2:35 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-02-02T02:35:47+08:00"
+    },
+    "aggsites": "106",
+    "aggdownloads": "10",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1276/06.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 150168,
+            "firstname": "Itamar",
+            "lastname": "Tzadok",
+            "url": "https://moodle.org/user/profile.php?id=150168"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

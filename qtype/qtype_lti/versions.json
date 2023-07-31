@@ -1,0 +1,17 @@
+[
+    {
+        "id": "29353",
+        "name": "4-possible-from-moodle-3.11-transitional",
+        "url": "https://moodle.org/plugins/download.php/29353/qtype_lti_moodle29_2012120715.zip"
+    },
+    {
+        "id": "25386",
+        "name": "0.4-for-moodle-3.5",
+        "url": "https://moodle.org/plugins/download.php/25386/qtype_lti_moodle30_2021070709.zip"
+    },
+    {
+        "id": "23582",
+        "name": "0.3-for-moodle-3.5",
+        "url": "https://moodle.org/plugins/download.php/23582/qtype_lti_moodle26_2021011100.zip"
+    }
+]

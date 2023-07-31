@@ -1,0 +1,22 @@
+[
+    {
+        "id": "29493",
+        "name": "4.8.2",
+        "url": "https://moodle.org/plugins/download.php/29493/qtype_wq_moodle40_2014031012.zip"
+    },
+    {
+        "id": "29163",
+        "name": "4.8.1",
+        "url": "https://moodle.org/plugins/download.php/29163/qtype_wq_moodle29_2020080905.zip"
+    },
+    {
+        "id": "29104",
+        "name": "4.8.0",
+        "url": "https://moodle.org/plugins/download.php/29104/qtype_wq_moodle26_2020021013.zip"
+    },
+    {
+        "id": "28673",
+        "name": "4.7.1",
+        "url": "https://moodle.org/plugins/download.php/28673/qtype_wq_moodle29_2014010901.zip"
+    }
+]

@@ -1,0 +1,50 @@
+{
+    "id": 1889,
+    "index": 468,
+    "name": "JW Player",
+    "frankenstyle": "media_jwplayer",
+    "plugintype": {
+        "type": "media",
+        "name": "Media player"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/media_jwplayer",
+    "shortdescription": "JW Player is the solution for seamless video playback across browsers and media types.",
+    "timelastreleased": {
+        "absdate": "Sunday, 6 February 2022, 7:16 AM",
+        "reldate": "18 months",
+        "iso8601date": "2022-02-06T07:16:41+08:00"
+    },
+    "aggsites": "315",
+    "aggdownloads": "250",
+    "aggfavs": "23",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1889/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1889/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1889/player8.jpeg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1889/player8_event.jpeg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        },
+        {
+            "id": 41888,
+            "firstname": "Tony",
+            "lastname": "Butler",
+            "url": "https://moodle.org/user/profile.php?id=41888"
+        }
+    ],
+    "descriptors": []
+}

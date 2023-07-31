@@ -1,0 +1,62 @@
+{
+    "id": 1388,
+    "index": 1000,
+    "name": "PLAGIARISMA",
+    "frankenstyle": "plagiarism_plagiarisma",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_plagiarisma",
+    "shortdescription": "PLAGIARISMA is a commercial product owned by Plagiarisma.Net - you must have a paid subscription to be able to use this plugin. The plugin works for the assignment module, with file submissions and online text.",
+    "timelastreleased": {
+        "absdate": "Friday, 1 September 2017, 10:43 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-09-01T22:43:14+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "56",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1388/512x512.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1388/512x512.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1388/moodle10.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1388/moodle05.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1388/moodle07.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1388/moodle08.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1388/moodle09.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1938152,
+            "firstname": "Eugene",
+            "lastname": "Ekimov",
+            "url": "https://moodle.org/user/profile.php?id=1938152"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

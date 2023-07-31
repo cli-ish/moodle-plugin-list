@@ -1,0 +1,53 @@
+{
+    "id": 2710,
+    "index": 336,
+    "name": "Restriction by section completion",
+    "frankenstyle": "availability_sectioncompleted",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_sectioncompleted",
+    "shortdescription": "Restrict resources, activities and sections based on other sections being completed",
+    "timelastreleased": {
+        "absdate": "Saturday, 29 May 2021, 4:33 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-29T04:33:12+08:00"
+    },
+    "aggsites": "631",
+    "aggdownloads": "399",
+    "aggfavs": "26",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2710/bdlogo2022.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2710/bdlogo2022.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2710/Section%20completion%20by%20bdecent.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2710/Bildschirmfoto%202021-04-30%20um%2020.45.27.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2710/Bildschirmfoto%202021-04-30%20um%2020.45.37.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1553381,
+            "firstname": "Stefan",
+            "lastname": "Scholz",
+            "url": "https://moodle.org/user/profile.php?id=1553381"
+        },
+        {
+            "id": 5033676,
+            "firstname": "bdecent",
+            "lastname": "gmbh",
+            "url": "https://moodle.org/user/profile.php?id=5033676"
+        }
+    ],
+    "descriptors": []
+}

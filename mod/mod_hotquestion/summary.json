@@ -1,0 +1,73 @@
+{
+    "id": 116,
+    "index": 170,
+    "name": "Hot Question",
+    "frankenstyle": "mod_hotquestion",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_hotquestion",
+    "shortdescription": "This plugin will help teachers to collect entries/posts from users in or out of a classroom.",
+    "timelastreleased": {
+        "absdate": "Monday, 12 June 2023, 12:23 AM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-12T00:23:06+08:00"
+    },
+    "aggsites": "819",
+    "aggdownloads": "706",
+    "aggfavs": "54",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/116/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/116/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/116/1HotQuestionAttoEditorTools.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/116/2HotQuestionAdminViewAfterSomeVotes.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/116/3HotQuestionStudentViewAfterSomeVotes.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/116/4HotQuestionStudentViewAfterVotingForAllPosts.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/116/5HotQuestionTeacherViewBeforeRemovingAPost.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/116/6HotQuestionTeacherViewAfterRemovingAPost.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/116/7HotQuestionTeacherDownloadBeforeRemovingAPost.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/116/8HotQuestionMobileViewScreenshot_20180106-161940.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/116/9HotQuestionDesktopDirections.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/116/PeteViewGrades1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 94615,
+            "firstname": "AL",
+            "lastname": "Rachels",
+            "url": "https://moodle.org/user/profile.php?id=94615"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

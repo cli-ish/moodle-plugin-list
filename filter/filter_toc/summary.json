@@ -1,0 +1,61 @@
+{
+    "id": 224,
+    "index": 1159,
+    "name": "Table of Contents Generator",
+    "frankenstyle": "filter_toc",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_toc",
+    "shortdescription": "Automatically generated table of contents for a page of content.",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 October 2017, 6:36 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-10-19T06:36:02+08:00"
+    },
+    "aggsites": "48",
+    "aggdownloads": "31",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/224/Image%20002.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/224/Image%20001.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/224/Image%20003.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/224/Image%20004.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/224/Image%20005.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/224/Image%20006.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1921968,
+            "firstname": "Ben",
+            "lastname": "Chenoweth",
+            "url": "https://moodle.org/user/profile.php?id=1921968"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

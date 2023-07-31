@@ -1,0 +1,53 @@
+{
+    "id": 1725,
+    "index": 421,
+    "name": "Multi-Embed Filter",
+    "frankenstyle": "filter_multiembed",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_multiembed",
+    "shortdescription": "Moodle filter to facilitate embedding of third-party content using simple copy/paste of URLs (e.g. Google Docs, YouTube, ThingLink, Quizlet, Padlet, etc.). 3 new services recently added -> now supports 31 services!",
+    "timelastreleased": {
+        "absdate": "Saturday, 16 November 2019, 9:03 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-11-16T21:03:32+08:00"
+    },
+    "aggsites": "855",
+    "aggdownloads": "290",
+    "aggfavs": "69",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1725/Filter%20Multiembed%20.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1725/embedded-ted-video-in-moodle.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1725/Filter%20order.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1725/moodle-editor.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1725/multiembed_services.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 234677,
+            "firstname": "Frederic",
+            "lastname": "Nevers",
+            "url": "https://moodle.org/user/profile.php?id=234677"
+        }
+    ],
+    "descriptors": []
+}

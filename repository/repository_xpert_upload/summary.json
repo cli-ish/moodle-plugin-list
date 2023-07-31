@@ -1,0 +1,58 @@
+{
+    "id": 1361,
+    "index": 1795,
+    "name": "Upload and attribute a file (Xpert)",
+    "frankenstyle": "repository_xpert_upload",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_xpert_upload",
+    "shortdescription": "The 'Upload and attribute a file (Xpert)' repository allows a user to attribute an uploaded image to the copyright holder",
+    "timelastreleased": {
+        "absdate": "Monday, 25 July 2022, 3:42 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-07-25T15:42:00+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "5",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1361/logo_uon.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1361/logo_uon.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1361/xpert_upload_attributed_image.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1361/xpert_upload_image_choose_colour.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1361/xpert_upload_image_example.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1805510,
+            "firstname": "The University",
+            "lastname": "of Nottingham",
+            "url": "https://moodle.org/user/profile.php?id=1805510"
+        },
+        {
+            "id": 1457891,
+            "firstname": "Neill",
+            "lastname": "Magill",
+            "url": "https://moodle.org/user/profile.php?id=1457891"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

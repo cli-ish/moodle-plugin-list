@@ -1,0 +1,55 @@
+{
+    "id": 1553,
+    "index": 1376,
+    "name": "Remote backup provider",
+    "frankenstyle": "local_remote_backup_provider",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_remote_backup_provider",
+    "shortdescription": "[SEEKING MAINTAINER] This local module allows you to restore a course from a remote Moodle instance into your current instance via a REST web service. The intended use case is quick restores from an archival Moodle instance into the current yearly instance.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 28 November 2018, 4:50 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-11-28T04:50:48+08:00"
+    },
+    "aggsites": "143",
+    "aggdownloads": "15",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1553/local_remote_backup_provider-admin.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1553/local_remote_backup_provider-config.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

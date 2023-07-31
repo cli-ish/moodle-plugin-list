@@ -1,0 +1,49 @@
+{
+    "id": 664,
+    "index": 1364,
+    "name": "Aadar",
+    "frankenstyle": "theme_aadar",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_aadar",
+    "shortdescription": "Aadar is a three column Moodle theme built specifically with Admin Dashboard..",
+    "timelastreleased": {
+        "absdate": "Tuesday, 2 April 2013, 11:17 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-02T23:17:23+08:00"
+    },
+    "aggsites": "35",
+    "aggdownloads": "16",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/664/logo-4jan.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/664/logo-4jan.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/664/Moodle4_testinge.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/664/Moodle4_testing.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1296953,
+            "firstname": "Niranjan",
+            "lastname": "eAbyas",
+            "url": "https://moodle.org/user/profile.php?id=1296953"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

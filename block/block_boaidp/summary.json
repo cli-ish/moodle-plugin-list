@@ -1,0 +1,44 @@
+{
+    "id": 270,
+    "index": 1894,
+    "name": "boaidp",
+    "frankenstyle": "block_boaidp",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_boaidp",
+    "shortdescription": "This is an implementation of Moodle's Block for preloading (in a bulk and automation mode) of metadata \r\nassociated to Moodle's Courses and their further edition (in a manually mode).\r\n\r\nThe main aims of these metadata is to serve as basis (Data Provider) for OAI-PMH 2.0 Harvester implementations.\r\n\r\nGETTING ON GITHUB\r\nhttps://github.com/mglaredo/moodle-block_boaidp",
+    "timelastreleased": {
+        "absdate": "Wednesday, 24 July 2013, 3:23 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-07-24T15:23:49+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "4",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/270/BLOCK-INSTANCE-ONCOURSE_EDITION.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/270/GLOBAL_SETTING.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1579950,
+            "firstname": "Miguel",
+            "lastname": "Gonz\u00e1lez Laredo",
+            "url": "https://moodle.org/user/profile.php?id=1579950"
+        }
+    ],
+    "descriptors": []
+}

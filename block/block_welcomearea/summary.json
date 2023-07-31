@@ -1,0 +1,67 @@
+{
+    "id": 589,
+    "index": 1873,
+    "name": "Welcome Area Block",
+    "frankenstyle": "block_welcomearea",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_welcomearea",
+    "shortdescription": "This block provides a Welcome Area for Moodle courses that is unique by instructor instead of by course.  This is useful for displaying information that is repeated by a teacher across a number of courses.",
+    "timelastreleased": {
+        "absdate": "Friday, 11 January 2013, 9:16 AM",
+        "reldate": "11 years",
+        "iso8601date": "2013-01-11T09:16:55+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "4",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1512318,
+            "firstname": "Karen",
+            "lastname": "Eng",
+            "url": "https://moodle.org/user/profile.php?id=1512318"
+        },
+        {
+            "id": 82371,
+            "firstname": "Matt",
+            "lastname": "Oquist",
+            "url": "https://moodle.org/user/profile.php?id=82371"
+        },
+        {
+            "id": 827113,
+            "firstname": "Jonathan",
+            "lastname": "Doane",
+            "url": "https://moodle.org/user/profile.php?id=827113"
+        },
+        {
+            "id": 1315150,
+            "firstname": "David",
+            "lastname": "Zaharee",
+            "url": "https://moodle.org/user/profile.php?id=1315150"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 778,
+    "index": 1428,
+    "name": "OpenDesktop",
+    "frankenstyle": "mod_opendesktop",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_opendesktop",
+    "shortdescription": "This combines Ulteo Open Virtual Desktop with BigBlueButton and is perfect for live online cooperation in real time.",
+    "timelastreleased": {
+        "absdate": "Sunday, 28 July 2013, 3:19 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-07-28T03:19:36+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "14",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/778/opendesktop-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/778/opendesktop-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/778/screenshopt01.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

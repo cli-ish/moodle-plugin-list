@@ -1,0 +1,45 @@
+{
+    "id": 505,
+    "index": 1430,
+    "name": "Bitbucket",
+    "frankenstyle": "repository_bitbucket",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_bitbucket",
+    "shortdescription": "This is a Bitbucket repository plugin for Moodle. It allows downloading and using public files from a public repository",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 December 2012, 7:52 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-12-12T19:52:19+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "14",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/505/Bitbucket_Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/505/Bitbucket_Logo.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1226308,
+            "firstname": "Robert",
+            "lastname": "Marsal",
+            "url": "https://moodle.org/user/profile.php?id=1226308"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

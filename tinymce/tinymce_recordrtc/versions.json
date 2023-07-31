@@ -1,0 +1,22 @@
+[
+    {
+        "id": "20974",
+        "name": "1.1-rc",
+        "url": "https://moodle.org/plugins/download.php/20974/tinymce_recordrtc_moodle30_2016020913.zip"
+    },
+    {
+        "id": "19785",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/19785/tinymce_recordrtc_moodle40_2020110411.zip"
+    },
+    {
+        "id": "19786",
+        "name": "1.1-beta",
+        "url": "https://moodle.org/plugins/download.php/19786/tinymce_recordrtc_moodle33_2023111217.zip"
+    },
+    {
+        "id": "14677",
+        "name": "1.0-b4",
+        "url": "https://moodle.org/plugins/download.php/14677/tinymce_recordrtc_moodle34_2018050412.zip"
+    }
+]

@@ -1,0 +1,40 @@
+{
+    "id": 1729,
+    "index": 1932,
+    "name": "smartchoice",
+    "frankenstyle": "mod_smartchoice",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_smartchoice",
+    "shortdescription": "The smartchoice activity module enables a teacher to ask a single question and offer a selection of possible responses. All responses are saved anonymously.",
+    "timelastreleased": {
+        "absdate": "Saturday, 29 October 2016, 2:46 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-10-29T02:46:39+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "3",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1729/222222.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2155398,
+            "firstname": "Thomas",
+            "lastname": "Belser",
+            "url": "https://moodle.org/user/profile.php?id=2155398"
+        }
+    ],
+    "descriptors": []
+}

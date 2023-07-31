@@ -1,0 +1,73 @@
+{
+    "id": 1652,
+    "index": 564,
+    "name": "Groups and Groupings",
+    "frankenstyle": "block_groups",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_groups",
+    "shortdescription": "A Moodle block to display groups and groupings to users. The plugin differentiates between the capability rights of users to evaluate the appropriate amount of information to be displayed.",
+    "timelastreleased": {
+        "absdate": "Thursday, 21 April 2022, 7:10 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-04-21T19:10:06+08:00"
+    },
+    "aggsites": "283",
+    "aggdownloads": "209",
+    "aggfavs": "42",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1652/groupsopen.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1652/studentsview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1652/teacherview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1652/warning.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 2095586,
+            "firstname": "Nina",
+            "lastname": "Herrmann",
+            "url": "https://moodle.org/user/profile.php?id=2095586"
+        },
+        {
+            "id": 1942711,
+            "firstname": "Jan",
+            "lastname": "Dagef\u00f6rde",
+            "url": "https://moodle.org/user/profile.php?id=1942711"
+        },
+        {
+            "id": 1859594,
+            "firstname": "Tobias",
+            "lastname": "Reischmann",
+            "url": "https://moodle.org/user/profile.php?id=1859594"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 187,
+    "index": 513,
+    "name": "Joomdle",
+    "frankenstyle": "auth_joomdle",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_joomdle",
+    "shortdescription": "This plugin lets you integrate Moodle and Joomla platforms.",
+    "timelastreleased": {
+        "absdate": "Sunday, 22 January 2023, 6:52 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-22T18:52:41+08:00"
+    },
+    "aggsites": "575",
+    "aggdownloads": "228",
+    "aggfavs": "34",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/187/joomdle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/187/joomdle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/187/courses.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/187/sell_courses.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 705036,
+            "firstname": "Antonio",
+            "lastname": "Duran",
+            "url": "https://moodle.org/user/profile.php?id=705036"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

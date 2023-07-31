@@ -1,0 +1,53 @@
+{
+    "id": 2184,
+    "index": 477,
+    "name": "EvalCOMIX",
+    "frankenstyle": "block_evalcomix",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_evalcomix",
+    "shortdescription": "Block of integration of EvalCOMIX web service in Moodle 3.6 onwards. \r\nEvalCOMIX is a web service designed to create and deploy assessment tools",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 July 2023, 6:00 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-04T18:00:30+08:00"
+    },
+    "aggsites": "300",
+    "aggdownloads": "245",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2184/logoevalcomix.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2184/logoevalcomix.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2184/assess_activities.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2184/assessment_form.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2184/block_evalcomix.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2184/edit_assessment_tool.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2184/menu_evalcomix.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 718837,
+            "firstname": "Universidad de C\u00e1diz - Grupo EVALfor SEJ509",
+            "lastname": "- \u00c1nsaner Desarrollos",
+            "url": "https://moodle.org/user/profile.php?id=718837"
+        }
+    ],
+    "descriptors": []
+}

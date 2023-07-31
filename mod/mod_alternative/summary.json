@@ -1,0 +1,67 @@
+{
+    "id": 665,
+    "index": 1778,
+    "name": "Alternative",
+    "frankenstyle": "mod_alternative",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_alternative",
+    "shortdescription": "The Alternative activity allow students to register to one or several choices,\r\namong a given list, in a similar maner to the Choice module, but with more flexible use cases.\r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 7 May 2013, 9:11 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-07T21:11:57+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/665/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/665/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/665/student_individual_registration.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/665/student_team_registration.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/665/teacher_settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/665/teacher_view_registered_students.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/665/teacher_view_registrations.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/665/teacher_view_synthesis.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/665/teacher_view_teams.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/665/teacher_view_unregistered_students.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 365480,
+            "firstname": "Allegre",
+            "lastname": "Guillaume",
+            "url": "https://moodle.org/user/profile.php?id=365480"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

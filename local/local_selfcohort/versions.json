@@ -1,0 +1,27 @@
+[
+    {
+        "id": "29388",
+        "name": "3",
+        "url": "https://moodle.org/plugins/download.php/29388/local_selfcohort_moodle25_2011060307.zip"
+    },
+    {
+        "id": "23496",
+        "name": "2",
+        "url": "https://moodle.org/plugins/download.php/23496/local_selfcohort_moodle37_2013110100.zip"
+    },
+    {
+        "id": "23221",
+        "name": "1",
+        "url": "https://moodle.org/plugins/download.php/23221/local_selfcohort_moodle37_2016050516.zip"
+    },
+    {
+        "id": "23012",
+        "name": "0.1.1",
+        "url": "https://moodle.org/plugins/download.php/23012/local_selfcohort_moodle37_2017071109.zip"
+    },
+    {
+        "id": "23009",
+        "name": "0.1.0",
+        "url": "https://moodle.org/plugins/download.php/23009/local_selfcohort_moodle36_2019020507.zip"
+    }
+]

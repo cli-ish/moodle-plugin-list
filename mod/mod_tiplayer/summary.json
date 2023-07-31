@@ -1,0 +1,49 @@
+{
+    "id": 530,
+    "index": 2029,
+    "name": "TI-Player",
+    "frankenstyle": "mod_tiplayer",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_tiplayer",
+    "shortdescription": "'TI-Player' Module allows us to create a new TI-Player resource, for a specific course, and it will be able to recognize automatically 'tns' files and show them through 'TI - Nspire Document Viewer Player'.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 November 2012, 10:50 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-20T22:50:07+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "2",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/530/ti_player_resource.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1474813,
+            "firstname": "Paqui",
+            "lastname": "Bell\u00e9s Vallejo",
+            "url": "https://moodle.org/user/profile.php?id=1474813"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": 2354,
+    "index": 1905,
+    "name": "EnrolByCode",
+    "frankenstyle": "block_enrolcode",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_enrolcode",
+    "shortdescription": "This moodle block allows user enrolment by showing temporary access codes.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 November 2021, 11:31 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-23T23:31:37+08:00"
+    },
+    "aggsites": "42",
+    "aggdownloads": "3",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2354/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2354/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2354/01_code_create.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2354/02_code_show.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2354/03_block_enter_code.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        },
+        {
+            "id": 2827819,
+            "firstname": "Zentrum f\u00fcr",
+            "lastname": "Lernmanagement",
+            "url": "https://moodle.org/user/profile.php?id=2827819"
+        },
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": []
+}

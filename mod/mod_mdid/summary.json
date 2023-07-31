@@ -1,0 +1,45 @@
+{
+    "id": 477,
+    "index": 2011,
+    "name": "MDID",
+    "frankenstyle": "mod_mdid",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_mdid",
+    "shortdescription": "This activity allows for MDID version 2 slideshows to display in your Moodle 2.x course.",
+    "timelastreleased": {
+        "absdate": "Friday, 1 March 2013, 1:40 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-01T01:40:03+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "2",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/477/mod_mdid_activity_view.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1450603,
+            "firstname": "Jay",
+            "lastname": "Huber",
+            "url": "https://moodle.org/user/profile.php?id=1450603"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

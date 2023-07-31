@@ -1,0 +1,40 @@
+{
+    "id": 34,
+    "index": 1133,
+    "name": "User Information Block",
+    "frankenstyle": "block_userinfo",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_userinfo",
+    "shortdescription": "This block intends to give the user a few shortcuts in order to navigate quickly through every Moodle site. Besides it advices the user about unread messages and information about the last access to the LMS. It's already translated into spanish, english, portuguese and chinese. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 August 2013, 2:37 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-22T14:37:13+08:00"
+    },
+    "aggsites": "49",
+    "aggdownloads": "34",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/34/user_information_block.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/34/user_information_block.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/34/user_information_block.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 442543,
+            "firstname": "Federico ",
+            "lastname": "Botti",
+            "url": "https://moodle.org/user/profile.php?id=442543"
+        }
+    ],
+    "descriptors": []
+}

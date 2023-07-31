@@ -1,0 +1,47 @@
+{
+    "id": 1185,
+    "index": 834,
+    "name": "File upload",
+    "frankenstyle": "profilefield_file",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_file",
+    "shortdescription": "A file upload profile field for Moodle",
+    "timelastreleased": {
+        "absdate": "Sunday, 18 December 2016, 9:49 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-18T21:49:36+08:00"
+    },
+    "aggsites": "474",
+    "aggdownloads": "116",
+    "aggfavs": "31",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1185/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1185/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1185/3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 723655,
+            "firstname": "Shamim",
+            "lastname": "Rezaie",
+            "url": "https://moodle.org/user/profile.php?id=723655"
+        }
+    ],
+    "descriptors": []
+}

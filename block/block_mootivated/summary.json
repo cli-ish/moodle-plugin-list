@@ -1,0 +1,46 @@
+{
+    "id": 1864,
+    "index": 1341,
+    "name": "Legacy (Retired) Motrain block",
+    "frankenstyle": "block_mootivated",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mootivated",
+    "shortdescription": "This plugin has been updated here:  https://moodle.org/plugins/block_motrain",
+    "timelastreleased": {
+        "absdate": "Sunday, 27 June 2021, 4:25 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-27T16:25:40+08:00"
+    },
+    "aggsites": "87",
+    "aggdownloads": "17",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1864/SSO%20and%20Leaderboard.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        },
+        {
+            "id": 2080141,
+            "firstname": "Jeff",
+            "lastname": "Campbell",
+            "url": "https://moodle.org/user/profile.php?id=2080141"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": 1758,
+    "index": 1038,
+    "name": "waxed",
+    "frankenstyle": "theme_waxed",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_waxed",
+    "shortdescription": "THEME_WAXED\r\n\r\nTheme_Waxed is a child theme of Moodle's new core theme Boost.\r\n\r\nIt is built on Boostrap4 and Mustache templates and adds additional settings to those in Boost to allow a level of customisation with limited knowledge of scss/css.",
+    "timelastreleased": {
+        "absdate": "Sunday, 2 June 2019, 6:19 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-06-02T06:19:59+08:00"
+    },
+    "aggsites": "126",
+    "aggdownloads": "46",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1758/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1758/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1758/screenshot%20%281%29.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1758/screenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 480148,
+            "firstname": "Richard",
+            "lastname": "Oelmann",
+            "url": "https://moodle.org/user/profile.php?id=480148"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

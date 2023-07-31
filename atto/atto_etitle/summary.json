@@ -1,0 +1,47 @@
+{
+    "id": 2318,
+    "index": 1363,
+    "name": "Enhanced Paragraph styles",
+    "frankenstyle": "atto_etitle",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_etitle",
+    "shortdescription": "This is essential Paragraph styles with an added element for tabs. This is required when using the Glendon course format to identify tabs",
+    "timelastreleased": {
+        "absdate": "Saturday, 13 July 2019, 10:20 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-07-13T22:20:31+08:00"
+    },
+    "aggsites": "38",
+    "aggdownloads": "16",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2318/add%20tab.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2318/glendon-course-format.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2318/tabs.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 106123,
+            "firstname": "Patrick",
+            "lastname": "Thibaudeau",
+            "url": "https://moodle.org/user/profile.php?id=106123"
+        }
+    ],
+    "descriptors": []
+}

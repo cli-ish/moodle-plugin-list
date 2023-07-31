@@ -1,0 +1,52 @@
+{
+    "id": 801,
+    "index": 1646,
+    "name": "Course Finder",
+    "frankenstyle": "block_search_course",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_search_course",
+    "shortdescription": "A plugin to search courses in Moodle.",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 June 2017, 1:00 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-06-08T13:00:22+08:00"
+    },
+    "aggsites": "101",
+    "aggdownloads": "7",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/801/Course%20Finder%20-%201.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/801/Course%20Finder%20-%201.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/801/Course%20Finder%20-%201.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/801/Course%20Finder%20-%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/801/Course%20Finder%20-%203.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1624279,
+            "firstname": "3i Logic",
+            "lastname": "LMS",
+            "url": "https://moodle.org/user/profile.php?id=1624279"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

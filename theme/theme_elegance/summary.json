@@ -1,0 +1,55 @@
+{
+    "id": 1010,
+    "index": 1030,
+    "name": "Elegance",
+    "frankenstyle": "theme_elegance",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_elegance",
+    "shortdescription": "Elegance is a beautiful two column Moodle theme with robust functionality and lots of custom settings.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 5 March 2019, 11:26 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-03-05T23:26:11+08:00"
+    },
+    "aggsites": "529",
+    "aggdownloads": "49",
+    "aggfavs": "51",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1010/elegance.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1010/elegance.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1010/Courspage-Moodle-36.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1010/Frontpage-Moodle-36.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1010/Login-Moodle-36.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1010/quicklinks.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

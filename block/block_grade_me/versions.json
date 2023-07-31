@@ -1,0 +1,422 @@
+[
+    {
+        "id": "28646",
+        "name": "4.1.0.0",
+        "url": "https://moodle.org/plugins/download.php/28646/block_grade_me_moodle38_2022091014.zip"
+    },
+    {
+        "id": "26969",
+        "name": "4.0.0.0",
+        "url": "https://moodle.org/plugins/download.php/26969/block_grade_me_moodle37_2018100508.zip"
+    },
+    {
+        "id": "26030",
+        "name": "3.11.0.2",
+        "url": "https://moodle.org/plugins/download.php/26030/block_grade_me_moodle28_2019120308.zip"
+    },
+    {
+        "id": "26029",
+        "name": "3.9.0.4",
+        "url": "https://moodle.org/plugins/download.php/26029/block_grade_me_moodle35_2020120818.zip"
+    },
+    {
+        "id": "23464",
+        "name": "3.8.0.1",
+        "url": "https://moodle.org/plugins/download.php/23464/block_grade_me_moodle30_2011071113.zip"
+    },
+    {
+        "id": "23838",
+        "name": "3.7.0.2",
+        "url": "https://moodle.org/plugins/download.php/23838/block_grade_me_moodle25_2021071009.zip"
+    },
+    {
+        "id": "23462",
+        "name": "3.6.0.1",
+        "url": "https://moodle.org/plugins/download.php/23462/block_grade_me_moodle26_2012100617.zip"
+    },
+    {
+        "id": "23837",
+        "name": "3.5.0.4",
+        "url": "https://moodle.org/plugins/download.php/23837/block_grade_me_moodle38_2012110719.zip"
+    },
+    {
+        "id": "18372",
+        "name": "3.4.0.3",
+        "url": "https://moodle.org/plugins/download.php/18372/block_grade_me_moodle39_2012090412.zip"
+    },
+    {
+        "id": "18371",
+        "name": "3.3.0.3",
+        "url": "https://moodle.org/plugins/download.php/18371/block_grade_me_moodle27_2014091102.zip"
+    },
+    {
+        "id": "18370",
+        "name": "3.2.0.9",
+        "url": "https://moodle.org/plugins/download.php/18370/block_grade_me_moodle29_2019040619.zip"
+    },
+    {
+        "id": "18369",
+        "name": "3.1.0.11",
+        "url": "https://moodle.org/plugins/download.php/18369/block_grade_me_moodle26_2021020414.zip"
+    },
+    {
+        "id": "15212",
+        "name": "3.0.0.9",
+        "url": "https://moodle.org/plugins/download.php/15212/block_grade_me_moodle38_2013040201.zip"
+    },
+    {
+        "id": "15211",
+        "name": "2.9.0.10",
+        "url": "https://moodle.org/plugins/download.php/15211/block_grade_me_moodle32_2011120813.zip"
+    },
+    {
+        "id": "12438",
+        "name": "2.8.0.10",
+        "url": "https://moodle.org/plugins/download.php/12438/block_grade_me_moodle32_2011071019.zip"
+    },
+    {
+        "id": "15210",
+        "name": "2.7.2.6",
+        "url": "https://moodle.org/plugins/download.php/15210/block_grade_me_moodle35_2017120605.zip"
+    },
+    {
+        "id": "8366",
+        "name": "2.6.1.8",
+        "url": "https://moodle.org/plugins/download.php/8366/block_grade_me_moodle25_2016051007.zip"
+    },
+    {
+        "id": "7756",
+        "name": "2.5.1.9",
+        "url": "https://moodle.org/plugins/download.php/7756/block_grade_me_moodle31_2010031103.zip"
+    },
+    {
+        "id": "6097",
+        "name": "2.4.4.8",
+        "url": "https://moodle.org/plugins/download.php/6097/block_grade_me_moodle40_2023080502.zip"
+    },
+    {
+        "id": "6098",
+        "name": "2.3.4.7",
+        "url": "https://moodle.org/plugins/download.php/6098/block_grade_me_moodle27_2011091216.zip"
+    },
+    {
+        "id": "24662",
+        "name": "3.11.0.0",
+        "url": "https://moodle.org/plugins/download.php/24662/block_grade_me_moodle35_2019040103.zip"
+    },
+    {
+        "id": "23839",
+        "name": "3.9.0.2",
+        "url": "https://moodle.org/plugins/download.php/23839/block_grade_me_moodle39_2019020407.zip"
+    },
+    {
+        "id": "23465",
+        "name": "3.9.0.1",
+        "url": "https://moodle.org/plugins/download.php/23465/block_grade_me_moodle37_2021010207.zip"
+    },
+    {
+        "id": "22615",
+        "name": "3.9.0.0",
+        "url": "https://moodle.org/plugins/download.php/22615/block_grade_me_moodle32_2015081101.zip"
+    },
+    {
+        "id": "21318",
+        "name": "3.8.0.0",
+        "url": "https://moodle.org/plugins/download.php/21318/block_grade_me_moodle30_2014100820.zip"
+    },
+    {
+        "id": "23463",
+        "name": "3.7.0.1",
+        "url": "https://moodle.org/plugins/download.php/23463/block_grade_me_moodle25_2022070306.zip"
+    },
+    {
+        "id": "21021",
+        "name": "3.7.0.0",
+        "url": "https://moodle.org/plugins/download.php/21021/block_grade_me_moodle40_2010080310.zip"
+    },
+    {
+        "id": "20106",
+        "name": "3.6.0.0",
+        "url": "https://moodle.org/plugins/download.php/20106/block_grade_me_moodle31_2019100918.zip"
+    },
+    {
+        "id": "23461",
+        "name": "3.5.0.3",
+        "url": "https://moodle.org/plugins/download.php/23461/block_grade_me_moodle27_2012020104.zip"
+    },
+    {
+        "id": "18373",
+        "name": "3.5.0.2",
+        "url": "https://moodle.org/plugins/download.php/18373/block_grade_me_moodle29_2017091216.zip"
+    },
+    {
+        "id": "16021",
+        "name": "3.4.0.0",
+        "url": "https://moodle.org/plugins/download.php/16021/block_grade_me_moodle30_2022011106.zip"
+    },
+    {
+        "id": "16020",
+        "name": "3.3.0.0",
+        "url": "https://moodle.org/plugins/download.php/16020/block_grade_me_moodle27_2022021115.zip"
+    },
+    {
+        "id": "15214",
+        "name": "3.2.0.6",
+        "url": "https://moodle.org/plugins/download.php/15214/block_grade_me_moodle27_2015051107.zip"
+    },
+    {
+        "id": "15213",
+        "name": "3.1.0.8",
+        "url": "https://moodle.org/plugins/download.php/15213/block_grade_me_moodle40_2021050513.zip"
+    },
+    {
+        "id": "12441",
+        "name": "3.1.0.2",
+        "url": "https://moodle.org/plugins/download.php/12441/block_grade_me_moodle38_2012040920.zip"
+    },
+    {
+        "id": "12290",
+        "name": "3.1.0.1",
+        "url": "https://moodle.org/plugins/download.php/12290/block_grade_me_moodle26_2018050703.zip"
+    },
+    {
+        "id": "12159",
+        "name": "3.1.0.0",
+        "url": "https://moodle.org/plugins/download.php/12159/block_grade_me_moodle40_2021100817.zip"
+    },
+    {
+        "id": "12440",
+        "name": "3.0.0.4",
+        "url": "https://moodle.org/plugins/download.php/12440/block_grade_me_moodle30_2012120508.zip"
+    },
+    {
+        "id": "12289",
+        "name": "3.0.0.3",
+        "url": "https://moodle.org/plugins/download.php/12289/block_grade_me_moodle25_2023011219.zip"
+    },
+    {
+        "id": "12158",
+        "name": "3.0.0.2",
+        "url": "https://moodle.org/plugins/download.php/12158/block_grade_me_moodle40_2019071011.zip"
+    },
+    {
+        "id": "11503",
+        "name": "3.0.0.1",
+        "url": "https://moodle.org/plugins/download.php/11503/block_grade_me_moodle38_2021101101.zip"
+    },
+    {
+        "id": "10506",
+        "name": "3.0.0.0",
+        "url": "https://moodle.org/plugins/download.php/10506/block_grade_me_moodle39_2015020205.zip"
+    },
+    {
+        "id": "12439",
+        "name": "2.9.0.5",
+        "url": "https://moodle.org/plugins/download.php/12439/block_grade_me_moodle35_2014070200.zip"
+    },
+    {
+        "id": "12288",
+        "name": "2.9.0.4",
+        "url": "https://moodle.org/plugins/download.php/12288/block_grade_me_moodle31_2012081214.zip"
+    },
+    {
+        "id": "12157",
+        "name": "2.9.0.3",
+        "url": "https://moodle.org/plugins/download.php/12157/block_grade_me_moodle33_2021051103.zip"
+    },
+    {
+        "id": "11502",
+        "name": "2.9.0.2",
+        "url": "https://moodle.org/plugins/download.php/11502/block_grade_me_moodle33_2013050217.zip"
+    },
+    {
+        "id": "9628",
+        "name": "2.9.0.1",
+        "url": "https://moodle.org/plugins/download.php/9628/block_grade_me_moodle39_2013120913.zip"
+    },
+    {
+        "id": "8789",
+        "name": "2.9.0.0",
+        "url": "https://moodle.org/plugins/download.php/8789/block_grade_me_moodle36_2013051104.zip"
+    },
+    {
+        "id": "12287",
+        "name": "2.8.0.9",
+        "url": "https://moodle.org/plugins/download.php/12287/block_grade_me_moodle38_2012070201.zip"
+    },
+    {
+        "id": "12156",
+        "name": "2.8.0.8",
+        "url": "https://moodle.org/plugins/download.php/12156/block_grade_me_moodle37_2013050712.zip"
+    },
+    {
+        "id": "11501",
+        "name": "2.8.0.7",
+        "url": "https://moodle.org/plugins/download.php/11501/block_grade_me_moodle30_2016110108.zip"
+    },
+    {
+        "id": "9627",
+        "name": "2.8.0.6",
+        "url": "https://moodle.org/plugins/download.php/9627/block_grade_me_moodle34_2022021007.zip"
+    },
+    {
+        "id": "8368",
+        "name": "2.8.0.5",
+        "url": "https://moodle.org/plugins/download.php/8368/block_grade_me_moodle33_2019080516.zip"
+    },
+    {
+        "id": "8202",
+        "name": "2.8.0.4",
+        "url": "https://moodle.org/plugins/download.php/8202/block_grade_me_moodle35_2021020513.zip"
+    },
+    {
+        "id": "8113",
+        "name": "2.8.0.3",
+        "url": "https://moodle.org/plugins/download.php/8113/block_grade_me_moodle27_2012050100.zip"
+    },
+    {
+        "id": "7759",
+        "name": "2.8.0.2",
+        "url": "https://moodle.org/plugins/download.php/7759/block_grade_me_moodle31_2012030802.zip"
+    },
+    {
+        "id": "7560",
+        "name": "2.8.0.1",
+        "url": "https://moodle.org/plugins/download.php/7560/block_grade_me_moodle34_2019081005.zip"
+    },
+    {
+        "id": "7329",
+        "name": "2.8.0.0",
+        "url": "https://moodle.org/plugins/download.php/7329/block_grade_me_moodle33_2014030409.zip"
+    },
+    {
+        "id": "12437",
+        "name": "2.7.2.1",
+        "url": "https://moodle.org/plugins/download.php/12437/block_grade_me_moodle36_2019101011.zip"
+    },
+    {
+        "id": "12286",
+        "name": "2.7.2.0",
+        "url": "https://moodle.org/plugins/download.php/12286/block_grade_me_moodle39_2019031009.zip"
+    },
+    {
+        "id": "12155",
+        "name": "2.7.1.9",
+        "url": "https://moodle.org/plugins/download.php/12155/block_grade_me_moodle33_2018070506.zip"
+    },
+    {
+        "id": "11500",
+        "name": "2.7.1.8",
+        "url": "https://moodle.org/plugins/download.php/11500/block_grade_me_moodle40_2019020708.zip"
+    },
+    {
+        "id": "9626",
+        "name": "2.7.1.7",
+        "url": "https://moodle.org/plugins/download.php/9626/block_grade_me_moodle26_2022080501.zip"
+    },
+    {
+        "id": "8367",
+        "name": "2.7.1.6",
+        "url": "https://moodle.org/plugins/download.php/8367/block_grade_me_moodle37_2014091014.zip"
+    },
+    {
+        "id": "8201",
+        "name": "2.7.1.5",
+        "url": "https://moodle.org/plugins/download.php/8201/block_grade_me_moodle26_2014070205.zip"
+    },
+    {
+        "id": "8112",
+        "name": "2.7.1.4",
+        "url": "https://moodle.org/plugins/download.php/8112/block_grade_me_moodle30_2019090615.zip"
+    },
+    {
+        "id": "7758",
+        "name": "2.7.1.3",
+        "url": "https://moodle.org/plugins/download.php/7758/block_grade_me_moodle36_2015040416.zip"
+    },
+    {
+        "id": "7559",
+        "name": "2.7.1.2",
+        "url": "https://moodle.org/plugins/download.php/7559/block_grade_me_moodle26_2014010618.zip"
+    },
+    {
+        "id": "7283",
+        "name": "2.7.1.1",
+        "url": "https://moodle.org/plugins/download.php/7283/block_grade_me_moodle39_2018090106.zip"
+    },
+    {
+        "id": "6889",
+        "name": "2.7.1.0",
+        "url": "https://moodle.org/plugins/download.php/6889/block_grade_me_moodle33_2019080201.zip"
+    },
+    {
+        "id": "8200",
+        "name": "2.6.1.7",
+        "url": "https://moodle.org/plugins/download.php/8200/block_grade_me_moodle28_2011120103.zip"
+    },
+    {
+        "id": "8111",
+        "name": "2.6.1.6",
+        "url": "https://moodle.org/plugins/download.php/8111/block_grade_me_moodle27_2023080418.zip"
+    },
+    {
+        "id": "7757",
+        "name": "2.6.1.5",
+        "url": "https://moodle.org/plugins/download.php/7757/block_grade_me_moodle28_2013101105.zip"
+    },
+    {
+        "id": "7558",
+        "name": "2.6.1.4",
+        "url": "https://moodle.org/plugins/download.php/7558/block_grade_me_moodle32_2019110415.zip"
+    },
+    {
+        "id": "7282",
+        "name": "2.6.1.3",
+        "url": "https://moodle.org/plugins/download.php/7282/block_grade_me_moodle37_2018080414.zip"
+    },
+    {
+        "id": "6888",
+        "name": "2.6.1.2",
+        "url": "https://moodle.org/plugins/download.php/6888/block_grade_me_moodle27_2020081200.zip"
+    },
+    {
+        "id": "6095",
+        "name": "2.6.1.1",
+        "url": "https://moodle.org/plugins/download.php/6095/block_grade_me_moodle39_2010031111.zip"
+    },
+    {
+        "id": "7557",
+        "name": "2.5.1.8",
+        "url": "https://moodle.org/plugins/download.php/7557/block_grade_me_moodle39_2015041000.zip"
+    },
+    {
+        "id": "7281",
+        "name": "2.5.1.7",
+        "url": "https://moodle.org/plugins/download.php/7281/block_grade_me_moodle25_2022100808.zip"
+    },
+    {
+        "id": "6887",
+        "name": "2.5.1.6",
+        "url": "https://moodle.org/plugins/download.php/6887/block_grade_me_moodle26_2021121118.zip"
+    },
+    {
+        "id": "6096",
+        "name": "2.5.1.5",
+        "url": "https://moodle.org/plugins/download.php/6096/block_grade_me_moodle32_2016070816.zip"
+    },
+    {
+        "id": "4833",
+        "name": "2.5.1.3",
+        "url": "https://moodle.org/plugins/download.php/4833/block_grade_me_moodle35_2010030906.zip"
+    },
+    {
+        "id": "4831",
+        "name": "2.4.4.6",
+        "url": "https://moodle.org/plugins/download.php/4831/block_grade_me_moodle28_2011041009.zip"
+    },
+    {
+        "id": "4829",
+        "name": "2.3.4.6",
+        "url": "https://moodle.org/plugins/download.php/4829/block_grade_me_moodle28_2016091111.zip"
+    }
+]

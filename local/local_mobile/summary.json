@@ -1,0 +1,55 @@
+{
+    "id": 1151,
+    "index": 327,
+    "name": "Moodle App additional features",
+    "frankenstyle": "local_mobile",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_mobile",
+    "shortdescription": "Supports all features added to the latest Moodle App releases",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 May 2019, 5:33 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-05-29T17:33:04+08:00"
+    },
+    "aggsites": "1829",
+    "aggdownloads": "410",
+    "aggfavs": "109",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1151/drawable-xxxhdpi-icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1151/drawable-xxxhdpi-icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1151/300px-Mobile_orientation.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1151/Captura%20de%20pantalla%202014-06-11%20a%20la%28s%29%2021.50.27.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        },
+        {
+            "id": 1889394,
+            "firstname": "Dani",
+            "lastname": "Palou",
+            "url": "https://moodle.org/user/profile.php?id=1889394"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

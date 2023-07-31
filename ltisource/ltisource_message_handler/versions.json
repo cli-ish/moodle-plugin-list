@@ -1,0 +1,52 @@
+[
+    {
+        "id": "21302",
+        "name": "v2.9",
+        "url": "https://moodle.org/plugins/download.php/21302/ltisource_message_handler_moodle31_2015040703.zip"
+    },
+    {
+        "id": "19129",
+        "name": "v2.8",
+        "url": "https://moodle.org/plugins/download.php/19129/ltisource_message_handler_moodle37_2022090408.zip"
+    },
+    {
+        "id": "19128",
+        "name": "v2.7",
+        "url": "https://moodle.org/plugins/download.php/19128/ltisource_message_handler_moodle40_2011100809.zip"
+    },
+    {
+        "id": "19074",
+        "name": "v2.6",
+        "url": "https://moodle.org/plugins/download.php/19074/ltisource_message_handler_moodle38_2013060304.zip"
+    },
+    {
+        "id": "19054",
+        "name": "v2.5",
+        "url": "https://moodle.org/plugins/download.php/19054/ltisource_message_handler_moodle31_2021050100.zip"
+    },
+    {
+        "id": "19053",
+        "name": "v2.4",
+        "url": "https://moodle.org/plugins/download.php/19053/ltisource_message_handler_moodle38_2013120203.zip"
+    },
+    {
+        "id": "19052",
+        "name": "v2.3",
+        "url": "https://moodle.org/plugins/download.php/19052/ltisource_message_handler_moodle25_2019110103.zip"
+    },
+    {
+        "id": "19051",
+        "name": "v2.2",
+        "url": "https://moodle.org/plugins/download.php/19051/ltisource_message_handler_moodle29_2014021214.zip"
+    },
+    {
+        "id": "19000",
+        "name": "v2.1",
+        "url": "https://moodle.org/plugins/download.php/19000/ltisource_message_handler_moodle25_2014100216.zip"
+    },
+    {
+        "id": "18986",
+        "name": "v2.0",
+        "url": "https://moodle.org/plugins/download.php/18986/ltisource_message_handler_moodle25_2018030103.zip"
+    }
+]

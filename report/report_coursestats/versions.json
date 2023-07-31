@@ -1,0 +1,82 @@
+[
+    {
+        "id": "21951",
+        "name": "v3.0",
+        "url": "https://moodle.org/plugins/download.php/21951/report_coursestats_moodle28_2011110906.zip"
+    },
+    {
+        "id": "21275",
+        "name": "v2.9",
+        "url": "https://moodle.org/plugins/download.php/21275/report_coursestats_moodle34_2018020308.zip"
+    },
+    {
+        "id": "20443",
+        "name": "v2.8",
+        "url": "https://moodle.org/plugins/download.php/20443/report_coursestats_moodle34_2020031011.zip"
+    },
+    {
+        "id": "19535",
+        "name": "v2.7",
+        "url": "https://moodle.org/plugins/download.php/19535/report_coursestats_moodle34_2015081217.zip"
+    },
+    {
+        "id": "16434",
+        "name": "v2.7.5",
+        "url": "https://moodle.org/plugins/download.php/16434/report_coursestats_moodle33_2022080802.zip"
+    },
+    {
+        "id": "16008",
+        "name": "v2.6.1",
+        "url": "https://moodle.org/plugins/download.php/16008/report_coursestats_moodle25_2020050515.zip"
+    },
+    {
+        "id": "16007",
+        "name": "v2.6",
+        "url": "https://moodle.org/plugins/download.php/16007/report_coursestats_moodle40_2019050908.zip"
+    },
+    {
+        "id": "15358",
+        "name": "v2.5",
+        "url": "https://moodle.org/plugins/download.php/15358/report_coursestats_moodle40_2016070520.zip"
+    },
+    {
+        "id": "15344",
+        "name": "v2.4",
+        "url": "https://moodle.org/plugins/download.php/15344/report_coursestats_moodle32_2020120312.zip"
+    },
+    {
+        "id": "14963",
+        "name": "v2.3",
+        "url": "https://moodle.org/plugins/download.php/14963/report_coursestats_moodle36_2021010903.zip"
+    },
+    {
+        "id": "14962",
+        "name": "v2.2",
+        "url": "https://moodle.org/plugins/download.php/14962/report_coursestats_moodle39_2015120601.zip"
+    },
+    {
+        "id": "14961",
+        "name": "v2.1",
+        "url": "https://moodle.org/plugins/download.php/14961/report_coursestats_moodle30_2018031117.zip"
+    },
+    {
+        "id": "14943",
+        "name": "v2.0",
+        "url": "https://moodle.org/plugins/download.php/14943/report_coursestats_moodle39_2019110702.zip"
+    },
+    {
+        "id": "14832",
+        "name": "v1.3",
+        "url": "https://moodle.org/plugins/download.php/14832/report_coursestats_moodle32_2021030700.zip"
+    },
+    {
+        "id": "14275",
+        "name": "v1.1",
+        "url": "https://moodle.org/plugins/download.php/14275/report_coursestats_moodle34_2021080603.zip"
+    },
+    {
+        "id": "14273",
+        "name": "v1.0",
+        "url": "https://moodle.org/plugins/download.php/14273/report_coursestats_moodle39_2019091216.zip"
+    }
+]

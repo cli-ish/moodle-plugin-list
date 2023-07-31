@@ -1,0 +1,45 @@
+{
+    "id": 93,
+    "index": 1261,
+    "name": "Random assignment",
+    "frankenstyle": "assignment_random",
+    "plugintype": {
+        "type": "assignment",
+        "name": "Assignment / Legacy plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignment_random",
+    "shortdescription": "Random assignment is a plugin for assignments (based on advanced upload) with following properties:\r\n\r\n    Teacher specifies one or more files for assignments and (optionally) solution files with the same names\r\n    Each student gets one of these files randomly\r\n    In the assignment feedback page, teacher sees the assignment file and optionally the solution file as well.\r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 11 September 2012, 2:31 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-09-11T02:31:03+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "22",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/93/ra.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 62053,
+            "firstname": "Miroslav",
+            "lastname": "Fikar",
+            "url": "https://moodle.org/user/profile.php?id=62053"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

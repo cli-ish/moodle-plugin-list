@@ -1,0 +1,53 @@
+{
+    "id": 2379,
+    "index": 243,
+    "name": "Turnitin Integrity Plugin",
+    "frankenstyle": "plagiarism_turnitinsim",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_turnitinsim",
+    "shortdescription": "Utilize Turnitin Integrity\u2019s Similarity Report and Authorship investigating tools within Moodle\u2019s assignment workflow by integrating with the Turnitin Integrity plugin. Turnitin Integrity is a commercial plagiarism and authorship detection system whose features depend on which paid license has been selected. This plugin is developed and maintained by Turnitin.",
+    "timelastreleased": {
+        "absdate": "Friday, 30 June 2023, 6:02 AM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-06-30T06:02:54+08:00"
+    },
+    "aggsites": "498",
+    "aggdownloads": "520",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2379/Turnitin-Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2379/Turnitin-Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2379/Screenshot%202020-02-27%20at%2009.39.10.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2379/Screenshot%202020-02-27%20at%2009.28.34.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2379/Screenshot%202020-02-27%20at%2009.29.44.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5120187,
+            "firstname": "Bryan",
+            "lastname": "Holladay",
+            "url": "https://moodle.org/user/profile.php?id=5120187"
+        },
+        {
+            "id": 5528616,
+            "firstname": "Isaac",
+            "lastname": "Xiong",
+            "url": "https://moodle.org/user/profile.php?id=5528616"
+        }
+    ],
+    "descriptors": []
+}

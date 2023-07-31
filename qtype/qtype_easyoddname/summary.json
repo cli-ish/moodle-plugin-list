@@ -1,0 +1,49 @@
+{
+    "id": 1007,
+    "index": 1603,
+    "name": "Drag and Drop Organic Chemistry Nomenclature",
+    "frankenstyle": "qtype_easyoddname",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_easyoddname",
+    "shortdescription": "Students construct the names of organic molecules by dragging and dropping.",
+    "timelastreleased": {
+        "absdate": "Friday, 18 April 2014, 1:11 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-18T01:11:10+08:00"
+    },
+    "aggsites": "46",
+    "aggdownloads": "8",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1007/easyoddname.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

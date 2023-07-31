@@ -1,0 +1,42 @@
+[
+    {
+        "id": "17004",
+        "name": "2018053101",
+        "url": "https://moodle.org/plugins/download.php/17004/repository_coursefilearea_moodle27_2018071000.zip"
+    },
+    {
+        "id": "11077",
+        "name": "2016041801",
+        "url": "https://moodle.org/plugins/download.php/11077/repository_coursefilearea_moodle31_2014081004.zip"
+    },
+    {
+        "id": "2120",
+        "name": "2013020301",
+        "url": "https://moodle.org/plugins/download.php/2120/repository_coursefilearea_moodle36_2014010715.zip"
+    },
+    {
+        "id": "10743",
+        "name": "2016030701",
+        "url": "https://moodle.org/plugins/download.php/10743/repository_coursefilearea_moodle40_2013101202.zip"
+    },
+    {
+        "id": "961",
+        "name": "2012062801",
+        "url": "https://moodle.org/plugins/download.php/961/repository_coursefilearea_moodle25_2019060910.zip"
+    },
+    {
+        "id": "918",
+        "name": "2012062101",
+        "url": "https://moodle.org/plugins/download.php/918/repository_coursefilearea_moodle31_2023090419.zip"
+    },
+    {
+        "id": "152",
+        "name": "release-candidate-1",
+        "url": "https://moodle.org/plugins/download.php/152/repository_coursefilearea_moodle29_2023080207.zip"
+    },
+    {
+        "id": "96",
+        "name": "2011061301",
+        "url": "https://moodle.org/plugins/download.php/96/repository_coursefilearea_moodle26_2013030620.zip"
+    }
+]

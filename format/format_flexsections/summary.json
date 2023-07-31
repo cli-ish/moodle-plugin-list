@@ -1,0 +1,56 @@
+{
+    "id": 536,
+    "index": 57,
+    "name": "Flexible sections format",
+    "frankenstyle": "format_flexsections",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_flexsections",
+    "shortdescription": "Organises course content in any number of sections that can be nested. Each section can be displayed on the same page or on a separate page",
+    "timelastreleased": {
+        "absdate": "Monday, 3 July 2023, 4:44 AM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-03T04:44:03+08:00"
+    },
+    "aggsites": "2963",
+    "aggdownloads": "1k",
+    "aggfavs": "118",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/536/01_courseview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/536/02_subsection.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/536/03_editmode.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/536/04_courseview_3x.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/536/05_sectionview_3x.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/536/06_editmode_3x.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        }
+    ],
+    "descriptors": []
+}

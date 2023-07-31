@@ -1,0 +1,49 @@
+{
+    "id": 608,
+    "index": 653,
+    "name": "Poll",
+    "frankenstyle": "block_poll",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_poll",
+    "shortdescription": "Allows you to create custom polls for use in a Moodle course. A course can have many polls created within it; you can then choose which one to display through the block configuration tabs.",
+    "timelastreleased": {
+        "absdate": "Friday, 25 May 2018, 10:51 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-25T10:51:54+08:00"
+    },
+    "aggsites": "580",
+    "aggdownloads": "165",
+    "aggfavs": "40",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/608/poll-on-courseview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/608/poll-view-responses.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1316828,
+            "firstname": "Adam",
+            "lastname": "Olley",
+            "url": "https://moodle.org/user/profile.php?id=1316828"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

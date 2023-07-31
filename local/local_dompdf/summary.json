@@ -1,0 +1,40 @@
+{
+    "id": 2748,
+    "index": 1093,
+    "name": "Dompdf library",
+    "frankenstyle": "local_dompdf",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_dompdf",
+    "shortdescription": "Dompdf is an HTML to PDF converter. It is intended to be used as a library by other plugins.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 28 June 2023, 4:12 AM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-28T04:12:30+08:00"
+    },
+    "aggsites": "43",
+    "aggdownloads": "39",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2748/dompdf-image.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 431153,
+            "firstname": "Darko",
+            "lastname": "Mileti\u0107",
+            "url": "https://moodle.org/user/profile.php?id=431153"
+        }
+    ],
+    "descriptors": []
+}

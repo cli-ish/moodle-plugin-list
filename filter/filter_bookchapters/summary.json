@@ -1,0 +1,40 @@
+{
+    "id": 1826,
+    "index": 880,
+    "name": "Book chapter auto-linking",
+    "frankenstyle": "filter_bookchapters",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_bookchapters",
+    "shortdescription": "Autolink book chapters within a course.",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 December 2018, 2:32 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-12-13T02:32:14+08:00"
+    },
+    "aggsites": "52",
+    "aggdownloads": "104",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1826/filter.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 226766,
+            "firstname": "Matthew",
+            "lastname": "Davidson",
+            "url": "https://moodle.org/user/profile.php?id=226766"
+        }
+    ],
+    "descriptors": []
+}

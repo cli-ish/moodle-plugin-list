@@ -1,0 +1,46 @@
+{
+    "id": 1711,
+    "index": 806,
+    "name": "Via permanent activities",
+    "frankenstyle": "block_via_permanent",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_via_permanent",
+    "shortdescription": "The Via Permanent Block can only be used if you have the Via activity module.\r\nThis block creates shortcuts to the Via permanent activities* that have been shared within the course.\r\n\r\n*Permanent activities have no begining or end date, you may control its' access with the waiting room. See the Via guide for reference.",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 June 2022, 11:56 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-16T23:56:18+08:00"
+    },
+    "aggsites": "33",
+    "aggdownloads": "123",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1711/Via%20-%20RGB%2072dpi.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1711/Via%20-%20RGB%2072dpi.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1711/Capture.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1299369,
+            "firstname": "SVI",
+            "lastname": "eSolutions",
+            "url": "https://moodle.org/user/profile.php?id=1299369"
+        },
+        {
+            "id": 2205877,
+            "firstname": "Thomas",
+            "lastname": "Fauquignon",
+            "url": "https://moodle.org/user/profile.php?id=2205877"
+        }
+    ],
+    "descriptors": []
+}

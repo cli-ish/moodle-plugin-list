@@ -1,0 +1,50 @@
+{
+    "id": 2532,
+    "index": 1300,
+    "name": "Simple CSV format",
+    "frankenstyle": "qformat_simplecsv",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_simplecsv",
+    "shortdescription": "A simple format for easy and fast creating multiple choice questions with one or more correct answers and no feedback using tables in any spreadsheet by saving it as plain/csv file. ",
+    "timelastreleased": {
+        "absdate": "Friday, 7 August 2020, 3:28 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-07T15:28:03+08:00"
+    },
+    "aggsites": "50",
+    "aggdownloads": "19",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2532/Screenshot_2020-08-06%20Import%20questions%20from%20file.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2532/questions_csv.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2532/questions_no_category_csv.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2532/Screenshot_2020-08-06%20Import%20questions%20from%20file%20without%20category.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 312272,
+            "firstname": "Pawe\u0142 ",
+            "lastname": "Suwi\u0144ski",
+            "url": "https://moodle.org/user/profile.php?id=312272"
+        }
+    ],
+    "descriptors": []
+}

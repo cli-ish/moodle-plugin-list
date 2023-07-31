@@ -1,0 +1,53 @@
+{
+    "id": 2798,
+    "index": 937,
+    "name": "QR Code",
+    "frankenstyle": "atto_qrcode",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_qrcode",
+    "shortdescription": "Moodle Atto QR-Code is an Atto sub-plugin to easily create and integrate QR Code to Moodle Atto editor.",
+    "timelastreleased": {
+        "absdate": "Monday, 6 September 2021, 7:37 PM",
+        "reldate": "23 months",
+        "iso8601date": "2021-09-06T19:37:39+08:00"
+    },
+    "aggsites": "119",
+    "aggdownloads": "75",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2798/qrcode.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2798/qrcode.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2798/1.qrcode.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2798/2.form.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2798/3.settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2798/4.settings2-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2798/5.toolbar-settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3524295,
+            "firstname": "Brain",
+            "lastname": "Station 23",
+            "url": "https://moodle.org/user/profile.php?id=3524295"
+        }
+    ],
+    "descriptors": []
+}

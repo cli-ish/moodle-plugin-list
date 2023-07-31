@@ -1,0 +1,45 @@
+{
+    "id": 902,
+    "index": 901,
+    "name": "Presentation",
+    "frankenstyle": "mod_revealjs",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_revealjs",
+    "shortdescription": "Displays multimedia HTML5 presentations and slide shows in users' web browsers. A web friendly and more feature rich alternative to MS PowerPoint and PDF. However, presentations must be uploaded to moodledata via FTP and you'll need to learn some basic HTML to create presentations for it.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 22 May 2018, 3:41 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-22T03:41:12+08:00"
+    },
+    "aggsites": "307",
+    "aggdownloads": "94",
+    "aggfavs": "66",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/902/presentation.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/902/presentation.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/902/Presentation%20screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 462936,
+            "firstname": "Matt",
+            "lastname": "Bury",
+            "url": "https://moodle.org/user/profile.php?id=462936"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

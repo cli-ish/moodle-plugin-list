@@ -1,0 +1,44 @@
+{
+    "id": 1727,
+    "index": 1998,
+    "name": "card2brain",
+    "frankenstyle": "mod_cardtobrain",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_cardtobrain",
+    "shortdescription": "With the SSO module for card2brain you can directly link your sets of flashcards.\r\nIf you have a card2brain corporate account you can enable SSO authentication.\r\nWith SSO enabled, your users can directly access the flashcards without login or register on card2brain.ch.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 1 November 2016, 6:52 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-11-01T18:52:11+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "2",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1727/des-gehirns.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1727/des-gehirns.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1727/mod_cardtobrain-screen1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1727/mod_cardtobrain-screen2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2161520,
+            "firstname": "webapps.ch",
+            "lastname": "smart engineering",
+            "url": "https://moodle.org/user/profile.php?id=2161520"
+        }
+    ],
+    "descriptors": []
+}

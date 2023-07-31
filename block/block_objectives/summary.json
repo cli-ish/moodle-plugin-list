@@ -1,0 +1,40 @@
+{
+    "id": 16,
+    "index": 585,
+    "name": "Lesson objectives",
+    "frankenstyle": "block_objectives",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_objectives",
+    "shortdescription": "Displays current lesson objectives in the side-bar",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 April 2023, 7:02 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-18T19:02:54+08:00"
+    },
+    "aggsites": "250",
+    "aggdownloads": "199",
+    "aggfavs": "41",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/16/lesson_objectives_screenshot.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/16/lesson_objectives_screenshot.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/16/lesson_objectives_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": []
+}

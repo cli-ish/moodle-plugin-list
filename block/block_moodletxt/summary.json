@@ -1,0 +1,62 @@
+{
+    "id": 97,
+    "index": 1166,
+    "name": "moodletxt - bbconnecttxt.com SMS/Text Two-Way Messaging Module",
+    "frankenstyle": "block_moodletxt",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_moodletxt",
+    "shortdescription": "moodletxt is a block that allows teachers and administrators to send SMS/text \r\nmessages to their students directly from the Moodle system.  The module supports both inbound and outbound messaging, text message status updates, user-personalised \r\nmessages, message templates and signatures, personal addressbooks, and has full compatibility with user timezones. As of version 3, it also supports event-based messaging via the moodletxt+ message processor.",
+    "timelastreleased": {
+        "absdate": "Friday, 7 August 2015, 12:38 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-08-07T00:38:58+08:00"
+    },
+    "aggsites": "40",
+    "aggdownloads": "30",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/97/connectTxt.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/97/connectTxt.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/97/screenshot-address-book.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/97/screenshot-block.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/97/screenshot-compose.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/97/screenshot-sent.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/97/screenshot-status.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 146613,
+            "firstname": "Greg J",
+            "lastname": "Preece",
+            "url": "https://moodle.org/user/profile.php?id=146613"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": 619,
+    "index": 1889,
+    "name": "My Education Path",
+    "frankenstyle": "mod_myeducationpath",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_myeducationpath",
+    "shortdescription": "This module integrates a Moodle site with the MyEducationPath.com online courses directory. \r\nThe module allows to publish Moodle courses in the directory (courses hub) , issue certificates of course completion and get feedback from students in form of comments to a course in the directory.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 21 December 2016, 4:37 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-21T16:37:18+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "4",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/619/logo_square2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/619/logo_square2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/619/mep14.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/619/mep6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/619/moodle_mep_1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/619/moodle_mep_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/619/moodle_mep_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/619/moodle_mep_4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/619/moodle_mep_5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/619/moodle_mep_6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/619/moodle_mep_7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/619/moodle_mep_8.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1408227,
+            "firstname": "Roman",
+            "lastname": "Gelembiuk",
+            "url": "https://moodle.org/user/profile.php?id=1408227"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

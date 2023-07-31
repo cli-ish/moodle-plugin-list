@@ -1,0 +1,45 @@
+{
+    "id": 673,
+    "index": 2016,
+    "name": "Applications list",
+    "frankenstyle": "block_applications_list",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_applications_list",
+    "shortdescription": "This block is dependent of another local plugin (https://moodle.org/plugins/view.php?plugin=local_applications) that allows users to manage applications and access them without leaving Moodle. This block list all the favorite applications of a user and allows him to add new applications or access the applications management page.",
+    "timelastreleased": {
+        "absdate": "Monday, 1 April 2013, 3:14 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-01T03:14:04+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "2",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/673/Screen%20Shot%202013-03-30%20at%2016.29.23%20.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1461377,
+            "firstname": "Bruno",
+            "lastname": "Sampaio",
+            "url": "https://moodle.org/user/profile.php?id=1461377"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

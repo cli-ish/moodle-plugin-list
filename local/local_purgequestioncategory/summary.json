@@ -1,0 +1,52 @@
+{
+    "id": 1610,
+    "index": 1053,
+    "name": "Purge question categories",
+    "frankenstyle": "local_purgequestioncategory",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_purgequestioncategory",
+    "shortdescription": "This plugin allows to delete question category with all questions and subcategories",
+    "timelastreleased": {
+        "absdate": "Friday, 12 June 2020, 11:49 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-12T23:49:53+08:00"
+    },
+    "aggsites": "287",
+    "aggdownloads": "43",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1610/01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1610/02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1610/03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 585006,
+            "firstname": "Vadim",
+            "lastname": "Dvorovenko",
+            "url": "https://moodle.org/user/profile.php?id=585006"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

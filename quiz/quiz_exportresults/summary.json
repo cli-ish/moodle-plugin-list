@@ -1,0 +1,40 @@
+{
+    "id": 2930,
+    "index": 765,
+    "name": "exportresults",
+    "frankenstyle": "quiz_exportresults",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_exportresults",
+    "shortdescription": "Generating a .odt file export for quiz results",
+    "timelastreleased": {
+        "absdate": "Saturday, 2 July 2022, 10:38 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-02T22:38:17+08:00"
+    },
+    "aggsites": "41",
+    "aggdownloads": "130",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2930/Bildschirmfoto%20am%202022-04-13%20um%2021.13.54.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4882463,
+            "firstname": "Sven",
+            "lastname": "Waser",
+            "url": "https://moodle.org/user/profile.php?id=4882463"
+        }
+    ],
+    "descriptors": []
+}

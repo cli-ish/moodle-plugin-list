@@ -1,0 +1,50 @@
+{
+    "id": 1849,
+    "index": 1677,
+    "name": "Moodle AppsAnywhere Plugin",
+    "frankenstyle": "mod_appsanywhere",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_appsanywhere",
+    "shortdescription": "The Consorci de Serveis Universitaris de Catalunya (CSUC) has integrated AppsAnywhere (http://www.software2.com/appsanywhere) using the Moodle plugin mod_appsanywhere. Differents Applications are now available to students from Moodle subjects with easy management.",
+    "timelastreleased": {
+        "absdate": "Monday, 20 April 2020, 9:00 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-04-20T21:00:58+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "7",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1849/plugin_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1849/plugin_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1849/plugin_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1849/plugin_4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2235247,
+            "firstname": "Miguel \u00c1ngel",
+            "lastname": "Flores",
+            "url": "https://moodle.org/user/profile.php?id=2235247"
+        }
+    ],
+    "descriptors": []
+}

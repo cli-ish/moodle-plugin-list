@@ -1,0 +1,45 @@
+{
+    "id": 656,
+    "index": 2017,
+    "name": "Count user (Add user like a moodle1.9)",
+    "frankenstyle": "block_countuser",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_countuser",
+    "shortdescription": "This plug-in is the block which counts the number assigned to the roll within a course like moodle1.9.\r\nOnly admin can be used.",
+    "timelastreleased": {
+        "absdate": "Saturday, 6 April 2013, 8:17 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-06T20:17:19+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "2",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/656/sample.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/656/sample.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/656/sample.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1521048,
+            "firstname": "Hiroshi",
+            "lastname": "Honda",
+            "url": "https://moodle.org/user/profile.php?id=1521048"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

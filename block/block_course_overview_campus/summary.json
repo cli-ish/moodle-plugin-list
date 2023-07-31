@@ -1,0 +1,51 @@
+{
+    "id": 573,
+    "index": 941,
+    "name": "Course overview on campus",
+    "frankenstyle": "block_course_overview_campus",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_overview_campus",
+    "shortdescription": "Moodle block which provides all functionality of block_course_overview, provides additional filters to be used on university campuses as well as the possibility to hide courses from the course list",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 June 2019, 5:10 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-06-13T05:10:23+08:00"
+    },
+    "aggsites": "362",
+    "aggdownloads": "72",
+    "aggfavs": "36",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/573/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/573/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/573/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

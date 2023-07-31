@@ -1,0 +1,50 @@
+{
+    "id": 2639,
+    "index": 2053,
+    "name": "Campaigns",
+    "frankenstyle": "local_campaign",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_campaign",
+    "shortdescription": "This plugin is used to fill in a user profile field, named \"Campaign\", based on a \"GET\" parameter.\r\nThis is used to find out which \"Campaign\" the user comes from.",
+    "timelastreleased": {
+        "absdate": "Monday, 9 August 2021, 8:27 PM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-09T20:27:02+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "1",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2639/local_campaign_configuration.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2639/user_profile.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4063052,
+            "firstname": "C",
+            "lastname": "Blue",
+            "url": "https://moodle.org/user/profile.php?id=4063052"
+        },
+        {
+            "id": 2556439,
+            "firstname": "Olivier",
+            "lastname": "Piton",
+            "url": "https://moodle.org/user/profile.php?id=2556439"
+        }
+    ],
+    "descriptors": []
+}

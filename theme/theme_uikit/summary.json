@@ -1,0 +1,61 @@
+{
+    "id": 1193,
+    "index": 1832,
+    "name": "UIkit",
+    "frankenstyle": "theme_uikit",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_uikit",
+    "shortdescription": "This theme is built from its core to work with UIkit (a framework similar to Twitter Bootstrap).\r\n\r\nIt is designed to be easily customizable using an interactive visual styles manager.",
+    "timelastreleased": {
+        "absdate": "Friday, 12 February 2016, 4:04 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-02-12T04:04:35+08:00"
+    },
+    "aggsites": "91",
+    "aggdownloads": "4",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1193/course-grid.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1193/course-flex.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1193/customized-frontpage.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1193/customizer.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1193/mobile-flex.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1193/mobile.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1822480,
+            "firstname": "Eduardo",
+            "lastname": "Ramos",
+            "url": "https://moodle.org/user/profile.php?id=1822480"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": 1176,
+    "index": 348,
+    "name": "PlagScan Plagiarism Checker",
+    "frankenstyle": "plagiarism_plagscan",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_plagscan",
+    "shortdescription": "Plagiarism checker for discerning originality from copy and paste. PlagScan detects plagiarism in assignments from web pages as well as other students' work.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 3 November 2021, 11:34 PM",
+        "reldate": "21 months",
+        "iso8601date": "2021-11-03T23:34:11+08:00"
+    },
+    "aggsites": "255",
+    "aggdownloads": "379",
+    "aggfavs": "23",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1176/PlagScan_Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1176/PlagScan_Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1176/plagscan_settings-page.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1176/1260-docx-bericht-beispiel.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1176/plagscan_activity-settings.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1647009,
+            "firstname": "Ruben",
+            "lastname": "Olmedo",
+            "url": "https://moodle.org/user/profile.php?id=1647009"
+        },
+        {
+            "id": 1816103,
+            "firstname": "Markus",
+            "lastname": "Goldbach",
+            "url": "https://moodle.org/user/profile.php?id=1816103"
+        },
+        {
+            "id": 2519949,
+            "firstname": "Jesus",
+            "lastname": "P.L.",
+            "url": "https://moodle.org/user/profile.php?id=2519949"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,66 @@
+{
+    "id": 963,
+    "index": 2148,
+    "name": "COORAD",
+    "frankenstyle": "mod_cooradbridge",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_cooradbridge",
+    "shortdescription": "Coorad Bridge is a COORAD Resource module. It let you nest within your Moodle Site all COORAD resources you need (COORAD is a free open source Configurable Object Oriented Rapid Application Development system).",
+    "timelastreleased": {
+        "absdate": "Monday, 25 November 2013, 1:49 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-11-25T01:49:49+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/963/coorad_110.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/963/coorad_110.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/963/home.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/963/page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/963/query.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/963/section.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/963/tryit.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1726875,
+            "firstname": "Cristian",
+            "lastname": "Natale",
+            "url": "https://moodle.org/user/profile.php?id=1726875"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Programming"
+        }
+    ]
+}

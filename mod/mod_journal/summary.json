@@ -1,0 +1,67 @@
+{
+    "id": 115,
+    "index": 45,
+    "name": "Journal",
+    "frankenstyle": "mod_journal",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_journal",
+    "shortdescription": "This module allows a teacher to ask students to reflect on a particular topic. The students can edit and refine their answer over time.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 April 2023, 7:12 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-24T19:12:55+08:00"
+    },
+    "aggsites": "3893",
+    "aggdownloads": "1k",
+    "aggfavs": "83",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/115/journal_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/115/journal_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/115/journal.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 21169,
+            "firstname": "Cosmin",
+            "lastname": "HERMAN",
+            "url": "https://moodle.org/user/profile.php?id=21169"
+        },
+        {
+            "id": 1443588,
+            "firstname": "Adrian",
+            "lastname": "Sarmas",
+            "url": "https://moodle.org/user/profile.php?id=1443588"
+        },
+        {
+            "id": 1814468,
+            "firstname": "Ovidiu",
+            "lastname": "Morariu",
+            "url": "https://moodle.org/user/profile.php?id=1814468"
+        },
+        {
+            "id": 2108277,
+            "firstname": "Paul",
+            "lastname": "Neag",
+            "url": "https://moodle.org/user/profile.php?id=2108277"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

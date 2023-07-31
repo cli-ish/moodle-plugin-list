@@ -1,0 +1,51 @@
+{
+    "id": 1698,
+    "index": 1149,
+    "name": "Stash snippets",
+    "frankenstyle": "filter_stash",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_stash",
+    "shortdescription": "Filter plugin to make the usage of the block \"Stash\" a lot easier!",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 August 2017, 3:03 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-08-09T15:03:22+08:00"
+    },
+    "aggsites": "160",
+    "aggdownloads": "31",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1698/funnel.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        },
+        {
+            "id": 1391647,
+            "firstname": "Adrian",
+            "lastname": "Greeve",
+            "url": "https://moodle.org/user/profile.php?id=1391647"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

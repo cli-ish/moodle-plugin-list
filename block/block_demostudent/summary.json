@@ -1,0 +1,58 @@
+{
+    "id": 967,
+    "index": 345,
+    "name": "DemoStudent block",
+    "frankenstyle": "block_demostudent",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_demostudent",
+    "shortdescription": "The DemoStudent block gives instructors a way to enroll a \"demostudent\" in their course, then switch back and forth between their instructor view and the student view.",
+    "timelastreleased": {
+        "absdate": "Saturday, 26 October 2019, 5:05 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-10-26T05:05:49+08:00"
+    },
+    "aggsites": "156",
+    "aggdownloads": "382",
+    "aggfavs": "18",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/967/DemoStudentLogo128.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/967/DemoStudentLogo128.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/967/DemoStudent02.CreateDemoStudent.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/967/DemoStudent03.SwitchToDemoStudentView.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/967/DemoStudent05.SwitchBackToInstructorView.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1444138,
+            "firstname": "Greg",
+            "lastname": "Gibeau",
+            "url": "https://moodle.org/user/profile.php?id=1444138"
+        },
+        {
+            "id": 1517002,
+            "firstname": "Dom",
+            "lastname": "Royko",
+            "url": "https://moodle.org/user/profile.php?id=1517002"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

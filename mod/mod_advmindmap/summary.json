@@ -1,0 +1,40 @@
+{
+    "id": 550,
+    "index": 1204,
+    "name": "Advance Mindmap",
+    "frankenstyle": "mod_advmindmap",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_advmindmap",
+    "shortdescription": "This is a modification of the original Mindmap module for moodle formerly found on ekpenso.com. \r\n\r\nThis Advance Mindmap module allows you to create mindmapping activity in moodle.\r\n\r\nAdded features include:\r\n- Every user now have a separate mindmap in one single activity, with links to view others' mindmap.\r\n- Dummy group mode: multiple mindmaps with simple group name that everyone can view and edit (for group mindmapping without having to setup groups in the course) \r\n- Lock mindmap: prevent editing of mindmap when someone is editing it during group mindmapping\r\n\r\nCurrently, it is not backward compatible with Moodle 1.9x, please install it on Moodle 2.x only.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 1 December 2015, 2:41 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-12-01T14:41:58+08:00"
+    },
+    "aggsites": "212",
+    "aggdownloads": "26",
+    "aggfavs": "19",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/550/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/550/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/550/advancemindmap.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 822403,
+            "firstname": "Andy",
+            "lastname": "Chan",
+            "url": "https://moodle.org/user/profile.php?id=822403"
+        }
+    ],
+    "descriptors": []
+}

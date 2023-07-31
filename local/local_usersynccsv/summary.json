@@ -1,0 +1,53 @@
+{
+    "id": 1682,
+    "index": 1362,
+    "name": "User Sync CSV",
+    "frankenstyle": "local_usersynccsv",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_usersynccsv",
+    "shortdescription": "Moodle users import/export via CSV files",
+    "timelastreleased": {
+        "absdate": "Thursday, 4 August 2016, 3:40 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-04T03:40:11+08:00"
+    },
+    "aggsites": "51",
+    "aggdownloads": "16",
+    "aggfavs": "22",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1682/Screenshot%20from%202016-07-16%2018-27-11.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1682/Screenshot%20from%202016-07-16%2018-27-25.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1937508,
+            "firstname": "Antonello",
+            "lastname": "Moro",
+            "url": "https://moodle.org/user/profile.php?id=1937508"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

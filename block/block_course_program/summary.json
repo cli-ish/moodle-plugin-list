@@ -1,0 +1,45 @@
+{
+    "id": 223,
+    "index": 1740,
+    "name": "Course Program",
+    "frankenstyle": "block_course_program",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_program",
+    "shortdescription": "This block makes it possible to show/hide course sections (topics or weeks) or activities within sections automatically, based on the date and time. Includes english and polish localizations.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 March 2012, 4:14 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-14T16:14:11+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "6",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/223/CropperCapture%5B39%5D.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/223/CropperCapture%5B39%5D.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/223/CropperCapture%5B38%5D.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1414155,
+            "firstname": "Mike",
+            "lastname": "K",
+            "url": "https://moodle.org/user/profile.php?id=1414155"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

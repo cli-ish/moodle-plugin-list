@@ -1,0 +1,45 @@
+{
+    "id": 1003,
+    "index": 72,
+    "name": "Ordering",
+    "frankenstyle": "qtype_ordering",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_ordering",
+    "shortdescription": "Ordering question type for Moodle 2.x and Moodle 3.x",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 May 2023, 9:31 AM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-31T09:31:55+08:00"
+    },
+    "aggsites": "3502",
+    "aggdownloads": "1k",
+    "aggfavs": "102",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1003/qtype.ordering.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 8277,
+            "firstname": "Gordon",
+            "lastname": "Bateson",
+            "url": "https://moodle.org/user/profile.php?id=8277"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

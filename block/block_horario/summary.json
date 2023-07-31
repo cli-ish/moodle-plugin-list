@@ -1,0 +1,55 @@
+{
+    "id": 1718,
+    "index": 286,
+    "name": "Course schedules",
+    "frankenstyle": "block_horario",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_horario",
+    "shortdescription": "Restrict/allow access to course over a range of time.",
+    "timelastreleased": {
+        "absdate": "Sunday, 10 April 2022, 7:49 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-10T07:49:54+08:00"
+    },
+    "aggsites": "182",
+    "aggdownloads": "448",
+    "aggfavs": "31",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1718/Logo_horario.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1718/Logo_horario.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1718/Admin%20backend.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1718/Admin%20front.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1718/Back%20settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1718/Student.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1850436,
+            "firstname": "Jos\u00e9",
+            "lastname": "Puente Fuentes",
+            "url": "https://moodle.org/user/profile.php?id=1850436"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

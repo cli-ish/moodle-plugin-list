@@ -1,0 +1,58 @@
+{
+    "id": 711,
+    "index": 1119,
+    "name": "Shoelace",
+    "frankenstyle": "theme_shoelace",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_shoelace",
+    "shortdescription": "A Bootstrap derived theme with a light feel through colour and font selection.",
+    "timelastreleased": {
+        "absdate": "Sunday, 3 June 2018, 4:32 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-03T04:32:15+08:00"
+    },
+    "aggsites": "178",
+    "aggdownloads": "35",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/711/Shoelace_logo_sm.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/711/Shoelace_logo_sm.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/711/M33_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/711/2014_01_02_17_23_11_Course_Course_Creation_Groups_and_Enrolment.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/711/screenshot_m29.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/711/screenshot4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/711/v2_6_1_1_dlds.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

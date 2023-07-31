@@ -1,0 +1,27 @@
+[
+    {
+        "id": "19177",
+        "name": "1.1.0-36.0",
+        "url": "https://moodle.org/plugins/download.php/19177/local_temporary_enrolments_moodle39_2023110220.zip"
+    },
+    {
+        "id": "19176",
+        "name": "1.1.0-35.0",
+        "url": "https://moodle.org/plugins/download.php/19176/local_temporary_enrolments_moodle28_2017060318.zip"
+    },
+    {
+        "id": "19175",
+        "name": "1.1.0-34.0",
+        "url": "https://moodle.org/plugins/download.php/19175/local_temporary_enrolments_moodle40_2020090303.zip"
+    },
+    {
+        "id": "17914",
+        "name": "1.0.0-35.0",
+        "url": "https://moodle.org/plugins/download.php/17914/local_temporary_enrolments_moodle37_2017120706.zip"
+    },
+    {
+        "id": "17913",
+        "name": "1.0.0-34.0",
+        "url": "https://moodle.org/plugins/download.php/17913/local_temporary_enrolments_moodle32_2020090616.zip"
+    }
+]

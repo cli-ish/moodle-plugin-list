@@ -1,0 +1,52 @@
+[
+    {
+        "id": "8209",
+        "name": "1.7-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/8209/qtype_gapselect_moodle32_2013120110.zip"
+    },
+    {
+        "id": "5156",
+        "name": "1.5-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/5156/qtype_gapselect_moodle40_2018080717.zip"
+    },
+    {
+        "id": "2361",
+        "name": "1.2-for-moodle-2.3",
+        "url": "https://moodle.org/plugins/download.php/2361/qtype_gapselect_moodle39_2015060805.zip"
+    },
+    {
+        "id": "1193",
+        "name": "1.1-for-moodle-2.2",
+        "url": "https://moodle.org/plugins/download.php/1193/qtype_gapselect_moodle31_2013080614.zip"
+    },
+    {
+        "id": "1192",
+        "name": "1.1-for-moodle-2.1",
+        "url": "https://moodle.org/plugins/download.php/1192/qtype_gapselect_moodle27_2014030111.zip"
+    },
+    {
+        "id": "7214",
+        "name": "1.6-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/7214/qtype_gapselect_moodle35_2013050415.zip"
+    },
+    {
+        "id": "3289",
+        "name": "1.4-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/3289/qtype_gapselect_moodle37_2010080307.zip"
+    },
+    {
+        "id": "2879",
+        "name": "1.3-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/2879/qtype_gapselect_moodle30_2011090519.zip"
+    },
+    {
+        "id": "1194",
+        "name": "1.1-for-moodle-2.3",
+        "url": "https://moodle.org/plugins/download.php/1194/qtype_gapselect_moodle33_2019111012.zip"
+    },
+    {
+        "id": "525",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/525/qtype_gapselect_moodle39_2016120516.zip"
+    }
+]

@@ -1,0 +1,49 @@
+{
+    "id": 1266,
+    "index": 1163,
+    "name": "Question Creation Activity",
+    "frankenstyle": "mod_qcreate",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_qcreate",
+    "shortdescription": "The Question Creation Activity is a graded activity where students must create questions in the Moodle question bank. A teacher grades the questions.\r\nThe students get a grade for the questions they create.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 15 May 2018, 7:08 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-15T19:08:08+08:00"
+    },
+    "aggsites": "146",
+    "aggdownloads": "30",
+    "aggfavs": "47",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1266/qcreate_grading.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1266/qcreate_student_view.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 8026,
+            "firstname": "Jean-Michel",
+            "lastname": "V\u00e9drine",
+            "url": "https://moodle.org/user/profile.php?id=8026"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

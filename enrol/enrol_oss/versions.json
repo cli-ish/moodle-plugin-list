@@ -1,0 +1,32 @@
+[
+    {
+        "id": "29680",
+        "name": "2.1-build-2023072501",
+        "url": "https://moodle.org/plugins/download.php/29680/enrol_oss_moodle38_2012091209.zip"
+    },
+    {
+        "id": "23882",
+        "name": "2.1-build-2021022601",
+        "url": "https://moodle.org/plugins/download.php/23882/enrol_oss_moodle26_2018010912.zip"
+    },
+    {
+        "id": "22048",
+        "name": "2.1-build-2020071901",
+        "url": "https://moodle.org/plugins/download.php/22048/enrol_oss_moodle40_2019040712.zip"
+    },
+    {
+        "id": "22045",
+        "name": "2.1-build-2020071701",
+        "url": "https://moodle.org/plugins/download.php/22045/enrol_oss_moodle28_2023011205.zip"
+    },
+    {
+        "id": "22034",
+        "name": "2.0-build-2020071601",
+        "url": "https://moodle.org/plugins/download.php/22034/enrol_oss_moodle38_2011040113.zip"
+    },
+    {
+        "id": "21852",
+        "name": "2.0-build-2020062501",
+        "url": "https://moodle.org/plugins/download.php/21852/enrol_oss_moodle29_2023040500.zip"
+    }
+]

@@ -1,0 +1,61 @@
+{
+    "id": 659,
+    "index": 1056,
+    "name": "Course feedback",
+    "frankenstyle": "block_coursefeedback",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_coursefeedback",
+    "shortdescription": "This Block intends to give the system administrators a tool for forced evaluation of a course (or other facts). System administrators can define a set of textual questions, which can be rated from students.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 December 2016, 10:53 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-14T22:53:59+08:00"
+    },
+    "aggsites": "167",
+    "aggdownloads": "43",
+    "aggfavs": "41",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/659/innocampus-logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/659/innocampus-logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/659/screenshot01.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/659/screenshot03.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/659/screenshot04.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/659/screenshot05.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/659/screenshot06.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/659/screenshot07.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1463452,
+            "firstname": "Jan",
+            "lastname": "Eberhardt",
+            "url": "https://moodle.org/user/profile.php?id=1463452"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

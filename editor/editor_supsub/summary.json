@@ -1,0 +1,49 @@
+{
+    "id": 228,
+    "index": 1673,
+    "name": "Old Superscript/subscript editor please do not use any more",
+    "frankenstyle": "editor_supsub",
+    "plugintype": {
+        "type": "editor",
+        "name": "Editor"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/editor_supsub",
+    "shortdescription": "Please use https://moodle.org/plugins/editor_ousupsub instead of this plugin.",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 November 2014, 3:05 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-11-13T03:05:00+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "7",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/228/supsub.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/228/varnumeric.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

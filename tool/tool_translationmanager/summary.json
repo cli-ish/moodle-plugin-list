@@ -1,0 +1,40 @@
+{
+    "id": 2632,
+    "index": 2098,
+    "name": "Content translation manager (superseded)",
+    "frankenstyle": "tool_translationmanager",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_translationmanager",
+    "shortdescription": "The Content translation filter provided a way to quickly translate the content of Moodle courses into different languages. It has now been superseded by a new, improved plugin set.\r\n\r\nPlease now use the new plugin as it maintains translations when the original language content is updated and has many other improvements, but works largely the same way than this plugin did! it's coming soon to the Moodle plugins database, but available now on github: https://github.com/andrewhancox/moodle-filter_translations",
+    "timelastreleased": {
+        "absdate": "Friday, 5 February 2021, 2:46 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-05T02:46:29+08:00"
+    },
+    "aggsites": "44",
+    "aggdownloads": null,
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2632/2021-02-04_19-44.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1455465,
+            "firstname": "Moodle",
+            "lastname": "HQ",
+            "url": "https://moodle.org/user/profile.php?id=1455465"
+        }
+    ],
+    "descriptors": []
+}

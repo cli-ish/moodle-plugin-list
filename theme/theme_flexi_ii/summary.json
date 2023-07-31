@@ -1,0 +1,45 @@
+{
+    "id": 36,
+    "index": 1114,
+    "name": "Flexi_ii",
+    "frankenstyle": "theme_flexi_ii",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_flexi_ii",
+    "shortdescription": "A theme for admins who do not have regular access to server files. It has a very comprehensive settings page to allow changes to the theme.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 October 2011, 11:41 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-04T23:41:44+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "36",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/36/logo3.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/36/logo3.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/36/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 480148,
+            "firstname": "Richard",
+            "lastname": "Oelmann",
+            "url": "https://moodle.org/user/profile.php?id=480148"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

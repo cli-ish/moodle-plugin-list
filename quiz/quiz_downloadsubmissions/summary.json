@@ -1,0 +1,53 @@
+{
+    "id": 1935,
+    "index": 853,
+    "name": "Download essay submissions",
+    "frankenstyle": "quiz_downloadsubmissions",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_downloadsubmissions",
+    "shortdescription": "Moodle Quiz Report Plugin for downloading essay submissions.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 7 October 2020, 4:30 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-10-07T04:30:14+08:00"
+    },
+    "aggsites": "984",
+    "aggdownloads": "112",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1935/IIT_Bombay_Logo-blue.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1935/IIT_Bombay_Logo-blue.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1935/3%20Download%20essay%20submissions.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1935/1%20Quiz%20settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1935/2%20Plugin%20index%20page.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2194652,
+            "firstname": "Kashmira",
+            "lastname": "Nagwekar",
+            "url": "https://moodle.org/user/profile.php?id=2194652"
+        },
+        {
+            "id": 2267258,
+            "firstname": "IIT",
+            "lastname": "Bombay",
+            "url": "https://moodle.org/user/profile.php?id=2267258"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,53 @@
+{
+    "id": 1224,
+    "index": 666,
+    "name": "Chemistry editor",
+    "frankenstyle": "atto_chemistry",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_chemistry",
+    "shortdescription": "Edit chemistry equations in Moodle 2.7, or later, using the mhchem extension to the MathJax or TeX filter. Useful for full and ionic equations, isotopes, equilibrium reactions, thermochemistry and reaction kinetics. Includes a periodic table of element symbols.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 September 2015, 3:00 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-09-30T03:00:26+08:00"
+    },
+    "aggsites": "871",
+    "aggdownloads": "158",
+    "aggfavs": "35",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1224/flask90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1224/flask90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1224/chemistry.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1224/periodic.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 6805,
+            "firstname": "Geoffrey",
+            "lastname": "Rowland",
+            "url": "https://moodle.org/user/profile.php?id=6805"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

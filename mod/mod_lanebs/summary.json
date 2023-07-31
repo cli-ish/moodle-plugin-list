@@ -1,0 +1,53 @@
+{
+    "id": 2530,
+    "index": 500,
+    "name": "Integration with electronic library system \"Lan\"",
+    "frankenstyle": "mod_lanebs",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_lanebs",
+    "shortdescription": "Plugin for integration with electronic library system \"Lan\"",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 July 2023, 9:21 PM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-18T21:21:38+08:00"
+    },
+    "aggsites": "162",
+    "aggdownloads": "234",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2530/icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2530/icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2530/lanebs_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2530/lanebs_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2530/lanebs_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2530/lanebs_4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2530/lanebs_5.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3420559,
+            "firstname": "\u0421\u0442\u0430\u043d\u0438\u0441\u043b\u0430\u0432",
+            "lastname": "\u0422\u0438\u0445\u043e\u043d\u043e\u0432",
+            "url": "https://moodle.org/user/profile.php?id=3420559"
+        }
+    ],
+    "descriptors": []
+}

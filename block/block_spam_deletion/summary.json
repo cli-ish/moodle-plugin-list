@@ -1,0 +1,49 @@
+{
+    "id": 575,
+    "index": 1999,
+    "name": "Spam deletion",
+    "frankenstyle": "block_spam_deletion",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_spam_deletion",
+    "shortdescription": "The spam deletion block is used for detecting and deleting spam.",
+    "timelastreleased": {
+        "absdate": "Monday, 27 June 2016, 8:38 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-06-27T20:38:45+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "2",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/575/spam%20deletion%20block.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/575/spam%20deletion%20report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 104159,
+            "firstname": "Dan",
+            "lastname": "Poltawski",
+            "url": "https://moodle.org/user/profile.php?id=104159"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

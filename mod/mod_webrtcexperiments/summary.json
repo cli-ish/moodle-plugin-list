@@ -1,0 +1,45 @@
+{
+    "id": 1253,
+    "index": 2100,
+    "name": "WebRTC Experiments",
+    "frankenstyle": "mod_webrtcexperiments",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_webrtcexperiments",
+    "shortdescription": "Discontinued. Please, do not use it in production.\r\nThis is a Moodle plugin for users interact with audio and video using WebRTC",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 October 2014, 3:46 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-10-22T03:46:21+08:00"
+    },
+    "aggsites": "33",
+    "aggdownloads": null,
+    "aggfavs": "19",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1253/web.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1253/web.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1253/webrtc-screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

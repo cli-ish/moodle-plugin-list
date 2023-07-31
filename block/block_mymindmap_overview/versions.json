@@ -1,0 +1,82 @@
+[
+    {
+        "id": "27427",
+        "name": "1.4.1-build-2022082500",
+        "url": "https://moodle.org/plugins/download.php/27427/block_mymindmap_overview_moodle33_2010100614.zip"
+    },
+    {
+        "id": "26140",
+        "name": "1.4.0-build-2022031500",
+        "url": "https://moodle.org/plugins/download.php/26140/block_mymindmap_overview_moodle26_2014120909.zip"
+    },
+    {
+        "id": "25703",
+        "name": "1.3.9-build-2021122100",
+        "url": "https://moodle.org/plugins/download.php/25703/block_mymindmap_overview_moodle38_2013110300.zip"
+    },
+    {
+        "id": "25435",
+        "name": "1.3.8-build-2021110700",
+        "url": "https://moodle.org/plugins/download.php/25435/block_mymindmap_overview_moodle34_2021070111.zip"
+    },
+    {
+        "id": "25303",
+        "name": "1.3.7-build-2021101500",
+        "url": "https://moodle.org/plugins/download.php/25303/block_mymindmap_overview_moodle40_2014120511.zip"
+    },
+    {
+        "id": "24934",
+        "name": "1.3.6-build-2021081300",
+        "url": "https://moodle.org/plugins/download.php/24934/block_mymindmap_overview_moodle38_2019070807.zip"
+    },
+    {
+        "id": "24636",
+        "name": "1.3.5-build-2021070600",
+        "url": "https://moodle.org/plugins/download.php/24636/block_mymindmap_overview_moodle37_2017110401.zip"
+    },
+    {
+        "id": "24218",
+        "name": "1.3.4-build-2021042700",
+        "url": "https://moodle.org/plugins/download.php/24218/block_mymindmap_overview_moodle28_2015031214.zip"
+    },
+    {
+        "id": "23810",
+        "name": "1.3.3-build-2021040100",
+        "url": "https://moodle.org/plugins/download.php/23810/block_mymindmap_overview_moodle30_2017080502.zip"
+    },
+    {
+        "id": "23720",
+        "name": "1.3.2-build-2021031500",
+        "url": "https://moodle.org/plugins/download.php/23720/block_mymindmap_overview_moodle35_2011100204.zip"
+    },
+    {
+        "id": "23187",
+        "name": "1.3.1-build-2021010700",
+        "url": "https://moodle.org/plugins/download.php/23187/block_mymindmap_overview_moodle28_2020050512.zip"
+    },
+    {
+        "id": "23106",
+        "name": "1.3.0-build-2020120700",
+        "url": "https://moodle.org/plugins/download.php/23106/block_mymindmap_overview_moodle30_2018060815.zip"
+    },
+    {
+        "id": "22959",
+        "name": "1.2.3-build-2020071600",
+        "url": "https://moodle.org/plugins/download.php/22959/block_mymindmap_overview_moodle36_2017080620.zip"
+    },
+    {
+        "id": "21355",
+        "name": "1.2.2-build-2020030300",
+        "url": "https://moodle.org/plugins/download.php/21355/block_mymindmap_overview_moodle38_2013110817.zip"
+    },
+    {
+        "id": "20726",
+        "name": "1.1.2-build-2019120200",
+        "url": "https://moodle.org/plugins/download.php/20726/block_mymindmap_overview_moodle28_2019030700.zip"
+    },
+    {
+        "id": "20683",
+        "name": "1.1.1-build-2019022100",
+        "url": "https://moodle.org/plugins/download.php/20683/block_mymindmap_overview_moodle35_2023100313.zip"
+    }
+]

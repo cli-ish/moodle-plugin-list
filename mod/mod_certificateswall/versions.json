@@ -1,0 +1,62 @@
+[
+    {
+        "id": "1857",
+        "name": "1.8.2-2012121301",
+        "url": "https://moodle.org/plugins/download.php/1857/mod_certificateswall_moodle25_2013070504.zip"
+    },
+    {
+        "id": "1711",
+        "name": "1.8.1-2012112001",
+        "url": "https://moodle.org/plugins/download.php/1711/mod_certificateswall_moodle27_2015061115.zip"
+    },
+    {
+        "id": "1576",
+        "name": "1.8-2012101602",
+        "url": "https://moodle.org/plugins/download.php/1576/mod_certificateswall_moodle29_2013090900.zip"
+    },
+    {
+        "id": "912",
+        "name": "1.7.3-2012061903",
+        "url": "https://moodle.org/plugins/download.php/912/mod_certificateswall_moodle37_2016030303.zip"
+    },
+    {
+        "id": "910",
+        "name": "1.7.2-2012061901",
+        "url": "https://moodle.org/plugins/download.php/910/mod_certificateswall_moodle27_2012070212.zip"
+    },
+    {
+        "id": "868",
+        "name": "1.7-2012060101",
+        "url": "https://moodle.org/plugins/download.php/868/mod_certificateswall_moodle37_2021071212.zip"
+    },
+    {
+        "id": "849",
+        "name": "1.6-2012052904",
+        "url": "https://moodle.org/plugins/download.php/849/mod_certificateswall_moodle28_2015020706.zip"
+    },
+    {
+        "id": "739",
+        "name": "1.5-2012041401",
+        "url": "https://moodle.org/plugins/download.php/739/mod_certificateswall_moodle38_2010120503.zip"
+    },
+    {
+        "id": "494",
+        "name": "1.4-2012020801",
+        "url": "https://moodle.org/plugins/download.php/494/mod_certificateswall_moodle31_2012100411.zip"
+    },
+    {
+        "id": "441",
+        "name": "1.2-2012011801",
+        "url": "https://moodle.org/plugins/download.php/441/mod_certificateswall_moodle38_2011050907.zip"
+    },
+    {
+        "id": "429",
+        "name": "1.1-2012011601",
+        "url": "https://moodle.org/plugins/download.php/429/mod_certificateswall_moodle28_2014011105.zip"
+    },
+    {
+        "id": "411",
+        "name": "1.0-2011122501",
+        "url": "https://moodle.org/plugins/download.php/411/mod_certificateswall_moodle34_2016070613.zip"
+    }
+]

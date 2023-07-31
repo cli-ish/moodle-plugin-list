@@ -1,0 +1,40 @@
+{
+    "id": 3073,
+    "index": 845,
+    "name": "Simultaneous activities",
+    "frankenstyle": "report_simultaneous",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_simultaneous",
+    "shortdescription": "This report is intended to provide teachers with a simple tool to detect possible cheating by students during online assessment.\r\nThis report only analyzes Moodle activity logs to count the number of various user activity events during a time interval.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 April 2023, 3:06 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-18T15:06:56+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "114",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3073/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3073/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3073/report_simultaneous_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 478486,
+            "firstname": "Juan Pablo",
+            "lastname": "de Castro",
+            "url": "https://moodle.org/user/profile.php?id=478486"
+        }
+    ],
+    "descriptors": []
+}

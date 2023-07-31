@@ -1,0 +1,40 @@
+{
+    "id": 2079,
+    "index": 777,
+    "name": "Upload block settings",
+    "frankenstyle": "tool_uploadblocksettings",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_uploadblocksettings",
+    "shortdescription": "This plugin allows administrators to upload a CSV file containing block settings for courses. You can add or delete blocks, so the tool enables you to apply a default set of blocks for some or all courses on a site.  You can also reset the set of course blocks to the default for that course format.",
+    "timelastreleased": {
+        "absdate": "Monday, 2 August 2021, 8:44 PM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-02T20:44:42+08:00"
+    },
+    "aggsites": "40",
+    "aggdownloads": "128",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2079/uploadblocksettings.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 726938,
+            "firstname": "Eoin",
+            "lastname": "Campbell",
+            "url": "https://moodle.org/user/profile.php?id=726938"
+        }
+    ],
+    "descriptors": []
+}

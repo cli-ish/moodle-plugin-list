@@ -1,0 +1,61 @@
+{
+    "id": 987,
+    "index": 12,
+    "name": "Merge user accounts",
+    "frankenstyle": "tool_mergeusers",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_mergeusers",
+    "shortdescription": "This administration tool will merge two Moodle user accounts into one.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 June 2023, 5:56 AM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-20T05:56:31+08:00"
+    },
+    "aggsites": "2471",
+    "aggdownloads": "3k",
+    "aggfavs": "83",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/987/step1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/987/climerger.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/987/step2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/987/step3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1518376,
+            "firstname": "Jordi",
+            "lastname": "Pujol-Ahull\u00f3",
+            "url": "https://moodle.org/user/profile.php?id=1518376"
+        },
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

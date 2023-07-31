@@ -1,0 +1,51 @@
+{
+    "id": 595,
+    "index": 922,
+    "name": "Waitlist enrolment and Custom course fields",
+    "frankenstyle": "enrol_waitlist",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_waitlist",
+    "shortdescription": "If students enrol via the enrolment plugin \"Waitlist & Custom course fields\" they are put into a waitlist in case the maximum amount of course participants is reached. They later get enrolled automatically as soon as free seats are available. \r\nThe plugin also can be used to add custom course fields.\r\n\r\nRelated moodle forum: https://moodle.org/mod/forum/discuss.php?d=220078",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 February 2023, 7:13 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-02-28T19:13:05+08:00"
+    },
+    "aggsites": "419",
+    "aggdownloads": "83",
+    "aggfavs": "45",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/595/waitlist.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/595/waitlist.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/595/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 221571,
+            "firstname": "Flotter",
+            "lastname": "Totte",
+            "url": "https://moodle.org/user/profile.php?id=221571"
+        },
+        {
+            "id": 2341857,
+            "firstname": "emeneo",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=2341857"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

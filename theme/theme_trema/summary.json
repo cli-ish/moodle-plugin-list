@@ -1,0 +1,59 @@
+{
+    "id": 2248,
+    "index": 44,
+    "name": "Trema",
+    "frankenstyle": "theme_trema",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_trema",
+    "shortdescription": "The Trema theme is a free, responsive Moodle theme that offers a clean and modern design. One unique aspect of the Trema theme is its ability to display course information in a grid format, which can be particularly useful for sites with many courses. Additionally, it includes options for customizable frontpage, login page, and footer. Overall, the Trema theme for Moodle aims to provide a visually appealing and user-friendly interface for Moodle users.\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 21 April 2023, 10:35 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-21T22:35:25+08:00"
+    },
+    "aggsites": "3758",
+    "aggdownloads": "1k",
+    "aggfavs": "99",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2248/trema_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2248/trema_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2248/frontpage.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2248/incourse.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2248/theme_trema4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2248/theme_trema5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2248/theme-trema.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1192335,
+            "firstname": "Trevor",
+            "lastname": "Furtado",
+            "url": "https://moodle.org/user/profile.php?id=1192335"
+        },
+        {
+            "id": 2435964,
+            "firstname": "Rodrigo",
+            "lastname": "Mady",
+            "url": "https://moodle.org/user/profile.php?id=2435964"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": 1890,
+    "index": 400,
+    "name": "Metadata",
+    "frankenstyle": "local_metadata",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_metadata",
+    "shortdescription": "The \u201clocal metadata\u201d plugin has been created to allow extra, \u201cmetadata\u201d to be defined and assigned to various context level elements in Moodle. It is an abstraction of the current \u201cuser profile field\u201d functionality in Moodle and contains much of the same code. This was written for the MUA as a proof of concept for a project to add extra profile data to courses, to see whether one metadata function could be used for multiple Moodle contexts. It is currently in Beta, and is open for participation and discussion.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 May 2021, 3:29 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-28T03:29:17+08:00"
+    },
+    "aggsites": "324",
+    "aggdownloads": "308",
+    "aggfavs": "25",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1890/15897440.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1890/15897440.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1890/Screen%20Shot%202017-07-12%20at%2010.42.07%20AM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 9561,
+            "firstname": "Mike",
+            "lastname": "Churchward",
+            "url": "https://moodle.org/user/profile.php?id=9561"
+        }
+    ],
+    "descriptors": []
+}

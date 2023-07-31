@@ -1,0 +1,117 @@
+[
+    {
+        "id": "22216",
+        "name": "3.9-build-2020081200",
+        "url": "https://moodle.org/plugins/download.php/22216/filter_ensemble_moodle30_2010111115.zip"
+    },
+    {
+        "id": "21560",
+        "name": "3.8-build-2020052000",
+        "url": "https://moodle.org/plugins/download.php/21560/filter_ensemble_moodle39_2016110508.zip"
+    },
+    {
+        "id": "20028",
+        "name": "3.7-build-2019073101",
+        "url": "https://moodle.org/plugins/download.php/20028/filter_ensemble_moodle27_2012100620.zip"
+    },
+    {
+        "id": "18560",
+        "name": "3.6-build-2018121700",
+        "url": "https://moodle.org/plugins/download.php/18560/filter_ensemble_moodle27_2020010414.zip"
+    },
+    {
+        "id": "18559",
+        "name": "3.5-build-2018060602",
+        "url": "https://moodle.org/plugins/download.php/18559/filter_ensemble_moodle35_2012050217.zip"
+    },
+    {
+        "id": "15842",
+        "name": "3.4-build-2018012200",
+        "url": "https://moodle.org/plugins/download.php/15842/filter_ensemble_moodle32_2020060903.zip"
+    },
+    {
+        "id": "14073",
+        "name": "3.3-build-2017052300",
+        "url": "https://moodle.org/plugins/download.php/14073/filter_ensemble_moodle33_2010090311.zip"
+    },
+    {
+        "id": "14072",
+        "name": "3.2-build-2017030200",
+        "url": "https://moodle.org/plugins/download.php/14072/filter_ensemble_moodle40_2011060402.zip"
+    },
+    {
+        "id": "12056",
+        "name": "3.1-build-2016082300",
+        "url": "https://moodle.org/plugins/download.php/12056/filter_ensemble_moodle30_2013070514.zip"
+    },
+    {
+        "id": "11167",
+        "name": "3.0-build-2016042800",
+        "url": "https://moodle.org/plugins/download.php/11167/filter_ensemble_moodle36_2018081108.zip"
+    },
+    {
+        "id": "10978",
+        "name": "2.9-build-2015060501",
+        "url": "https://moodle.org/plugins/download.php/10978/filter_ensemble_moodle31_2020080611.zip"
+    },
+    {
+        "id": "10977",
+        "name": "2.8-build-2015060401",
+        "url": "https://moodle.org/plugins/download.php/10977/filter_ensemble_moodle27_2018071100.zip"
+    },
+    {
+        "id": "10976",
+        "name": "2.7-build-2014052901",
+        "url": "https://moodle.org/plugins/download.php/10976/filter_ensemble_moodle25_2022050918.zip"
+    },
+    {
+        "id": "5988",
+        "name": "2.6-build-2014032401",
+        "url": "https://moodle.org/plugins/download.php/5988/filter_ensemble_moodle25_2010091203.zip"
+    },
+    {
+        "id": "5987",
+        "name": "2.5-build-2013082801",
+        "url": "https://moodle.org/plugins/download.php/5987/filter_ensemble_moodle29_2022060201.zip"
+    },
+    {
+        "id": "5986",
+        "name": "2.4-build-2013040901",
+        "url": "https://moodle.org/plugins/download.php/5986/filter_ensemble_moodle37_2021081005.zip"
+    },
+    {
+        "id": "3887",
+        "name": "2013040900",
+        "url": "https://moodle.org/plugins/download.php/3887/filter_ensemble_moodle33_2012070101.zip"
+    },
+    {
+        "id": "18271",
+        "name": "3.5-build-2018060601",
+        "url": "https://moodle.org/plugins/download.php/18271/filter_ensemble_moodle30_2013111115.zip"
+    },
+    {
+        "id": "17048",
+        "name": "3.5-build-2018060600",
+        "url": "https://moodle.org/plugins/download.php/17048/filter_ensemble_moodle32_2018050703.zip"
+    },
+    {
+        "id": "8729",
+        "name": "2.9-build-2015060500",
+        "url": "https://moodle.org/plugins/download.php/8729/filter_ensemble_moodle35_2017051008.zip"
+    },
+    {
+        "id": "8727",
+        "name": "2.8-build-2015060400",
+        "url": "https://moodle.org/plugins/download.php/8727/filter_ensemble_moodle38_2022060512.zip"
+    },
+    {
+        "id": "6166",
+        "name": "2.7-build-2014052900",
+        "url": "https://moodle.org/plugins/download.php/6166/filter_ensemble_moodle29_2017021200.zip"
+    },
+    {
+        "id": "3892",
+        "name": "2013082800",
+        "url": "https://moodle.org/plugins/download.php/3892/filter_ensemble_moodle36_2020050402.zip"
+    }
+]

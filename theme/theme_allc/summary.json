@@ -1,0 +1,45 @@
+{
+    "id": 56,
+    "index": 1829,
+    "name": "AllContent",
+    "frankenstyle": "theme_allc",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_allc",
+    "shortdescription": "Two column content-focused theme with custom menu and drop-down login/profile box. From NewSchool Learning.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 February 2012, 8:01 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-02-01T20:01:54+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "5",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/56/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/56/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/56/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

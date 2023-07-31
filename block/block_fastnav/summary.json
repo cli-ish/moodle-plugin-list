@@ -1,0 +1,50 @@
+{
+    "id": 2554,
+    "index": 775,
+    "name": "Block Fast Navigation",
+    "frankenstyle": "block_fastnav",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_fastnav",
+    "shortdescription": "Block fastnav gives users the ability to navigate more easily inside a course.",
+    "timelastreleased": {
+        "absdate": "Friday, 24 March 2023, 5:08 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-24T17:08:37+08:00"
+    },
+    "aggsites": "69",
+    "aggdownloads": "128",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2554/logov2_illustration_big.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2554/logov2_illustration_big.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2554/2020-09-11_09-11-03.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2554/2020-09-11_09-12-09.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1487326,
+            "firstname": "Luuk",
+            "lastname": "Verhoeven",
+            "url": "https://moodle.org/user/profile.php?id=1487326"
+        },
+        {
+            "id": 1575644,
+            "firstname": "Gemma",
+            "lastname": "Lesterhuis",
+            "url": "https://moodle.org/user/profile.php?id=1575644"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,64 @@
+{
+    "id": 641,
+    "index": 1008,
+    "name": "Archaius",
+    "frankenstyle": "theme_archaius",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_archaius",
+    "shortdescription": "Archaius is a moodle theme with several options to customize your Moodle",
+    "timelastreleased": {
+        "absdate": "Friday, 4 December 2015, 9:17 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-12-04T21:17:07+08:00"
+    },
+    "aggsites": "350",
+    "aggdownloads": "54",
+    "aggfavs": "52",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/641/logoAlone.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/641/logoAlone.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/641/archaius.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/641/archaius0.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/641/archaius1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/641/archaius2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/641/archaius4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/641/archaiusm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/641/login.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1135327,
+            "firstname": "Daniel",
+            "lastname": "Munera",
+            "url": "https://moodle.org/user/profile.php?id=1135327"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

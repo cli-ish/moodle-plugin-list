@@ -1,0 +1,52 @@
+{
+    "id": 617,
+    "index": 1018,
+    "name": "Notifications",
+    "frankenstyle": "block_notifications",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_notifications",
+    "shortdescription": "Not always logged in, you want to be up to date about new content, discussions or events in your Moodle courses? This moodle block implements a solution that periodically notifies learners about new content or activities included into a Moodle course. This solution will act as a sentinel that detects whether new contents or new activities have been included into the Moodle course, and notify the learners and/or the instructors about that. Notifications methods are:\r\n\r\n    e-mail message\r\n    RSS aggregator\r\n    SMS message\r\n\r\nThere is also a version of this plugin for Moodle 1.9 that can be downloaded from the Website.",
+    "timelastreleased": {
+        "absdate": "Monday, 25 June 2018, 9:01 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-25T21:01:50+08:00"
+    },
+    "aggsites": "405",
+    "aggdownloads": "52",
+    "aggfavs": "55",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/617/screen1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/617/screen2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/617/screen3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1347366,
+            "firstname": "Goran",
+            "lastname": "Josic",
+            "url": "https://moodle.org/user/profile.php?id=1347366"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

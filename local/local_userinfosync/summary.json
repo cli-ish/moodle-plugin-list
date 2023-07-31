@@ -1,0 +1,52 @@
+{
+    "id": 1000,
+    "index": 1880,
+    "name": "User info synchronization plugin",
+    "frankenstyle": "local_userinfosync",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_userinfosync",
+    "shortdescription": "This plugin synchronizes user infos from on moodle platform to another. It is designed to be used in an MNet network to roam user data created in custorm user profile fields from the moodle identity provider to the moodle identity receiver. On both instances you have to create the user profile fields with identical names in order to be able to transfer the user data.\r\n\r\nCheckout the README for configuration and installation. ",
+    "timelastreleased": {
+        "absdate": "Saturday, 1 February 2014, 7:26 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-02-01T19:26:48+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "4",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1000/screen01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1000/screen02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1000/screen03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 3129,
+    "index": 1214,
+    "name": "Embed ClickView Video (Tiny)",
+    "frankenstyle": "tiny_clickview",
+    "plugintype": {
+        "type": "tiny",
+        "name": "TinyMCE editor / tiny"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tiny_clickview",
+    "shortdescription": "The ClickView Tiny editor plugin for Moodle enables you to quickly and safely browse through your entire ClickView library, the ClickView exchange and your own personal workspace from within Moodle.",
+    "timelastreleased": {
+        "absdate": "Monday, 22 May 2023, 5:39 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-22T17:39:18+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "26",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3129/Embed-ClickView-Video-TinyMCE-Moodle-Plugin-Thumbnail.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4407584,
+            "firstname": "Shale",
+            "lastname": "Kuzmanovsk",
+            "url": "https://moodle.org/user/profile.php?id=4407584"
+        }
+    ],
+    "descriptors": []
+}

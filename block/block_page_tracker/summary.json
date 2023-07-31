@@ -1,0 +1,40 @@
+{
+    "id": 994,
+    "index": 2055,
+    "name": "Learning Stations (page format)",
+    "frankenstyle": "block_page_tracker",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_page_tracker",
+    "shortdescription": "Page tracker (learning stations) provides a simple an neat accessory block for adding simple navigation inside a \"paged\" course. It prrovides flexible start page and page deepness settings, and can track user access to pages. this is an alternative to the Pagemenu activity, or the standard navigation block to avoid some side effects of global environment.",
+    "timelastreleased": {
+        "absdate": "Monday, 18 April 2016, 8:29 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-18T20:29:06+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "1",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/994/page_tracker_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/994/page_tracker_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/994/block_page_tracker_afterburner.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": []
+}

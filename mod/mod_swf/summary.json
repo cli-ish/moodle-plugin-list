@@ -1,0 +1,56 @@
+{
+    "id": 599,
+    "index": 1257,
+    "name": "SWF-Activity-Module",
+    "frankenstyle": "mod_swf",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_swf",
+    "shortdescription": "The SWF Activity Module is a Moodle plugin for deploying multimedia Flash learning applications, also known as Flash templates, videos, and playlists.",
+    "timelastreleased": {
+        "absdate": "Friday, 17 October 2014, 3:52 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-10-17T03:52:15+08:00"
+    },
+    "aggsites": "42",
+    "aggdownloads": "22",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/599/SWF%20Activity%20Module%20logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/599/SWF%20Activity%20Module%20logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/599/activity.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/599/concept_map.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/599/video.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 462936,
+            "firstname": "Matt",
+            "lastname": "Bury",
+            "url": "https://moodle.org/user/profile.php?id=462936"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Flash"
+        }
+    ]
+}

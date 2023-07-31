@@ -1,0 +1,49 @@
+{
+    "id": 238,
+    "index": 509,
+    "name": "Opaque",
+    "frankenstyle": "qtype_opaque",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_opaque",
+    "shortdescription": "This question type uses web services to connect to other question engines like OpenMark or ounit, so that their questions can be used in a Moodle quiz.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 June 2022, 9:31 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-28T21:31:07+08:00"
+    },
+    "aggsites": "157",
+    "aggdownloads": "229",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/238/Opaque.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

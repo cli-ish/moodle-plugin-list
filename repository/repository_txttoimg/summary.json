@@ -1,0 +1,40 @@
+{
+    "id": 3031,
+    "index": 631,
+    "name": "AI Text to Image",
+    "frankenstyle": "repository_txttoimg",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_txttoimg",
+    "shortdescription": "A repository that adds the ability to get AI generated imaged directly into Moodle, using OpenAI API.",
+    "timelastreleased": {
+        "absdate": "Monday, 10 April 2023, 3:51 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-10T15:51:57+08:00"
+    },
+    "aggsites": "74",
+    "aggdownloads": "176",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3031/ai_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3031/ai_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3031/txttoimg.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 528592,
+            "firstname": "Yedidia",
+            "lastname": "Klein",
+            "url": "https://moodle.org/user/profile.php?id=528592"
+        }
+    ],
+    "descriptors": []
+}

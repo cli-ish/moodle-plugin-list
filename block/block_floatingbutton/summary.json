@@ -1,0 +1,47 @@
+{
+    "id": 3056,
+    "index": 1034,
+    "name": "Floating buttons",
+    "frankenstyle": "block_floatingbutton",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_floatingbutton",
+    "shortdescription": "Add custom floating buttons to your courses",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 February 2023, 2:10 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-02-28T14:10:05+08:00"
+    },
+    "aggsites": "66",
+    "aggdownloads": "49",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3056/block_floatingbutton1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3056/block_floatingbutton2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3056/block_floatingbutton3.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4744274,
+            "firstname": "Mebis",
+            "lastname": "Lernplattform",
+            "url": "https://moodle.org/user/profile.php?id=4744274"
+        }
+    ],
+    "descriptors": []
+}

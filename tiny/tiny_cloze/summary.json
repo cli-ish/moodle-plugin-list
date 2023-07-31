@@ -1,0 +1,56 @@
+{
+    "id": 3167,
+    "index": 1073,
+    "name": "Cloze question editor",
+    "frankenstyle": "tiny_cloze",
+    "plugintype": {
+        "type": "tiny",
+        "name": "TinyMCE editor / tiny"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tiny_cloze",
+    "shortdescription": "Make it easy for users to create cloze question types via the TinyMCE editor.\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 July 2023, 7:41 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-06T19:41:29+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "41",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3167/icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3167/icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3167/cloze_1_start.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3167/cloze_2_selected.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3167/cloze_3_dialogue_edit.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3167/cloze_4_menu.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3167/cloze_5_dialogue_new.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3167/cloze_6_dialogue_numeric.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5154071,
+            "firstname": "Stephan",
+            "lastname": "Robotta",
+            "url": "https://moodle.org/user/profile.php?id=5154071"
+        }
+    ],
+    "descriptors": []
+}

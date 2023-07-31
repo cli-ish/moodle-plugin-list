@@ -1,0 +1,59 @@
+{
+    "id": 242,
+    "index": 1392,
+    "name": "Analytics and Recommendations",
+    "frankenstyle": "block_analytics_recommendations",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_analytics_recommendations",
+    "shortdescription": "The Analytics and Recommendations block is a tool for students and teachers.\r\nIt visually shows the student participation in each course activity and it shows recommendations for students about what activities they should work to improve their final grade.",
+    "timelastreleased": {
+        "absdate": "Monday, 9 April 2012, 1:46 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-04-09T01:46:29+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "15",
+    "aggfavs": "22",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/242/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/242/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/242/analytics_recommendations5.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/242/analytics_recommendations6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/242/analytics_recommendations7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/242/analytics_recommendations8.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 736801,
+            "firstname": "Cristina",
+            "lastname": "Fern\u00e1ndez Sampayo",
+            "url": "https://moodle.org/user/profile.php?id=736801"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

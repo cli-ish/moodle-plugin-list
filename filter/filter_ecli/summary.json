@@ -1,0 +1,45 @@
+{
+    "id": 1345,
+    "index": 1462,
+    "name": "ECLI",
+    "frankenstyle": "filter_ecli",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_ecli",
+    "shortdescription": "This is a moodle plugin which filters text for ECLI case identifiers, and automatically\r\nlinks them. Currently it will only take Dutch ECLI identifiers, (prefixed ECLI:NL:) and\r\nlinks them to the text on http://rechtspraak.nl.",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 January 2015, 4:06 PM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-29T16:06:23+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "13",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1345/Screen%20Shot%202015-01-28%20at%2016.04.28.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1677927,
+            "firstname": "Joost",
+            "lastname": "van der Borg",
+            "url": "https://moodle.org/user/profile.php?id=1677927"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

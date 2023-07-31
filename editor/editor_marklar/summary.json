@@ -1,0 +1,61 @@
+{
+    "id": 1584,
+    "index": 584,
+    "name": "Marklar",
+    "frankenstyle": "editor_marklar",
+    "plugintype": {
+        "type": "editor",
+        "name": "Editor"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/editor_marklar",
+    "shortdescription": "Reclaim the control over formatting your text with this Markdown friendly editor for Moodle. Markdown is a lightweight markup language with plain text formatting syntax. It allows you to write using an easy-to-read, easy-to-write plain text format that is automatically converted to structurally valid HTML.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 June 2021, 10:11 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-09T22:11:07+08:00"
+    },
+    "aggsites": "295",
+    "aggdownloads": "199",
+    "aggfavs": "30",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1584/marklar.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1584/marklar.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1584/markdown-logo.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1584/marklar1edit.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1584/marklar1preview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1584/marklar2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1584/marklar3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1584/marklar4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1601,
+            "firstname": "David",
+            "lastname": "Mudr\u00e1k",
+            "url": "https://moodle.org/user/profile.php?id=1601"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

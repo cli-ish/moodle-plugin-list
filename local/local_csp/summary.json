@@ -1,0 +1,50 @@
+{
+    "id": 1808,
+    "index": 667,
+    "name": "Content security policy",
+    "frankenstyle": "local_csp",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_csp",
+    "shortdescription": "This plugin allows an admin to create a Custom Security Policy (CSP) in both reporting mode and enforcing mode. A simple use case is to detect and cleanup issues with non secure content after a migration from http to https, through to advanced policies to mitigate from XSS attacks.\r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 12 November 2019, 12:42 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-11-12T12:42:25+08:00"
+    },
+    "aggsites": "452",
+    "aggdownloads": "158",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1808/padlock-303266_960_720.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1808/padlock-303266_960_720.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1808/local_csp_admin_settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1808/local_csp_violations_report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        }
+    ],
+    "descriptors": []
+}

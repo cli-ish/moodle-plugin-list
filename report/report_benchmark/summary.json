@@ -1,0 +1,51 @@
+{
+    "id": 1661,
+    "index": 61,
+    "name": "Moodle Benchmark",
+    "frankenstyle": "report_benchmark",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_benchmark",
+    "shortdescription": "Performs various tests to determine the quality of the Moodle platform",
+    "timelastreleased": {
+        "absdate": "Saturday, 28 January 2023, 7:29 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-28T19:29:39+08:00"
+    },
+    "aggsites": "6016",
+    "aggdownloads": "1k",
+    "aggfavs": "114",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1661/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2082668,
+            "firstname": "Micka\u00ebl",
+            "lastname": "PANNEQUIN",
+            "url": "https://moodle.org/user/profile.php?id=2082668"
+        },
+        {
+            "id": 6406,
+            "firstname": "Nicolas",
+            "lastname": "Martignoni",
+            "url": "https://moodle.org/user/profile.php?id=6406"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

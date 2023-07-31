@@ -1,0 +1,44 @@
+{
+    "id": 2234,
+    "index": 1419,
+    "name": "Event course",
+    "frankenstyle": "format_event",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_event",
+    "shortdescription": "The course format \"Event\" is intended to be used for short training events. Upon course creation, it creates a corresponding calendar event.",
+    "timelastreleased": {
+        "absdate": "Monday, 15 April 2019, 10:38 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-04-15T10:38:18+08:00"
+    },
+    "aggsites": "26",
+    "aggdownloads": "14",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2234/Screenshot_2019-01-25%20TC01%20Calendar%20Detailed%20month%20view%20January%202019.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2234/Screenshot_2019-02-05%20Edit%20course%20settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 221571,
+            "firstname": "Flotter",
+            "lastname": "Totte",
+            "url": "https://moodle.org/user/profile.php?id=221571"
+        }
+    ],
+    "descriptors": []
+}

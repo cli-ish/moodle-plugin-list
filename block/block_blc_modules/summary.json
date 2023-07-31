@@ -1,0 +1,56 @@
+{
+    "id": 2274,
+    "index": 696,
+    "name": "BLC Modules",
+    "frankenstyle": "block_blc_modules",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_blc_modules",
+    "shortdescription": "The BLC Modules block allows teachers to easily browse and insert Blended Learning Consortium SCORM packages into their course. You must be subscribed to the BLC repository in order for this plugin to function. More information can be found on http://blc-fe.org.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 May 2022, 1:59 AM",
+        "reldate": "14 months",
+        "iso8601date": "2022-05-18T01:59:46+08:00"
+    },
+    "aggsites": "86",
+    "aggdownloads": "150",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2274/blclogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2274/blclogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2274/screenshot1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2274/screenshot2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2274/screenshot3.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2274/screenshot4.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2274/screenshot5.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2274/screenshot6.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2364524,
+            "firstname": "Terus",
+            "lastname": "E-learning",
+            "url": "https://moodle.org/user/profile.php?id=2364524"
+        }
+    ],
+    "descriptors": []
+}

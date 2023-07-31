@@ -1,0 +1,45 @@
+{
+    "id": 1081,
+    "index": 1593,
+    "name": "Brick",
+    "frankenstyle": "theme_brick",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_brick",
+    "shortdescription": "This theme was part of the Moodle core distribution, but for Moodle 2.7+ has been moved to Moodle Plugins\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 14 April 2014, 12:52 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-14T12:52:19+08:00"
+    },
+    "aggsites": "86",
+    "aggdownloads": "8",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1081/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

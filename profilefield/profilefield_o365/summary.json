@@ -1,0 +1,63 @@
+{
+    "id": 1335,
+    "index": 1155,
+    "name": "Office 365 Connection",
+    "frankenstyle": "profilefield_o365",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_o365",
+    "shortdescription": "This plugin provides a link in users' profiles to access Office 365 management functions. **This plugin has been replaced by the Microsoft Block**",
+    "timelastreleased": {
+        "absdate": "Wednesday, 3 June 2015, 12:04 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-06-03T00:04:00+08:00"
+    },
+    "aggsites": "85",
+    "aggdownloads": "31",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1335/msscreenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1540471,
+            "firstname": "Enovation",
+            "lastname": "Dev Team",
+            "url": "https://moodle.org/user/profile.php?id=1540471"
+        },
+        {
+            "id": 1835508,
+            "firstname": "James",
+            "lastname": "McQuillan",
+            "url": "https://moodle.org/user/profile.php?id=1835508"
+        },
+        {
+            "id": 1977124,
+            "firstname": "Zion",
+            "lastname": "Brewer",
+            "url": "https://moodle.org/user/profile.php?id=1977124"
+        },
+        {
+            "id": 1937202,
+            "firstname": "Nima",
+            "lastname": "Mojgani",
+            "url": "https://moodle.org/user/profile.php?id=1937202"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Office"
+        }
+    ]
+}

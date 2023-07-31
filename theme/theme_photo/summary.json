@@ -1,0 +1,45 @@
+{
+    "id": 1757,
+    "index": 1098,
+    "name": "Photo",
+    "frankenstyle": "theme_photo",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_photo",
+    "shortdescription": "This theme is meant as an example of how to create a theme extending Boost. It also provides useful settings for adding photo backgrounds to all pages Moodle.",
+    "timelastreleased": {
+        "absdate": "Monday, 20 February 2017, 10:11 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-02-20T10:11:03+08:00"
+    },
+    "aggsites": "160",
+    "aggdownloads": "38",
+    "aggfavs": "30",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1757/Slr-300px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1757/Slr-300px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1757/login.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1337843,
+            "firstname": "Damyon",
+            "lastname": "Wiese",
+            "url": "https://moodle.org/user/profile.php?id=1337843"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

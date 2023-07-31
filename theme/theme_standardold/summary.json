@@ -1,0 +1,45 @@
+{
+    "id": 1093,
+    "index": 1835,
+    "name": "Standard (legacy)",
+    "frankenstyle": "theme_standardold",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_standardold",
+    "shortdescription": "This theme was part of the Moodle core distribution, but for Moodle 2.7+ has been moved to Moodle Plugins\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 14 April 2014, 1:41 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-14T13:41:20+08:00"
+    },
+    "aggsites": "64",
+    "aggdownloads": "4",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

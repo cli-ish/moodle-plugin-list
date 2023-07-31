@@ -1,0 +1,49 @@
+{
+    "id": 158,
+    "index": 26,
+    "name": "Checklist",
+    "frankenstyle": "mod_checklist",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_checklist",
+    "shortdescription": "A checklist can be created by a teacher (or generated from the activities in a course) and then the students or teachers can check-off each item as they are completed.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 April 2023, 7:00 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-18T19:00:15+08:00"
+    },
+    "aggsites": "7537",
+    "aggdownloads": "2k",
+    "aggfavs": "189",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/158/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/158/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/158/Screenshot_20161118_194055.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/158/Screenshot_20161118_194231.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

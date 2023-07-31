@@ -1,0 +1,56 @@
+{
+    "id": 2151,
+    "index": 582,
+    "name": "Panopto resource module",
+    "frankenstyle": "mod_panopto",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_panopto",
+    "shortdescription": "This is Panopto resource module plugin developed by Lancaster University to simplify using Panopto video recordings in Moodle courses. The plugin lets Moodle decide if user is allowed to access video resource and provides access to recording on demand. Plugin respects all Moodle resource availability features, such as group restriction or activity completion.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 June 2022, 2:22 AM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-29T02:22:02+08:00"
+    },
+    "aggsites": "51",
+    "aggdownloads": "200",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2151/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2151/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2151/panopto_pick_activity.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2151/panopto_pick_video_desc.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2151/panopto_pick_video_mod.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2151/panopto_pick_video.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        },
+        {
+            "id": 41888,
+            "firstname": "Tony",
+            "lastname": "Butler",
+            "url": "https://moodle.org/user/profile.php?id=41888"
+        }
+    ],
+    "descriptors": []
+}

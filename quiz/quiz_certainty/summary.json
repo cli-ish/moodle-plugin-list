@@ -1,0 +1,40 @@
+{
+    "id": 3061,
+    "index": 873,
+    "name": "Certainty export",
+    "frankenstyle": "quiz_certainty",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_certainty",
+    "shortdescription": "This is a quiz report that can be used to export student certainty and feedback data from Degrees of Certainty with student feedback (deferred/immediate) behaviours. This report is only relevant for these question behaviours.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 January 2023, 8:47 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-18T20:47:52+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "106",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3061/report.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

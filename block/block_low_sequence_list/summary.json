@@ -1,0 +1,45 @@
+{
+    "id": 489,
+    "index": 2018,
+    "name": "Learning Outcome Sequence List",
+    "frankenstyle": "block_low_sequence_list",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_low_sequence_list",
+    "shortdescription": "The sequence list used to approve sequences for use in the Wizard",
+    "timelastreleased": {
+        "absdate": "Wednesday, 24 October 2012, 9:41 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-24T09:41:17+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "2",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/489/moodle_wizard_logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/489/moodle_wizard_logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/489/sequence%201.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1517530,
+            "firstname": "Anthony",
+            "lastname": "Franzi",
+            "url": "https://moodle.org/user/profile.php?id=1517530"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

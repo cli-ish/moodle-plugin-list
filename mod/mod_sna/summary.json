@@ -1,0 +1,64 @@
+{
+    "id": 1152,
+    "index": 1465,
+    "name": "Social Network Analysis (SNA)  Tool ",
+    "frankenstyle": "mod_sna",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_sna",
+    "shortdescription": "Social Network Analysis Tool can show the sociogram,density,outdegree,indegree,point centrality of the forum. ",
+    "timelastreleased": {
+        "absdate": "Friday, 3 March 2017, 3:42 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-03-03T15:42:58+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "13",
+    "aggfavs": "20",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1152/QQ%E6%88%AA%E5%9B%BE20170303150526.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1152/QQ%E6%88%AA%E5%9B%BE20170303150526.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1152/QQ%E6%88%AA%E5%9B%BE20170303161257.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1152/QQ%E6%88%AA%E5%9B%BE20170303161354.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1152/SNA%20%E5%85%A5%E5%BA%A6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1152/SNA%20%E5%87%BA%E5%BA%A6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1152/SNA%20%E7%82%B9%E5%BA%A6%E4%B8%AD%E5%BF%83%E5%BA%A6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1152/SNA%20%E7%A4%BE%E7%BE%A4%E5%9B%BE.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1152/SNA%E5%AF%86%E5%BA%A6.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1737074,
+            "firstname": "Yu",
+            "lastname": "Sun",
+            "url": "https://moodle.org/user/profile.php?id=1737074"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

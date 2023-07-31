@@ -1,0 +1,62 @@
+{
+    "id": 2149,
+    "index": 340,
+    "name": "Wooclap",
+    "frankenstyle": "mod_wooclap",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_wooclap",
+    "shortdescription": "Wooclap activity plugin for Moodle",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 July 2023, 4:02 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-06T16:02:22+08:00"
+    },
+    "aggsites": "682",
+    "aggdownloads": "394",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2149/wooclap-logo-small.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2149/wooclap-logo-small.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2149/wooclap_course.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2149/wooclap_settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2515056,
+            "firstname": "Jonathan",
+            "lastname": "Alzetta",
+            "url": "https://moodle.org/user/profile.php?id=2515056"
+        },
+        {
+            "id": 4964247,
+            "firstname": "Morgan",
+            "lastname": "Fauvet",
+            "url": "https://moodle.org/user/profile.php?id=4964247"
+        },
+        {
+            "id": 5663911,
+            "firstname": "Thibaut",
+            "lastname": "Roskam",
+            "url": "https://moodle.org/user/profile.php?id=5663911"
+        },
+        {
+            "id": 5663912,
+            "firstname": "Marco",
+            "lastname": "Verbeek",
+            "url": "https://moodle.org/user/profile.php?id=5663912"
+        }
+    ],
+    "descriptors": []
+}

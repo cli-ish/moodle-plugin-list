@@ -1,0 +1,47 @@
+{
+    "id": 2546,
+    "index": 391,
+    "name": "Concordance of reasoning",
+    "frankenstyle": "qtype_tcs",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_tcs",
+    "shortdescription": "Question type subplugin for concordance of reasoning questions (also known as Script concordance test).",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 March 2023, 9:45 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-29T21:45:21+08:00"
+    },
+    "aggsites": "167",
+    "aggdownloads": "319",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2546/qtype_tcs_answers.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2546/qtype_tcs_judgmentquestion.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2546/qtype_tcs_reasoningquestion.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1911781,
+            "firstname": "Issam",
+            "lastname": "Taboubi",
+            "url": "https://moodle.org/user/profile.php?id=1911781"
+        }
+    ],
+    "descriptors": []
+}

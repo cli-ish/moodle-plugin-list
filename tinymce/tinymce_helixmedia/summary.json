@@ -1,0 +1,56 @@
+{
+    "id": 1197,
+    "index": 693,
+    "name": "MEDIAL TinyMCE Editor",
+    "frankenstyle": "tinymce_helixmedia",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_helixmedia",
+    "shortdescription": "In order for the MEDIAL Video Assignment Activity to launch from the text editor you must install this TinyMCE Plugin. MEDIAL Video Assignment Activity allows Teachers and Students to create and respond to Video Assignments that are uploaded and cataloged in MEDIAL (a video streaming media library) rather than Moodle itself",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 November 2022, 12:47 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-24T00:47:24+08:00"
+    },
+    "aggsites": "132",
+    "aggdownloads": "150",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1197/lll.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1197/lll.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1197/medial%20tiny%20mce.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1197/MEDIAL%20TinyMCE%20Editor%20Plugin%20added.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1197/MEDIAL%20TinyMCE%20Editor%20Plugin%20upload.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1452899,
+            "firstname": "MEDIAL",
+            "lastname": "Streaming",
+            "url": "https://moodle.org/user/profile.php?id=1452899"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

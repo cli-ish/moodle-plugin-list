@@ -1,0 +1,51 @@
+{
+    "id": 1536,
+    "index": 1130,
+    "name": "Block Simple Certificate",
+    "frankenstyle": "block_simple_certificate",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_simple_certificate",
+    "shortdescription": "This block list users certificates",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 August 2018, 1:24 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-22T01:24:32+08:00"
+    },
+    "aggsites": "163",
+    "aggdownloads": "34",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1536/Dashboard_-_2015-11-25_16.20.23.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 53912,
+            "firstname": "Carlos Alexandre",
+            "lastname": "Fonseca",
+            "url": "https://moodle.org/user/profile.php?id=53912"
+        },
+        {
+            "id": 1575644,
+            "firstname": "Gemma",
+            "lastname": "Lesterhuis",
+            "url": "https://moodle.org/user/profile.php?id=1575644"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

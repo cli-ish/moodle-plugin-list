@@ -1,0 +1,45 @@
+{
+    "id": 1310,
+    "index": 2046,
+    "name": "Question Filters",
+    "frankenstyle": "local_question_filters",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_question_filters",
+    "shortdescription": "This plugin enables additional search option within questions in large question banks\r\n\r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 12 May 2015, 3:48 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-05-12T15:48:06+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "1",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1310/questionfilter.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1310/questionfilter.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1310/question_filter.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

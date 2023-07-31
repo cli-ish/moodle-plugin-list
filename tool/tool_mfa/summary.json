@@ -1,0 +1,74 @@
+{
+    "id": 2402,
+    "index": 102,
+    "name": "Multi-factor authentication",
+    "frankenstyle": "tool_mfa",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_mfa",
+    "shortdescription": "This is a Moodle plugin which adds Multi-Factor authentication (MFA), also known as Two-factor authentication (2FA) on top of your existing chosen authentication plugins.\r\n\r\nhttps://en.wikipedia.org/wiki/Multi-factor_authentication",
+    "timelastreleased": {
+        "absdate": "Sunday, 18 June 2023, 1:54 PM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-18T13:54:12+08:00"
+    },
+    "aggsites": "981",
+    "aggdownloads": "1k",
+    "aggfavs": "29",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2402/key-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2402/key-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2402/Factor%20Settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2402/Good%20conditions.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2402/Login.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2402/Order%20table.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2402/Setup%20factors.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2402/Setup%20TOTP.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        },
+        {
+            "id": 2685812,
+            "firstname": "Peter",
+            "lastname": "Burnett",
+            "url": "https://moodle.org/user/profile.php?id=2685812"
+        },
+        {
+            "id": 3221883,
+            "firstname": "Mikhail",
+            "lastname": "Golenkov",
+            "url": "https://moodle.org/user/profile.php?id=3221883"
+        }
+    ],
+    "descriptors": []
+}

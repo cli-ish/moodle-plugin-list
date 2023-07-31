@@ -1,0 +1,51 @@
+{
+    "id": 410,
+    "index": 1123,
+    "name": "Engagement analytics",
+    "frankenstyle": "report_engagement",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_engagement",
+    "shortdescription": "The Engagement Analytics block provides information about student progress against a range of indicators. As the name suggests the block provides feedback on the level of \"engagement\" of a student, in this plugin \"engagement\" refers to activities which have been identified by current research to have an impact on student success in an online course.",
+    "timelastreleased": {
+        "absdate": "Monday, 28 July 2014, 2:43 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-07-28T14:43:19+08:00"
+    },
+    "aggsites": "57",
+    "aggdownloads": "35",
+    "aggfavs": "23",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1316828,
+            "firstname": "Adam",
+            "lastname": "Olley",
+            "url": "https://moodle.org/user/profile.php?id=1316828"
+        },
+        {
+            "id": 311988,
+            "firstname": "Ashley",
+            "lastname": "Holman",
+            "url": "https://moodle.org/user/profile.php?id=311988"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

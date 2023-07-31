@@ -1,0 +1,45 @@
+{
+    "id": 849,
+    "index": 1847,
+    "name": "Easy",
+    "frankenstyle": "theme_easy",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_easy",
+    "shortdescription": "A very basic theme, made easy for new themers.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 24 December 2014, 11:13 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-24T11:13:27+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "4",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/849/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

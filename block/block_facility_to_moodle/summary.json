@@ -1,0 +1,51 @@
+{
+    "id": 243,
+    "index": 1638,
+    "name": "Facility To Moodle 2",
+    "frankenstyle": "block_facility_to_moodle",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_facility_to_moodle",
+    "shortdescription": "Supports Moodle 2.3 thru to 2.6. Fork of Guy Thomas' original Facility-to-Moodle block for 1.7-1.9",
+    "timelastreleased": {
+        "absdate": "Thursday, 9 May 2013, 5:06 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-09T17:06:57+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "8",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/243/facilitytomoodlescreenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 861594,
+            "firstname": "Marc",
+            "lastname": "Coyles",
+            "url": "https://moodle.org/user/profile.php?id=861594"
+        },
+        {
+            "id": 579088,
+            "firstname": "Tim",
+            "lastname": "Bateson",
+            "url": "https://moodle.org/user/profile.php?id=579088"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

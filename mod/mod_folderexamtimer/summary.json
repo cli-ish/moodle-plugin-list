@@ -1,0 +1,59 @@
+{
+    "id": 3049,
+    "index": 886,
+    "name": "Folder Examtimer",
+    "frankenstyle": "mod_folderexamtimer",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_folderexamtimer",
+    "shortdescription": "Folder Examtimer module child-plugin of the native Moodle \"Folder\" Resource module.\r\n\r\nThis module is intended for distribution of large number of documents.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 December 2022, 1:08 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-12-14T01:08:30+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "103",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3049/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3049/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3049/1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3049/2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3049/3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3049/4.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3049/5.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3049/6.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3049/7.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1498378,
+            "firstname": "Greg Rich",
+            "lastname": "Debonair",
+            "url": "https://moodle.org/user/profile.php?id=1498378"
+        }
+    ],
+    "descriptors": []
+}

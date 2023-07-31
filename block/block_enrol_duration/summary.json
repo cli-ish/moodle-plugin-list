@@ -1,0 +1,49 @@
+{
+    "id": 508,
+    "index": 1495,
+    "name": "Enrolment Duration",
+    "frankenstyle": "block_enrol_duration",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_enrol_duration",
+    "shortdescription": "\ufeffThis plugin shows the remaining days in the users enrolment in the course. It also gives the date when the enrolment ends.",
+    "timelastreleased": {
+        "absdate": "Monday, 26 November 2012, 6:40 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-26T06:40:44+08:00"
+    },
+    "aggsites": "58",
+    "aggdownloads": "11",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/508/edb_30.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/508/edb_30.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/508/edb_30.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/508/edb_noExpire.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 860723,
+            "firstname": "Nathan",
+            "lastname": "Robbins",
+            "url": "https://moodle.org/user/profile.php?id=860723"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

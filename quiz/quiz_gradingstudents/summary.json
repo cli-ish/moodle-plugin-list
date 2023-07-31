@@ -1,0 +1,57 @@
+{
+    "id": 990,
+    "index": 433,
+    "name": "Manual grading by student",
+    "frankenstyle": "quiz_gradingstudents",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_gradingstudents",
+    "shortdescription": "A quiz 'report' add-on for Moodle, like the nomal manual grading report, but which lets you grade one student at a time, rather than one question at a time.",
+    "timelastreleased": {
+        "absdate": "Friday, 11 March 2022, 10:44 PM",
+        "reldate": "17 months",
+        "iso8601date": "2022-03-11T22:44:03+08:00"
+    },
+    "aggsites": "345",
+    "aggdownloads": "279",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/990/gradingstudents.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        },
+        {
+            "id": 2232540,
+            "firstname": "Chris",
+            "lastname": "Nelson",
+            "url": "https://moodle.org/user/profile.php?id=2232540"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

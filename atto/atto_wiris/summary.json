@@ -1,0 +1,56 @@
+{
+    "id": 1191,
+    "index": 95,
+    "name": "MathType for Atto by WIRIS",
+    "frankenstyle": "atto_wiris",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_wiris",
+    "shortdescription": "Type and handwrite mathematical notation in Moodle with MathType.",
+    "timelastreleased": {
+        "absdate": "Monday, 12 June 2023, 10:30 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-12T22:30:52+08:00"
+    },
+    "aggsites": "5132",
+    "aggdownloads": "1k",
+    "aggfavs": "54",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1191/MT_google_icon128.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1191/MT_google_icon128.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1191/20%20MathType%20for%20Moodle%20-%20Handwrite.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1191/10%20MathType%20for%20Moodle.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1191/99%20MathType%20filter%20settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1343738,
+            "firstname": "WIRIS",
+            "lastname": "team",
+            "url": "https://moodle.org/user/profile.php?id=1343738"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

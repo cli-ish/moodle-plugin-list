@@ -1,0 +1,46 @@
+{
+    "id": 3037,
+    "index": 505,
+    "name": "Quiz Filedownloader",
+    "frankenstyle": "quiz_filedownloader",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_filedownloader",
+    "shortdescription": "The filedownloader plugin lets you download files attached to questions within a quiz. The plugin lets you choose which questiontypes will be included in the download. Also it will create a textfile that cointains user and meta information for each downloaded file.\r\n",
+    "timelastreleased": {
+        "absdate": "Sunday, 4 June 2023, 2:39 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-04T14:39:04+08:00"
+    },
+    "aggsites": "38",
+    "aggdownloads": "231",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3037/download.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 123509,
+            "firstname": "Thomas",
+            "lastname": "Korner",
+            "url": "https://moodle.org/user/profile.php?id=123509"
+        },
+        {
+            "id": 91386,
+            "firstname": "ETH",
+            "lastname": "Z\u00fcrich",
+            "url": "https://moodle.org/user/profile.php?id=91386"
+        }
+    ],
+    "descriptors": []
+}

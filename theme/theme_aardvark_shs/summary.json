@@ -1,0 +1,45 @@
+{
+    "id": 321,
+    "index": 1551,
+    "name": "Aardvark South Hunsley School Pro 1.0",
+    "frankenstyle": "theme_aardvark_shs",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_aardvark_shs",
+    "shortdescription": "This version of Aardvark has been developed from the Aardvark SVC Edit based on the original Aardvark Pro version 1.2 \r\n\r\nTo setup the menus, please read the comments in the aardvark_menu.php file and make the necessary adjustments before uploading to your server.",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 May 2012, 7:27 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-05-17T19:27:36+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "10",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/321/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 89775,
+            "firstname": "Jon",
+            "lastname": "Witts",
+            "url": "https://moodle.org/user/profile.php?id=89775"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

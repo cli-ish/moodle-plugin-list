@@ -1,0 +1,45 @@
+{
+    "id": 817,
+    "index": 2114,
+    "name": "Halboo",
+    "frankenstyle": "theme_halboo",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_halboo",
+    "shortdescription": "This theme was created from the Decaf theme by Lei Zhang. So it has the features of this theme :\r\nAwesomeBar with administrative links and navigation, fluid theme 3 columns, ... Added new area for blocks, bootstrap, new styles, ...",
+    "timelastreleased": {
+        "absdate": "Sunday, 18 August 2013, 4:30 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-18T04:30:53+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": null,
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/817/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 783797,
+            "firstname": "Alain",
+            "lastname": "Bolli",
+            "url": "https://moodle.org/user/profile.php?id=783797"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

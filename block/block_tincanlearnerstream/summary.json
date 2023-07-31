@@ -1,0 +1,45 @@
+{
+    "id": 892,
+    "index": 1860,
+    "name": "Tin Can Learner Stream",
+    "frankenstyle": "block_tincanlearnerstream",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_tincanlearnerstream",
+    "shortdescription": "A block to display a learner's Tin Can activity stream",
+    "timelastreleased": {
+        "absdate": "Thursday, 3 October 2013, 3:40 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-10-03T03:40:36+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "4",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1464970,
+            "firstname": "Andrew",
+            "lastname": "Downes",
+            "url": "https://moodle.org/user/profile.php?id=1464970"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Developer"
+        }
+    ]
+}

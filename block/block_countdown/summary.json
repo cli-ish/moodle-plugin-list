@@ -1,0 +1,44 @@
+{
+    "id": 1913,
+    "index": 1191,
+    "name": "Final countdown",
+    "frankenstyle": "block_countdown",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_countdown",
+    "shortdescription": "Countdown Moodle plugin / block",
+    "timelastreleased": {
+        "absdate": "Friday, 26 April 2019, 6:36 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-04-26T06:36:52+08:00"
+    },
+    "aggsites": "211",
+    "aggdownloads": "27",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1913/Screenshot%20%2819%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1913/Screenshot%20%2819%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1913/Screenshot%20%28002%29.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1913/Screenshot%20%28001%29.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1613124,
+            "firstname": "Yevhen",
+            "lastname": "Matasar",
+            "url": "https://moodle.org/user/profile.php?id=1613124"
+        }
+    ],
+    "descriptors": []
+}

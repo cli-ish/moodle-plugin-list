@@ -1,0 +1,70 @@
+{
+    "id": 1541,
+    "index": 1046,
+    "name": "Congrea",
+    "frankenstyle": "mod_congrea",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_congrea",
+    "shortdescription": "Modern virtual classroom with sharing / collaboration for your Screen, Audio, Webcam, whiteboard, documents, media with students, ask questions, bookmarks and notes with optional recording.",
+    "timelastreleased": {
+        "absdate": "Thursday, 7 October 2021, 6:20 PM",
+        "reldate": "22 months",
+        "iso8601date": "2021-10-07T18:20:49+08:00"
+    },
+    "aggsites": "582",
+    "aggdownloads": "44",
+    "aggfavs": "78",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1541/audiovisual.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1541/create_cong.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1541/doc_sharing.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1541/join_congrea.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1541/poll2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1143772,
+            "firstname": "Pinky",
+            "lastname": "Sharma",
+            "url": "https://moodle.org/user/profile.php?id=1143772"
+        },
+        {
+            "id": 173685,
+            "firstname": "Jai",
+            "lastname": "Gupta",
+            "url": "https://moodle.org/user/profile.php?id=173685"
+        },
+        {
+            "id": 214220,
+            "firstname": "suman",
+            "lastname": "bogati",
+            "url": "https://moodle.org/user/profile.php?id=214220"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

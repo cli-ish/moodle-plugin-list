@@ -1,0 +1,68 @@
+{
+    "id": 137,
+    "index": 964,
+    "name": "NED - Marking Manager",
+    "frankenstyle": "block_fn_marking",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_fn_marking",
+    "shortdescription": "This block allows teachers to grade assignments, quizzes and forums within a single interface. ",
+    "timelastreleased": {
+        "absdate": "Friday, 13 October 2017, 8:05 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-10-13T08:05:59+08:00"
+    },
+    "aggsites": "454",
+    "aggdownloads": "64",
+    "aggfavs": "44",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/137/n_230.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/137/n_230.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/137/tabs20.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/137/graded_individual.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/137/graded.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/137/grading.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/137/mm_bloc_views.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/137/not_submitted.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/137/simple_gradebook.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2459954,
+            "firstname": "Fern",
+            "lastname": "Oliveira",
+            "url": "https://moodle.org/user/profile.php?id=2459954"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

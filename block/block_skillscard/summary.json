@@ -1,0 +1,52 @@
+{
+    "id": 3011,
+    "index": 1573,
+    "name": "Skills Card",
+    "frankenstyle": "block_skillscard",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_skillscard",
+    "shortdescription": "A block plugin for Moodle to show the competencies that users have completed.",
+    "timelastreleased": {
+        "absdate": "Friday, 4 November 2022, 3:05 PM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-04T15:05:43+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "9",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3011/pukunui_lrg_v_ma.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3011/pukunui_lrg_v_ma.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3011/112.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4136132,
+            "firstname": "Tengku Alauddin",
+            "lastname": "Tengku Amir Hamzah",
+            "url": "https://moodle.org/user/profile.php?id=4136132"
+        },
+        {
+            "id": 11995,
+            "firstname": "Shane",
+            "lastname": "Elliott",
+            "url": "https://moodle.org/user/profile.php?id=11995"
+        },
+        {
+            "id": 121167,
+            "firstname": "Vinny",
+            "lastname": "Stocker",
+            "url": "https://moodle.org/user/profile.php?id=121167"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 1548,
+    "index": 41,
+    "name": "Microsoft Word File Import/Export (Book)",
+    "frankenstyle": "booktool_wordimport",
+    "plugintype": {
+        "type": "booktool",
+        "name": "Book / Book tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/booktool_wordimport",
+    "shortdescription": "Import the contents of a Microsoft Word file into a book, splitting it into chapters and (optionally) subchapters, based on the heading styles. The file can be saved from Microsoft Word, Google Docs or LibreOffice, as long as it has a '.docx' suffix. Also supports exporting books to Word format, for round-trip editing. ",
+    "timelastreleased": {
+        "absdate": "Friday, 17 February 2023, 6:24 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-02-17T18:24:13+08:00"
+    },
+    "aggsites": "8083",
+    "aggdownloads": "1k",
+    "aggfavs": "115",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1548/logo.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1548/logo.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1548/booktool_wordimport_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 726938,
+            "firstname": "Eoin",
+            "lastname": "Campbell",
+            "url": "https://moodle.org/user/profile.php?id=726938"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

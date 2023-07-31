@@ -1,0 +1,53 @@
+{
+    "id": 1213,
+    "index": 1282,
+    "name": "Chemical Structures and Reactions Editor",
+    "frankenstyle": "atto_structure",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_structure",
+    "shortdescription": "Easily draw and insert chemical structures using MarvinJS.  Requires MarvinJS from Chemaxon.",
+    "timelastreleased": {
+        "absdate": "Saturday, 13 February 2016, 3:16 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-02-13T03:16:34+08:00"
+    },
+    "aggsites": "108",
+    "aggdownloads": "20",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1213/draw_structure.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1213/structure_outcome.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": 1030,
+    "index": 1793,
+    "name": "Srce 2.2 - Universal Design Theme",
+    "frankenstyle": "theme_srce_access",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_srce_access",
+    "shortdescription": "This theme is made for better visual accessibility mode, but with design and colors that retain good look. It doesn't have super-high contrast, which can be set with block Accessibility, but it has bigger and leveled fonts for better visual accessiblity.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 March 2014, 6:52 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-03-12T18:52:11+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "5",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1030/srce_ceu.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1030/srce_ceu.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1030/screen_course.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1030/screen_book.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1030/screen_category_courses.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1030/screen_category_subcategories_courses.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1030/screen_category_subcategories.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1030/screen_folder.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1030/screen_glossary.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1030/screen_page.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 217510,
+            "firstname": "Vedran",
+            "lastname": "Mu\u0161ica",
+            "url": "https://moodle.org/user/profile.php?id=217510"
+        },
+        {
+            "id": 1453690,
+            "firstname": "Zvonko",
+            "lastname": "Martinovi\u0107",
+            "url": "https://moodle.org/user/profile.php?id=1453690"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

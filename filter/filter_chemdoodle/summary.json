@@ -1,0 +1,53 @@
+{
+    "id": 1075,
+    "index": 1742,
+    "name": "Spectra Filter (Chemdoodle)",
+    "frankenstyle": "filter_chemdoodle",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_chemdoodle",
+    "shortdescription": "A Moodle text filter that convert links to JCAMP-DX files (*.jdx) to interactive Chemdoodle Web Component Spectra Canvas's.",
+    "timelastreleased": {
+        "absdate": "Sunday, 31 August 2014, 9:33 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-08-31T21:33:18+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "6",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1075/perspective.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1075/seeker.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

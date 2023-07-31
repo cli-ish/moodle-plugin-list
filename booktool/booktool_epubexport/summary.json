@@ -1,0 +1,45 @@
+{
+    "id": 1433,
+    "index": 1903,
+    "name": "EPUB book export",
+    "frankenstyle": "booktool_epubexport",
+    "plugintype": {
+        "type": "booktool",
+        "name": "Book / Book tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/booktool_epubexport",
+    "shortdescription": "Moodle plugin which adds EPUB v3 export functionality to the Book plugin.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 10 June 2015, 2:42 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-06-10T02:42:05+08:00"
+    },
+    "aggsites": "47",
+    "aggdownloads": "3",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1433/exportepublogo-hires.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1433/exportepublogo-hires.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1433/Screen%20Shot%202015-06-06%20at%2012.04.10.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1794370,
+            "firstname": "Richard",
+            "lastname": "Pilbery",
+            "url": "https://moodle.org/user/profile.php?id=1794370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

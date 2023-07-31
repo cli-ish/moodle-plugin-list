@@ -1,0 +1,47 @@
+{
+    "id": 1993,
+    "index": 63,
+    "name": "Course completed enrolment",
+    "frankenstyle": "enrol_coursecompleted",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_coursecompleted",
+    "shortdescription": "Enrol users upon completion of a course.",
+    "timelastreleased": {
+        "absdate": "Monday, 31 July 2023, 3:17 AM",
+        "reldate": "20 hours",
+        "iso8601date": "2023-07-31T03:17:16+08:00"
+    },
+    "aggsites": "2650",
+    "aggdownloads": "1k",
+    "aggfavs": "151",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1993/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1993/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1993/Course_path.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1993/enrol1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1993/enrol2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1207459,
+            "firstname": "Renaat",
+            "lastname": "Debleu",
+            "url": "https://moodle.org/user/profile.php?id=1207459"
+        }
+    ],
+    "descriptors": []
+}

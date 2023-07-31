@@ -1,0 +1,55 @@
+{
+    "id": 763,
+    "index": 268,
+    "name": "Roster",
+    "frankenstyle": "report_roster",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_roster",
+    "shortdescription": "This is a simple report which displays the user pictures for everyone enrolled in the given course.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 13 April 2022, 3:26 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-13T03:26:39+08:00"
+    },
+    "aggsites": "998",
+    "aggdownloads": "478",
+    "aggfavs": "77",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/763/report_roster_names.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/763/report_roster_no_names.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

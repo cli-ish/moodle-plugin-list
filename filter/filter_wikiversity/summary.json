@@ -1,0 +1,45 @@
+{
+    "id": 701,
+    "index": 2025,
+    "name": "Include Wikiversity pages",
+    "frankenstyle": "filter_wikiversity",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_wikiversity",
+    "shortdescription": "This Moodle-plugin allows to include Wikiversity pages into Moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 19 April 2013, 4:05 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-19T04:05:08+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "2",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1592132,
+            "firstname": "Jan",
+            "lastname": "Luca",
+            "url": "https://moodle.org/user/profile.php?id=1592132"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "26265",
+        "name": "1.7-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/26265/report_embedquestion_moodle28_2023080517.zip"
+    },
+    {
+        "id": "24887",
+        "name": "1.5-for-moodle-3.9",
+        "url": "https://moodle.org/plugins/download.php/24887/report_embedquestion_moodle28_2011110111.zip"
+    },
+    {
+        "id": "21875",
+        "name": "1.1-for-moodle-3.6",
+        "url": "https://moodle.org/plugins/download.php/21875/report_embedquestion_moodle37_2013080415.zip"
+    },
+    {
+        "id": "24888",
+        "name": "1.6-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/24888/report_embedquestion_moodle29_2013060117.zip"
+    },
+    {
+        "id": "23114",
+        "name": "1.2-for-moodle-3.9",
+        "url": "https://moodle.org/plugins/download.php/23114/report_embedquestion_moodle40_2013011101.zip"
+    },
+    {
+        "id": "23189",
+        "name": "1.3-for-moodle-3.9",
+        "url": "https://moodle.org/plugins/download.php/23189/report_embedquestion_moodle35_2010060511.zip"
+    },
+    {
+        "id": "20514",
+        "name": "0.9.1-for-moodle-3.6",
+        "url": "https://moodle.org/plugins/download.php/20514/report_embedquestion_moodle34_2018091000.zip"
+    },
+    {
+        "id": "20508",
+        "name": "0.9-for-moodle-3.6",
+        "url": "https://moodle.org/plugins/download.php/20508/report_embedquestion_moodle38_2010010716.zip"
+    }
+]

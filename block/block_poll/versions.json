@@ -1,0 +1,37 @@
+[
+    {
+        "id": "16906",
+        "name": "3.3.0.0",
+        "url": "https://moodle.org/plugins/download.php/16906/block_poll_moodle38_2020090813.zip"
+    },
+    {
+        "id": "14051",
+        "name": "3.1.0.3",
+        "url": "https://moodle.org/plugins/download.php/14051/block_poll_moodle30_2013080911.zip"
+    },
+    {
+        "id": "8658",
+        "name": "2.7.0.1",
+        "url": "https://moodle.org/plugins/download.php/8658/block_poll_moodle33_2010070802.zip"
+    },
+    {
+        "id": "6959",
+        "name": "2014092900",
+        "url": "https://moodle.org/plugins/download.php/6959/block_poll_moodle31_2015080818.zip"
+    },
+    {
+        "id": "5323",
+        "name": "2013082000",
+        "url": "https://moodle.org/plugins/download.php/5323/block_poll_moodle38_2016061219.zip"
+    },
+    {
+        "id": "2116",
+        "name": "2011113000",
+        "url": "https://moodle.org/plugins/download.php/2116/block_poll_moodle37_2010100505.zip"
+    },
+    {
+        "id": "14025",
+        "name": "3.1.0.2",
+        "url": "https://moodle.org/plugins/download.php/14025/block_poll_moodle34_2022090904.zip"
+    }
+]

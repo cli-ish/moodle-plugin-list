@@ -1,0 +1,45 @@
+{
+    "id": 348,
+    "index": 1933,
+    "name": "Aaradyha",
+    "frankenstyle": "theme_aaradyha",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_aaradyha",
+    "shortdescription": "Aaradyha (Pronounced Aradia - meaning Wisdom in Hindu) is a three column Moodle theme built specifically with RTL (right to left) languages in mind.",
+    "timelastreleased": {
+        "absdate": "Thursday, 21 June 2012, 9:20 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-21T09:20:03+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/348/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/348/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/348/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

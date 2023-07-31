@@ -1,0 +1,49 @@
+{
+    "id": 1292,
+    "index": 96,
+    "name": "Full screen",
+    "frankenstyle": "atto_fullscreen",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_fullscreen",
+    "shortdescription": "An Atto plugin which enables full screen editing mode",
+    "timelastreleased": {
+        "absdate": "Tuesday, 5 April 2022, 3:04 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-05T03:04:28+08:00"
+    },
+    "aggsites": "6251",
+    "aggdownloads": "1k",
+    "aggfavs": "90",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1292/fullscreen.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1292/fullscreen.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1292/after.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1292/Before.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1470073,
+            "firstname": "Daniel",
+            "lastname": "Thies",
+            "url": "https://moodle.org/user/profile.php?id=1470073"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

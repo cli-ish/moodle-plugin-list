@@ -1,0 +1,40 @@
+{
+    "id": 185,
+    "index": 1333,
+    "name": "Online Users Map",
+    "frankenstyle": "block_online_users_map",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_online_users_map",
+    "shortdescription": "Similar to the online users block, but this block uses the geographical information from users profiles to display the locations of online users on an OpenStreetMap or Google map. The geocoding of locations are cached in the Moodle database and updated when cron runs.",
+    "timelastreleased": {
+        "absdate": "Saturday, 20 April 2013, 10:02 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-20T22:02:34+08:00"
+    },
+    "aggsites": "21",
+    "aggdownloads": "18",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/185/online_users_map.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 66988,
+            "firstname": "Alex",
+            "lastname": "Little",
+            "url": "https://moodle.org/user/profile.php?id=66988"
+        }
+    ],
+    "descriptors": []
+}

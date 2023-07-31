@@ -1,0 +1,82 @@
+[
+    {
+        "id": "12154",
+        "name": "3.1.0.1",
+        "url": "https://moodle.org/plugins/download.php/12154/block_censusreport_moodle36_2023050219.zip"
+    },
+    {
+        "id": "12152",
+        "name": "3.0.0.1",
+        "url": "https://moodle.org/plugins/download.php/12152/block_censusreport_moodle34_2021080409.zip"
+    },
+    {
+        "id": "12151",
+        "name": "2.9.0.1",
+        "url": "https://moodle.org/plugins/download.php/12151/block_censusreport_moodle33_2023010810.zip"
+    },
+    {
+        "id": "12150",
+        "name": "2.8.0.1",
+        "url": "https://moodle.org/plugins/download.php/12150/block_censusreport_moodle25_2016051012.zip"
+    },
+    {
+        "id": "12149",
+        "name": "2.7.1.2",
+        "url": "https://moodle.org/plugins/download.php/12149/block_censusreport_moodle31_2023020719.zip"
+    },
+    {
+        "id": "10921",
+        "name": "2.6.1.1",
+        "url": "https://moodle.org/plugins/download.php/10921/block_censusreport_moodle29_2022100504.zip"
+    },
+    {
+        "id": "10920",
+        "name": "2.5.1.2",
+        "url": "https://moodle.org/plugins/download.php/10920/block_censusreport_moodle25_2023100812.zip"
+    },
+    {
+        "id": "10919",
+        "name": "2.4.1.2",
+        "url": "https://moodle.org/plugins/download.php/10919/block_censusreport_moodle38_2023050912.zip"
+    },
+    {
+        "id": "10918",
+        "name": "2.3.3.3",
+        "url": "https://moodle.org/plugins/download.php/10918/block_censusreport_moodle36_2016090912.zip"
+    },
+    {
+        "id": "1686",
+        "name": "2.2.3.1",
+        "url": "https://moodle.org/plugins/download.php/1686/block_censusreport_moodle37_2017120701.zip"
+    },
+    {
+        "id": "12153",
+        "name": "3.1.0.0",
+        "url": "https://moodle.org/plugins/download.php/12153/block_censusreport_moodle33_2010121116.zip"
+    },
+    {
+        "id": "10925",
+        "name": "3.0.0.0",
+        "url": "https://moodle.org/plugins/download.php/10925/block_censusreport_moodle34_2018010405.zip"
+    },
+    {
+        "id": "10924",
+        "name": "2.9.0.0",
+        "url": "https://moodle.org/plugins/download.php/10924/block_censusreport_moodle40_2022101218.zip"
+    },
+    {
+        "id": "10923",
+        "name": "2.8.0.0",
+        "url": "https://moodle.org/plugins/download.php/10923/block_censusreport_moodle31_2010120718.zip"
+    },
+    {
+        "id": "10922",
+        "name": "2.7.1.1",
+        "url": "https://moodle.org/plugins/download.php/10922/block_censusreport_moodle38_2011041208.zip"
+    },
+    {
+        "id": "1687",
+        "name": "2.3.3.1",
+        "url": "https://moodle.org/plugins/download.php/1687/block_censusreport_moodle37_2017100901.zip"
+    }
+]

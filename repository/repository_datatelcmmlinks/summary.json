@@ -1,0 +1,45 @@
+{
+    "id": 355,
+    "index": 1925,
+    "name": "CMM - Link to Course Material",
+    "frankenstyle": "repository_datatelcmmlinks",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_datatelcmmlinks",
+    "shortdescription": "This plugin supports linking to documents in the Course Materials Manager (CMM), a component of Ellucian\u2019s Colleague Portal.",
+    "timelastreleased": {
+        "absdate": "Thursday, 23 August 2012, 3:37 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-08-23T03:37:13+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1461424,
+            "firstname": "Ellucian",
+            "lastname": "Inc",
+            "url": "https://moodle.org/user/profile.php?id=1461424"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

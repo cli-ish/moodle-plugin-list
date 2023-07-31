@@ -1,0 +1,58 @@
+{
+    "id": 1900,
+    "index": 2131,
+    "name": "Nextcloud",
+    "frankenstyle": "repository_nextcloud",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_nextcloud",
+    "shortdescription": "Enable users to upload files from their private storage directly into Moodle. Supports Nextcloud and ownCloud!",
+    "timelastreleased": {
+        "absdate": "Saturday, 5 August 2017, 2:06 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-08-05T02:06:29+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": null,
+    "aggfavs": "15",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1900/nextcloud-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1900/nextcloud-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1900/nextcloud-logo-background.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 1942711,
+            "firstname": "Jan",
+            "lastname": "Dagef\u00f6rde",
+            "url": "https://moodle.org/user/profile.php?id=1942711"
+        },
+        {
+            "id": 1859594,
+            "firstname": "Tobias",
+            "lastname": "Reischmann",
+            "url": "https://moodle.org/user/profile.php?id=1859594"
+        },
+        {
+            "id": 2095586,
+            "firstname": "Nina",
+            "lastname": "Herrmann",
+            "url": "https://moodle.org/user/profile.php?id=2095586"
+        }
+    ],
+    "descriptors": []
+}

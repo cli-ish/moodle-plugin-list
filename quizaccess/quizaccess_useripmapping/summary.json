@@ -1,0 +1,74 @@
+{
+    "id": 1966,
+    "index": 1931,
+    "name": "User-IP Mapping quiz access rule",
+    "frankenstyle": "quizaccess_useripmapping",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_useripmapping",
+    "shortdescription": "This plugin allow us to restrict a user to attempt the quiz only from a pre-allocated location(e.g IP address).",
+    "timelastreleased": {
+        "absdate": "Monday, 12 February 2018, 3:52 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-02-12T15:52:14+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1966/iitblogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1966/iitblogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1966/m1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1966/m14.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1966/m15.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1966/m3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1966/m5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1966/m6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1966/m7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1966/m8.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1966/m9.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1966/mcsv.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2267258,
+            "firstname": "IIT",
+            "lastname": "Bombay",
+            "url": "https://moodle.org/user/profile.php?id=2267258"
+        },
+        {
+            "id": 2221549,
+            "firstname": "Amrata",
+            "lastname": "Ramchandani",
+            "url": "https://moodle.org/user/profile.php?id=2221549"
+        }
+    ],
+    "descriptors": []
+}

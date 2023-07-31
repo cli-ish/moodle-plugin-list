@@ -1,0 +1,67 @@
+{
+    "id": 1331,
+    "index": 1295,
+    "name": "Microsoft Account",
+    "frankenstyle": "local_msaccount",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_msaccount",
+    "shortdescription": "This plugin provides a simple client API for OAuth2-based authentication and token management for Microsoft Account. It also provides some helper functions for making REST API calls to services that use the Microsoft Account.",
+    "timelastreleased": {
+        "absdate": "Monday, 25 July 2016, 1:03 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-07-25T13:03:10+08:00"
+    },
+    "aggsites": "158",
+    "aggdownloads": "19",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1331/Screenshot%202020-03-09%20at%2015.44.12.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1540471,
+            "firstname": "Enovation",
+            "lastname": "Dev Team",
+            "url": "https://moodle.org/user/profile.php?id=1540471"
+        },
+        {
+            "id": 1835508,
+            "firstname": "James",
+            "lastname": "McQuillan",
+            "url": "https://moodle.org/user/profile.php?id=1835508"
+        },
+        {
+            "id": 1977124,
+            "firstname": "Zion",
+            "lastname": "Brewer",
+            "url": "https://moodle.org/user/profile.php?id=1977124"
+        },
+        {
+            "id": 1937202,
+            "firstname": "Nima",
+            "lastname": "Mojgani",
+            "url": "https://moodle.org/user/profile.php?id=1937202"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

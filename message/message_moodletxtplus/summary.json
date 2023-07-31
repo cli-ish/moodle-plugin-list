@@ -1,0 +1,49 @@
+{
+    "id": 492,
+    "index": 1681,
+    "name": "moodletxt+ - bbconnecttxt.com SMS/Text Messaging Processor",
+    "frankenstyle": "message_moodletxtplus",
+    "plugintype": {
+        "type": "message",
+        "name": "Notification plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/message_moodletxtplus",
+    "shortdescription": "moodletxt+ is an SMS message processor for Moodle 2.0 and above. It is an extension to the existing moodletxt block, which for six years has been one of the most advanced 2-way SMS messaging blocks available to Moodle users. This new extension allows moodletxt to capture site/course notifications, personal messages and other message events within Moodle, and then send those messages out via SMS.",
+    "timelastreleased": {
+        "absdate": "Thursday, 25 October 2012, 4:46 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-25T16:46:51+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "7",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/492/connectTxt.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/492/connectTxt.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/492/moodletxt%2B.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 146613,
+            "firstname": "Greg J",
+            "lastname": "Preece",
+            "url": "https://moodle.org/user/profile.php?id=146613"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

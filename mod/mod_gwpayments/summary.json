@@ -1,0 +1,53 @@
+{
+    "id": 2791,
+    "index": 1420,
+    "name": "Gateway Payments activity module",
+    "frankenstyle": "mod_gwpayments",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_gwpayments",
+    "shortdescription": "Provides a means of restricting access to other resources in a course by having to pay for the course module.\r\nAccess restriction to other courses can then be configured using normal availability conditions based on activity completion.",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 April 2022, 9:54 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-14T21:54:50+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "14",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2791/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2791/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2791/3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1911653,
+            "firstname": "Rogier",
+            "lastname": "van Dongen",
+            "url": "https://moodle.org/user/profile.php?id=1911653"
+        },
+        {
+            "id": 1880313,
+            "firstname": "Sebsoft",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=1880313"
+        }
+    ],
+    "descriptors": []
+}

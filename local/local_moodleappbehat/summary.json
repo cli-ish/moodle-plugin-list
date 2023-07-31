@@ -1,0 +1,64 @@
+{
+    "id": 3152,
+    "index": 1696,
+    "name": "Moodle App Behat",
+    "frankenstyle": "local_moodleappbehat",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_moodleappbehat",
+    "shortdescription": "Plugin to test Moodle App functionality in Behat.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 June 2023, 5:09 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-13T17:09:43+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "7",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3152/image_2023-06-13_11-17-03.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2497756,
+            "firstname": "Noel",
+            "lastname": "De Martin",
+            "url": "https://moodle.org/user/profile.php?id=2497756"
+        },
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        },
+        {
+            "id": 1889394,
+            "firstname": "Dani",
+            "lastname": "Palou",
+            "url": "https://moodle.org/user/profile.php?id=1889394"
+        },
+        {
+            "id": 1018346,
+            "firstname": "Pau",
+            "lastname": "Ferrer Oca\u00f1a",
+            "url": "https://moodle.org/user/profile.php?id=1018346"
+        },
+        {
+            "id": 4852695,
+            "firstname": "Alfonso",
+            "lastname": "Salces",
+            "url": "https://moodle.org/user/profile.php?id=4852695"
+        }
+    ],
+    "descriptors": []
+}

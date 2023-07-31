@@ -1,0 +1,47 @@
+{
+    "id": 2187,
+    "index": 1684,
+    "name": "Films On Demand",
+    "frankenstyle": "repository_filmsondemand",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_filmsondemand",
+    "shortdescription": "The Moodle plugin provides a rich integration between Films On Demand and your Moodle courses. Users of Moodle will now be able to embed Films On Demand resources directly inside their courses, without having to leave the LMS. Full videos, video segments, custom content, and web channels are among the types of supported resources.",
+    "timelastreleased": {
+        "absdate": "Saturday, 11 May 2019, 2:33 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-05-11T02:33:17+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "7",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2187/FOD-login.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2187/FOD-login.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2187/fod%20embedded%20video.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2187/FOD%20file%20picker.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2187/FOD%20title%20selected.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2507809,
+            "firstname": "Chris",
+            "lastname": "Plapp",
+            "url": "https://moodle.org/user/profile.php?id=2507809"
+        }
+    ],
+    "descriptors": []
+}

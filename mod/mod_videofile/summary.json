@@ -1,0 +1,53 @@
+{
+    "id": 784,
+    "index": 1031,
+    "name": "Videofile",
+    "frankenstyle": "mod_videofile",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_videofile",
+    "shortdescription": "Easy cross-browser compatibility videos using Video.js.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 25 June 2014, 10:36 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-25T22:36:21+08:00"
+    },
+    "aggsites": "233",
+    "aggdownloads": "49",
+    "aggfavs": "29",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/784/videofile-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/784/videofile-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/784/screenshot-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/784/screenshot-2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1263794,
+            "firstname": "Jonas",
+            "lastname": "Nockert",
+            "url": "https://moodle.org/user/profile.php?id=1263794"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

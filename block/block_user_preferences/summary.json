@@ -1,0 +1,40 @@
+{
+    "id": 423,
+    "index": 1514,
+    "name": "Learner preferences",
+    "frankenstyle": "block_user_preferences",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_user_preferences",
+    "shortdescription": "Holds the user model needed for adaptive navigation support of the block \"Learner Adaptation\" (block_case_repository) to enhance the concept map based navigation of the block \"Navigation Web\" (block_semantic_web).",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 May 2013, 3:49 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-22T03:49:36+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "11",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1128596,
+            "firstname": "Andre",
+            "lastname": "Scherl",
+            "url": "https://moodle.org/user/profile.php?id=1128596"
+        }
+    ],
+    "descriptors": []
+}

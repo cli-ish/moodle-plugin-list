@@ -1,0 +1,52 @@
+{
+    "id": 2373,
+    "index": 239,
+    "name": "Set course fields",
+    "frankenstyle": "tool_coursefields",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_coursefields",
+    "shortdescription": "Moodle admin tool plugin which allows managers to set and overwrite custom course field values for all courses in a category, including subcategories.",
+    "timelastreleased": {
+        "absdate": "Monday, 13 March 2023, 2:48 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-13T02:48:08+08:00"
+    },
+    "aggsites": "237",
+    "aggdownloads": "523",
+    "aggfavs": "37",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2373/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2373/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2373/tool_coursefields.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        },
+        {
+            "id": 1350696,
+            "firstname": "Luca",
+            "lastname": "B\u00f6sch",
+            "url": "https://moodle.org/user/profile.php?id=1350696"
+        }
+    ],
+    "descriptors": []
+}

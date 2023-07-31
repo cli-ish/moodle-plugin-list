@@ -1,0 +1,40 @@
+{
+    "id": 2271,
+    "index": 451,
+    "name": "UbiCast Nudgis Moodle activity plugin",
+    "frankenstyle": "mod_ubicast",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_ubicast",
+    "shortdescription": "This Moodle activity module allows users to add media or channels from a UbiCast Nudgis site in their courses.\r\nThey can also edit media directly from Moodle without having to go on the Nudgis site.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 September 2022, 6:11 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-20T18:11:28+08:00"
+    },
+    "aggsites": "163",
+    "aggdownloads": "265",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2271/ubicast-icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2271/ubicast-icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2271/student-view.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1546056,
+            "firstname": "St\u00e9phane",
+            "lastname": "Diemer",
+            "url": "https://moodle.org/user/profile.php?id=1546056"
+        }
+    ],
+    "descriptors": []
+}

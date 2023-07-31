@@ -1,0 +1,40 @@
+{
+    "id": 1947,
+    "index": 1856,
+    "name": "Discourse SSO",
+    "frankenstyle": "local_discoursesso",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_discoursesso",
+    "shortdescription": "This plugin enables your Moodle installation to act as a SSO provider for the Discourse discussion platform.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 April 2020, 1:22 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-04-29T01:22:03+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1947/Screen%20Shot%202017-10-04%20at%204.57.16%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1894952,
+            "firstname": "John",
+            "lastname": "Azinheira",
+            "url": "https://moodle.org/user/profile.php?id=1894952"
+        }
+    ],
+    "descriptors": []
+}

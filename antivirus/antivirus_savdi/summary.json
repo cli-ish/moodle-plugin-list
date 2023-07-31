@@ -1,0 +1,44 @@
+{
+    "id": 2438,
+    "index": 1304,
+    "name": "Sophos SAV-DI antivirus",
+    "frankenstyle": "antivirus_savdi",
+    "plugintype": {
+        "type": "antivirus",
+        "name": "Antivirus plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/antivirus_savdi",
+    "shortdescription": "This plugin adds virus scanner support for the Sophos SAV-DI daemon.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 11 May 2021, 9:26 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-11T09:26:54+08:00"
+    },
+    "aggsites": "33",
+    "aggdownloads": "19",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2438/savdi%20config.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2438/savdi%20test.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 488773,
+            "firstname": "Jonathon",
+            "lastname": "Fowler",
+            "url": "https://moodle.org/user/profile.php?id=488773"
+        }
+    ],
+    "descriptors": []
+}

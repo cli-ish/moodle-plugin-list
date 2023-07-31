@@ -1,0 +1,57 @@
+{
+    "id": 991,
+    "index": 679,
+    "name": "Edit quiz settings",
+    "frankenstyle": "quiz_editquizsettings",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_editquizsettings",
+    "shortdescription": "This 'report' is actually a tool which lets users edit certain settings, currenty\r\nthe open and close dates, for a quiz, without needing to give them permission to\r\nedit all the other quiz settings.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 15 March 2022, 1:17 AM",
+        "reldate": "17 months",
+        "iso8601date": "2022-03-15T01:17:42+08:00"
+    },
+    "aggsites": "84",
+    "aggdownloads": "155",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/991/editquizsettings.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        },
+        {
+            "id": 4836338,
+            "firstname": "Anupama",
+            "lastname": "Sarjoshi",
+            "url": "https://moodle.org/user/profile.php?id=4836338"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

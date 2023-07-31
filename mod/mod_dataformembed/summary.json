@@ -1,0 +1,45 @@
+{
+    "id": 427,
+    "index": 1471,
+    "name": "Dataform view",
+    "frankenstyle": "mod_dataformembed",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_dataformembed",
+    "shortdescription": "An activity module for displaying/Interacting with Dataform content in a course section.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 February 2018, 2:39 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-02-02T02:39:02+08:00"
+    },
+    "aggsites": "102",
+    "aggdownloads": "12",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/427/icon-section-100.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/427/icon-section-100.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/427/dfvm-latest-downloads.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 150168,
+            "firstname": "Itamar",
+            "lastname": "Tzadok",
+            "url": "https://moodle.org/user/profile.php?id=150168"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

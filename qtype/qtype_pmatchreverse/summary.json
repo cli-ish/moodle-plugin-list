@@ -1,0 +1,55 @@
+{
+    "id": 696,
+    "index": 510,
+    "name": "Reverse pattern match",
+    "frankenstyle": "qtype_pmatchreverse",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_pmatchreverse",
+    "shortdescription": "A question type where the teacher provides some example sentences, and the student has to write a pmatch expression to match those sentences.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 August 2022, 10:18 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-08-16T22:18:48+08:00"
+    },
+    "aggsites": "124",
+    "aggdownloads": "229",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/696/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/696/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/696/1%20question.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/696/2%20answered.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 4836338,
+            "firstname": "Anupama",
+            "lastname": "Sarjoshi",
+            "url": "https://moodle.org/user/profile.php?id=4836338"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

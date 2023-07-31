@@ -1,0 +1,53 @@
+{
+    "id": 2800,
+    "index": 783,
+    "name": "meetzi-room",
+    "frankenstyle": "mod_meetzi",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_meetzi",
+    "shortdescription": "This plugin lets you create meetzi conference rooms for your moodle course",
+    "timelastreleased": {
+        "absdate": "Saturday, 30 April 2022, 12:15 AM",
+        "reldate": "15 months",
+        "iso8601date": "2022-04-30T00:15:34+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "127",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2800/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2800/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2800/moodle_meetz_room.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2800/moodle_meetzi_configuration.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2800/moodle_meetzi_createroom.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2800/moodle_meetzi_enter.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2800/moodle_meetzi_roomlobby.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4435669,
+            "firstname": "Stefan",
+            "lastname": "Winterholler",
+            "url": "https://moodle.org/user/profile.php?id=4435669"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 1285,
+    "index": 1412,
+    "name": "Drupal Services",
+    "frankenstyle": "auth_drupalservices",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_drupalservices",
+    "shortdescription": "Provides session based SSO (Single Sign On) service between Moodle and Drupal. As well as user synchronization capability to import and update users from the Drupal user database. This work is based off the original work of Scott Schaffter and Arsham Skrenes and their module from moodle 1.9\r\nhttps://moodle.org/mod/data/view.php?d=13&rid=4240&filter=1",
+    "timelastreleased": {
+        "absdate": "Wednesday, 7 January 2015, 7:12 AM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-07T07:12:29+08:00"
+    },
+    "aggsites": "57",
+    "aggdownloads": "14",
+    "aggfavs": "12",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1725125,
+            "firstname": "chris",
+            "lastname": "porter",
+            "url": "https://moodle.org/user/profile.php?id=1725125"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

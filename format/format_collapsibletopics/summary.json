@@ -1,0 +1,44 @@
+{
+    "id": 2066,
+    "index": 397,
+    "name": "Collapsible Topics format",
+    "frankenstyle": "format_collapsibletopics",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_collapsibletopics",
+    "shortdescription": "Warning: since sections collapsing behaviour is now integrated into Moodle core, this plugin will not be maintained for Moodle 4.x\r\n\r\nThe collapsible topics format is a clone of the core topics format that adds collapsing behaviour to sections in order to reduce page size.",
+    "timelastreleased": {
+        "absdate": "Friday, 10 June 2022, 9:13 PM",
+        "reldate": "14 months",
+        "iso8601date": "2022-06-10T21:13:47+08:00"
+    },
+    "aggsites": "1537",
+    "aggdownloads": "315",
+    "aggfavs": "69",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2066/Capture%20d%E2%80%99e%CC%81cran%202018-05-24%20a%CC%80%2011.50.23.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2066/Capture%20d%E2%80%99e%CC%81cran%202018-05-24%20a%CC%80%2011.54.00.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1911669,
+            "firstname": "Jean-Roch",
+            "lastname": "Meurisse",
+            "url": "https://moodle.org/user/profile.php?id=1911669"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,62 @@
+{
+    "id": 27,
+    "index": 930,
+    "name": "SCORM Cloud for Moodle",
+    "frankenstyle": "mod_scormcloud",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_scormcloud",
+    "shortdescription": "Provides integration with SCORM Cloud to boost support for SCORM, xAPI, cmi5 and AICC for your Moodle LMS.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 12 January 2016, 8:12 AM",
+        "reldate": "8 years",
+        "iso8601date": "2016-01-12T08:12:19+08:00"
+    },
+    "aggsites": "136",
+    "aggdownloads": "78",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/27/ScormCloud_portrait.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/27/ScormCloud_portrait.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/27/SC_screenshot_01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/27/SC_screenshot_02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/27/SC_screenshot_03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/27/SC_screenshot_04.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/27/SC_screenshot_05.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/27/SC_screenshot_06.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

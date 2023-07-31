@@ -1,0 +1,67 @@
+[
+    {
+        "id": "29230",
+        "name": "v3.9.1",
+        "url": "https://moodle.org/plugins/download.php/29230/local_course_template_moodle31_2018080506.zip"
+    },
+    {
+        "id": "23749",
+        "name": "v3.7.0",
+        "url": "https://moodle.org/plugins/download.php/23749/local_course_template_moodle29_2014070414.zip"
+    },
+    {
+        "id": "22217",
+        "name": "v3.6.3",
+        "url": "https://moodle.org/plugins/download.php/22217/local_course_template_moodle25_2012101220.zip"
+    },
+    {
+        "id": "19557",
+        "name": "v3.4.1",
+        "url": "https://moodle.org/plugins/download.php/19557/local_course_template_moodle25_2014011020.zip"
+    },
+    {
+        "id": "16683",
+        "name": "v3.3.0",
+        "url": "https://moodle.org/plugins/download.php/16683/local_course_template_moodle33_2020090919.zip"
+    },
+    {
+        "id": "14713",
+        "name": "v0.3.0",
+        "url": "https://moodle.org/plugins/download.php/14713/local_course_template_moodle31_2013020412.zip"
+    },
+    {
+        "id": "26480",
+        "name": "v3.9.0",
+        "url": "https://moodle.org/plugins/download.php/26480/local_course_template_moodle40_2010081115.zip"
+    },
+    {
+        "id": "22143",
+        "name": "v3.6.2",
+        "url": "https://moodle.org/plugins/download.php/22143/local_course_template_moodle40_2015011206.zip"
+    },
+    {
+        "id": "21715",
+        "name": "v3.6.1",
+        "url": "https://moodle.org/plugins/download.php/21715/local_course_template_moodle38_2010051109.zip"
+    },
+    {
+        "id": "20949",
+        "name": "v3.6.0",
+        "url": "https://moodle.org/plugins/download.php/20949/local_course_template_moodle39_2017071107.zip"
+    },
+    {
+        "id": "16682",
+        "name": "v3.4.0",
+        "url": "https://moodle.org/plugins/download.php/16682/local_course_template_moodle25_2023110919.zip"
+    },
+    {
+        "id": "13845",
+        "name": "v0.2.0",
+        "url": "https://moodle.org/plugins/download.php/13845/local_course_template_moodle32_2013091106.zip"
+    },
+    {
+        "id": "13376",
+        "name": "v0.1.0",
+        "url": "https://moodle.org/plugins/download.php/13376/local_course_template_moodle30_2010011110.zip"
+    }
+]

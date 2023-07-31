@@ -1,0 +1,77 @@
+[
+    {
+        "id": "29613",
+        "name": "4.1.3",
+        "url": "https://moodle.org/plugins/download.php/29613/logstore_caliper_moodle28_2017011200.zip"
+    },
+    {
+        "id": "28934",
+        "name": "4.0.7",
+        "url": "https://moodle.org/plugins/download.php/28934/logstore_caliper_moodle35_2015070602.zip"
+    },
+    {
+        "id": "27758",
+        "name": "3.11.6",
+        "url": "https://moodle.org/plugins/download.php/27758/logstore_caliper_moodle32_2014090512.zip"
+    },
+    {
+        "id": "24373",
+        "name": "3.10.3",
+        "url": "https://moodle.org/plugins/download.php/24373/logstore_caliper_moodle32_2017040118.zip"
+    },
+    {
+        "id": "23952",
+        "name": "3.9.3",
+        "url": "https://moodle.org/plugins/download.php/23952/logstore_caliper_moodle33_2018051119.zip"
+    },
+    {
+        "id": "22032",
+        "name": "3.8.3",
+        "url": "https://moodle.org/plugins/download.php/22032/logstore_caliper_moodle34_2019090919.zip"
+    },
+    {
+        "id": "20892",
+        "name": "3.7.3",
+        "url": "https://moodle.org/plugins/download.php/20892/logstore_caliper_moodle26_2016041005.zip"
+    },
+    {
+        "id": "19986",
+        "name": "3.6.3",
+        "url": "https://moodle.org/plugins/download.php/19986/logstore_caliper_moodle25_2016010118.zip"
+    },
+    {
+        "id": "18666",
+        "name": "3.5.2",
+        "url": "https://moodle.org/plugins/download.php/18666/logstore_caliper_moodle31_2023070406.zip"
+    },
+    {
+        "id": "14454",
+        "name": "3.2.3",
+        "url": "https://moodle.org/plugins/download.php/14454/logstore_caliper_moodle40_2022030504.zip"
+    },
+    {
+        "id": "13142",
+        "name": "3.1.3",
+        "url": "https://moodle.org/plugins/download.php/13142/logstore_caliper_moodle38_2010020706.zip"
+    },
+    {
+        "id": "11974",
+        "name": "3.0.4-build-20160706",
+        "url": "https://moodle.org/plugins/download.php/11974/logstore_caliper_moodle37_2018060500.zip"
+    },
+    {
+        "id": "28493",
+        "name": "4.0.5",
+        "url": "https://moodle.org/plugins/download.php/28493/logstore_caliper_moodle26_2012010401.zip"
+    },
+    {
+        "id": "26540",
+        "name": "3.11.5",
+        "url": "https://moodle.org/plugins/download.php/26540/logstore_caliper_moodle26_2012050414.zip"
+    },
+    {
+        "id": "25602",
+        "name": "3.11.3",
+        "url": "https://moodle.org/plugins/download.php/25602/logstore_caliper_moodle39_2012120620.zip"
+    }
+]

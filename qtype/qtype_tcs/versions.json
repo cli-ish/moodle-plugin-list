@@ -1,0 +1,27 @@
+[
+    {
+        "id": "28825",
+        "name": "1.0.4-build-2023032700",
+        "url": "https://moodle.org/plugins/download.php/28825/qtype_tcs_moodle27_2013031107.zip"
+    },
+    {
+        "id": "27583",
+        "name": "1.0.3-build-2021110900",
+        "url": "https://moodle.org/plugins/download.php/27583/qtype_tcs_moodle25_2013010813.zip"
+    },
+    {
+        "id": "23940",
+        "name": "1.0.2-build-2021030100",
+        "url": "https://moodle.org/plugins/download.php/23940/qtype_tcs_moodle34_2017030504.zip"
+    },
+    {
+        "id": "22951",
+        "name": "1.0.1-build-2020111300",
+        "url": "https://moodle.org/plugins/download.php/22951/qtype_tcs_moodle38_2014121013.zip"
+    },
+    {
+        "id": "22386",
+        "name": "1.0.0-build-2020071300",
+        "url": "https://moodle.org/plugins/download.php/22386/qtype_tcs_moodle30_2021040519.zip"
+    }
+]

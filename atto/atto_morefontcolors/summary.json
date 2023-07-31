@@ -1,0 +1,45 @@
+{
+    "id": 1247,
+    "index": 81,
+    "name": "More font colours",
+    "frankenstyle": "atto_morefontcolors",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_morefontcolors",
+    "shortdescription": "This plugin is intended as a replacement of the core atto_fontcolor plugin, allowing the Moodle admin to define a set of colours to be available.\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 21 June 2021, 10:36 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-21T22:36:30+08:00"
+    },
+    "aggsites": "7849",
+    "aggdownloads": "1k",
+    "aggfavs": "110",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1247/atto_morefontcolors.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 164,
+    "index": 938,
+    "name": "Course overview plus",
+    "frankenstyle": "block_course_overview_plus",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_overview_plus",
+    "shortdescription": "Extends the core Course Overview block to allow courses to be hidden, course overview information to be collapsed and expanded and the list of courses to be filtered.  \r\n\r\n",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 August 2012, 5:53 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-08-25T17:53:08+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "75",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/164/CourseFilter2.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/164/CourseFilter2.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/164/CourseFilter.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/164/CourseOverviewPlus.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1163708,
+            "firstname": "Andrew",
+            "lastname": "James",
+            "url": "https://moodle.org/user/profile.php?id=1163708"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": 1601,
+    "index": 645,
+    "name": "Synchronize groups",
+    "frankenstyle": "tool_syncgroups",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_syncgroups",
+    "shortdescription": "With this plugin you can synchronize groups and groups members between two courses,\r\nin a way that a course A will be a mirror of course B.\r\n\r\nOnly users that are already enrolled are added as group members.",
+    "timelastreleased": {
+        "absdate": "Thursday, 10 September 2020, 4:19 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-09-10T04:19:13+08:00"
+    },
+    "aggsites": "283",
+    "aggdownloads": "167",
+    "aggfavs": "33",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1601/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1601/screenshot2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        },
+        {
+            "id": 2142679,
+            "firstname": "roberto",
+            "lastname": "silvino",
+            "url": "https://moodle.org/user/profile.php?id=2142679"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 1094,
+    "index": 2144,
+    "name": "More lock factories",
+    "frankenstyle": "local_morelockfactories",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_morelockfactories",
+    "shortdescription": "Additional lock factories for the new locking framework. Supports memcache and memcached.",
+    "timelastreleased": {
+        "absdate": "Monday, 14 April 2014, 4:48 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-14T16:48:40+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1094/WordLock%20word%20lock%20combination%20lock%208286729624%20o.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1337843,
+            "firstname": "Damyon",
+            "lastname": "Wiese",
+            "url": "https://moodle.org/user/profile.php?id=1337843"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

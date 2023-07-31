@@ -1,0 +1,59 @@
+{
+    "id": 623,
+    "index": 782,
+    "name": "Vitero",
+    "frankenstyle": "mod_vitero",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_vitero",
+    "shortdescription": "Vitero Activity Plugin for Moodle 2.2+. This plugin provides integration between Moodle and a Vitero (Virtual Team Room) server. A Moodle site is linked to a single Vitero account.",
+    "timelastreleased": {
+        "absdate": "Friday, 13 January 2023, 5:22 PM",
+        "reldate": "7 months",
+        "iso8601date": "2023-01-13T17:22:29+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "127",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/623/vitero_logo_rgb_standard%40300px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/623/vitero_logo_rgb_standard%40300px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/623/ambience_river_webcam%400%2C5x.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/623/default.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1290652,
+            "firstname": "Yair",
+            "lastname": "Spielmann",
+            "url": "https://moodle.org/user/profile.php?id=1290652"
+        },
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

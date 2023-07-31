@@ -1,0 +1,47 @@
+{
+    "id": 1763,
+    "index": 321,
+    "name": "Solution sheet",
+    "frankenstyle": "assignfeedback_solutionsheet",
+    "plugintype": {
+        "type": "assignfeedback",
+        "name": "Assignment / Feedback plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignfeedback_solutionsheet",
+    "shortdescription": "Allows teachers to upload files with solutions to their assignment, which can be released to students manually or at a scheduled time.",
+    "timelastreleased": {
+        "absdate": "Friday, 15 July 2022, 7:30 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-15T19:30:33+08:00"
+    },
+    "aggsites": "430",
+    "aggdownloads": "416",
+    "aggfavs": "30",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1763/solutionsheet.svg.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1763/solutionsheet.svg.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1763/configview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1763/studentview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1763/teacherview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 772075,
+            "firstname": "Henning",
+            "lastname": "Bostelmann",
+            "url": "https://moodle.org/user/profile.php?id=772075"
+        }
+    ],
+    "descriptors": []
+}

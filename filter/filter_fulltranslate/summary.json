@@ -1,0 +1,44 @@
+{
+    "id": 2631,
+    "index": 2095,
+    "name": "Content translation filter (superseded)",
+    "frankenstyle": "filter_fulltranslate",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_fulltranslate",
+    "shortdescription": "The Content translation filter provided a way to quickly translate the content of Moodle courses into different languages.  Please now use the new plugin as it maintains translations when the original language content is updated and has many other improvements, but works largely the same way than this plugin did! it's coming soon to the Moodle plugins database, but available now on github: https://github.com/andrewhancox/moodle-filter_translations",
+    "timelastreleased": {
+        "absdate": "Thursday, 4 February 2021, 9:01 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-04T21:01:49+08:00"
+    },
+    "aggsites": "67",
+    "aggdownloads": null,
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2631/FullTranslateOptions.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2631/ExampleFilterFooter.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1455465,
+            "firstname": "Moodle",
+            "lastname": "HQ",
+            "url": "https://moodle.org/user/profile.php?id=1455465"
+        }
+    ],
+    "descriptors": []
+}

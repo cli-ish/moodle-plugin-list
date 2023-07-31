@@ -1,0 +1,49 @@
+{
+    "id": 762,
+    "index": 1913,
+    "name": "Quicksets",
+    "frankenstyle": "block_quickset",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quickset",
+    "shortdescription": "Quickly set course and grades visibility, number of visible sections and \"Edit sections\" -- insert, delete, reorder, rename any course sections from one screen.",
+    "timelastreleased": {
+        "absdate": "Monday, 3 March 2014, 10:18 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-03-03T22:18:18+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "3",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/762/Screen%20Shot%202013-06-27%20at%205.50.28%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/762/Screen%20Shot%202013-06-27%20at%205.51.44%20PM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5845,
+            "firstname": "Bob",
+            "lastname": "Puffer",
+            "url": "https://moodle.org/user/profile.php?id=5845"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": 300,
+    "index": 698,
+    "name": "Exabis Games",
+    "frankenstyle": "mod_exagames",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_exagames",
+    "shortdescription": "The goal of this activity is to bring the aspect of game-based-learning into Moodle-courses. \r\n\r\nThe way the acitivity works is that two of  our exagames are based upon quizzes given to students within a Moodle course (braingame and exaclick), one activity links games created with the OpenSource-platform gamelabs.at directly into Moodle courses. See readme.txt for further instructions.",
+    "timelastreleased": {
+        "absdate": "Sunday, 14 March 2021, 3:55 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-14T03:55:05+08:00"
+    },
+    "aggsites": "469",
+    "aggdownloads": "148",
+    "aggfavs": "53",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/300/games.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/300/games.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/300/exagames1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/300/exagames2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/300/gamelabs.at.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

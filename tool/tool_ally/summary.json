@@ -1,0 +1,56 @@
+{
+    "id": 1948,
+    "index": 252,
+    "name": "Ally",
+    "frankenstyle": "tool_ally",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_ally",
+    "shortdescription": "Ally webservices plugin",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 April 2023, 5:59 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-13T05:59:10+08:00"
+    },
+    "aggsites": "446",
+    "aggdownloads": "508",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1948/Ally-Stacked-Plain%20Text-Black_9-22.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1948/Ally-Stacked-Plain%20Text-Black_9-22.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1948/GUI_AccessibilityReport.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1948/GUI_AlternativeFormats.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1948/GUI_General.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1948/Instructor_Feedback.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4201650,
+            "firstname": "Anthology",
+            "lastname": "Ally",
+            "url": "https://moodle.org/user/profile.php?id=4201650"
+        },
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": []
+}

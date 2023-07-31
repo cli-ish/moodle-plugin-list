@@ -1,0 +1,49 @@
+{
+    "id": 124,
+    "index": 1549,
+    "name": "Universit\u00e9",
+    "frankenstyle": "theme_universite",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_universite",
+    "shortdescription": "The general aim of the theme, is to have a nice slightly corporate looking theme, which is fairly easy to completely change the colour scheme of, so that the administrator can more easily make it fit with their own institution\u2019s corp id.",
+    "timelastreleased": {
+        "absdate": "Monday, 31 October 2011, 6:12 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-31T06:12:36+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "10",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/124/universite-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/124/universite-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/124/universite-home.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/124/universite-iphone.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1173537,
+            "firstname": "Rolley",
+            "lastname": "Tickner",
+            "url": "https://moodle.org/user/profile.php?id=1173537"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

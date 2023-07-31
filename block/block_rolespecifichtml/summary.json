@@ -1,0 +1,49 @@
+{
+    "id": 471,
+    "index": 1319,
+    "name": "HTML (per role)",
+    "frankenstyle": "block_rolespecifichtml",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_rolespecifichtml",
+    "shortdescription": "Allows distinct roles to get differetn content within an HTML bloc at the same layout location.",
+    "timelastreleased": {
+        "absdate": "Thursday, 1 September 2016, 4:13 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-01T16:13:42+08:00"
+    },
+    "aggsites": "66",
+    "aggdownloads": "18",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/471/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/471/logo.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

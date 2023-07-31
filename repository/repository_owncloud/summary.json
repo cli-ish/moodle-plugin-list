@@ -1,0 +1,68 @@
+{
+    "id": 1879,
+    "index": 495,
+    "name": "ownCloud",
+    "frankenstyle": "repository_owncloud",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_owncloud",
+    "shortdescription": "Enable users to upload files from their private storage directly into Moodle. Supports Nextcloud and ownCloud!",
+    "timelastreleased": {
+        "absdate": "Friday, 23 November 2018, 10:38 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-11-23T22:38:17+08:00"
+    },
+    "aggsites": "134",
+    "aggdownloads": "237",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1879/icon_repository%20%282%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1879/icon_repository%20%282%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1879/0000-ownCloud-Nextcloud.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1879/01-admin-instancesettings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1879/02-user-file_picker_login.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1879/03-user-oc_login.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1879/04-user-oc_authorise.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1879/05-user-file_picker_files.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 1942711,
+            "firstname": "Jan",
+            "lastname": "Dagef\u00f6rde",
+            "url": "https://moodle.org/user/profile.php?id=1942711"
+        },
+        {
+            "id": 2095586,
+            "firstname": "Nina",
+            "lastname": "Herrmann",
+            "url": "https://moodle.org/user/profile.php?id=2095586"
+        }
+    ],
+    "descriptors": []
+}

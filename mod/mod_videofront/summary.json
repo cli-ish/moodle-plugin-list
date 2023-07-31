@@ -1,0 +1,47 @@
+{
+    "id": 2069,
+    "index": 2093,
+    "name": "VideoFront V\u00eddeo",
+    "frankenstyle": "mod_videofront",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_videofront",
+    "shortdescription": "Plugin for video library integration with Moodle",
+    "timelastreleased": {
+        "absdate": "Monday, 4 June 2018, 1:27 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-04T13:27:53+08:00"
+    },
+    "aggsites": "140",
+    "aggdownloads": null,
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2069/Untitled-1.fw.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2069/Untitled-1.fw.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2069/Captura%20de%20Tela%202018-06-04%20a%CC%80s%2002.59.12.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2069/Captura%20de%20Tela%202018-06-04%20a%CC%80s%2003.01.27.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2069/Captura%20de%20Tela%202018-06-04%20a%CC%80s%2003.03.02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1428341,
+            "firstname": "Eduardo",
+            "lastname": "Kraus",
+            "url": "https://moodle.org/user/profile.php?id=1428341"
+        }
+    ],
+    "descriptors": []
+}

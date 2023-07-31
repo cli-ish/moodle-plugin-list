@@ -1,0 +1,77 @@
+[
+    {
+        "id": "28965",
+        "name": "3.4.1.0",
+        "url": "https://moodle.org/plugins/download.php/28965/block_objectives_moodle26_2012100709.zip"
+    },
+    {
+        "id": "13926",
+        "name": "2.x-build-2017051200",
+        "url": "https://moodle.org/plugins/download.php/13926/block_objectives_moodle34_2016080417.zip"
+    },
+    {
+        "id": "22",
+        "name": "2011040901",
+        "url": "https://moodle.org/plugins/download.php/22/block_objectives_moodle29_2022081103.zip"
+    },
+    {
+        "id": "27964",
+        "name": "3.4-build-2022111900",
+        "url": "https://moodle.org/plugins/download.php/27964/block_objectives_moodle33_2018030813.zip"
+    },
+    {
+        "id": "26184",
+        "name": "3.4-build-2022012200",
+        "url": "https://moodle.org/plugins/download.php/26184/block_objectives_moodle25_2021031020.zip"
+    },
+    {
+        "id": "24174",
+        "name": "3.4-build-2021051500",
+        "url": "https://moodle.org/plugins/download.php/24174/block_objectives_moodle36_2012090414.zip"
+    },
+    {
+        "id": "22789",
+        "name": "3.4-build-2020110700",
+        "url": "https://moodle.org/plugins/download.php/22789/block_objectives_moodle40_2019080605.zip"
+    },
+    {
+        "id": "18401",
+        "name": "3.4-build-2017051200",
+        "url": "https://moodle.org/plugins/download.php/18401/block_objectives_moodle38_2016070414.zip"
+    },
+    {
+        "id": "12693",
+        "name": "2.x-build-2016112100",
+        "url": "https://moodle.org/plugins/download.php/12693/block_objectives_moodle27_2021041207.zip"
+    },
+    {
+        "id": "9706",
+        "name": "2.x-build-2015062000",
+        "url": "https://moodle.org/plugins/download.php/9706/block_objectives_moodle37_2015020408.zip"
+    },
+    {
+        "id": "6461",
+        "name": "2.x-build-2014060700",
+        "url": "https://moodle.org/plugins/download.php/6461/block_objectives_moodle34_2011121212.zip"
+    },
+    {
+        "id": "4946",
+        "name": "2.x-build-2013112800",
+        "url": "https://moodle.org/plugins/download.php/4946/block_objectives_moodle28_2023110114.zip"
+    },
+    {
+        "id": "1812",
+        "name": "2.x-build-2012120700",
+        "url": "https://moodle.org/plugins/download.php/1812/block_objectives_moodle26_2016090208.zip"
+    },
+    {
+        "id": "493",
+        "name": "2.x-build-2012020700",
+        "url": "https://moodle.org/plugins/download.php/493/block_objectives_moodle37_2011100204.zip"
+    },
+    {
+        "id": "23",
+        "name": "2011061800",
+        "url": "https://moodle.org/plugins/download.php/23/block_objectives_moodle25_2019030402.zip"
+    }
+]

@@ -1,0 +1,62 @@
+{
+    "id": 2564,
+    "index": 389,
+    "name": "Ludic",
+    "frankenstyle": "format_ludic",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_ludic",
+    "shortdescription": "LUDIC presents course structure and contents graphically. A range of gamification options are also provided to strengthen student engagement.",
+    "timelastreleased": {
+        "absdate": "Friday, 12 November 2021, 5:19 PM",
+        "reldate": "21 months",
+        "iso8601date": "2021-11-12T17:19:22+08:00"
+    },
+    "aggsites": "459",
+    "aggdownloads": "320",
+    "aggfavs": "45",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2564/Selection_275.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2564/Selection_276.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2091217,
+            "firstname": "Daniel",
+            "lastname": "Miller",
+            "url": "https://moodle.org/user/profile.php?id=2091217"
+        },
+        {
+            "id": 2178698,
+            "firstname": "C\u00e9line",
+            "lastname": "Hernandez",
+            "url": "https://moodle.org/user/profile.php?id=2178698"
+        },
+        {
+            "id": 1394501,
+            "firstname": "Adrien",
+            "lastname": "Jamot",
+            "url": "https://moodle.org/user/profile.php?id=1394501"
+        },
+        {
+            "id": 3897618,
+            "firstname": "Team",
+            "lastname": "Edunao",
+            "url": "https://moodle.org/user/profile.php?id=3897618"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2504,
+    "index": 1524,
+    "name": "Enrol Stats",
+    "frankenstyle": "local_enrolstats",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_enrolstats",
+    "shortdescription": "An Enrolment Stats list, that can be viewed by admin or the the person who has capability at the category level with a category drop down filter.",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 January 2023, 4:53 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-19T16:53:13+08:00"
+    },
+    "aggsites": "61",
+    "aggdownloads": "10",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2504/report.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2049444,
+            "firstname": "Developer",
+            "lastname": "CK",
+            "url": "https://moodle.org/user/profile.php?id=2049444"
+        }
+    ],
+    "descriptors": []
+}

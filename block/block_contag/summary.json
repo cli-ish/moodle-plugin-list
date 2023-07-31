@@ -1,0 +1,45 @@
+{
+    "id": 529,
+    "index": 1756,
+    "name": "ConTag",
+    "frankenstyle": "block_contag",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_contag",
+    "shortdescription": "ConTag allows a teacher to easily tag Moodle items with concepts, that the student can then use to browse the items. A student can use this to focus on concepts that they are interested in.\r\n\r\nDeveloped by the Intelligent Computer Tutoring Group (http://www.ictg.canterbury.ac.nz/)",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 June 2013, 6:36 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-06-04T06:36:34+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "6",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/529/ConTag%20Screenshot%20-%20Edit%20Tags.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1041647,
+            "firstname": "Myse",
+            "lastname": "Elmadani",
+            "url": "https://moodle.org/user/profile.php?id=1041647"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

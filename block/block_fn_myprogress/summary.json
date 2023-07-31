@@ -1,0 +1,49 @@
+{
+    "id": 868,
+    "index": 1557,
+    "name": "NED - My Progress",
+    "frankenstyle": "block_fn_myprogress",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_fn_myprogress",
+    "shortdescription": "The Progress Report block provides STUDENTS with an overview of their progress in regards to activities in a given course. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 21 September 2016, 9:57 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-21T09:57:04+08:00"
+    },
+    "aggsites": "74",
+    "aggdownloads": "9",
+    "aggfavs": "19",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/868/n_230.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/868/n_230.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/868/7_my_progress.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2459954,
+            "firstname": "Fern",
+            "lastname": "Oliveira",
+            "url": "https://moodle.org/user/profile.php?id=2459954"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        }
+    ]
+}

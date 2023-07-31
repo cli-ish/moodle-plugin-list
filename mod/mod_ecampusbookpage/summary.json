@@ -1,0 +1,53 @@
+{
+    "id": 976,
+    "index": 2015,
+    "name": "eCampus eBook Page",
+    "frankenstyle": "mod_ecampusbookpage",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_ecampusbookpage",
+    "shortdescription": "This module add a resource that can create a direct link into a specific page in an eCampus eBook. This is only useful if your institution has the eCampus services. Requires the block 'ecampus_tbird' v1.1 or greater",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 April 2014, 12:38 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-30T00:38:23+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "2",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/976/likeable-create-resource.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/976/likeable-page25.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1139933,
+            "firstname": "Johan",
+            "lastname": "Reinalda",
+            "url": "https://moodle.org/user/profile.php?id=1139933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

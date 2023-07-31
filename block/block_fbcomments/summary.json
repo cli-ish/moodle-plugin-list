@@ -1,0 +1,47 @@
+{
+    "id": 687,
+    "index": 959,
+    "name": "Facebook comments",
+    "frankenstyle": "block_fbcomments",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_fbcomments",
+    "shortdescription": "Add Facebook like and comment box to your moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 29 October 2021, 3:09 AM",
+        "reldate": "21 months",
+        "iso8601date": "2021-10-29T03:09:52+08:00"
+    },
+    "aggsites": "193",
+    "aggdownloads": "66",
+    "aggfavs": "28",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/687/FB-f-Logo__blue_512.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/687/FB-f-Logo__blue_512.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/687/screen.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/687/screen2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/687/settings.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1310725,
+            "firstname": "Ankit",
+            "lastname": "Agarwal",
+            "url": "https://moodle.org/user/profile.php?id=1310725"
+        }
+    ],
+    "descriptors": []
+}

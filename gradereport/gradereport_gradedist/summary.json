@@ -1,0 +1,45 @@
+{
+    "id": 1489,
+    "index": 155,
+    "name": "Grade distribution",
+    "frankenstyle": "gradereport_gradedist",
+    "plugintype": {
+        "type": "gradereport",
+        "name": "Gradebook report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradereport_gradedist",
+    "shortdescription": "The gradereport gradedist module allows for viewing the distribution of student grades for a course regarding the current grade letter boundaries as well as changing these to shift the distribution.",
+    "timelastreleased": {
+        "absdate": "Sunday, 7 May 2023, 9:54 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-07T21:54:38+08:00"
+    },
+    "aggsites": "601",
+    "aggdownloads": "780",
+    "aggfavs": "48",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1489/notenverteilung.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1489/notenverteilung.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1489/gradedist.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

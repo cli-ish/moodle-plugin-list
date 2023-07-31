@@ -1,0 +1,59 @@
+{
+    "id": 1622,
+    "index": 550,
+    "name": "Create demo quiz",
+    "frankenstyle": "local_quizdemo",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_quizdemo",
+    "shortdescription": "Demonstration quiz is needed, for example, if you plan examination, and want to provide to students some quiz preview with same structure.",
+    "timelastreleased": {
+        "absdate": "Monday, 20 February 2023, 2:04 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-02-20T02:04:25+08:00"
+    },
+    "aggsites": "62",
+    "aggdownloads": "214",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1622/001.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1622/002.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1622/003.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1622/004.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 585006,
+            "firstname": "Vadim",
+            "lastname": "Dvorovenko",
+            "url": "https://moodle.org/user/profile.php?id=585006"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 1323,
+    "index": 334,
+    "name": "Generico Icon",
+    "frankenstyle": "atto_generico",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_generico",
+    "shortdescription": "A companion for Poodll's Generico filter. It makes available a select button, and a form for each Generico filter template from a popup dialog.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 September 2018, 7:27 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-09-04T19:27:27+08:00"
+    },
+    "aggsites": "1402",
+    "aggdownloads": "400",
+    "aggfavs": "42",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1323/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1323/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1323/Generico%20Icon%20Banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1323/genericoselect.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1323/houses.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1323/imagegallery.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1323/MoodleTile_GenericoAtto.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,52 @@
+{
+    "id": 621,
+    "index": 716,
+    "name": "Participation credit",
+    "frankenstyle": "workshopeval_credit",
+    "plugintype": {
+        "type": "workshopeval",
+        "name": "Workshop / Grading evaluation method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/workshopeval_credit",
+    "shortdescription": "Simple grading evaluation method that gives credit to peer-reviewers just for their participation in the activity without comparing their assessment with the others.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 19 June 2018, 2:54 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-19T02:54:30+08:00"
+    },
+    "aggsites": "145",
+    "aggdownloads": "142",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/621/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/621/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/621/001.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/621/002.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/621/003.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1601,
+            "firstname": "David",
+            "lastname": "Mudr\u00e1k",
+            "url": "https://moodle.org/user/profile.php?id=1601"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "id": 1393,
+    "index": 605,
+    "name": "Campus",
+    "frankenstyle": "theme_campus",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_campus",
+    "shortdescription": "Campus theme allows you to customize the look and feel of your moodle site as much as possible. It provides an elegant way for designing the header. It is fully responsive and optimised for MNET authentication and provides all common features of modern moodle themes such as slideshow, custom category design, social icons,...",
+    "timelastreleased": {
+        "absdate": "Tuesday, 27 August 2019, 11:36 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-08-27T23:36:58+08:00"
+    },
+    "aggsites": "494",
+    "aggdownloads": "191",
+    "aggfavs": "85",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1393/campus01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1393/campus02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1393/campus03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        },
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        },
+        {
+            "id": 4890909,
+            "firstname": "Wunderbyte",
+            "lastname": "GmbH",
+            "url": "https://moodle.org/user/profile.php?id=4890909"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": 1544,
+    "index": 996,
+    "name": "Download courses and users by role",
+    "frankenstyle": "tool_downloaddata",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_downloaddata",
+    "shortdescription": "Download courses and users selected by role to a CSV or Excel 2007 file.",
+    "timelastreleased": {
+        "absdate": "Sunday, 7 August 2016, 6:48 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-07T18:48:55+08:00"
+    },
+    "aggsites": "329",
+    "aggdownloads": "56",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1544/download_courses_v3.0.4_2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1544/download_users_v3.0.4_1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1544/download_users_v3.0.4_2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2024009,
+            "firstname": "Alexandru",
+            "lastname": "Elisei",
+            "url": "https://moodle.org/user/profile.php?id=2024009"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

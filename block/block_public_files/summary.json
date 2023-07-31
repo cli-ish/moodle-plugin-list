@@ -1,0 +1,50 @@
+{
+    "id": 1845,
+    "index": 1382,
+    "name": "Public files",
+    "frankenstyle": "block_public_files",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_public_files",
+    "shortdescription": "A clone of the internal private_files block that is at the system rather than user context. Files added to this block are available everywhere the block is visible (to all logged on users).",
+    "timelastreleased": {
+        "absdate": "Monday, 1 May 2017, 8:52 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-05-01T08:52:34+08:00"
+    },
+    "aggsites": "91",
+    "aggdownloads": "15",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1845/687474703a2f2f692e696d6775722e636f6d2f3068496e674e452e706e67.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1845/block.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1845/configuration.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1845/editing.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1442118,
+            "firstname": "tim",
+            "lastname": "st.clair",
+            "url": "https://moodle.org/user/profile.php?id=1442118"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": 1104,
+    "index": 1970,
+    "name": "MindMap Course",
+    "frankenstyle": "block_mindmap",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mindmap",
+    "shortdescription": "MindMap Course block development is now continued as MindMap format: https://moodle.org/plugins/view/format_mindmap",
+    "timelastreleased": {
+        "absdate": "Tuesday, 1 July 2014, 7:48 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-07-01T19:48:33+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "2",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1104/mmc_logo%20male.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1104/mmc_logo%20male.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1104/screenshot1.gif?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1104/screenshot2.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 385877,
+            "firstname": "\u0141ukasz",
+            "lastname": "Sanokowski",
+            "url": "https://moodle.org/user/profile.php?id=385877"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

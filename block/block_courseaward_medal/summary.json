@@ -1,0 +1,40 @@
+{
+    "id": 226,
+    "index": 1674,
+    "name": "Course Awards - Medal",
+    "frankenstyle": "block_courseaward_medal",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_courseaward_medal",
+    "shortdescription": "A block used by site admins to award a 'medal' to a course. Companion block to 'Course Awards - Vote'.",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 October 2012, 5:51 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-11T17:51:47+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "7",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/226/medal-gold.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 266725,
+            "firstname": "Paul",
+            "lastname": "Vaughan",
+            "url": "https://moodle.org/user/profile.php?id=266725"
+        }
+    ],
+    "descriptors": []
+}

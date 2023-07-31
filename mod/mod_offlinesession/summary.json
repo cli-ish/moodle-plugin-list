@@ -1,0 +1,49 @@
+{
+    "id": 384,
+    "index": 1959,
+    "name": "Offline session register",
+    "frankenstyle": "mod_offlinesession",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_offlinesession",
+    "shortdescription": "Offline session register allows to track time spent on an offline activity.\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 July 2012, 4:34 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-07-05T16:34:33+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 20879,
+            "firstname": "Domenico",
+            "lastname": "Pontari",
+            "url": "https://moodle.org/user/profile.php?id=20879"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Offline"
+        }
+    ]
+}

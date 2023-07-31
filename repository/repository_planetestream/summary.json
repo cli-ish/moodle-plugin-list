@@ -1,0 +1,60 @@
+{
+    "id": 498,
+    "index": 2103,
+    "name": "Planet eStream Repository Plugin",
+    "frankenstyle": "repository_planetestream",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_planetestream",
+    "shortdescription": "Search your Planet eStream archive directly from your Moodle environment.",
+    "timelastreleased": {
+        "absdate": "Monday, 29 October 2012, 7:29 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-29T19:29:42+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": null,
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/498/Planet%20eStream%20Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/498/Planet%20eStream%20Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/498/Repository%20Plugin.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/498/Chapters.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/498/Embedded%20Video.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1519383,
+            "firstname": "Planet",
+            "lastname": "eStream",
+            "url": "https://moodle.org/user/profile.php?id=1519383"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

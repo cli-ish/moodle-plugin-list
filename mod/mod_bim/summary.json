@@ -1,0 +1,61 @@
+{
+    "id": 685,
+    "index": 2026,
+    "name": "BIM",
+    "frankenstyle": "mod_bim",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_bim",
+    "shortdescription": "Supports registration and management of student learning journals through external blogs (or other RSS/Atom generating tools). There is a 1.9 version as well.",
+    "timelastreleased": {
+        "absdate": "Monday, 8 February 2016, 11:50 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-02-08T11:50:45+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "2",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/685/changePostAllocation.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/685/findStudent.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/685/manageMarking.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/685/management.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/685/markPost.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/685/student.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 866236,
+            "firstname": "David",
+            "lastname": "Jones",
+            "url": "https://moodle.org/user/profile.php?id=866236"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

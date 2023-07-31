@@ -1,0 +1,32 @@
+[
+    {
+        "id": "28823",
+        "name": "1.0.5-build-2023032700",
+        "url": "https://moodle.org/plugins/download.php/28823/mod_concordance_moodle32_2021100806.zip"
+    },
+    {
+        "id": "28227",
+        "name": "1.0.4-build-2022110700",
+        "url": "https://moodle.org/plugins/download.php/28227/mod_concordance_moodle35_2012051115.zip"
+    },
+    {
+        "id": "23941",
+        "name": "1.0.2-build-2020090200",
+        "url": "https://moodle.org/plugins/download.php/23941/mod_concordance_moodle34_2023040711.zip"
+    },
+    {
+        "id": "27585",
+        "name": "1.0.3-build-2021110900",
+        "url": "https://moodle.org/plugins/download.php/27585/mod_concordance_moodle34_2011020702.zip"
+    },
+    {
+        "id": "22950",
+        "name": "1.0.1-build-2020090200",
+        "url": "https://moodle.org/plugins/download.php/22950/mod_concordance_moodle40_2017091015.zip"
+    },
+    {
+        "id": "22396",
+        "name": "1.0.0-build-2020090200",
+        "url": "https://moodle.org/plugins/download.php/22396/mod_concordance_moodle30_2016070813.zip"
+    }
+]

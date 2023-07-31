@@ -1,0 +1,56 @@
+{
+    "id": 1779,
+    "index": 1911,
+    "name": "Group Management",
+    "frankenstyle": "mod_moodecgrpmanagement",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_moodecgrpmanagement",
+    "shortdescription": "This activity is heavily based on the \" Group choice\" activity module, and behaves roughly like it. Making a choice enrols you in a group, changing your choice unenrols you from the precedent group and enrols you in the new one, and so on.\r\n\r\nThis activity allows students to enrol themselves in a group within a course. The teacher can choose from which groups the students can chose, and the maximum nummber of students allowed in each group.\r\n\r\nThe students can view the members of each group before making a choice, and (if the teacher allows it) change their selected group until the deadline. They can alswo create their own public or private group protected with a key. Other student can contact the group creator for asking the registration Key.\r\n\r\nEach group creator can add informations about his group a description, a video or an image. A map with the group's members location will also be display in a group Detail page.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 September 2019, 10:08 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-09-18T22:08:16+08:00"
+    },
+    "aggsites": "31",
+    "aggdownloads": "3",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1779/choixdegroupe.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1779/moodecgroup_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1779/moodecgroup_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1779/moodecgroup.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1887084,
+            "firstname": "Martin",
+            "lastname": "Tazlari",
+            "url": "https://moodle.org/user/profile.php?id=1887084"
+        },
+        {
+            "id": 2234362,
+            "firstname": "Centre e-learning HES-SO",
+            "lastname": "Cyberlearn",
+            "url": "https://moodle.org/user/profile.php?id=2234362"
+        }
+    ],
+    "descriptors": []
+}

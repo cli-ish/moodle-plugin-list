@@ -1,0 +1,59 @@
+{
+    "id": 76,
+    "index": 19,
+    "name": "Onetopic format",
+    "frankenstyle": "format_onetopic",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_onetopic",
+    "shortdescription": "Course format that allows showing each topic in a tab, keeping the current tab between calls to resources, in such a way that when it returns from a module as the blog or the glossary it returns to tab from where you started. This format is based on the Moodle standard format: \u201cTopics\u201d.",
+    "timelastreleased": {
+        "absdate": "Friday, 7 July 2023, 9:47 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-07T09:47:41+08:00"
+    },
+    "aggsites": "8893",
+    "aggdownloads": "3k",
+    "aggfavs": "155",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/76/temas_tabs.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/76/temas_tabs.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/76/1-vista_confiar.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/76/2-vistapestanas.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/76/3-vertical.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/76/4-scroll.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/76/edit_tab.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/76/tpl_availability_information_window.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/76/tpl_availability_information.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 57210,
+            "firstname": "David",
+            "lastname": "Herney",
+            "url": "https://moodle.org/user/profile.php?id=57210"
+        }
+    ],
+    "descriptors": []
+}

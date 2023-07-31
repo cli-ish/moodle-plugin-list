@@ -1,0 +1,62 @@
+{
+    "id": 144,
+    "index": 1439,
+    "name": "MyLiveChat",
+    "frankenstyle": "block_mylivechat",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mylivechat",
+    "shortdescription": "My LiveChat plugin for Moodle provides an easy way to integrate your Moodle-powered website with the LiveChat solution. My LiveChat is a fast, high performance and most user-friendly live chat solution. It allows you to live chat with website visitors, monitor site traffic, and analyze visitors' web activities, including their search engine and keyword usage. ",
+    "timelastreleased": {
+        "absdate": "Friday, 2 August 2013, 11:51 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-02T23:51:12+08:00"
+    },
+    "aggsites": "86",
+    "aggdownloads": "13",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/144/live%20chat.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/144/live%20chat.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/144/agent%20login.gif?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/144/chat%20invitation.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/144/live%20chat%20window.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/144/offline%20message.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/144/prechat%20window.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1395134,
+            "firstname": "adam",
+            "lastname": "mylivechat",
+            "url": "https://moodle.org/user/profile.php?id=1395134"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

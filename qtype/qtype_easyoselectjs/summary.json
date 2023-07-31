@@ -1,0 +1,49 @@
+{
+    "id": 1214,
+    "index": 1842,
+    "name": "Select Atoms or Molecules (MarvinJS)",
+    "frankenstyle": "qtype_easyoselectjs",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_easyoselectjs",
+    "shortdescription": "Have students select atoms, molecules or reactions with this question type.  Requires MarvinJS downloadable from www.chemaxon.com.",
+    "timelastreleased": {
+        "absdate": "Saturday, 13 February 2016, 3:12 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-02-13T03:12:44+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "4",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1214/easyoselect_student.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

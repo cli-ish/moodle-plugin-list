@@ -1,0 +1,58 @@
+{
+    "id": 1525,
+    "index": 437,
+    "name": "Custom Course Menu",
+    "frankenstyle": "block_custom_course_menu",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_custom_course_menu",
+    "shortdescription": "A block to display enrolled courses in a highly configurable manner for both students and teachers.",
+    "timelastreleased": {
+        "absdate": "Friday, 8 February 2019, 3:52 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-02-08T03:52:43+08:00"
+    },
+    "aggsites": "204",
+    "aggdownloads": "275",
+    "aggfavs": "30",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1525/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1525/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1525/2.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1525/1.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1525/ccm_1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1277024,
+            "firstname": "Tony",
+            "lastname": "Box",
+            "url": "https://moodle.org/user/profile.php?id=1277024"
+        },
+        {
+            "id": 226766,
+            "firstname": "Matthew",
+            "lastname": "Davidson",
+            "url": "https://moodle.org/user/profile.php?id=226766"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

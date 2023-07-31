@@ -1,0 +1,53 @@
+{
+    "id": 2434,
+    "index": 507,
+    "name": "Templates4U",
+    "frankenstyle": "atto_templates4u",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_templates4u",
+    "shortdescription": "This is an atto plugin for Moodle which allows the administrator to define a set of predefined templates which a teacher can insert into their course pages.",
+    "timelastreleased": {
+        "absdate": "Monday, 7 June 2021, 5:21 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-07T17:21:33+08:00"
+    },
+    "aggsites": "741",
+    "aggdownloads": "229",
+    "aggfavs": "36",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2434/1_templatebutton.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2434/2_selecttemplate.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2434/3_previewtemplate.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2434/4_insertedtemplate.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2434/edittable.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1602637,
+            "firstname": "Mark",
+            "lastname": "Sharp",
+            "url": "https://moodle.org/user/profile.php?id=1602637"
+        }
+    ],
+    "descriptors": []
+}

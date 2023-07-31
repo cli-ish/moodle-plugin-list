@@ -1,0 +1,78 @@
+{
+    "id": 1466,
+    "index": 540,
+    "name": "Planet eStream ATTO Text Editor Plugin",
+    "frankenstyle": "atto_planetestream",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_planetestream",
+    "shortdescription": "Embed content from Planet eStream into Moodle via the ATTO Text Editor, or upload new video/audio content directly into a Moodle page.\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 31 March 2023, 8:22 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-31T20:22:01+08:00"
+    },
+    "aggsites": "147",
+    "aggdownloads": "217",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1466/230estream.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1466/230estream.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1466/ATTO%20%282%29.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1466/Moodle%20Editor%201.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1466/Moodle%20Editor%202.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1466/Moodle%20Editor%203.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1466/Moodle%20Editor%204.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1466/Moodle%20Editor%205.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1466/Moodle%20Editor%206.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1466/Moodle%20Editor%207.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1466/Moodle%20Editor%208.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1519383,
+            "firstname": "Planet",
+            "lastname": "eStream",
+            "url": "https://moodle.org/user/profile.php?id=1519383"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

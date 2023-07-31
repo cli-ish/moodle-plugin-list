@@ -1,0 +1,52 @@
+{
+    "id": 341,
+    "index": 1306,
+    "name": "Live Streaming",
+    "frankenstyle": "mod_livestreaming",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_livestreaming",
+    "shortdescription": "The Live Streaming web based software can easily be used with Moodle sites to build live video interactive virtual learning management systems. \r\nTeachers can broadcast live video from their webcam and students can watch and write questions in text chat. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 June 2012, 4:29 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-26T16:29:42+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "19",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/341/box_ls_180.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/341/box_ls_180.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/341/ls_371x275.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/341/ls_video.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/341/ls_watch.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1285863,
+            "firstname": "Teodor",
+            "lastname": "Nica",
+            "url": "https://moodle.org/user/profile.php?id=1285863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

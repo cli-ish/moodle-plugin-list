@@ -1,0 +1,73 @@
+{
+    "id": 885,
+    "index": 968,
+    "name": "Learning plan",
+    "frankenstyle": "block_learning_plan",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_learning_plan",
+    "shortdescription": "Popular plugin \"Learning Plan\" has now been upgraded & is compatible with Moodle version 3.3.\r\n\r\nThis plugin serves as a database and plan for all learning activities in the organization for a structured learning program, including management reports.\r\n\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 30 November 2017, 9:14 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-11-30T21:14:14+08:00"
+    },
+    "aggsites": "421",
+    "aggdownloads": "63",
+    "aggfavs": "90",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/885/Employee%20-%201.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/885/Employee%20-%201.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/885/Employee%20-%201.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/885/Employee%20-%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/885/Manager%20-%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/885/Picture2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/885/Picture3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/885/Picture4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/885/Picture5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/885/Picture6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/885/Picture7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/885/Picture8.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1624279,
+            "firstname": "3i Logic",
+            "lastname": "LMS",
+            "url": "https://moodle.org/user/profile.php?id=1624279"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

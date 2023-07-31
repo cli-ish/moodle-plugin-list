@@ -1,0 +1,55 @@
+{
+    "id": 204,
+    "index": 1331,
+    "name": "CSS theme tool",
+    "frankenstyle": "block_css_theme_tool",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_css_theme_tool",
+    "shortdescription": "A block to aid theme designers in customising the current theme by providing an in page CSS editor GUI. Using this block the user can select to add a rule, click on the part of the page they want to style and then use the friendly GUI to add styles to the item that was clicked on.\r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 22 May 2012, 11:42 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-05-22T11:42:23+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "18",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/204/icon.100.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/204/icon.100.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/204/screenshot.block.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/204/screenshot.colourpicker.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/204/screenshot.cssgui.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/204/screenshot.settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 865279,
+            "firstname": "Sam",
+            "lastname": "Hemelryk",
+            "url": "https://moodle.org/user/profile.php?id=865279"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Developer"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 246,
+    "index": 1547,
+    "name": "LDAP Capture",
+    "frankenstyle": "auth_ldapcapture",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_ldapcapture",
+    "shortdescription": "Works with the standard Moodle LDAP plugin to capture passwords on login which can then be forwarded on to other systems for single sign on.",
+    "timelastreleased": {
+        "absdate": "Friday, 25 January 2013, 7:44 PM",
+        "reldate": "11 years",
+        "iso8601date": "2013-01-25T19:44:19+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "10",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 20491,
+            "firstname": "Guy",
+            "lastname": "Thomas",
+            "url": "https://moodle.org/user/profile.php?id=20491"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "3182",
+        "name": "1.1-for-m2.0-2.2",
+        "url": "https://moodle.org/plugins/download.php/3182/repository_areafiles_moodle34_2021100101.zip"
+    },
+    {
+        "id": "3181",
+        "name": "1.1-for-m2.3",
+        "url": "https://moodle.org/plugins/download.php/3181/repository_areafiles_moodle39_2021070610.zip"
+    },
+    {
+        "id": "3156",
+        "name": "1.0-for-m2.0-2.2",
+        "url": "https://moodle.org/plugins/download.php/3156/repository_areafiles_moodle31_2013011012.zip"
+    },
+    {
+        "id": "3155",
+        "name": "1.0-for-m2.3",
+        "url": "https://moodle.org/plugins/download.php/3155/repository_areafiles_moodle34_2016110720.zip"
+    }
+]

@@ -1,0 +1,40 @@
+{
+    "id": 3102,
+    "index": 1062,
+    "name": "Plagium",
+    "frankenstyle": "plagiarism_plagium",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_plagium",
+    "shortdescription": "Plagium is a paid plagiarism detection software that is designed to help individuals and organizations detect instances of plagiarism in written content. It uses advanced algorithms and technologies to compare submitted content against a vast database of sources, including academic journals, websites, and other online sources.",
+    "timelastreleased": {
+        "absdate": "Saturday, 13 May 2023, 9:15 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-13T09:15:39+08:00"
+    },
+    "aggsites": null,
+    "aggdownloads": "43",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3102/plagium-mini.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3102/plagium-mini.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3102/plagium-1094x273.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 5523126,
+            "firstname": "Septet",
+            "lastname": "Systems",
+            "url": "https://moodle.org/user/profile.php?id=5523126"
+        }
+    ],
+    "descriptors": []
+}

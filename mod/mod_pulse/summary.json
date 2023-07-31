@@ -1,0 +1,56 @@
+{
+    "id": 2775,
+    "index": 301,
+    "name": "Pulse",
+    "frankenstyle": "mod_pulse",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_pulse",
+    "shortdescription": "Automated notifications and powerful completion logic for better course workflows",
+    "timelastreleased": {
+        "absdate": "Thursday, 9 March 2023, 5:38 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-09T05:38:28+08:00"
+    },
+    "aggsites": "613",
+    "aggdownloads": "438",
+    "aggfavs": "51",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2775/bdlogo2022.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2775/bdlogo2022.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2775/Pulse%20bd%20bdecent.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2775/Bildschirmfoto%202021-08-04%20um%2021.43.50.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2775/Bildschirmfoto%202021-08-04%20um%2021.44.02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2775/Bildschirmfoto%202021-08-04%20um%2021.44.14.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1553381,
+            "firstname": "Stefan",
+            "lastname": "Scholz",
+            "url": "https://moodle.org/user/profile.php?id=1553381"
+        },
+        {
+            "id": 5033676,
+            "firstname": "bdecent",
+            "lastname": "gmbh",
+            "url": "https://moodle.org/user/profile.php?id=5033676"
+        }
+    ],
+    "descriptors": []
+}

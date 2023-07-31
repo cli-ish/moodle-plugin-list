@@ -1,0 +1,45 @@
+{
+    "id": 1479,
+    "index": 210,
+    "name": "More background colours",
+    "frankenstyle": "atto_morebackcolors",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_morebackcolors",
+    "shortdescription": "This is intended to be a replacement for the core backcolor Atto plugin, allowing the Moodle administrator to freely define a set of colours that can be used by users.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 22 June 2021, 9:45 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-22T21:45:22+08:00"
+    },
+    "aggsites": "3390",
+    "aggdownloads": "596",
+    "aggfavs": "61",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1479/morebackcolors.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

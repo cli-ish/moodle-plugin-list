@@ -1,0 +1,49 @@
+{
+    "id": 982,
+    "index": 378,
+    "name": "Hijri calendar type",
+    "frankenstyle": "calendartype_hijri",
+    "plugintype": {
+        "type": "calendartype",
+        "name": "Calendar type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/calendartype_hijri",
+    "shortdescription": "This plugin provides Hijri calendar support for Moodle",
+    "timelastreleased": {
+        "absdate": "Friday, 15 January 2021, 12:10 AM",
+        "reldate": "3 years",
+        "iso8601date": "2021-01-15T00:10:42+08:00"
+    },
+    "aggsites": "90",
+    "aggdownloads": "330",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/982/Screenshot%20at%202014-01-19%20191732.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/982/Screenshot%20at%202014-01-19%20191743.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 723655,
+            "firstname": "Shamim",
+            "lastname": "Rezaie",
+            "url": "https://moodle.org/user/profile.php?id=723655"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

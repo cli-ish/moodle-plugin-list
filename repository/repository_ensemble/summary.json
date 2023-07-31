@@ -1,0 +1,55 @@
+{
+    "id": 847,
+    "index": 1317,
+    "name": "Ensemble Video repository",
+    "frankenstyle": "repository_ensemble",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_ensemble",
+    "shortdescription": "Along with the Ensemble Video Moodle Filter Plugin, this plugin makes it easier for Moodle users to add videos and playlists to content without having to navigate to Ensemble Video and copy/paste complicated embed codes. Once setup, you should see an additional repository option under Insert Moodle media in the Moodle content editor, enabling you to choose videos or playlists from the configured Ensemble Video installation.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 August 2020, 11:33 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-12T23:33:02+08:00"
+    },
+    "aggsites": "79",
+    "aggdownloads": "18",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/847/applicationLogo.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/847/applicationLogo.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/847/repository_ensemble_screenshot_30.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 230421,
+            "firstname": "Jim",
+            "lastname": "Pease",
+            "url": "https://moodle.org/user/profile.php?id=230421"
+        },
+        {
+            "id": 1465110,
+            "firstname": "Scott",
+            "lastname": "Nadzan",
+            "url": "https://moodle.org/user/profile.php?id=1465110"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

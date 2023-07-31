@@ -1,0 +1,40 @@
+{
+    "id": 1915,
+    "index": 703,
+    "name": "Notify site administrators about new Email Signups",
+    "frankenstyle": "local_notifyemailsignup",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_notifyemailsignup",
+    "shortdescription": "This plugin sends an email notification message to the 'Support email' address every time a new Moodle user account is created via the 'Email signup' authentication plugin. The notification message contains some essential details about the account just created (email address, full name and user account name).\r\n\r\nThe email is sent when the user signs up, not when the user account is confirmed. So the plugin will notify even about accounts that may never be confirmed.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 1 September 2020, 5:47 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-09-01T17:47:39+08:00"
+    },
+    "aggsites": "304",
+    "aggdownloads": "147",
+    "aggfavs": "20",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1915/Screenshot_20170822_141829.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 68632,
+            "firstname": "I\u00f1aki",
+            "lastname": "Arenaza",
+            "url": "https://moodle.org/user/profile.php?id=68632"
+        }
+    ],
+    "descriptors": []
+}

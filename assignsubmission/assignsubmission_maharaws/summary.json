@@ -1,0 +1,50 @@
+{
+    "id": 2815,
+    "index": 999,
+    "name": "Mahara submissions",
+    "frankenstyle": "assignsubmission_maharaws",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_maharaws",
+    "shortdescription": "Submit Mahara portfolios into an assignment using LTI and web services. This plugin is for sites not using MNet any more.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 July 2023, 5:15 AM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-06T05:15:20+08:00"
+    },
+    "aggsites": "107",
+    "aggdownloads": "56",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2815/Mahara_logo_400x400.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2815/Mahara_logo_400x400.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2815/assignment_submission.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2815/site_admin_setting.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1178766,
+            "firstname": "Kristina",
+            "lastname": "Hoeppner",
+            "url": "https://moodle.org/user/profile.php?id=1178766"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

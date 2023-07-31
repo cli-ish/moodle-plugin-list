@@ -1,0 +1,42 @@
+[
+    {
+        "id": "29422",
+        "name": "8.3.0",
+        "url": "https://moodle.org/plugins/download.php/29422/filter_wiris_moodle25_2019040107.zip"
+    },
+    {
+        "id": "29010",
+        "name": "8.2.6",
+        "url": "https://moodle.org/plugins/download.php/29010/filter_wiris_moodle37_2023100213.zip"
+    },
+    {
+        "id": "28818",
+        "name": "8.1.0",
+        "url": "https://moodle.org/plugins/download.php/28818/filter_wiris_moodle36_2015110101.zip"
+    },
+    {
+        "id": "27995",
+        "name": "8.0.1",
+        "url": "https://moodle.org/plugins/download.php/27995/filter_wiris_moodle32_2015010511.zip"
+    },
+    {
+        "id": "27770",
+        "name": "8.0.0",
+        "url": "https://moodle.org/plugins/download.php/27770/filter_wiris_moodle35_2018020510.zip"
+    },
+    {
+        "id": "26987",
+        "name": "7.30.0",
+        "url": "https://moodle.org/plugins/download.php/26987/filter_wiris_moodle28_2016010815.zip"
+    },
+    {
+        "id": "26870",
+        "name": "7.29.0",
+        "url": "https://moodle.org/plugins/download.php/26870/filter_wiris_moodle36_2012100908.zip"
+    },
+    {
+        "id": "26375",
+        "name": "7.28.0",
+        "url": "https://moodle.org/plugins/download.php/26375/filter_wiris_moodle30_2011011015.zip"
+    }
+]

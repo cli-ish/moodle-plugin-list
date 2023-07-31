@@ -1,0 +1,59 @@
+{
+    "id": 1243,
+    "index": 152,
+    "name": "Grouptool",
+    "frankenstyle": "mod_grouptool",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_grouptool",
+    "shortdescription": "The grouptool module (mod/grouptool) enhances the functionality of Moodle default groups. Two of the additional features are the possibility for students to enrol themselves in groups with waiting lists, and the transfer of grades within groups.",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 July 2023, 9:07 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-13T21:07:39+08:00"
+    },
+    "aggsites": "486",
+    "aggdownloads": "787",
+    "aggfavs": "55",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1243/grouptool.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1243/grouptool.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1243/2_grouptool_module_2_en.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1243/2_grouptool_module_4_en.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1243/grouptool_1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1243/grouptool.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        }
+    ]
+}

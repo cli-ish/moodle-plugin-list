@@ -1,0 +1,53 @@
+{
+    "id": 2492,
+    "index": 561,
+    "name": "Wordcards by Poodll",
+    "frankenstyle": "mod_wordcards",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_wordcards",
+    "shortdescription": "Poodll WordCards is a word learning Moodle plugin. Words or phrases to be learnt are introduced with each instance of the activity. Students learn and review words by completing listen-and-type, choose-the-answer, speechcards or type-the-words tasks",
+    "timelastreleased": {
+        "absdate": "Monday, 24 July 2023, 1:47 PM",
+        "reldate": "7 days",
+        "iso8601date": "2023-07-24T13:47:54+08:00"
+    },
+    "aggsites": "285",
+    "aggdownloads": "210",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2492/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2492/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2492/Wordcards%20Banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2492/MoodleTile_WordCard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2492/wordcards_screenshot.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2492/wordcards_screenshot2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2492/wordcards_screenshot3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

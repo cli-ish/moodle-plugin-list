@@ -1,0 +1,59 @@
+{
+    "id": 2178,
+    "index": 68,
+    "name": "Foundation",
+    "frankenstyle": "theme_foundation",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_foundation",
+    "shortdescription": "This is a Bootstrap theme that aims to be minimalistic and modern in look.",
+    "timelastreleased": {
+        "absdate": "Thursday, 15 June 2023, 11:11 PM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-15T23:11:16+08:00"
+    },
+    "aggsites": "920",
+    "aggdownloads": "1k",
+    "aggfavs": "37",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2178/Foundation_icon_medium_small.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2178/Foundation_icon_medium_small.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2178/Foundation_screenshot_v2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2178/Screenshot_2019-05-04%20Course%20CT.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2178/Screenshot_2019-05-04%20Dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2178/Screenshot_2019-05-04%20Dashboard%281%29.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2178/Screenshot_2019-05-04%20Moo36%20Log%20in%20to%20the%20site.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2178/Screenshot_2019-05-04%20Moo36.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2178/Screenshot_2019-05-04%20Moo36%281%29.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        }
+    ],
+    "descriptors": []
+}

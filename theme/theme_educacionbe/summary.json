@@ -1,0 +1,70 @@
+{
+    "id": 1391,
+    "index": 1101,
+    "name": "Educacionbe",
+    "frankenstyle": "theme_educacionbe",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_educacionbe",
+    "shortdescription": "This is the theme of Educacionbe moodle OnLine. It is based on the bootstrap and allows extensive customization and some unique to help improve the usability of Moodle features. Redice\u00f1ado with CSS3 all menus and buttons links. The theme includes bar menu based on Moodle. If you like it, please show some love by clicking \"favourite\" ( \u2665 ) below!",
+    "timelastreleased": {
+        "absdate": "Tuesday, 10 November 2015, 11:43 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-11-10T23:43:12+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "38",
+    "aggfavs": "65",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1391/Educacionbe.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1391/Educacionbe.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1391/Area%20personal_1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1391/Destop.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1391/Ihpone.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1391/Movil%202.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1391/Movil%203.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1391/Movil.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1391/PC.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1391/Registros.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1391/Tareas.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1746894,
+            "firstname": "Hilario",
+            "lastname": "Guzman",
+            "url": "https://moodle.org/user/profile.php?id=1746894"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

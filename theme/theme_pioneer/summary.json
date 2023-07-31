@@ -1,0 +1,73 @@
+{
+    "id": 1528,
+    "index": 965,
+    "name": "Pioneer",
+    "frankenstyle": "theme_pioneer",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_pioneer",
+    "shortdescription": "Pioneer strikes a balance between features and beautiful design.  The Pioneer theme is focused on enhancing learning by using intuitive navigation, a simple layout, and amazing styling.\r\nYou have learning content, Pioneer makes it beautiful.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 September 2016, 4:05 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-20T04:05:32+08:00"
+    },
+    "aggsites": "211",
+    "aggdownloads": "64",
+    "aggfavs": "76",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1528/radials.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1528/Available%20Courses%20with%20tooltip.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1528/Bottom%20Marketing.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1528/Course%20Slideshow%20with%20Summary%20Tooltip.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1528/Custom%20Login%20Full-width%20header%20image.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1528/Dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1528/featured%20Course%20Slider.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1528/grade%20slider.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1528/slideshow%20setup.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1528/topic%20styling.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 26675,
+            "firstname": "Chris",
+            "lastname": "Kenniburg",
+            "url": "https://moodle.org/user/profile.php?id=26675"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

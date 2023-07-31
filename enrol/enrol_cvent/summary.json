@@ -1,0 +1,49 @@
+{
+    "id": 267,
+    "index": 1276,
+    "name": "Enrol-Cvent",
+    "frankenstyle": "enrol_cvent",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_cvent",
+    "shortdescription": "If you're a Cvent customer (cvent.com) and you've got access to their integration API, this enrollment module allows you to get new and updated user accounts and enrollments from Cvent.",
+    "timelastreleased": {
+        "absdate": "Sunday, 8 February 2015, 10:48 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-02-08T10:48:55+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "21",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 82371,
+            "firstname": "Matt",
+            "lastname": "Oquist",
+            "url": "https://moodle.org/user/profile.php?id=82371"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

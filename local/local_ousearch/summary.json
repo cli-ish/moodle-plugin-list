@@ -1,0 +1,45 @@
+{
+    "id": 47,
+    "index": 1328,
+    "name": "OU search",
+    "frankenstyle": "local_ousearch",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_ousearch",
+    "shortdescription": "Provides an indexed full-text search backend for OU activity modules.",
+    "timelastreleased": {
+        "absdate": "Friday, 9 September 2011, 7:11 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-09-09T19:11:35+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "18",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93817,
+            "firstname": "sam",
+            "lastname": "marshall",
+            "url": "https://moodle.org/user/profile.php?id=93817"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

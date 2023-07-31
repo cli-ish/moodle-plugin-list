@@ -1,0 +1,46 @@
+{
+    "id": 1863,
+    "index": 1036,
+    "name": "Legacy (Retired) Mootivated",
+    "frankenstyle": "local_mootivated",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_mootivated",
+    "shortdescription": "This plugin has been updated here:  https://moodle.org/plugins/block_motrain",
+    "timelastreleased": {
+        "absdate": "Saturday, 20 November 2021, 10:31 AM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-20T10:31:01+08:00"
+    },
+    "aggsites": "256",
+    "aggdownloads": "47",
+    "aggfavs": "50",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1863/Store%20%288%29.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        },
+        {
+            "id": 2080141,
+            "firstname": "Jeff",
+            "lastname": "Campbell",
+            "url": "https://moodle.org/user/profile.php?id=2080141"
+        }
+    ],
+    "descriptors": []
+}

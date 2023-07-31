@@ -1,0 +1,49 @@
+{
+    "id": 538,
+    "index": 487,
+    "name": "Tabs",
+    "frankenstyle": "filter_tabs",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_tabs",
+    "shortdescription": "Moodle filter which creates tabs in textfields",
+    "timelastreleased": {
+        "absdate": "Wednesday, 7 September 2022, 5:50 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-07T05:50:28+08:00"
+    },
+    "aggsites": "594",
+    "aggdownloads": "241",
+    "aggfavs": "68",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/538/Logomakr_569JEt.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/538/Logomakr_569JEt.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/538/Tabs_b4.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/538/tabs.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1850436,
+            "firstname": "Jos\u00e9",
+            "lastname": "Puente Fuentes",
+            "url": "https://moodle.org/user/profile.php?id=1850436"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

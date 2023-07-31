@@ -1,0 +1,40 @@
+{
+    "id": 2660,
+    "index": 396,
+    "name": "Drillbit plagiarism plugin",
+    "frankenstyle": "plagiarism_drillbit",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_drillbit",
+    "shortdescription": "DrillBit is a plagiarism detection & prevention software which is widely used in academics, \r\nThis is a commercial software and must purchase a subscription to use this plugin.\r\nPlease visit https://drillbitplagiarism.com or write a mail to sales@drillbitplagiarism.com for more information.\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 14 July 2023, 5:44 PM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-14T17:44:15+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "316",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2660/svgviewer-png-output%20%281%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2660/svgviewer-png-output%20%281%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2660/Screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4119829,
+            "firstname": "Drillbit",
+            "lastname": "Support",
+            "url": "https://moodle.org/user/profile.php?id=4119829"
+        }
+    ],
+    "descriptors": []
+}

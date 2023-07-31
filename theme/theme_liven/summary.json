@@ -1,0 +1,49 @@
+{
+    "id": 295,
+    "index": 1500,
+    "name": "liven",
+    "frankenstyle": "theme_liven",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_liven",
+    "shortdescription": "A two column theme with a custom login page. Custom menu should be enabled in order to display user info in header. From Newschool Learning.",
+    "timelastreleased": {
+        "absdate": "Saturday, 26 January 2013, 9:34 AM",
+        "reldate": "11 years",
+        "iso8601date": "2013-01-26T09:34:07+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "11",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/295/logohome.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/295/logohome.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/295/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/295/screenshot2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

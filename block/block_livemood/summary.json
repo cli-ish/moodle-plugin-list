@@ -1,0 +1,62 @@
+{
+    "id": 324,
+    "index": 351,
+    "name": "LIVE-SCHOOL",
+    "frankenstyle": "block_livemood",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_livemood",
+    "shortdescription": "Live-School is a free unified communication web platform dedicated for live teaching through real time communication and teaching tools including face to face, classroom, conference, phone, SIP, FAX, SMS, phone meeting, desktop streaming, movie player, whiteboard, big image zoom, file/folder sharing, all document format import supported like PDF, DOC, EXCEL, POWER POINT. Create unlimited teachers and students and manage automatically your teachers income through an automated payment system. Live-School allows you to cross connect all existing communication protocols transparently from your computer/tablet/smartphone in one click. Each organization registered at Live-School is automatically referenced to the Live-School public dedicated search engine.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 December 2022, 7:27 AM",
+        "reldate": "7 months",
+        "iso8601date": "2022-12-20T07:27:54+08:00"
+    },
+    "aggsites": "756",
+    "aggdownloads": "370",
+    "aggfavs": "216",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/324/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/324/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/324/liveroom.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/324/panel.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/324/schema1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1082857,
+            "firstname": "Franck",
+            "lastname": "Chionna",
+            "url": "https://moodle.org/user/profile.php?id=1082857"
+        },
+        {
+            "id": 2310162,
+            "firstname": "David",
+            "lastname": "Jefferson",
+            "url": "https://moodle.org/user/profile.php?id=2310162"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Flash"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "id": 1024,
+    "index": 110,
+    "name": "Turnitin's Moodle Direct v2",
+    "frankenstyle": "mod_turnitintooltwo",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_turnitintooltwo",
+    "shortdescription": "Turnitin's Moodle Direct v2 integration activity module is a standalone Moodle module with the aim of representing the full suite of Turnitin's features within the standard Moodle workflow. The module is an upgrade on the previous Turnitin plugin and is developed and maintained by Turnitin.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 March 2023, 5:34 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-28T05:34:10+08:00"
+    },
+    "aggsites": "2356",
+    "aggdownloads": "1k",
+    "aggfavs": "38",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1024/turnitin_cmyk_stacked.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1024/turnitin_cmyk_stacked.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1024/Bulk%20Class%20Migration.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1024/Individual%20Class%20and%20Assignment%20Migration.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1024/Integrated%20Inbox%20and%20Summary%20Screen.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1024/Lightbox%20Submission.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1024/Peermark.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1024/Quickmark%20Manager.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1024/Rubrics.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1024/Submission%20Receipt.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5120187,
+            "firstname": "Bryan",
+            "lastname": "Holladay",
+            "url": "https://moodle.org/user/profile.php?id=5120187"
+        },
+        {
+            "id": 496836,
+            "firstname": "Paul",
+            "lastname": "Dawson",
+            "url": "https://moodle.org/user/profile.php?id=496836"
+        },
+        {
+            "id": 5528616,
+            "firstname": "Isaac",
+            "lastname": "Xiong",
+            "url": "https://moodle.org/user/profile.php?id=5528616"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

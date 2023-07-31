@@ -1,0 +1,65 @@
+{
+    "id": 1518,
+    "index": 1281,
+    "name": "Badge Ladder",
+    "frankenstyle": "local_bs_badge_ladder",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_bs_badge_ladder",
+    "shortdescription": "This plugin provides leaderboards for awarded badges.",
+    "timelastreleased": {
+        "absdate": "Sunday, 5 August 2018, 5:56 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-05T17:56:10+08:00"
+    },
+    "aggsites": "114",
+    "aggdownloads": "20",
+    "aggfavs": "20",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1518/badge_ladder_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1518/badge_ladder_1b.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1518/badge_ladder_1c.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1518/badge_ladder_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1518/badge_ladder_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1518/badge_ladder_4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1279450,
+            "firstname": "Matthias",
+            "lastname": "Berlin (Schwabe)",
+            "url": "https://moodle.org/user/profile.php?id=1279450"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

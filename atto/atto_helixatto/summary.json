@@ -1,0 +1,47 @@
+{
+    "id": 1441,
+    "index": 562,
+    "name": "MEDIAL Atto Editor",
+    "frankenstyle": "atto_helixatto",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_helixatto",
+    "shortdescription": "In order for the MEDIAL Video Assignment Activity to launch from the text editor you must install this Atto Plugin. MEDIAL Video Assignment Activity allows Teachers and Students to create and respond to Video Assignments that are uploaded and cataloged in MEDIAL (a video streaming media library) rather than Moodle itself",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 November 2022, 12:46 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-24T00:46:49+08:00"
+    },
+    "aggsites": "161",
+    "aggdownloads": "210",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1441/Medial%20Logo%20White_LLL.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1441/Medial%20Logo%20White_LLL.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1441/medial%20atto.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1441/helix-media-library-moodle-atto.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1441/helix-media-library-moodle-upload.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1452899,
+            "firstname": "MEDIAL",
+            "lastname": "Streaming",
+            "url": "https://moodle.org/user/profile.php?id=1452899"
+        }
+    ],
+    "descriptors": []
+}

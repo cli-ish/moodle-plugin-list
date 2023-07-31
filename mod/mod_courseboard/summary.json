@@ -1,0 +1,45 @@
+{
+    "id": 1254,
+    "index": 1908,
+    "name": "Courseboard",
+    "frankenstyle": "mod_courseboard",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_courseboard",
+    "shortdescription": "- quick and uncomplicated way to tell what bothers him/her about teacher/student/course\r\n- teacher can have a quick summary how his course is seen from the students perspective\r\n- teacher can answer questions\r\n- students can trade informations, help with little problem",
+    "timelastreleased": {
+        "absdate": "Friday, 15 January 2016, 9:39 PM",
+        "reldate": "8 years",
+        "iso8601date": "2016-01-15T21:39:21+08:00"
+    },
+    "aggsites": "36",
+    "aggdownloads": "3",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1254/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1254/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1254/courseboard.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1817773,
+            "firstname": "Franz",
+            "lastname": "Weidmann",
+            "url": "https://moodle.org/user/profile.php?id=1817773"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": 237,
+    "index": 201,
+    "name": "Variable numeric",
+    "frankenstyle": "qtype_varnumeric",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_varnumeric",
+    "shortdescription": "A calculated numeric question type with variable and expression evaluation. Random values are generated for each student attempting the quiz.",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 May 2022, 9:00 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-05-05T21:00:29+08:00"
+    },
+    "aggsites": "749",
+    "aggdownloads": "623",
+    "aggfavs": "24",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/237/varnumeric-attempt.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/237/varnumeric-edit.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

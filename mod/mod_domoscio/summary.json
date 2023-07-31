@@ -1,0 +1,59 @@
+{
+    "id": 1452,
+    "index": 2121,
+    "name": "Domoscio",
+    "frankenstyle": "mod_domoscio",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_domoscio",
+    "shortdescription": "The Domoscio for Moodle plugin brings an adaptive memorization solution based on cognitive science research, to efficiently remember more by pushing training content from courses at the best moment for students.",
+    "timelastreleased": {
+        "absdate": "Monday, 27 June 2016, 5:20 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-06-27T17:20:40+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": null,
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1452/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1452/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1452/screenshot1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1452/screenshot2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1452/screenshot3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1452/screenshot4.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1968389,
+            "firstname": "Benoit",
+            "lastname": "Praly",
+            "url": "https://moodle.org/user/profile.php?id=1968389"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

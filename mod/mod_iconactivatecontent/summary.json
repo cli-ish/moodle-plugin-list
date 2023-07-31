@@ -1,0 +1,47 @@
+{
+    "id": 3002,
+    "index": 1350,
+    "name": "ICON activate external content",
+    "frankenstyle": "mod_iconactivatecontent",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_iconactivatecontent",
+    "shortdescription": "This is an activity plugin that allows to embed content from external sites, such as YouTube, Twitter, Google Maps and such, in a GDPR-compliant way, which means that it won't be inserted into the page until users have activated it by clicking on the slider-button.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 24 January 2023, 9:17 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-24T21:17:09+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "17",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3002/ICON_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3002/ICON_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3002/screenshot-iconactivatecontent_activated.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3002/screenshot-iconactivatecontent_form.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3002/screenshot-iconactivatecontent_inactive.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4984154,
+            "firstname": "Pascal",
+            "lastname": "Collins",
+            "url": "https://moodle.org/user/profile.php?id=4984154"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 1096,
+    "index": 1491,
+    "name": "Dataform view access",
+    "frankenstyle": "block_dataformaccessview",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_dataformaccessview",
+    "shortdescription": "The Dataform view access block provides context and settings for Dataform activity view access rules.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 February 2018, 2:39 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-02-02T02:39:51+08:00"
+    },
+    "aggsites": "105",
+    "aggdownloads": "11",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 150168,
+            "firstname": "Itamar",
+            "lastname": "Tzadok",
+            "url": "https://moodle.org/user/profile.php?id=150168"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

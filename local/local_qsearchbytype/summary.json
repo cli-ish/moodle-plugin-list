@@ -1,0 +1,40 @@
+{
+    "id": 2594,
+    "index": 1855,
+    "name": "Question search by question type",
+    "frankenstyle": "local_qsearchbytype",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_qsearchbytype",
+    "shortdescription": "This is a moodle local plugin to put a question type filter on \"adding question from question bank\" screen.",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 November 2020, 2:36 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-11-19T14:36:43+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "4",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2594/filter_during_adding_quiz.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2049444,
+            "firstname": "Developer",
+            "lastname": "CK",
+            "url": "https://moodle.org/user/profile.php?id=2049444"
+        }
+    ],
+    "descriptors": []
+}

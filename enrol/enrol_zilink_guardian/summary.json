@@ -1,0 +1,45 @@
+{
+    "id": 1164,
+    "index": 2136,
+    "name": "ZiLink - Guardian Course Access",
+    "frankenstyle": "enrol_zilink_guardian",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_zilink_guardian",
+    "shortdescription": "The ZiLink plugins work together - please ensure you download and install the full set of ZiLink plugins. The extent of integration depends on the data being available within the school MIS. Data integration is supplied by ZiNET Connect - 30-day trial, ZiLink Community Programme or Premier Support is available. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 4 February 2016, 9:30 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-02-04T21:30:56+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1164/SchoolsICT%20Limited.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1164/SchoolsICT%20Limited.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1164/zilink_menu.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1806648,
+            "firstname": "SchoolsICT",
+            "lastname": "Support",
+            "url": "https://moodle.org/user/profile.php?id=1806648"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

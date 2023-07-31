@@ -1,0 +1,49 @@
+{
+    "id": 464,
+    "index": 1921,
+    "name": "Message provider",
+    "frankenstyle": "local_messageprovider",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_messageprovider",
+    "shortdescription": "A local plugin that sends new self-registration notifications to admin.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 10 October 2012, 9:46 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-10T21:46:04+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "3",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 150168,
+            "firstname": "Itamar",
+            "lastname": "Tzadok",
+            "url": "https://moodle.org/user/profile.php?id=150168"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

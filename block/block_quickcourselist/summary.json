@@ -1,0 +1,52 @@
+{
+    "id": 181,
+    "index": 1128,
+    "name": "Quick Course List",
+    "frankenstyle": "block_quickcourselist",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quickcourselist",
+    "shortdescription": "This block allows quick searching of Moodle courses, and displays a link to the course page.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 August 2018, 8:08 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-29T20:08:54+08:00"
+    },
+    "aggsites": "301",
+    "aggdownloads": "34",
+    "aggfavs": "18",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/181/quickcourselist2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/181/quickcourselist2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/181/quickcourselist1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/181/quickcourselist2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/181/quickcourselist3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 858318,
+            "firstname": "Mark",
+            "lastname": "Johnson",
+            "url": "https://moodle.org/user/profile.php?id=858318"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

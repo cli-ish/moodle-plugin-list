@@ -1,0 +1,40 @@
+{
+    "id": 525,
+    "index": 2127,
+    "name": "SOAP protocol Full Documented Array",
+    "frankenstyle": "webservice_soapfda",
+    "plugintype": {
+        "type": "webservice",
+        "name": "Webservice protocol"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/webservice_soapfda",
+    "shortdescription": "Address issue MDL-28988. This SOAP plugin generate a WSDL with full documented array.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 November 2012, 10:24 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-14T22:24:47+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": null,
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1435514,
+            "firstname": "Federico",
+            "lastname": "Ghigini",
+            "url": "https://moodle.org/user/profile.php?id=1435514"
+        }
+    ],
+    "descriptors": []
+}

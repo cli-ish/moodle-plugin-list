@@ -1,0 +1,53 @@
+{
+    "id": 2677,
+    "index": 604,
+    "name": "Grade overview",
+    "frankenstyle": "block_grade_overview",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_grade_overview",
+    "shortdescription": "The block provides an overview of student grades, based on the course grade report. This plugin allows the course teacher to select the activities that make up the evaluation group, which will be shown in the block! It allows different visions for monitoring the student and the teacher, where each one can follow the progress of carrying out the activities as well as the grades acquired.",
+    "timelastreleased": {
+        "absdate": "Friday, 3 February 2023, 11:22 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-03T23:22:20+08:00"
+    },
+    "aggsites": "263",
+    "aggdownloads": "192",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2677/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2677/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2677/block_grade_overview_student.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2677/block_grade_overview_teacher.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2677/grade_overview_config.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2677/grade_overview_detail.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2677/grade_overview_report_completion.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2559857,
+            "firstname": "Jos\u00e9 Wilson da",
+            "lastname": "Costa",
+            "url": "https://moodle.org/user/profile.php?id=2559857"
+        }
+    ],
+    "descriptors": []
+}

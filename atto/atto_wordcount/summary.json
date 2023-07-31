@@ -1,0 +1,44 @@
+{
+    "id": 2743,
+    "index": 438,
+    "name": "Atto Word Count",
+    "frankenstyle": "atto_wordcount",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_wordcount",
+    "shortdescription": "Add to ATTO editor  \"real time\" words count",
+    "timelastreleased": {
+        "absdate": "Saturday, 19 March 2022, 9:54 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-19T09:54:33+08:00"
+    },
+    "aggsites": "833",
+    "aggdownloads": "274",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2743/Atto-Word-Count-Logo_90x90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2743/Atto-Word-Count-Logo_90x90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2743/Screenshot%20from%202021-06-16%2013-57-20.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2743/Screenshot%20from%202021-06-21%2015-01-59.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1624657,
+            "firstname": "Avi",
+            "lastname": "Levy",
+            "url": "https://moodle.org/user/profile.php?id=1624657"
+        }
+    ],
+    "descriptors": []
+}

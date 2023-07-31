@@ -1,0 +1,56 @@
+{
+    "id": 2917,
+    "index": 684,
+    "name": "ORCID custom profile field type",
+    "frankenstyle": "profilefield_orcid",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_orcid",
+    "shortdescription": "Provides a custom profile field type ORCID(Open Researcher and Contributor ID), with a regex validation of the value entered by the user when creating the account or editing the profile. (ELINF - VLIRED)",
+    "timelastreleased": {
+        "absdate": "Sunday, 10 July 2022, 4:23 AM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-10T04:23:06+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "153",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2917/orcid.logo.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2917/orcid.logo.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2917/configorcid.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2917/sampleProfile.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2917/selectorcid.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2917/validationsample.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2461601,
+            "firstname": "Carlos Javier",
+            "lastname": "Palacios Morales",
+            "url": "https://moodle.org/user/profile.php?id=2461601"
+        },
+        {
+            "id": 5080806,
+            "firstname": "Sergio Ram\u00f3n",
+            "lastname": "P\u00e9rez Le\u00f3n",
+            "url": "https://moodle.org/user/profile.php?id=5080806"
+        }
+    ],
+    "descriptors": []
+}

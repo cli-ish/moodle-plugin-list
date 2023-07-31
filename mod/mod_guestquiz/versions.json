@@ -1,0 +1,22 @@
+[
+    {
+        "id": "29180",
+        "name": "1.0.0.0e",
+        "url": "https://moodle.org/plugins/download.php/29180/mod_guestquiz_moodle39_2018030107.zip"
+    },
+    {
+        "id": "29160",
+        "name": "1.0.0.0d",
+        "url": "https://moodle.org/plugins/download.php/29160/mod_guestquiz_moodle39_2014011109.zip"
+    },
+    {
+        "id": "28481",
+        "name": "1.0.0.0c",
+        "url": "https://moodle.org/plugins/download.php/28481/mod_guestquiz_moodle35_2016060400.zip"
+    },
+    {
+        "id": "28478",
+        "name": "1.0.0.0b",
+        "url": "https://moodle.org/plugins/download.php/28478/mod_guestquiz_moodle27_2012091016.zip"
+    }
+]

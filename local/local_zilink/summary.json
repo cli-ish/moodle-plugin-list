@@ -1,0 +1,49 @@
+{
+    "id": 1165,
+    "index": 916,
+    "name": "ZiLink - Core",
+    "frankenstyle": "local_zilink",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_zilink",
+    "shortdescription": "The ZiLink plugins work together - please ensure you download and install the full set of ZiLink plugins. The extent of integration depends on the data being available within the school MIS. Data integration is supplied by ZiNET Connect - 30-day trial, ZiLink Community Programme or Premier Support is available. ",
+    "timelastreleased": {
+        "absdate": "Friday, 23 December 2016, 8:29 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-23T08:29:49+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "85",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1165/SchoolsICT%20Limited.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1165/SchoolsICT%20Limited.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1165/zilink_menu.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1806648,
+            "firstname": "SchoolsICT",
+            "lastname": "Support",
+            "url": "https://moodle.org/user/profile.php?id=1806648"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

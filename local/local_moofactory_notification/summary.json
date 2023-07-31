@@ -1,0 +1,47 @@
+{
+    "id": 2653,
+    "index": 942,
+    "name": "moofactory Notifications",
+    "frankenstyle": "local_moofactory_notification",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_moofactory_notification",
+    "shortdescription": "moofactory-Notifications is a  plugin that allows to send customized and personalized e-mails for course registrations, reminders for calendar events or non-connection.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 11 October 2022, 12:35 AM",
+        "reldate": "10 months",
+        "iso8601date": "2022-10-11T00:35:15+08:00"
+    },
+    "aggsites": "315",
+    "aggdownloads": "72",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2653/moofactory-logo_100x24px_v5.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2653/moofactory-logo_100x24px_v5.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2653/moodle-mail.2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2653/notification%203.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2653/notifications%204.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2226589,
+            "firstname": "LMS",
+            "lastname": "Factory",
+            "url": "https://moodle.org/user/profile.php?id=2226589"
+        }
+    ],
+    "descriptors": []
+}

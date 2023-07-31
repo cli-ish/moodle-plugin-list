@@ -1,0 +1,50 @@
+{
+    "id": 992,
+    "index": 1173,
+    "name": "Page format",
+    "frankenstyle": "format_page",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_page",
+    "shortdescription": "the \"page format\" is a very flexible course format allowing building a hierarchical course with nested pages organisation and a totally floxeible way of compositing the course with blocs and activities placed anywhere in the three-or-less-columns layout.\r\n\r\nAdditionnally it proposes a new richer way to integrate activities in course, with \"alternate views\" that changes the historical [ \"icon\" + Link ] display. Some standard activities will have some alternate available views, and we still receive suggestions about how could some activites have an \"enriched\" display in the course pages.  \r\n\r\nThe page format is now maintained by ActiveProLearn (France) ",
+    "timelastreleased": {
+        "absdate": "Monday, 18 April 2016, 7:09 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-18T19:09:51+08:00"
+    },
+    "aggsites": "36",
+    "aggdownloads": "29",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/992/page_format_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/992/page_format_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/992/manage_activities.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/992/manage_pages.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/992/page_format_screens.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/992/reorder_pages.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": []
+}

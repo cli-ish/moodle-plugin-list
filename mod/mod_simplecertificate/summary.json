@@ -1,0 +1,45 @@
+{
+    "id": 574,
+    "index": 158,
+    "name": "Simple Certificate",
+    "frankenstyle": "mod_simplecertificate",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_simplecertificate",
+    "shortdescription": "This is a new activity module, Simple Certificate,which  no needs to change any code to add a new certificate format, and moodle's administrator don't need to upload image files.\r\nThe certificate text are full customizable, using special text marks that will be replaced by variables (like student name, course name, grade, ...), don't need to change any translation file.\r\n\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 13 April 2020, 11:04 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-04-13T11:04:30+08:00"
+    },
+    "aggsites": "5120",
+    "aggdownloads": "758",
+    "aggfavs": "160",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/574/cert.jpeg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/574/cert.jpeg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/574/Editando%20um%20Simple%20Certificate.jpe?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 53912,
+            "firstname": "Carlos Alexandre",
+            "lastname": "Fonseca",
+            "url": "https://moodle.org/user/profile.php?id=53912"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

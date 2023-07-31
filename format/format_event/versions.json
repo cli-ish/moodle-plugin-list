@@ -1,0 +1,17 @@
+[
+    {
+        "id": "19369",
+        "name": "event-course-format-version-3.5-e",
+        "url": "https://moodle.org/plugins/download.php/19369/format_event_moodle29_2015120408.zip"
+    },
+    {
+        "id": "19040",
+        "name": "event-course-format-version-3.5-d",
+        "url": "https://moodle.org/plugins/download.php/19040/format_event_moodle34_2019101109.zip"
+    },
+    {
+        "id": "18890",
+        "name": "event-course-format-version-3.5-c",
+        "url": "https://moodle.org/plugins/download.php/18890/format_event_moodle29_2010121101.zip"
+    }
+]

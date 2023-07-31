@@ -1,0 +1,49 @@
+{
+    "id": 486,
+    "index": 1601,
+    "name": "PBLTool (CLPMTool)",
+    "frankenstyle": "block_pbltool",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_pbltool",
+    "shortdescription": "This  block  implements a project management tool create to be used with collaborative learning. It is integrated with group forum and chat. The main ideia is that students and teacher plan ther activities together. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 August 2020, 6:45 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-25T18:45:26+08:00"
+    },
+    "aggsites": "53",
+    "aggdownloads": "8",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/486/Captura%20de%20Tela%202012-10-23%20a%CC%80s%2015.04.53.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/486/Captura%20de%20Tela%202012-10-23%20a%CC%80s%2015.05.10.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1517181,
+            "firstname": "Marcelo",
+            "lastname": "Schmitt",
+            "url": "https://moodle.org/user/profile.php?id=1517181"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        }
+    ]
+}

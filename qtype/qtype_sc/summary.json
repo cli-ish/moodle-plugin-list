@@ -1,0 +1,53 @@
+{
+    "id": 2265,
+    "index": 394,
+    "name": "Single choice (ETH)",
+    "frankenstyle": "qtype_sc",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_sc",
+    "shortdescription": "Teachers can have more than one (single) true/false question in same stem. this saves creating new questions for each stem. especially when it comes to an essay followed by many questions.\r\n\r\n",
+    "timelastreleased": {
+        "absdate": "Sunday, 4 June 2023, 2:35 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-04T14:35:49+08:00"
+    },
+    "aggsites": "94",
+    "aggdownloads": "316",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2265/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2265/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2265/Screenshot%202019-03-29%20at%2015.12.08.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2265/Screenshot%202019-03-29%20at%2015.12.18.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2265/Screenshot%202019-03-29%20at%2015.13.32.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 91386,
+            "firstname": "ETH",
+            "lastname": "Z\u00fcrich",
+            "url": "https://moodle.org/user/profile.php?id=91386"
+        }
+    ],
+    "descriptors": []
+}

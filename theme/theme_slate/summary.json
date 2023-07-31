@@ -1,0 +1,45 @@
+{
+    "id": 1121,
+    "index": 1724,
+    "name": "slate",
+    "frankenstyle": "theme_slate",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_slate",
+    "shortdescription": "This is a bootswatch theme for the Bootstrap3 theme",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 May 2014, 10:48 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-13T22:48:08+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "6",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1121/slate.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

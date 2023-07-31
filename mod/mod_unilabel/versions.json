@@ -1,0 +1,117 @@
+[
+    {
+        "id": "29536",
+        "name": "4.2.4-build-2023062800",
+        "url": "https://moodle.org/plugins/download.php/29536/mod_unilabel_moodle32_2010120406.zip"
+    },
+    {
+        "id": "29535",
+        "name": "4.1.4-build-2023062800",
+        "url": "https://moodle.org/plugins/download.php/29535/mod_unilabel_moodle27_2018071209.zip"
+    },
+    {
+        "id": "28245",
+        "name": "4.1.1-build-2022122400",
+        "url": "https://moodle.org/plugins/download.php/28245/mod_unilabel_moodle34_2016101016.zip"
+    },
+    {
+        "id": "26075",
+        "name": "3.11.5-build-2022030200",
+        "url": "https://moodle.org/plugins/download.php/26075/mod_unilabel_moodle33_2012070718.zip"
+    },
+    {
+        "id": "21805",
+        "name": "3.8.2",
+        "url": "https://moodle.org/plugins/download.php/21805/mod_unilabel_moodle31_2011011014.zip"
+    },
+    {
+        "id": "19558",
+        "name": "3.6.3",
+        "url": "https://moodle.org/plugins/download.php/19558/mod_unilabel_moodle28_2011020108.zip"
+    },
+    {
+        "id": "29439",
+        "name": "4.2.3-build-2023061400",
+        "url": "https://moodle.org/plugins/download.php/29439/mod_unilabel_moodle25_2013100603.zip"
+    },
+    {
+        "id": "29133",
+        "name": "4.2.2-build-2023050401",
+        "url": "https://moodle.org/plugins/download.php/29133/mod_unilabel_moodle40_2018040419.zip"
+    },
+    {
+        "id": "29130",
+        "name": "4.2.1-build-2023050400",
+        "url": "https://moodle.org/plugins/download.php/29130/mod_unilabel_moodle38_2011010903.zip"
+    },
+    {
+        "id": "29438",
+        "name": "4.1.3-build-2023061400",
+        "url": "https://moodle.org/plugins/download.php/29438/mod_unilabel_moodle33_2015090503.zip"
+    },
+    {
+        "id": "28093",
+        "name": "4.1.0-build-2022113000",
+        "url": "https://moodle.org/plugins/download.php/28093/mod_unilabel_moodle34_2012070811.zip"
+    },
+    {
+        "id": "27687",
+        "name": "4.0.3-build-2022100600",
+        "url": "https://moodle.org/plugins/download.php/27687/mod_unilabel_moodle25_2020040204.zip"
+    },
+    {
+        "id": "26473",
+        "name": "4.0.1-build-2022041800",
+        "url": "https://moodle.org/plugins/download.php/26473/mod_unilabel_moodle31_2015010101.zip"
+    },
+    {
+        "id": "26005",
+        "name": "3.11.4-build-20220216",
+        "url": "https://moodle.org/plugins/download.php/26005/mod_unilabel_moodle31_2013081010.zip"
+    },
+    {
+        "id": "25962",
+        "name": "3.11.3",
+        "url": "https://moodle.org/plugins/download.php/25962/mod_unilabel_moodle33_2014101012.zip"
+    },
+    {
+        "id": "25890",
+        "name": "3.11.2",
+        "url": "https://moodle.org/plugins/download.php/25890/mod_unilabel_moodle39_2010020505.zip"
+    },
+    {
+        "id": "24265",
+        "name": "3.11",
+        "url": "https://moodle.org/plugins/download.php/24265/mod_unilabel_moodle34_2016011112.zip"
+    },
+    {
+        "id": "22777",
+        "name": "3.10",
+        "url": "https://moodle.org/plugins/download.php/22777/mod_unilabel_moodle30_2011081217.zip"
+    },
+    {
+        "id": "22562",
+        "name": "3.9.2",
+        "url": "https://moodle.org/plugins/download.php/22562/mod_unilabel_moodle25_2017040907.zip"
+    },
+    {
+        "id": "21688",
+        "name": "3.9",
+        "url": "https://moodle.org/plugins/download.php/21688/mod_unilabel_moodle32_2014060807.zip"
+    },
+    {
+        "id": "21687",
+        "name": "3.8.1",
+        "url": "https://moodle.org/plugins/download.php/21687/mod_unilabel_moodle28_2014030803.zip"
+    },
+    {
+        "id": "20567",
+        "name": "3.8.0",
+        "url": "https://moodle.org/plugins/download.php/20567/mod_unilabel_moodle25_2011050817.zip"
+    },
+    {
+        "id": "18942",
+        "name": "3.6",
+        "url": "https://moodle.org/plugins/download.php/18942/mod_unilabel_moodle34_2023020413.zip"
+    }
+]

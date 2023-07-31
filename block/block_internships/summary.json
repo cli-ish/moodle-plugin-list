@@ -1,0 +1,59 @@
+{
+    "id": 602,
+    "index": 1805,
+    "name": "Internships",
+    "frankenstyle": "block_internships",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_internships",
+    "shortdescription": "This free block allows students to search for, view, and apply to thousands of internships, part-time jobs, and entry-level positions, and also provides expanded and diversified on-campus job search and career development options.",
+    "timelastreleased": {
+        "absdate": "Friday, 25 January 2013, 5:35 AM",
+        "reldate": "11 years",
+        "iso8601date": "2013-01-25T05:35:15+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "5",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/602/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/602/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/602/IDC1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/602/IDC2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/602/IDC3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/602/IDC4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1549341,
+            "firstname": "Raman",
+            "lastname": "Gulati",
+            "url": "https://moodle.org/user/profile.php?id=1549341"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        }
+    ]
+}

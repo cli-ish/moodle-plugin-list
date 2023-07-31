@@ -1,0 +1,32 @@
+[
+    {
+        "id": "28000",
+        "name": "2022112101",
+        "url": "https://moodle.org/plugins/download.php/28000/mod_helixmedia_moodle37_2011090815.zip"
+    },
+    {
+        "id": "22926",
+        "name": "2020111701",
+        "url": "https://moodle.org/plugins/download.php/22926/mod_helixmedia_moodle29_2012120712.zip"
+    },
+    {
+        "id": "18947",
+        "name": "2018121804",
+        "url": "https://moodle.org/plugins/download.php/18947/mod_helixmedia_moodle32_2021030501.zip"
+    },
+    {
+        "id": "25904",
+        "name": "2022012501",
+        "url": "https://moodle.org/plugins/download.php/25904/mod_helixmedia_moodle36_2022110806.zip"
+    },
+    {
+        "id": "20934",
+        "name": "2020012101",
+        "url": "https://moodle.org/plugins/download.php/20934/mod_helixmedia_moodle35_2020100319.zip"
+    },
+    {
+        "id": "19734",
+        "name": "medial-video-streaming-activity",
+        "url": "https://moodle.org/plugins/download.php/19734/mod_helixmedia_moodle32_2022090816.zip"
+    }
+]

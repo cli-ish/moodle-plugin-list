@@ -1,0 +1,45 @@
+{
+    "id": 151,
+    "index": 1249,
+    "name": "Concept Map Question Type",
+    "frankenstyle": "qtype_conceptmap",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_conceptmap",
+    "shortdescription": "Question type that allows students to draw and submit a Concept Map as answer",
+    "timelastreleased": {
+        "absdate": "Monday, 23 February 2015, 2:51 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-02-23T02:51:20+08:00"
+    },
+    "aggsites": "525",
+    "aggdownloads": "22",
+    "aggfavs": "29",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/151/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/151/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/151/cmapqtype.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 18722,
+            "firstname": "Jorge",
+            "lastname": "Villalon",
+            "url": "https://moodle.org/user/profile.php?id=18722"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

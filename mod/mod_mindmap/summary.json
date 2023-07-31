@@ -1,0 +1,45 @@
+{
+    "id": 338,
+    "index": 249,
+    "name": "Mindmap",
+    "frankenstyle": "mod_mindmap",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_mindmap",
+    "shortdescription": "Mindmap module for Moodle",
+    "timelastreleased": {
+        "absdate": "Wednesday, 27 October 2021, 1:37 AM",
+        "reldate": "21 months",
+        "iso8601date": "2021-10-27T01:37:14+08:00"
+    },
+    "aggsites": "2163",
+    "aggdownloads": "511",
+    "aggfavs": "82",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/338/1378477536_lightbulb.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/338/1378477536_lightbulb.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/338/mindmap.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1006015,
+            "firstname": "T\u00f5nis",
+            "lastname": "Tartes",
+            "url": "https://moodle.org/user/profile.php?id=1006015"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

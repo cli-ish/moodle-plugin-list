@@ -1,0 +1,53 @@
+{
+    "id": 46,
+    "index": 1025,
+    "name": "Online Audio Recording",
+    "frankenstyle": "assignment_onlineaudio",
+    "plugintype": {
+        "type": "assignment",
+        "name": "Assignment / Legacy plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignment_onlineaudio",
+    "shortdescription": "Audio recorder (Flash 10.1+) with optional manual upload option.  Records locally and uploads via HTTP POST, so no need for a streaming server!",
+    "timelastreleased": {
+        "absdate": "Tuesday, 15 April 2014, 8:14 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-15T08:14:53+08:00"
+    },
+    "aggsites": "123",
+    "aggdownloads": "51",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/46/microphone_256.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/46/microphone_256.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/46/onlineaudio_recording.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/46/onlineaudio_save.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1159203,
+            "firstname": "Paul",
+            "lastname": "Nicholls",
+            "url": "https://moodle.org/user/profile.php?id=1159203"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": 1383,
+    "index": 1228,
+    "name": "JW Player multimedia filter",
+    "frankenstyle": "filter_jwplayer",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_jwplayer",
+    "shortdescription": "Moodle filter that allows using JW Player 7 for playing HTML5 and flash content, including RTMP/HLS/DASH steams.",
+    "timelastreleased": {
+        "absdate": "Monday, 27 March 2017, 10:29 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-03-27T22:29:06+08:00"
+    },
+    "aggsites": "70",
+    "aggdownloads": "24",
+    "aggfavs": "15",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1383/jwplayer.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1383/jwplayer.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1383/JW%20Player%207%20in%20Clean%20theme.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1383/JW%20Player%206%20in%20Clean%20theme.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        },
+        {
+            "id": 41888,
+            "firstname": "Tony",
+            "lastname": "Butler",
+            "url": "https://moodle.org/user/profile.php?id=41888"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

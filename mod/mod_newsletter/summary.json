@@ -1,0 +1,50 @@
+{
+    "id": 1001,
+    "index": 983,
+    "name": "Newsletter",
+    "frankenstyle": "mod_newsletter",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_newsletter",
+    "shortdescription": "This is a newsletter module for moodle. First stable release. It provides the basic features of common newsletter tools. Using it with moodle VERP bounce processing is recommended. But we will add an additional bounce processing feature that will be easier to configure.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 10 March 2021, 3:53 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-10T15:53:05+08:00"
+    },
+    "aggsites": "291",
+    "aggdownloads": "60",
+    "aggfavs": "41",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1001/newsletter-issues-overview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1001/newsletter-manage-subscriptions.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        },
+        {
+            "id": 4890909,
+            "firstname": "Wunderbyte",
+            "lastname": "GmbH",
+            "url": "https://moodle.org/user/profile.php?id=4890909"
+        }
+    ],
+    "descriptors": []
+}

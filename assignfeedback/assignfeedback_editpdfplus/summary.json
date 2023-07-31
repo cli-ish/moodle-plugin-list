@@ -1,0 +1,50 @@
+{
+    "id": 2080,
+    "index": 895,
+    "name": "Annotate PDF advanced",
+    "frankenstyle": "assignfeedback_editpdfplus",
+    "plugintype": {
+        "type": "assignfeedback",
+        "name": "Assignment / Feedback plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignfeedback_editpdfplus",
+    "shortdescription": "This plugin is a fork of assignfeedback_editpdf, and is developed and maintained by RISET/University of Lausanne. It allows to use several types of customizable tools: simple annotation, comment, stamp, highlighting, margin annotation, chained annotations.",
+    "timelastreleased": {
+        "absdate": "Saturday, 6 February 2021, 12:40 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-06T00:40:03+08:00"
+    },
+    "aggsites": "427",
+    "aggdownloads": "99",
+    "aggfavs": "48",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2080/S%C3%A9lection_029.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2080/S%C3%A9lection_043.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2456345,
+            "firstname": "Marion",
+            "lastname": "Chardon",
+            "url": "https://moodle.org/user/profile.php?id=2456345"
+        },
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": []
+}

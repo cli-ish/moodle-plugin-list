@@ -1,0 +1,45 @@
+{
+    "id": 11,
+    "index": 907,
+    "name": "Drag and drop file upload",
+    "frankenstyle": "block_dndupload",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_dndupload",
+    "shortdescription": "Drag and drop one or more files directly from your desktop into a Moodle course - if you have Moodle 2.3 or above, this functionality is already present",
+    "timelastreleased": {
+        "absdate": "Saturday, 15 September 2012, 2:01 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-09-15T02:01:08+08:00"
+    },
+    "aggsites": "62",
+    "aggdownloads": "89",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/11/dndupload-screenshot.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/11/dndupload-screenshot.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/11/dndupload-screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

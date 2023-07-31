@@ -1,0 +1,27 @@
+[
+    {
+        "id": "29472",
+        "name": "1.0.4",
+        "url": "https://moodle.org/plugins/download.php/29472/mod_sortvoting_moodle25_2022100613.zip"
+    },
+    {
+        "id": "29387",
+        "name": "1.0.3",
+        "url": "https://moodle.org/plugins/download.php/29387/mod_sortvoting_moodle38_2019020502.zip"
+    },
+    {
+        "id": "29377",
+        "name": "1.0.2",
+        "url": "https://moodle.org/plugins/download.php/29377/mod_sortvoting_moodle27_2014101003.zip"
+    },
+    {
+        "id": "29371",
+        "name": "1.0.1",
+        "url": "https://moodle.org/plugins/download.php/29371/mod_sortvoting_moodle35_2014010219.zip"
+    },
+    {
+        "id": "29345",
+        "name": "1.0.0",
+        "url": "https://moodle.org/plugins/download.php/29345/mod_sortvoting_moodle25_2020060317.zip"
+    }
+]

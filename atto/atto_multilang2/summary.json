@@ -1,0 +1,61 @@
+{
+    "id": 1556,
+    "index": 181,
+    "name": "Multi-Language Content",
+    "frankenstyle": "atto_multilang2",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_multilang2",
+    "shortdescription": "This plugin will make the creation of multilingual contents on Moodle much more easier with Atto editor.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 June 2021, 5:23 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-30T17:23:58+08:00"
+    },
+    "aggsites": "1474",
+    "aggdownloads": "680",
+    "aggfavs": "52",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1556/multilang2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1556/multilang2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1556/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1556/2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1969584,
+            "firstname": "Julen",
+            "lastname": "Pardo",
+            "url": "https://moodle.org/user/profile.php?id=1969584"
+        },
+        {
+            "id": 709961,
+            "firstname": "I\u00f1igo",
+            "lastname": "Zendegi Urzelai",
+            "url": "https://moodle.org/user/profile.php?id=709961"
+        },
+        {
+            "id": 2827713,
+            "firstname": "Kepa",
+            "lastname": "Urzelai",
+            "url": "https://moodle.org/user/profile.php?id=2827713"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

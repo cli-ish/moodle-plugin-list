@@ -1,0 +1,53 @@
+{
+    "id": 2705,
+    "index": 760,
+    "name": "Label with group",
+    "frankenstyle": "mod_labelwithgroup",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_labelwithgroup",
+    "shortdescription": "The Label with Group allows you to add resources with different views in the course and display them only for a specific group.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 22 March 2022, 8:07 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-22T20:07:42+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "132",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2705/icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2705/icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2705/WhatsApp%20Image%202021-04-26%20at%2014.34.19.jpeg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2705/WhatsApp%20Image%202021-04-26%20at%2014.34.48.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2705/WhatsApp%20Image%202021-04-26%20at%2014.35.30.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2705/WhatsApp%20Image%202021-04-26%20at%2014.36.13.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2705/WhatsApp%20Image%202021-04-26%20at%2014.36.46.jpeg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4217137,
+            "firstname": "Leonardo",
+            "lastname": "Aprigio da Silva",
+            "url": "https://moodle.org/user/profile.php?id=4217137"
+        }
+    ],
+    "descriptors": []
+}

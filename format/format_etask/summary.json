@@ -1,0 +1,56 @@
+{
+    "id": 710,
+    "index": 164,
+    "name": "eTask topics format",
+    "frankenstyle": "format_etask",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_etask",
+    "shortdescription": "Place the grading table with additional functionality directly on the course page and manage gradable activities easily. Provide your students a quick overview of grading and motivate them to be better.",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 April 2023, 12:17 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-20T00:17:05+08:00"
+    },
+    "aggsites": "617",
+    "aggdownloads": "732",
+    "aggfavs": "104",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/710/etask-topics-format.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/710/etask-topics-format.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/710/07_etask_v2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/710/01_etask_v2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/710/02_etask_v2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/710/03_etask_v2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/710/04_etask_v2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/710/05_etask_v2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1566618,
+            "firstname": "Martin",
+            "lastname": "Drlik",
+            "url": "https://moodle.org/user/profile.php?id=1566618"
+        }
+    ],
+    "descriptors": []
+}

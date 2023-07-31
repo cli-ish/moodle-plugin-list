@@ -1,0 +1,45 @@
+{
+    "id": 180,
+    "index": 266,
+    "name": "Message My Teacher",
+    "frankenstyle": "block_messageteacher",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_messageteacher",
+    "shortdescription": "This block allows configuration of roles to be considered \"Teachers\" of a course.  The block will\r\nthen display a list of these teachers for the current course in the block, with a link to message\r\neach one.",
+    "timelastreleased": {
+        "absdate": "Friday, 19 August 2022, 9:58 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-08-19T21:58:17+08:00"
+    },
+    "aggsites": "1275",
+    "aggdownloads": "482",
+    "aggfavs": "53",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/180/messageteacher.jpeg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/180/messageteacher.jpeg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/180/messageteacher.jpeg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 858318,
+            "firstname": "Mark",
+            "lastname": "Johnson",
+            "url": "https://moodle.org/user/profile.php?id=858318"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

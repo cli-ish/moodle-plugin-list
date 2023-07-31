@@ -1,0 +1,40 @@
+{
+    "id": 2927,
+    "index": 1167,
+    "name": "Restriction by course category",
+    "frankenstyle": "availability_coursecat",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_coursecat",
+    "shortdescription": "Restrict course module based on course root category name.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 5 July 2022, 2:12 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-05T14:12:33+08:00"
+    },
+    "aggsites": "21",
+    "aggdownloads": "30",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2927/availability_coursecat_restrict.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4063052,
+            "firstname": "C",
+            "lastname": "Blue",
+            "url": "https://moodle.org/user/profile.php?id=4063052"
+        }
+    ],
+    "descriptors": []
+}

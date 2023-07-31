@@ -1,0 +1,40 @@
+{
+    "id": 3099,
+    "index": 1878,
+    "name": "Asynchronous evaluations (immediate)",
+    "frankenstyle": "qbehaviour_asyncevaluationimmediate",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_asyncevaluationimmediate",
+    "shortdescription": "A question behaviour derived from Immediate feedback, where questions are automatically evaluated in an asynchronous context (via moodle adhoc tasks), after each question is submitted. This behaviour is useful for questions whose evaluation computations may take some time.",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 March 2023, 12:46 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-16T00:46:03+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3099/beinggraded.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

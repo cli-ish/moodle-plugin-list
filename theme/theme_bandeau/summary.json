@@ -1,0 +1,56 @@
+{
+    "id": 2433,
+    "index": 1405,
+    "name": "Bandeau",
+    "frankenstyle": "theme_bandeau",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_bandeau",
+    "shortdescription": "This is a theme which will display some possible recurrent actions in the course. They will be displayed as a banner in the course header block.",
+    "timelastreleased": {
+        "absdate": "Friday, 5 August 2022, 10:24 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-08-05T22:24:30+08:00"
+    },
+    "aggsites": "103",
+    "aggdownloads": "14",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2433/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2433/bandeau_screenshot_1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2433/bandeau_screenshot_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2433/bandeau_screenshot_4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2433/bandeau_scrrenshot_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2433/responsive.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1850725,
+            "firstname": "Anthony",
+            "lastname": "Durif",
+            "url": "https://moodle.org/user/profile.php?id=1850725"
+        }
+    ],
+    "descriptors": []
+}

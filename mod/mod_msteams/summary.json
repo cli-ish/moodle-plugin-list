@@ -1,0 +1,62 @@
+{
+    "id": 2484,
+    "index": 325,
+    "name": "MS Teams Meeting",
+    "frankenstyle": "mod_msteams",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_msteams",
+    "shortdescription": "Using this activity plugin you can schedule Microsoft Teams Meetings directly from inside your Moodle courses.",
+    "timelastreleased": {
+        "absdate": "Friday, 21 January 2022, 6:54 AM",
+        "reldate": "18 months",
+        "iso8601date": "2022-01-21T06:54:26+08:00"
+    },
+    "aggsites": "1003",
+    "aggdownloads": "413",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2484/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2484/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2484/msteams-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2484/msteams-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2484/msteams-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2484/msteams-4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        },
+        {
+            "id": 2827819,
+            "firstname": "Zentrum f\u00fcr",
+            "lastname": "Lernmanagement",
+            "url": "https://moodle.org/user/profile.php?id=2827819"
+        },
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": []
+}

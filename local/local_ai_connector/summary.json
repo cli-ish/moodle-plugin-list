@@ -1,0 +1,53 @@
+{
+    "id": 3135,
+    "index": 927,
+    "name": "AI Connector",
+    "frankenstyle": "local_ai_connector",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_ai_connector",
+    "shortdescription": "The plugin that enables connection to AI services: ChatGPT, DALL-E, and Stable Diffusion. This plugin allows the user to fill in all needed fields to make API calls and provides a test page to check if all connections work.",
+    "timelastreleased": {
+        "absdate": "Friday, 26 May 2023, 11:33 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-26T23:33:41+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "80",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3135/image%20%281%29.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3135/image%20%282%29.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3135/image.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1540471,
+            "firstname": "Enovation",
+            "lastname": "Dev Team",
+            "url": "https://moodle.org/user/profile.php?id=1540471"
+        },
+        {
+            "id": 5599689,
+            "firstname": "Olgierd ",
+            "lastname": "Dziminski",
+            "url": "https://moodle.org/user/profile.php?id=5599689"
+        }
+    ],
+    "descriptors": []
+}

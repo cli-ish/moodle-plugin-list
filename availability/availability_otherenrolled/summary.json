@@ -1,0 +1,40 @@
+{
+    "id": 3112,
+    "index": 1070,
+    "name": "Restriction by other course enrollment",
+    "frankenstyle": "availability_otherenrolled",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_otherenrolled",
+    "shortdescription": "An access restriction based on course enrollments",
+    "timelastreleased": {
+        "absdate": "Friday, 21 April 2023, 6:33 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-21T18:33:38+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": "42",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3112/Screenshot%202023-04-21%20at%2011.35.33.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1396756,
+            "firstname": "Andrew",
+            "lastname": "Hancox",
+            "url": "https://moodle.org/user/profile.php?id=1396756"
+        }
+    ],
+    "descriptors": []
+}

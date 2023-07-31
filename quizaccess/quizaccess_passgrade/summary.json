@@ -1,0 +1,45 @@
+{
+    "id": 908,
+    "index": 1559,
+    "name": "Pass grade quiz access rule",
+    "frankenstyle": "quizaccess_passgrade",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_passgrade",
+    "shortdescription": "Prevent students from reattempting a quiz once they've reached the specified grade",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 October 2013, 6:31 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-10-09T06:31:49+08:00"
+    },
+    "aggsites": "59",
+    "aggdownloads": "9",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 264793,
+            "firstname": "Matt",
+            "lastname": "Clarkson",
+            "url": "https://moodle.org/user/profile.php?id=264793"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

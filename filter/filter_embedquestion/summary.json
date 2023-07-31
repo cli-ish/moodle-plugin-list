@@ -1,0 +1,59 @@
+{
+    "id": 2113,
+    "index": 232,
+    "name": "Embed questions filter",
+    "frankenstyle": "filter_embedquestion",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_embedquestion",
+    "shortdescription": "A Moodle text filter plugin that displays interactive questions from the question bank embedded in the page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 29 March 2022, 10:28 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-29T22:28:05+08:00"
+    },
+    "aggsites": "1110",
+    "aggdownloads": "540",
+    "aggfavs": "58",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2113/embed-question-result.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2113/embed-question-adding.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2113/embed-question-code.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        },
+        {
+            "id": 2232540,
+            "firstname": "Chris",
+            "lastname": "Nelson",
+            "url": "https://moodle.org/user/profile.php?id=2232540"
+        }
+    ],
+    "descriptors": []
+}

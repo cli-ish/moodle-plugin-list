@@ -1,0 +1,50 @@
+{
+    "id": 1846,
+    "index": 491,
+    "name": "Easy Enrollments",
+    "frankenstyle": "enrol_easy",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_easy",
+    "shortdescription": "Get students from the homepage to learning in seconds using 6 digit enrollment codes or a QR Code.  This plugin is part of a set.  For best results please install Fordson version 1.4.4 or newer.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 December 2020, 1:52 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-12-09T01:52:49+08:00"
+    },
+    "aggsites": "939",
+    "aggdownloads": "238",
+    "aggfavs": "84",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1846/homepage%20form.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1846/Easy%20enrollments.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1846/enrollment%20codes.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1846/enrollment%20link.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 26675,
+            "firstname": "Chris",
+            "lastname": "Kenniburg",
+            "url": "https://moodle.org/user/profile.php?id=26675"
+        }
+    ],
+    "descriptors": []
+}

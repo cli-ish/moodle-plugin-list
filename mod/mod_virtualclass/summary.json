@@ -1,0 +1,71 @@
+{
+    "id": 1353,
+    "index": 1844,
+    "name": "Virtual Class",
+    "frankenstyle": "mod_virtualclass",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_virtualclass",
+    "shortdescription": "Kindly use Congrea plugin. This plugin is now obsolete.",
+    "timelastreleased": {
+        "absdate": "Thursday, 3 December 2015, 6:54 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-12-03T18:54:45+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "4",
+    "aggfavs": "19",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1353/allow_webcam.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1353/create_vc.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1353/join_virtualclass.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1353/Screensharing_student.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1353/Screensharing_teacher.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1353/teacher_chat.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1353/teacher_view_with_controls.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1143772,
+            "firstname": "Pinky",
+            "lastname": "Sharma",
+            "url": "https://moodle.org/user/profile.php?id=1143772"
+        },
+        {
+            "id": 214220,
+            "firstname": "suman",
+            "lastname": "bogati",
+            "url": "https://moodle.org/user/profile.php?id=214220"
+        },
+        {
+            "id": 173685,
+            "firstname": "Jai",
+            "lastname": "Gupta",
+            "url": "https://moodle.org/user/profile.php?id=173685"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 1116,
+    "index": 773,
+    "name": "BTEC marking",
+    "frankenstyle": "gradingform_btec",
+    "plugintype": {
+        "type": "gradingform",
+        "name": "Advanced grading method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradingform_btec",
+    "shortdescription": "BTEC grading for Pass, Merit and Distinction assignments. ",
+    "timelastreleased": {
+        "absdate": "Saturday, 30 April 2022, 4:37 AM",
+        "reldate": "15 months",
+        "iso8601date": "2022-04-30T04:37:42+08:00"
+    },
+    "aggsites": "207",
+    "aggdownloads": "128",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1116/bteclogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1116/bteclogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1116/btecform3.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2246,
+            "firstname": "Marcus",
+            "lastname": "Green",
+            "url": "https://moodle.org/user/profile.php?id=2246"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

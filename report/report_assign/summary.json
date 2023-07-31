@@ -1,0 +1,47 @@
+{
+    "id": 2311,
+    "index": 575,
+    "name": "Assignment submission and export report",
+    "frankenstyle": "report_assign",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_assign",
+    "shortdescription": "Assignment report and data/files export. Particularly handy for anonymous assignments. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 May 2022, 8:37 PM",
+        "reldate": "14 months",
+        "iso8601date": "2022-05-18T20:37:48+08:00"
+    },
+    "aggsites": "586",
+    "aggdownloads": "205",
+    "aggfavs": "23",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2311/Screenshot%202019-06-21%20at%2015.18.19.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2311/Screenshot%202019-06-21%20at%2015.18.36.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2311/Screenshot%202019-06-21%20at%2015.18.48.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1473,
+            "firstname": "Howard",
+            "lastname": "Miller",
+            "url": "https://moodle.org/user/profile.php?id=1473"
+        }
+    ],
+    "descriptors": []
+}

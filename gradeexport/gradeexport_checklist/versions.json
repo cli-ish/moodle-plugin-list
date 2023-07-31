@@ -1,0 +1,97 @@
+[
+    {
+        "id": "28966",
+        "name": "3.4.1.0",
+        "url": "https://moodle.org/plugins/download.php/28966/gradeexport_checklist_moodle37_2019050800.zip"
+    },
+    {
+        "id": "15307",
+        "name": "2.x-build-2017110900",
+        "url": "https://moodle.org/plugins/download.php/15307/gradeexport_checklist_moodle32_2015080816.zip"
+    },
+    {
+        "id": "27963",
+        "name": "3.4-build-2022111900",
+        "url": "https://moodle.org/plugins/download.php/27963/gradeexport_checklist_moodle38_2022121014.zip"
+    },
+    {
+        "id": "26925",
+        "name": "3.4-build-2022062800",
+        "url": "https://moodle.org/plugins/download.php/26925/gradeexport_checklist_moodle35_2018010611.zip"
+    },
+    {
+        "id": "26183",
+        "name": "3.4-build-2022012200",
+        "url": "https://moodle.org/plugins/download.php/26183/gradeexport_checklist_moodle32_2019010301.zip"
+    },
+    {
+        "id": "24177",
+        "name": "3.4-build-2021041000",
+        "url": "https://moodle.org/plugins/download.php/24177/gradeexport_checklist_moodle32_2014020105.zip"
+    },
+    {
+        "id": "22788",
+        "name": "3.4-build-2020101700",
+        "url": "https://moodle.org/plugins/download.php/22788/gradeexport_checklist_moodle30_2015020820.zip"
+    },
+    {
+        "id": "21718",
+        "name": "3.4-build-2019121600",
+        "url": "https://moodle.org/plugins/download.php/21718/gradeexport_checklist_moodle28_2015110703.zip"
+    },
+    {
+        "id": "19565",
+        "name": "3.4-build-2019051900",
+        "url": "https://moodle.org/plugins/download.php/19565/gradeexport_checklist_moodle27_2011060114.zip"
+    },
+    {
+        "id": "16959",
+        "name": "3.4-build-2018040201",
+        "url": "https://moodle.org/plugins/download.php/16959/gradeexport_checklist_moodle34_2021051114.zip"
+    },
+    {
+        "id": "16658",
+        "name": "3.4-build-2018040200",
+        "url": "https://moodle.org/plugins/download.php/16658/gradeexport_checklist_moodle28_2012071203.zip"
+    },
+    {
+        "id": "13906",
+        "name": "2.x-build-2017051200",
+        "url": "https://moodle.org/plugins/download.php/13906/gradeexport_checklist_moodle28_2022011014.zip"
+    },
+    {
+        "id": "12695",
+        "name": "2.x-build-2016112100",
+        "url": "https://moodle.org/plugins/download.php/12695/gradeexport_checklist_moodle33_2014070707.zip"
+    },
+    {
+        "id": "9270",
+        "name": "2.x-build-2015080500",
+        "url": "https://moodle.org/plugins/download.php/9270/gradeexport_checklist_moodle37_2014010615.zip"
+    },
+    {
+        "id": "1031",
+        "name": "2.x-build-2012070700",
+        "url": "https://moodle.org/plugins/download.php/1031/gradeexport_checklist_moodle38_2020120719.zip"
+    },
+    {
+        "id": "486",
+        "name": "2.x-build-2012020200",
+        "url": "https://moodle.org/plugins/download.php/486/gradeexport_checklist_moodle39_2017020700.zip"
+    },
+    {
+        "id": "464",
+        "name": "2.x-build-2012012700",
+        "url": "https://moodle.org/plugins/download.php/464/gradeexport_checklist_moodle28_2010010611.zip"
+    },
+    {
+        "id": "460",
+        "name": "2.x-build-2012010200",
+        "url": "https://moodle.org/plugins/download.php/460/gradeexport_checklist_moodle26_2010031117.zip"
+    },
+    {
+        "id": "313",
+        "name": "2.x-build-2011022402",
+        "url": "https://moodle.org/plugins/download.php/313/gradeexport_checklist_moodle33_2018110911.zip"
+    }
+]

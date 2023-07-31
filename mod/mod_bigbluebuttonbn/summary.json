@@ -1,0 +1,64 @@
+{
+    "id": 54,
+    "index": 27,
+    "name": "BigBlueButtonBN",
+    "frankenstyle": "mod_bigbluebuttonbn",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_bigbluebuttonbn",
+    "shortdescription": "Integrate BigBlueButton within Moodle - including record and playback of sessions.",
+    "timelastreleased": {
+        "absdate": "Saturday, 28 January 2023, 1:50 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-28T01:50:41+08:00"
+    },
+    "aggsites": "12060",
+    "aggdownloads": "2k",
+    "aggfavs": "372",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/54/bbb_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/54/bbb_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/54/bigbluebutton_flash.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/54/bigbluebutton_html5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/54/bigbluebuttonbn_moodlecloud21.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/54/bigbluebuttonbn_moodlecloud22.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/54/bigbluebuttonbn_moodlecloud23.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 942810,
+            "firstname": "Fred",
+            "lastname": "Dixon",
+            "url": "https://moodle.org/user/profile.php?id=942810"
+        },
+        {
+            "id": 1370546,
+            "firstname": "Jesus",
+            "lastname": "Federico",
+            "url": "https://moodle.org/user/profile.php?id=1370546"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

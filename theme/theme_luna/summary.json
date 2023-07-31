@@ -1,0 +1,45 @@
+{
+    "id": 678,
+    "index": 1334,
+    "name": "Luna",
+    "frankenstyle": "theme_luna",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_luna",
+    "shortdescription": "Luna is a fluid-width 2 column theme based on Binarius, for Moodle 2.4. It is part of a series of ten 'Planet' themes intended to provide a choice of visually accessible and/or fun colour schemes.\r\n\r\nLuna is designed to provide a reduced contrast simple interface. It also includes a 2.4 compatible version of the MoodleBar developed by Lewis Carr, and uses the autohide functionality for course editing buttons outlined by Frankie Kam.\r\n\r\nYes, I know that Luna (the Moon) isn't a planet - but it fits this set of solar-bodied themes and exerts influence on the Earth. Hopefully Moon lovers will find this theme aesthetically pleasing.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 May 2013, 8:52 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-21T20:52:40+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "18",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/678/luna.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/678/luna.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/678/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1039666,
+            "firstname": "Gordon",
+            "lastname": "McLeod",
+            "url": "https://moodle.org/user/profile.php?id=1039666"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": 563,
+    "index": 1812,
+    "name": "Selfenrollment plugin seat availability status",
+    "frankenstyle": "block_selfenrol_seats",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_selfenrol_seats",
+    "shortdescription": "Selfenrollment plugin seat availability status block.\r\n",
+    "timelastreleased": {
+        "absdate": "Sunday, 3 March 2013, 5:35 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-03T05:35:39+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/563/Course--this-is-test-course.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/563/Course--this-is-test-course.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/563/Configuring%20a%20Seats%20availability%20block.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/563/Course--this-is-test-course.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/563/Seats%20availability%20status%20screenshot?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1520587,
+            "firstname": "Jitendra",
+            "lastname": "Gaur",
+            "url": "https://moodle.org/user/profile.php?id=1520587"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "id": 2284,
+    "index": 2079,
+    "name": "eduReportbook",
+    "frankenstyle": "block_edureportbook",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_edureportbook",
+    "shortdescription": "This plugin is an assistant to prepare an existing course\r\nas a notebook for communication between parents and teachers.",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 December 2021, 7:31 PM",
+        "reldate": "19 months",
+        "iso8601date": "2021-12-25T19:31:12+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "1",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2284/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2284/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2284/00_adminconfig.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2284/01_block.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2284/02_relations.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2284/03_privacy.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2284/04_finish.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        },
+        {
+            "id": 2827819,
+            "firstname": "Zentrum f\u00fcr",
+            "lastname": "Lernmanagement",
+            "url": "https://moodle.org/user/profile.php?id=2827819"
+        },
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": []
+}

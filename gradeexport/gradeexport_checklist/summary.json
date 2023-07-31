@@ -1,0 +1,45 @@
+{
+    "id": 160,
+    "index": 83,
+    "name": "Checklist",
+    "frankenstyle": "gradeexport_checklist",
+    "plugintype": {
+        "type": "gradeexport",
+        "name": "Grade export method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradeexport_checklist",
+    "shortdescription": "This is a grade export plugin which will create an Excel spreadsheet containing all the checkmarks from a single checklist.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 April 2023, 7:02 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-18T19:02:59+08:00"
+    },
+    "aggsites": "1306",
+    "aggdownloads": "1k",
+    "aggfavs": "47",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/160/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/160/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/160/Screenshot_20161118_195105.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": 3076,
+    "index": 218,
+    "name": "Boosted",
+    "frankenstyle": "theme_boosted",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_boosted",
+    "shortdescription": "Boosted is a modern, highly-customizable Moodle theme based in Boost. It is compatible with version 4.0 and higher (Moodle 4.2 included) and available in English and Spanish (Spain) and more languages soon.",
+    "timelastreleased": {
+        "absdate": "Monday, 10 April 2023, 9:12 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-10T21:12:13+08:00"
+    },
+    "aggsites": "159",
+    "aggdownloads": "569",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3076/favicon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3076/favicon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3076/demo-5.gif?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3076/login.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3076/settings-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3076/settings-toggle.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5413286,
+            "firstname": "Koditik",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=5413286"
+        },
+        {
+            "id": 52751,
+            "firstname": "Fernando",
+            "lastname": "Acedo",
+            "url": "https://moodle.org/user/profile.php?id=52751"
+        }
+    ],
+    "descriptors": []
+}

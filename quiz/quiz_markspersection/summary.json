@@ -1,0 +1,52 @@
+{
+    "id": 2735,
+    "index": 906,
+    "name": "Marks per section",
+    "frankenstyle": "quiz_markspersection",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_markspersection",
+    "shortdescription": "Quiz report plugin showing marks per section.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 21 September 2022, 4:40 AM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-21T04:40:44+08:00"
+    },
+    "aggsites": "261",
+    "aggdownloads": "89",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2735/report.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1911781,
+            "firstname": "Issam",
+            "lastname": "Taboubi",
+            "url": "https://moodle.org/user/profile.php?id=1911781"
+        },
+        {
+            "id": 3432795,
+            "firstname": "M\u00e9lissa",
+            "lastname": "De Cristofaro",
+            "url": "https://moodle.org/user/profile.php?id=3432795"
+        },
+        {
+            "id": 1244964,
+            "firstname": "Gilles-Philippe",
+            "lastname": "Leblanc",
+            "url": "https://moodle.org/user/profile.php?id=1244964"
+        }
+    ],
+    "descriptors": []
+}

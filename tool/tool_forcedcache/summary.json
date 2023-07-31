@@ -1,0 +1,40 @@
+{
+    "id": 3181,
+    "index": 1762,
+    "name": "Forced Caching",
+    "frankenstyle": "tool_forcedcache",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_forcedcache",
+    "shortdescription": "Override Moodle's default options for caching with custom configuration.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 July 2023, 2:40 PM",
+        "reldate": "6 days",
+        "iso8601date": "2023-07-25T14:40:01+08:00"
+    },
+    "aggsites": "166",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3181/Screenshot%202023-07-25%20at%2016-47-55%20You%20Forced%20caching%20status.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

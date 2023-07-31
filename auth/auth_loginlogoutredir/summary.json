@@ -1,0 +1,45 @@
+{
+    "id": 1260,
+    "index": 1075,
+    "name": "Login/Logout user redirection",
+    "frankenstyle": "auth_loginlogoutredir",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_loginlogoutredir",
+    "shortdescription": "Allows sysadmin to force redirection to certain pages upon login or logout.",
+    "timelastreleased": {
+        "absdate": "Friday, 31 October 2014, 10:04 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-10-31T10:04:29+08:00"
+    },
+    "aggsites": "263",
+    "aggdownloads": "40",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1260/snapshot3.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1532864,
+            "firstname": "Felipe",
+            "lastname": "Carasso",
+            "url": "https://moodle.org/user/profile.php?id=1532864"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

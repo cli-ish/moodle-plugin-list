@@ -1,0 +1,45 @@
+{
+    "id": 108,
+    "index": 1635,
+    "name": "Red Drop Down Menus",
+    "frankenstyle": "theme_red_drop_down_menus",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_red_drop_down_menus",
+    "shortdescription": "Theme developed for the National Training Federation Wales.",
+    "timelastreleased": {
+        "absdate": "Friday, 21 October 2011, 3:05 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-21T03:05:35+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "8",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/108/screenshot.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/108/screenshot.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/108/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 89775,
+            "firstname": "Jon",
+            "lastname": "Witts",
+            "url": "https://moodle.org/user/profile.php?id=89775"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

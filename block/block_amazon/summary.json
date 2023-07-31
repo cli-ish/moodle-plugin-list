@@ -1,0 +1,45 @@
+{
+    "id": 95,
+    "index": 1758,
+    "name": "Amazon Associates Block",
+    "frankenstyle": "block_amazon",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_amazon",
+    "shortdescription": "This is a simple block which allows you to put amazon associates links into your moodle using either keywords or ISBN numbers.",
+    "timelastreleased": {
+        "absdate": "Monday, 10 October 2011, 10:41 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-10T22:41:13+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "6",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/95/amazon_associates.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 10165,
+            "firstname": "Tim",
+            "lastname": "Williams",
+            "url": "https://moodle.org/user/profile.php?id=10165"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 1120,
+    "index": 1966,
+    "name": "cerulean",
+    "frankenstyle": "theme_cerulean",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_cerulean",
+    "shortdescription": "This is a bootswatch theme for Moodle 2.7 and Bootstrap3",
+    "timelastreleased": {
+        "absdate": "Friday, 30 October 2015, 9:10 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-10-30T21:10:37+08:00"
+    },
+    "aggsites": "42",
+    "aggdownloads": "2",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1120/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

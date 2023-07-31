@@ -1,0 +1,162 @@
+[
+    {
+        "id": "28045",
+        "name": "4.8.1-2-2022112700-mdl-39",
+        "url": "https://moodle.org/plugins/download.php/28045/local_adminer_moodle31_2019021017.zip"
+    },
+    {
+        "id": "23637",
+        "name": "4.7.9-2021030800-mdl-35",
+        "url": "https://moodle.org/plugins/download.php/23637/local_adminer_moodle34_2018080507.zip"
+    },
+    {
+        "id": "16486",
+        "name": "3.4-2018042100",
+        "url": "https://moodle.org/plugins/download.php/16486/local_adminer_moodle31_2021100920.zip"
+    },
+    {
+        "id": "14095",
+        "name": "3.3-2017052800",
+        "url": "https://moodle.org/plugins/download.php/14095/local_adminer_moodle40_2017030108.zip"
+    },
+    {
+        "id": "13241",
+        "name": "3.2-2016122601",
+        "url": "https://moodle.org/plugins/download.php/13241/local_adminer_moodle32_2011050103.zip"
+    },
+    {
+        "id": "8635",
+        "name": "2.9-2015052700",
+        "url": "https://moodle.org/plugins/download.php/8635/local_adminer_moodle32_2023110211.zip"
+    },
+    {
+        "id": "7284",
+        "name": "0.4-2014111800",
+        "url": "https://moodle.org/plugins/download.php/7284/local_adminer_moodle29_2012030401.zip"
+    },
+    {
+        "id": "5521",
+        "name": "0.4-2014011602",
+        "url": "https://moodle.org/plugins/download.php/5521/local_adminer_moodle34_2018010308.zip"
+    },
+    {
+        "id": "1374",
+        "name": "0.1-2012060302",
+        "url": "https://moodle.org/plugins/download.php/1374/local_adminer_moodle32_2013071016.zip"
+    },
+    {
+        "id": "26999",
+        "name": "4.8.1-1-2021051701-mdl-39",
+        "url": "https://moodle.org/plugins/download.php/26999/local_adminer_moodle39_2021100714.zip"
+    },
+    {
+        "id": "24184",
+        "name": "4.8.1-2021051700-mdl-39",
+        "url": "https://moodle.org/plugins/download.php/24184/local_adminer_moodle39_2017080903.zip"
+    },
+    {
+        "id": "23638",
+        "name": "4.7.9-2021030801-mdl-39",
+        "url": "https://moodle.org/plugins/download.php/23638/local_adminer_moodle33_2017091114.zip"
+    },
+    {
+        "id": "23633",
+        "name": "4.8.0-2021030701-mdl-39",
+        "url": "https://moodle.org/plugins/download.php/23633/local_adminer_moodle29_2018100210.zip"
+    },
+    {
+        "id": "23632",
+        "name": "4.8.0-2021030700-mdl-35",
+        "url": "https://moodle.org/plugins/download.php/23632/local_adminer_moodle25_2013060707.zip"
+    },
+    {
+        "id": "23031",
+        "name": "4.7.8-2020120601-mdl-39",
+        "url": "https://moodle.org/plugins/download.php/23031/local_adminer_moodle29_2013061117.zip"
+    },
+    {
+        "id": "23024",
+        "name": "4.7.8-2020120600-mdl-39",
+        "url": "https://moodle.org/plugins/download.php/23024/local_adminer_moodle40_2019100613.zip"
+    },
+    {
+        "id": "23023",
+        "name": "4.7.8-2020120600-mdl-35",
+        "url": "https://moodle.org/plugins/download.php/23023/local_adminer_moodle35_2013061019.zip"
+    },
+    {
+        "id": "21654",
+        "name": "4.7.7-2020061000",
+        "url": "https://moodle.org/plugins/download.php/21654/local_adminer_moodle25_2021080920.zip"
+    },
+    {
+        "id": "20566",
+        "name": "3.8-2019100900",
+        "url": "https://moodle.org/plugins/download.php/20566/local_adminer_moodle27_2023100305.zip"
+    },
+    {
+        "id": "16620",
+        "name": "3.5-2018050900",
+        "url": "https://moodle.org/plugins/download.php/16620/local_adminer_moodle35_2016071119.zip"
+    },
+    {
+        "id": "16554",
+        "name": "3.5-2018050401",
+        "url": "https://moodle.org/plugins/download.php/16554/local_adminer_moodle40_2010041015.zip"
+    },
+    {
+        "id": "16551",
+        "name": "3.5-2018050400",
+        "url": "https://moodle.org/plugins/download.php/16551/local_adminer_moodle30_2012020707.zip"
+    },
+    {
+        "id": "16406",
+        "name": "3.4-2018040700",
+        "url": "https://moodle.org/plugins/download.php/16406/local_adminer_moodle34_2017041105.zip"
+    },
+    {
+        "id": "12925",
+        "name": "3.2-2016122600",
+        "url": "https://moodle.org/plugins/download.php/12925/local_adminer_moodle25_2016120801.zip"
+    },
+    {
+        "id": "12452",
+        "name": "3.1-2016102000",
+        "url": "https://moodle.org/plugins/download.php/12452/local_adminer_moodle34_2019100713.zip"
+    },
+    {
+        "id": "11527",
+        "name": "3.1-2016061000",
+        "url": "https://moodle.org/plugins/download.php/11527/local_adminer_moodle31_2011110919.zip"
+    },
+    {
+        "id": "5215",
+        "name": "0.4-2014011601",
+        "url": "https://moodle.org/plugins/download.php/5215/local_adminer_moodle40_2011040220.zip"
+    },
+    {
+        "id": "3191",
+        "name": "0.3-2013061301",
+        "url": "https://moodle.org/plugins/download.php/3191/local_adminer_moodle35_2011070512.zip"
+    },
+    {
+        "id": "2383",
+        "name": "0.2-2013031601",
+        "url": "https://moodle.org/plugins/download.php/2383/local_adminer_moodle39_2011120813.zip"
+    },
+    {
+        "id": "857",
+        "name": "0.1-2012060301",
+        "url": "https://moodle.org/plugins/download.php/857/local_adminer_moodle39_2023111115.zip"
+    },
+    {
+        "id": "378",
+        "name": "0.1-2011122501",
+        "url": "https://moodle.org/plugins/download.php/378/local_adminer_moodle33_2018090406.zip"
+    },
+    {
+        "id": "283",
+        "name": "2011040400",
+        "url": "https://moodle.org/plugins/download.php/283/local_adminer_moodle36_2014041103.zip"
+    }
+]

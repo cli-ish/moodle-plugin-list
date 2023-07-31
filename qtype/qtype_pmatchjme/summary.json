@@ -1,0 +1,57 @@
+{
+    "id": 229,
+    "index": 449,
+    "name": "Pattern match with molecular editor",
+    "frankenstyle": "qtype_pmatchjme",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_pmatchjme",
+    "shortdescription": "A question type where the user enters their response using the JavaScript Molecular Editor, and the response is then graded using the OU's pattern-match algorithm.",
+    "timelastreleased": {
+        "absdate": "Friday, 7 October 2022, 6:37 AM",
+        "reldate": "10 months",
+        "iso8601date": "2022-10-07T06:37:03+08:00"
+    },
+    "aggsites": "434",
+    "aggdownloads": "266",
+    "aggfavs": "12",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/229/pmatchjme.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 22721,
+            "firstname": "Jamie",
+            "lastname": "Pratt",
+            "url": "https://moodle.org/user/profile.php?id=22721"
+        },
+        {
+            "id": 115651,
+            "firstname": "Phil",
+            "lastname": "Butcher",
+            "url": "https://moodle.org/user/profile.php?id=115651"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

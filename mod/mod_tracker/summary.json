@@ -1,0 +1,45 @@
+{
+    "id": 425,
+    "index": 365,
+    "name": "User support - Work Tracker",
+    "frankenstyle": "mod_tracker",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_tracker",
+    "shortdescription": "Provides network capable, multi instance bindable user support / ticket management. Generalisable for use in course as managed todo list.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 June 2023, 3:43 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-06T15:43:51+08:00"
+    },
+    "aggsites": "232",
+    "aggdownloads": "349",
+    "aggfavs": "35",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/425/snapshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

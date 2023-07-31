@@ -1,0 +1,47 @@
+{
+    "id": 2573,
+    "index": 517,
+    "name": "Custom fields for activity modules",
+    "frankenstyle": "local_modcustomfields",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_modcustomfields",
+    "shortdescription": "This plugin adds Custom Fields to all activity modules.\r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 July 2023, 10:35 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-04T22:35:06+08:00"
+    },
+    "aggsites": "215",
+    "aggdownloads": "227",
+    "aggfavs": "19",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2573/Screenshot%20from%202020-10-26%2018-08-23.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2573/Screenshot%20from%202020-10-26%2018-16-56.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2573/Screenshot%20from%202020-10-26%2018-17-02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": []
+}

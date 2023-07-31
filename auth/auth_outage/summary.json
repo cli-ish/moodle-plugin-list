@@ -1,0 +1,46 @@
+{
+    "id": 1713,
+    "index": 428,
+    "name": "Outage manager",
+    "frankenstyle": "auth_outage",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_outage",
+    "shortdescription": "A plugin to manage outage periods, such as scheduled maintenance, including CLI tools to embed in your scripting.",
+    "timelastreleased": {
+        "absdate": "Thursday, 9 February 2023, 4:39 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-09T04:39:33+08:00"
+    },
+    "aggsites": "691",
+    "aggdownloads": "283",
+    "aggfavs": "37",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1713/onoff.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1713/onoff.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1713/2016-09-28_screenshot_warning.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        }
+    ],
+    "descriptors": []
+}

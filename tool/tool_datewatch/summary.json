@@ -1,0 +1,58 @@
+{
+    "id": 2864,
+    "index": 544,
+    "name": "Date watcher",
+    "frankenstyle": "tool_datewatch",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_datewatch",
+    "shortdescription": "The Datewatch plugin allows other Moodle plugins to execute a callback every time some date occurs.\r\n",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 May 2023, 3:45 AM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-31T03:45:05+08:00"
+    },
+    "aggsites": "505",
+    "aggdownloads": "215",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2864/date-watcher-plugin-image.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        },
+        {
+            "id": 1525875,
+            "firstname": "Emilio",
+            "lastname": "Lozano",
+            "url": "https://moodle.org/user/profile.php?id=1525875"
+        },
+        {
+            "id": 2466157,
+            "firstname": "Rafael",
+            "lastname": "Lechugo",
+            "url": "https://moodle.org/user/profile.php?id=2466157"
+        },
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        }
+    ],
+    "descriptors": []
+}

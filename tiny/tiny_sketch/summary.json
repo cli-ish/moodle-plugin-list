@@ -1,0 +1,44 @@
+{
+    "id": 3118,
+    "index": 943,
+    "name": "Sketch",
+    "frankenstyle": "tiny_sketch",
+    "plugintype": {
+        "type": "tiny",
+        "name": "TinyMCE editor / tiny"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tiny_sketch",
+    "shortdescription": "Simple image \"paint like\" editor for new tinyMCE.",
+    "timelastreleased": {
+        "absdate": "Friday, 5 May 2023, 10:44 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-05T22:44:14+08:00"
+    },
+    "aggsites": "26",
+    "aggdownloads": "72",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3118/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3118/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3118/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3118/screenshot2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 226766,
+            "firstname": "Matthew",
+            "lastname": "Davidson",
+            "url": "https://moodle.org/user/profile.php?id=226766"
+        }
+    ],
+    "descriptors": []
+}

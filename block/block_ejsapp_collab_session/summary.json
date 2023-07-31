@@ -1,0 +1,55 @@
+{
+    "id": 547,
+    "index": 1451,
+    "name": "EJSApp Collab Session",
+    "frankenstyle": "block_ejsapp_collab_session",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_ejsapp_collab_session",
+    "shortdescription": "This block lets creating sessions for collaborative working with Java applets developed with Easy Java Simulations (EJS) and added to your Moodle course by means of the ejsapp module.",
+    "timelastreleased": {
+        "absdate": "Sunday, 2 September 2018, 9:56 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-09-02T21:56:33+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "13",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/547/ejsapp_logo_small.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/547/ejsapp_logo_small.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/547/ejsapp_collab.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/547/network_schema.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1463728,
+            "firstname": "Ruben",
+            "lastname": "Heradio",
+            "url": "https://moodle.org/user/profile.php?id=1463728"
+        },
+        {
+            "id": 1291642,
+            "firstname": "Luis",
+            "lastname": "de la Torre",
+            "url": "https://moodle.org/user/profile.php?id=1291642"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        }
+    ]
+}

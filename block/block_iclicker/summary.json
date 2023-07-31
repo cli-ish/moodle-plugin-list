@@ -1,0 +1,49 @@
+{
+    "id": 739,
+    "index": 1477,
+    "name": "i>clicker Moodle integrate",
+    "frankenstyle": "block_iclicker",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_iclicker",
+    "shortdescription": "This is the Moodle i>clicker integrate plugin which integrates Moodle with iClicker (http://www.iclicker.com/dnn/) The plugin allows students to register their clickers with the Moodle installation.",
+    "timelastreleased": {
+        "absdate": "Monday, 6 July 2015, 12:00 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-07-06T00:00:27+08:00"
+    },
+    "aggsites": "36",
+    "aggdownloads": "12",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/739/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/739/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/739/registration.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/739/report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 860687,
+            "firstname": "Aaron",
+            "lastname": "Zeckoski",
+            "url": "https://moodle.org/user/profile.php?id=860687"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

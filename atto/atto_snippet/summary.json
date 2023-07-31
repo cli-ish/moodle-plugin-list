@@ -1,0 +1,53 @@
+{
+    "id": 1837,
+    "index": 376,
+    "name": "Poodll Snippet ",
+    "frankenstyle": "atto_snippet",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_snippet",
+    "shortdescription": "Poodll Snippet is simple html/text template tool for Moodle's Atto editor. Use it to add text, layouts, buttons and other content from templates directly into Moodle HTML areas.",
+    "timelastreleased": {
+        "absdate": "Monday, 14 May 2018, 6:56 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-14T18:56:28+08:00"
+    },
+    "aggsites": "650",
+    "aggdownloads": "333",
+    "aggfavs": "31",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1837/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1837/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1837/Poodll%20Snippet%20Banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1837/1_snippet_popup.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1837/2_snippet_form.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1837/3_button_in_area.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1837/PoodllSnippets_moodleTile.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

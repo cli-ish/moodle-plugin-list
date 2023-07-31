@@ -1,0 +1,52 @@
+{
+    "id": 2956,
+    "index": 893,
+    "name": "Open LMS utilities",
+    "frankenstyle": "local_openlms",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_openlms",
+    "shortdescription": "Collection of utilities needed for other plugins created by Open LMS.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 7:05 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T19:05:28+08:00"
+    },
+    "aggsites": "271",
+    "aggdownloads": "100",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2956/openlms.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 12863,
+            "firstname": "Petr",
+            "lastname": "Skoda",
+            "url": "https://moodle.org/user/profile.php?id=12863"
+        },
+        {
+            "id": 470036,
+            "firstname": "Jeremy",
+            "lastname": "Schweitzer",
+            "url": "https://moodle.org/user/profile.php?id=470036"
+        },
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": []
+}

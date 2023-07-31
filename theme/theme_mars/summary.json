@@ -1,0 +1,45 @@
+{
+    "id": 679,
+    "index": 1582,
+    "name": "Mars",
+    "frankenstyle": "theme_mars",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_mars",
+    "shortdescription": "Mars is a fluid-width 2 column theme based on Binarius, for Moodle 2.4. It is part of a series of ten 'Planet' themes intended to provide a choice of visually accessible and/or fun colour schemes.\r\n\r\nMars is designed to provide a reduced contrast interface with a dark background and light text. It also includes a 2.4 compatible version of the MoodleBar developed by Lewis Carr, and uses the autohide functionality for course editing buttons outlined by Frankie Kam.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 May 2013, 9:56 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-21T21:56:30+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "9",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/679/mars.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/679/mars.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/679/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1039666,
+            "firstname": "Gordon",
+            "lastname": "McLeod",
+            "url": "https://moodle.org/user/profile.php?id=1039666"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

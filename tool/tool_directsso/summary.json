@@ -1,0 +1,46 @@
+{
+    "id": 2962,
+    "index": 911,
+    "name": "Direct SSO Entrypoint",
+    "frankenstyle": "tool_directsso",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_directsso",
+    "shortdescription": "Moodle admin tool which provides an entrypoint that can be used as persistent URL where external websites can redirect users directly to the Moodle SSO mechanisms without ever showing the login page to the user and especially without the need that the user clicks on a SSO button on the login page. ",
+    "timelastreleased": {
+        "absdate": "Friday, 24 June 2022, 9:15 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-24T21:15:39+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "88",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2962/lernlink.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2962/lernlink.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2962/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4480813,
+            "firstname": "Moodle Partner",
+            "lastname": "lern.link",
+            "url": "https://moodle.org/user/profile.php?id=4480813"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

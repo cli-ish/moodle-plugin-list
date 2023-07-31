@@ -1,0 +1,49 @@
+{
+    "id": 834,
+    "index": 1952,
+    "name": "Syslogger",
+    "frankenstyle": "local_syslogger",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_syslogger",
+    "shortdescription": "Duplicates Moodle logs to syslog using the Linux logger command.",
+    "timelastreleased": {
+        "absdate": "Friday, 13 September 2013, 4:54 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-13T16:54:24+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "3",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 624500,
+            "firstname": "Bart",
+            "lastname": "Busschots",
+            "url": "https://moodle.org/user/profile.php?id=624500"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 3022,
+    "index": 650,
+    "name": "XML-RPC protocol",
+    "frankenstyle": "webservice_xmlrpc",
+    "plugintype": {
+        "type": "webservice",
+        "name": "Webservice protocol"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/webservice_xmlrpc",
+    "shortdescription": "Integrate Moodle with other systems using the XML-RPC protocol.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 November 2022, 1:38 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-09T01:38:06+08:00"
+    },
+    "aggsites": "212",
+    "aggdownloads": "166",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3022/xmlrpc.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3022/xmlrpc.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3022/manage_protocols.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1455465,
+            "firstname": "Moodle",
+            "lastname": "HQ",
+            "url": "https://moodle.org/user/profile.php?id=1455465"
+        }
+    ],
+    "descriptors": []
+}

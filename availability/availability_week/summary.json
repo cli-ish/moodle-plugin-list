@@ -1,0 +1,45 @@
+{
+    "id": 1654,
+    "index": 1418,
+    "name": "Restriction by week from start",
+    "frankenstyle": "availability_week",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_week",
+    "shortdescription": "This availability plugin allows opening activites or sections with a relative week shift from course opening date.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 September 2016, 6:05 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-20T06:05:38+08:00"
+    },
+    "aggsites": "33",
+    "aggdownloads": "14",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1654/availability_week_en.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

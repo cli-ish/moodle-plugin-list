@@ -1,0 +1,50 @@
+{
+    "id": 1829,
+    "index": 388,
+    "name": "Delete courses",
+    "frankenstyle": "tool_deletecourses",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_deletecourses",
+    "shortdescription": "This admin tool allows managers to delete all courses in a category (including subcategories if desired). The tool may optionally bypass the recycle bin for improved performance.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 13 April 2022, 4:00 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-13T04:00:49+08:00"
+    },
+    "aggsites": "674",
+    "aggdownloads": "320",
+    "aggfavs": "21",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1829/deletecourses-confirmation.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1829/deletecourses-message.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2857,
+    "index": 802,
+    "name": "Guestcourses",
+    "frankenstyle": "block_guestcourses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_guestcourses",
+    "shortdescription": "Block that lists courses that supports guestlogin",
+    "timelastreleased": {
+        "absdate": "Tuesday, 3 May 2022, 3:47 AM",
+        "reldate": "15 months",
+        "iso8601date": "2022-05-03T03:47:16+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "124",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2857/guestcourses.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2857/guestcourses.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2857/guestcourses.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1028581,
+            "firstname": "Andreas",
+            "lastname": "Schenkel",
+            "url": "https://moodle.org/user/profile.php?id=1028581"
+        }
+    ],
+    "descriptors": []
+}

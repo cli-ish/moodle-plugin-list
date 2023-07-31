@@ -1,0 +1,72 @@
+[
+    {
+        "id": "26415",
+        "name": "v2.3-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/26415/block_workflow_moodle38_2018020704.zip"
+    },
+    {
+        "id": "23126",
+        "name": "v2.2-for-moodle-3.9",
+        "url": "https://moodle.org/plugins/download.php/23126/block_workflow_moodle29_2015110106.zip"
+    },
+    {
+        "id": "21890",
+        "name": "v2.1-for-moodle-3.7",
+        "url": "https://moodle.org/plugins/download.php/21890/block_workflow_moodle37_2018010301.zip"
+    },
+    {
+        "id": "20518",
+        "name": "v1.9-for-moodle-3.5",
+        "url": "https://moodle.org/plugins/download.php/20518/block_workflow_moodle35_2020070105.zip"
+    },
+    {
+        "id": "18316",
+        "name": "v1.8-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/18316/block_workflow_moodle26_2011080801.zip"
+    },
+    {
+        "id": "11896",
+        "name": "v1.6-for-moodle-3.0",
+        "url": "https://moodle.org/plugins/download.php/11896/block_workflow_moodle38_2013040811.zip"
+    },
+    {
+        "id": "8509",
+        "name": "v1.5-for-moodle-2.7",
+        "url": "https://moodle.org/plugins/download.php/8509/block_workflow_moodle38_2013100605.zip"
+    },
+    {
+        "id": "6049",
+        "name": "v1.3-for-moodle-2.4",
+        "url": "https://moodle.org/plugins/download.php/6049/block_workflow_moodle36_2011061216.zip"
+    },
+    {
+        "id": "2349",
+        "name": "v1.1-for-moodle-2.2",
+        "url": "https://moodle.org/plugins/download.php/2349/block_workflow_moodle33_2011060211.zip"
+    },
+    {
+        "id": "21886",
+        "name": "v2.0-for-moodle-3.7",
+        "url": "https://moodle.org/plugins/download.php/21886/block_workflow_moodle33_2023031206.zip"
+    },
+    {
+        "id": "17607",
+        "name": "v1.7-for-moodle-3.0",
+        "url": "https://moodle.org/plugins/download.php/17607/block_workflow_moodle27_2013060702.zip"
+    },
+    {
+        "id": "7237",
+        "name": "v1.4-for-moodle-2.7",
+        "url": "https://moodle.org/plugins/download.php/7237/block_workflow_moodle39_2022051005.zip"
+    },
+    {
+        "id": "3685",
+        "name": "v1.2-for-moodle-2.4",
+        "url": "https://moodle.org/plugins/download.php/3685/block_workflow_moodle34_2012080312.zip"
+    },
+    {
+        "id": "1217",
+        "name": "v1",
+        "url": "https://moodle.org/plugins/download.php/1217/block_workflow_moodle29_2023101103.zip"
+    }
+]

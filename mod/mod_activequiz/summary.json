@@ -1,0 +1,67 @@
+{
+    "id": 1416,
+    "index": 644,
+    "name": "Active quiz",
+    "frankenstyle": "mod_activequiz",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_activequiz",
+    "shortdescription": "Active quiz started originally as an update to the realtime quiz module, which has now grown into a separate module due to the very large functionality additions/changes.  You will be able to offer in class quizzes on any device using a responsive theme, any question type from the question bank, use timed/not timed questions, grades reported back to the grade book, group quizzing (with a group attendance feature), view student responses in real time to offer in-class discussion about the results, and more!",
+    "timelastreleased": {
+        "absdate": "Sunday, 15 January 2017, 3:07 AM",
+        "reldate": "7 years",
+        "iso8601date": "2017-01-15T03:07:38+08:00"
+    },
+    "aggsites": "1355",
+    "aggdownloads": "167",
+    "aggfavs": "93",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1416/askquestion.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1416/add.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1416/addquestions.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1416/mc%20display%20results.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1416/poodll%20drawing%20results.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1416/review%20attempt.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1416/startquizpage.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1416/view%20responses.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1619455,
+            "firstname": "John",
+            "lastname": "Hoopes",
+            "url": "https://moodle.org/user/profile.php?id=1619455"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

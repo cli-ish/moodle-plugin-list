@@ -1,0 +1,40 @@
+{
+    "id": 2054,
+    "index": 2057,
+    "name": "Open Courses",
+    "frankenstyle": "block_open_courses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_open_courses",
+    "shortdescription": "A tiny block that displays all courses a user can view but is not enrolled in (typically those are courses with open guest access).",
+    "timelastreleased": {
+        "absdate": "Thursday, 26 April 2018, 6:00 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-04-26T18:00:47+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "1",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2054/opencourses.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1565460,
+            "firstname": "stefan",
+            "lastname": "weber",
+            "url": "https://moodle.org/user/profile.php?id=1565460"
+        }
+    ],
+    "descriptors": []
+}

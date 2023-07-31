@@ -1,0 +1,58 @@
+{
+    "id": 1330,
+    "index": 2042,
+    "name": "Microsoft Services",
+    "frankenstyle": "local_microsoftservices",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_microsoftservices",
+    "shortdescription": "This plugin is a shell plugin that has dependencies on all Microsoft Services plugins. This helps keep related plugins together.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 20 July 2016, 3:15 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-07-20T03:15:24+08:00"
+    },
+    "aggsites": "118",
+    "aggdownloads": "1",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1330/Screenshot%202020-03-09%20at%2015.44.12.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1540471,
+            "firstname": "Enovation",
+            "lastname": "Dev Team",
+            "url": "https://moodle.org/user/profile.php?id=1540471"
+        },
+        {
+            "id": 1835508,
+            "firstname": "James",
+            "lastname": "McQuillan",
+            "url": "https://moodle.org/user/profile.php?id=1835508"
+        },
+        {
+            "id": 1977124,
+            "firstname": "Zion",
+            "lastname": "Brewer",
+            "url": "https://moodle.org/user/profile.php?id=1977124"
+        },
+        {
+            "id": 1937202,
+            "firstname": "Nima",
+            "lastname": "Mojgani",
+            "url": "https://moodle.org/user/profile.php?id=1937202"
+        }
+    ],
+    "descriptors": []
+}

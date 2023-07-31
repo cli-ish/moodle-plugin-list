@@ -1,0 +1,61 @@
+{
+    "id": 1250,
+    "index": 1659,
+    "name": "Meta-course synchronization to groups",
+    "frankenstyle": "local_metasync",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_metasync",
+    "shortdescription": "[SEEKING MAINTAINER] Metasync creates and populates groups in a course based on the enrollment of metalinked courses.",
+    "timelastreleased": {
+        "absdate": "Sunday, 13 May 2018, 11:30 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-13T23:30:01+08:00"
+    },
+    "aggsites": "48",
+    "aggdownloads": "7",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1250/metasync-add-courses-no-groups.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1250/metasync-groups-autocreated.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1425719,
+            "firstname": "Willy",
+            "lastname": "Lee",
+            "url": "https://moodle.org/user/profile.php?id=1425719"
+        },
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

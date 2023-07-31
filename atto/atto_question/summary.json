@@ -1,0 +1,40 @@
+{
+    "id": 1981,
+    "index": 1666,
+    "name": "question",
+    "frankenstyle": "atto_question",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_question",
+    "shortdescription": "Creates a button visible to teachers that inserts a text link, question number and display mode into Moodle editable text with delimiter tags which will be picked up by moodle_filter_simplequestion.",
+    "timelastreleased": {
+        "absdate": "Saturday, 2 December 2017, 11:42 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-12-02T11:42:46+08:00"
+    },
+    "aggsites": "34",
+    "aggdownloads": "7",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1981/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1981/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1981/atto_question_button.fw.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 40642,
+            "firstname": "Richard",
+            "lastname": "Jones",
+            "url": "https://moodle.org/user/profile.php?id=40642"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": 1735,
+    "index": 903,
+    "name": "Reset Completion",
+    "frankenstyle": "block_resetcompletion",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_resetcompletion",
+    "shortdescription": "This block allows students to reset their module and completion status of a course by themselves, in case they want to be recertified after a certain period of time after initial completion, or they want to retake the course from scratch.",
+    "timelastreleased": {
+        "absdate": "Friday, 11 November 2016, 4:32 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-11-11T04:32:27+08:00"
+    },
+    "aggsites": "75",
+    "aggdownloads": "92",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1735/resetdemo.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1735/resetdemo2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2142767,
+            "firstname": "Andrew",
+            "lastname": "P",
+            "url": "https://moodle.org/user/profile.php?id=2142767"
+        }
+    ],
+    "descriptors": []
+}

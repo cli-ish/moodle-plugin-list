@@ -1,0 +1,45 @@
+{
+    "id": 675,
+    "index": 1463,
+    "name": "Venus",
+    "frankenstyle": "theme_venus",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_venus",
+    "shortdescription": "Venus is a fluid-width 2 column theme based on Binarius, for Moodle 2.4. It is part of a series of ten 'Planet' themes intended to provide a choice of visually accessible and/or fun colour schemes.\r\n\r\nVenus is designed to provide a fun, high contrast interface, and in one word would be described as PINK. It also includes a 2.4 compatible version of the MoodleBar developed by Lewis Carr, and uses the autohide functionality for course editing buttons outlined by Frankie Kam.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 May 2013, 8:47 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-21T20:47:27+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "13",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/675/venus.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/675/venus.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/675/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1039666,
+            "firstname": "Gordon",
+            "lastname": "McLeod",
+            "url": "https://moodle.org/user/profile.php?id=1039666"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

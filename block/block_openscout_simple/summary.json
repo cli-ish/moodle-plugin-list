@@ -1,0 +1,45 @@
+{
+    "id": 301,
+    "index": 1892,
+    "name": "OpenScout Search",
+    "frankenstyle": "block_openscout_simple",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_openscout_simple",
+    "shortdescription": "OpenScout Simple Search Box",
+    "timelastreleased": {
+        "absdate": "Thursday, 28 June 2012, 7:46 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-28T19:46:28+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "4",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1363810,
+            "firstname": "Ricardo",
+            "lastname": "Kawase",
+            "url": "https://moodle.org/user/profile.php?id=1363810"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

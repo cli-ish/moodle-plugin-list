@@ -1,0 +1,47 @@
+{
+    "id": 2073,
+    "index": 1140,
+    "name": "Simple lesson",
+    "frankenstyle": "mod_simplelesson",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_simplelesson",
+    "shortdescription": "Simple Lesson has features in common with Book, Lesson and Quiz. It has been designed as a formative assessment tool. For summative assessment Quiz and Lesson have more features such as timing and access restrictions.",
+    "timelastreleased": {
+        "absdate": "Monday, 2 May 2022, 10:21 AM",
+        "reldate": "15 months",
+        "iso8601date": "2022-05-02T10:21:44+08:00"
+    },
+    "aggsites": "171",
+    "aggdownloads": "32",
+    "aggfavs": "25",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2073/icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2073/icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2073/add_question.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2073/EditLEsson.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2073/UserResponses.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 40642,
+            "firstname": "Richard",
+            "lastname": "Jones",
+            "url": "https://moodle.org/user/profile.php?id=40642"
+        }
+    ],
+    "descriptors": []
+}

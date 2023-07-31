@@ -1,0 +1,67 @@
+{
+    "id": 1562,
+    "index": 571,
+    "name": "Eduhub",
+    "frankenstyle": "theme_eduhub",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_eduhub",
+    "shortdescription": "Eduhub theme is fantastic theme for educational purpose. It has clean layout and awesome features on setting page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 24 January 2017, 4:54 PM",
+        "reldate": "7 years",
+        "iso8601date": "2017-01-24T16:54:19+08:00"
+    },
+    "aggsites": "319",
+    "aggdownloads": "206",
+    "aggfavs": "87",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1562/logo_0.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1562/logo_0.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1562/eduhub.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1562/Admin%20User%20Public%20profile%202016-03-17%2012-30-50.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1562/Course_-Educational-Depertment-2016-03-17-12-31-13.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1562/eduhub-new.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 214220,
+            "firstname": "suman",
+            "lastname": "bogati",
+            "url": "https://moodle.org/user/profile.php?id=214220"
+        },
+        {
+            "id": 1565346,
+            "firstname": "Susmita",
+            "lastname": "Dhar",
+            "url": "https://moodle.org/user/profile.php?id=1565346"
+        },
+        {
+            "id": 1486470,
+            "firstname": "vishram",
+            "lastname": "yadav",
+            "url": "https://moodle.org/user/profile.php?id=1486470"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

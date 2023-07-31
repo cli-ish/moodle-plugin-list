@@ -1,0 +1,59 @@
+{
+    "id": 1579,
+    "index": 953,
+    "name": "Board",
+    "frankenstyle": "format_board",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_board",
+    "shortdescription": "\"Board\" (Grids and Blocks) is a course format in grid for Moodle 2.8 or later with full flexibility between sections and columns.\r\nYou can choose quantity and width of columns and quantity of sections in each column.",
+    "timelastreleased": {
+        "absdate": "Thursday, 7 December 2017, 10:10 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-12-07T22:10:03+08:00"
+    },
+    "aggsites": "923",
+    "aggdownloads": "68",
+    "aggfavs": "65",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1579/board-course.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1579/board-course.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1579/print_main.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1579/print_1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1579/print_2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1579/print_3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1579/screen1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1579/screen2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1579/screen3.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 969214,
+            "firstname": "Rodrigo",
+            "lastname": "Brand\u00e3o",
+            "url": "https://moodle.org/user/profile.php?id=969214"
+        }
+    ],
+    "descriptors": []
+}

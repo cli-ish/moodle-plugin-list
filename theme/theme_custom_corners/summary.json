@@ -1,0 +1,45 @@
+{
+    "id": 276,
+    "index": 1503,
+    "name": "Custom Corners",
+    "frankenstyle": "theme_custom_corners",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_custom_corners",
+    "shortdescription": "Custom Corners is a three column Moodle 2.2 theme based on the original Moodle 1.9 Custom Corners theme by Use Hunkler",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 March 2012, 10:20 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-20T10:20:41+08:00"
+    },
+    "aggsites": "26",
+    "aggdownloads": "11",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/276/icon.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/276/icon.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/276/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

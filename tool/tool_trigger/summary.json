@@ -1,0 +1,50 @@
+{
+    "id": 2062,
+    "index": 877,
+    "name": "Event Trigger",
+    "frankenstyle": "tool_trigger",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_trigger",
+    "shortdescription": "This plugin plugin allows site administrators to trigger external actions such as an http request or email when certain events happen in Moodle. Filters can be added to check if the event meets certain conditions and actions(email/http post) can include information contained within the Moodle event. Lookups can also be added to the workflow to allow information not contained within the Moodle event to be exposed to the external action.",
+    "timelastreleased": {
+        "absdate": "Thursday, 4 March 2021, 6:55 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-04T18:55:34+08:00"
+    },
+    "aggsites": "621",
+    "aggdownloads": "104",
+    "aggfavs": "60",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2062/addnewworkflow.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2062/Selection_085.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2062/Selection_086.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2062/Selection_087.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": 1543,
+    "index": 1399,
+    "name": "Teaching Team",
+    "frankenstyle": "block_teaching_team",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_teaching_team",
+    "shortdescription": "Teaching Team is a block that displays profile pictures and contact details of the academic and support staff.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 8 December 2015, 4:27 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-12-08T16:27:48+08:00"
+    },
+    "aggsites": "192",
+    "aggdownloads": "14",
+    "aggfavs": "26",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1543/Screen%20Shot%202015-12-08%20at%207.23.28%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1543/Screen%20Shot%202015-12-08%20at%207.26.35%20PM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1748832,
+            "firstname": "Mikhail",
+            "lastname": "Janowski",
+            "url": "https://moodle.org/user/profile.php?id=1748832"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

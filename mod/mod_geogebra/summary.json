@@ -1,0 +1,64 @@
+{
+    "id": 150,
+    "index": 206,
+    "name": "GeoGebra",
+    "frankenstyle": "mod_geogebra",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_geogebra",
+    "shortdescription": "This module allows the incorporation of GeoGebra activities in Moodle and save its state.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 March 2023, 9:52 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-21T21:52:44+08:00"
+    },
+    "aggsites": "3431",
+    "aggdownloads": "609",
+    "aggfavs": "80",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/150/290px-Geogebra.svg.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/150/290px-Geogebra.svg.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/150/geogebra_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/150/geogebra_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/150/geogebra_3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1394459,
+            "firstname": "Projectes TAC",
+            "lastname": "Dep. Educaci\u00f3 Catalunya",
+            "url": "https://moodle.org/user/profile.php?id=1394459"
+        },
+        {
+            "id": 119927,
+            "firstname": "Sara",
+            "lastname": "Arjona T\u00e9llez",
+            "url": "https://moodle.org/user/profile.php?id=119927"
+        },
+        {
+            "id": 1018346,
+            "firstname": "Pau",
+            "lastname": "Ferrer Oca\u00f1a",
+            "url": "https://moodle.org/user/profile.php?id=1018346"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

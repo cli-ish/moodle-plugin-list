@@ -1,0 +1,57 @@
+{
+    "id": 1229,
+    "index": 92,
+    "name": "Course size",
+    "frankenstyle": "report_coursesize",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_coursesize",
+    "shortdescription": "This plugin provides approximate disk usage by Moodle courses.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 11 January 2023, 6:22 AM",
+        "reldate": "7 months",
+        "iso8601date": "2023-01-11T06:22:20+08:00"
+    },
+    "aggsites": "5689",
+    "aggdownloads": "1k",
+    "aggfavs": "94",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1229/coursesize.gif?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 108787,
+            "firstname": "Peter",
+            "lastname": "Bulmer",
+            "url": "https://moodle.org/user/profile.php?id=108787"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 1868,
+    "index": 978,
+    "name": "LinkAdv",
+    "frankenstyle": "atto_linkadv",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_linkadv",
+    "shortdescription": "This is an atto plugin for Moodle which is a drop-in replacement for the default atto_link plugin.\r\n\r\nIt adds an extra couple of fields to the link dialog: id and class. These allow the user to create bookmarks or add styles to their links (e.g. btn btn-primary for Bootstrap-based themes).",
+    "timelastreleased": {
+        "absdate": "Wednesday, 2 June 2021, 4:23 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-02T16:23:54+08:00"
+    },
+    "aggsites": "221",
+    "aggdownloads": "61",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1868/add-bookmark.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1868/add-class.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1868/add-id.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1868/link-button.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1868/url.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1602637,
+            "firstname": "Mark",
+            "lastname": "Sharp",
+            "url": "https://moodle.org/user/profile.php?id=1602637"
+        }
+    ],
+    "descriptors": []
+}

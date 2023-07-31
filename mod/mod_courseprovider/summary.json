@@ -1,0 +1,45 @@
+{
+    "id": 618,
+    "index": 2087,
+    "name": "courseprovider",
+    "frankenstyle": "mod_courseprovider",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_courseprovider",
+    "shortdescription": "1.This Plugin lets you add a link to the courses available on other LMS in your Course as an Activity Link.\r\n2.This activity lets users to view the courses available in other LMS websites.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 12 February 2013, 11:20 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-02-12T23:20:13+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "1",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/618/logo-4jan.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/618/logo-4jan.jpg?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1391700,
+            "firstname": "Pramod",
+            "lastname": "eAbyas",
+            "url": "https://moodle.org/user/profile.php?id=1391700"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

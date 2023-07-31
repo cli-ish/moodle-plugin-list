@@ -1,0 +1,59 @@
+{
+    "id": 2129,
+    "index": 618,
+    "name": "Geolocation condition",
+    "frankenstyle": "availability_gps",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_gps",
+    "shortdescription": "This adds the availability condition by gps coordinates to sections and course modules. This plugin requires the block_gps plugin to work.",
+    "timelastreleased": {
+        "absdate": "Friday, 27 May 2022, 9:17 PM",
+        "reldate": "14 months",
+        "iso8601date": "2022-05-27T21:17:57+08:00"
+    },
+    "aggsites": "140",
+    "aggdownloads": "186",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2129/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2129/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2129/availability_gps.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2129/block_gps_modal.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2129/user-notification-banner.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        },
+        {
+            "id": 2827819,
+            "firstname": "Zentrum f\u00fcr",
+            "lastname": "Lernmanagement",
+            "url": "https://moodle.org/user/profile.php?id=2827819"
+        },
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": []
+}

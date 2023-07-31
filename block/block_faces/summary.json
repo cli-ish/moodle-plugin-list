@@ -1,0 +1,64 @@
+{
+    "id": 744,
+    "index": 1138,
+    "name": "Faces",
+    "frankenstyle": "block_faces",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_faces",
+    "shortdescription": "Faces is a simple block that allows you to print or view a collection of user profile pictures for your moodle course. Its very useful for those of us who need to put a name to a face. Faces can be viewed/printed for the entire class or by group. ",
+    "timelastreleased": {
+        "absdate": "Monday, 12 November 2018, 8:07 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-11-12T20:07:40+08:00"
+    },
+    "aggsites": "262",
+    "aggdownloads": "32",
+    "aggfavs": "58",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/744/faces_splash.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/744/faces_splash.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/744/faces_splash.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/744/faces1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/744/faces2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/744/faces3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/744/faces4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1181300,
+            "firstname": "Kyle",
+            "lastname": "Goslin",
+            "url": "https://moodle.org/user/profile.php?id=1181300"
+        },
+        {
+            "id": 250242,
+            "firstname": "Daniel",
+            "lastname": "Mc Sweeney",
+            "url": "https://moodle.org/user/profile.php?id=250242"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

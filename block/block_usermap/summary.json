@@ -1,0 +1,45 @@
+{
+    "id": 280,
+    "index": 1874,
+    "name": "Track the user location",
+    "frankenstyle": "block_usermap",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_usermap",
+    "shortdescription": "This plugin track the user current location",
+    "timelastreleased": {
+        "absdate": "Wednesday, 21 March 2012, 11:23 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-21T23:23:21+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/280/usermap.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1438291,
+            "firstname": "Nitin",
+            "lastname": "Tatte",
+            "url": "https://moodle.org/user/profile.php?id=1438291"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

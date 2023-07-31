@@ -1,0 +1,42 @@
+[
+    {
+        "id": "27506",
+        "name": "2022090700-release",
+        "url": "https://moodle.org/plugins/download.php/27506/tinymce_panoptobutton_moodle39_2017051013.zip"
+    },
+    {
+        "id": "20745",
+        "name": "2019120300-optional-release",
+        "url": "https://moodle.org/plugins/download.php/20745/tinymce_panoptobutton_moodle26_2016070520.zip"
+    },
+    {
+        "id": "15845",
+        "name": "2018011800",
+        "url": "https://moodle.org/plugins/download.php/15845/tinymce_panoptobutton_moodle27_2018050519.zip"
+    },
+    {
+        "id": "13299",
+        "name": "2017012500",
+        "url": "https://moodle.org/plugins/download.php/13299/tinymce_panoptobutton_moodle37_2016070811.zip"
+    },
+    {
+        "id": "27019",
+        "name": "2022070700-release",
+        "url": "https://moodle.org/plugins/download.php/27019/tinymce_panoptobutton_moodle29_2019031220.zip"
+    },
+    {
+        "id": "20103",
+        "name": "2019081200-release",
+        "url": "https://moodle.org/plugins/download.php/20103/tinymce_panoptobutton_moodle32_2016120104.zip"
+    },
+    {
+        "id": "15565",
+        "name": "2017120500-beta-release",
+        "url": "https://moodle.org/plugins/download.php/15565/tinymce_panoptobutton_moodle29_2016080913.zip"
+    },
+    {
+        "id": "12859",
+        "name": "2016120900",
+        "url": "https://moodle.org/plugins/download.php/12859/tinymce_panoptobutton_moodle34_2018050102.zip"
+    }
+]

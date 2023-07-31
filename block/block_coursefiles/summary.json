@@ -1,0 +1,49 @@
+{
+    "id": 1351,
+    "index": 949,
+    "name": "Course Files",
+    "frankenstyle": "block_coursefiles",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_coursefiles",
+    "shortdescription": "This block provides information on the file usage on a given course.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 February 2017, 8:38 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-02-28T20:38:56+08:00"
+    },
+    "aggsites": "195",
+    "aggdownloads": "70",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1351/Screen%20Shot%202015-02-05%20at%2012.40.06.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1351/Screen%20Shot%202015-02-11%20at%2011.45.57.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1398399,
+            "firstname": "Andrew",
+            "lastname": "Davidson",
+            "url": "https://moodle.org/user/profile.php?id=1398399"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

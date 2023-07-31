@@ -1,0 +1,59 @@
+{
+    "id": 2802,
+    "index": 685,
+    "name": "TCPDF Fonts",
+    "frankenstyle": "tool_tcpdffonts",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_tcpdffonts",
+    "shortdescription": "TCPDF Fonts Manager for Moodle",
+    "timelastreleased": {
+        "absdate": "Monday, 15 November 2021, 5:58 PM",
+        "reldate": "21 months",
+        "iso8601date": "2021-11-15T17:58:21+08:00"
+    },
+    "aggsites": "319",
+    "aggdownloads": "152",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2802/1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2802/2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2802/3.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2802/4.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2802/5.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1911653,
+            "firstname": "Rogier",
+            "lastname": "van Dongen",
+            "url": "https://moodle.org/user/profile.php?id=1911653"
+        },
+        {
+            "id": 1880313,
+            "firstname": "Sebsoft",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=1880313"
+        }
+    ],
+    "descriptors": []
+}

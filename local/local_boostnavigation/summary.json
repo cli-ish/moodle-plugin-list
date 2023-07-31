@@ -1,0 +1,59 @@
+{
+    "id": 1820,
+    "index": 195,
+    "name": "Boost navigation fumbling",
+    "frankenstyle": "local_boostnavigation",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_boostnavigation",
+    "shortdescription": "Moodle plugin which tries to overcome some fixed appearance behaviours of Boost's nav drawer in a clean way",
+    "timelastreleased": {
+        "absdate": "Thursday, 7 July 2022, 12:51 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-07T12:51:21+08:00"
+    },
+    "aggsites": "4590",
+    "aggdownloads": "635",
+    "aggfavs": "149",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1820/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1820/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1820/screenshot-collapse.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1820/screenshot-custom-nodes.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1820/screenshot-editing.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1820/screenshot-remove-nodes.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1820/screenshot-special-course-nodes.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

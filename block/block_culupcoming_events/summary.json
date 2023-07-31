@@ -1,0 +1,55 @@
+{
+    "id": 1286,
+    "index": 372,
+    "name": "CUL Upcoming events",
+    "frankenstyle": "block_culupcoming_events",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_culupcoming_events",
+    "shortdescription": "A block that is similar to the core Moodle Upcoming Events Blocks but displays the events in a news feed style.",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 June 2022, 11:47 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-25T23:47:56+08:00"
+    },
+    "aggsites": "103",
+    "aggdownloads": "340",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1286/culupcomingevents.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1062329,
+            "firstname": "Amanda",
+            "lastname": "Doughty",
+            "url": "https://moodle.org/user/profile.php?id=1062329"
+        },
+        {
+            "id": 620936,
+            "firstname": "Tim",
+            "lastname": "Gagen",
+            "url": "https://moodle.org/user/profile.php?id=620936"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

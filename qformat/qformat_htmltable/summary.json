@@ -1,0 +1,45 @@
+{
+    "id": 998,
+    "index": 1591,
+    "name": "HTML Review Page Export (Question Format)",
+    "frankenstyle": "qformat_htmltable",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_htmltable",
+    "shortdescription": "HTML review table is a format suitable for quick review of questions (including metadata) in a question bank category.",
+    "timelastreleased": {
+        "absdate": "Sunday, 6 November 2016, 12:56 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-11-06T00:56:14+08:00"
+    },
+    "aggsites": "92",
+    "aggdownloads": "8",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/998/mcq_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 726938,
+            "firstname": "Eoin",
+            "lastname": "Campbell",
+            "url": "https://moodle.org/user/profile.php?id=726938"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": 1642,
+    "index": 730,
+    "name": "Course Merge Helper",
+    "frankenstyle": "local_course_merge",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_course_merge",
+    "shortdescription": "This local module allows teachers to create a new course shell from existing courses using the Course Meta Link enrollment method.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 10 November 2020, 2:20 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-11-10T02:20:08+08:00"
+    },
+    "aggsites": "160",
+    "aggdownloads": "139",
+    "aggfavs": "32",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1642/example1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

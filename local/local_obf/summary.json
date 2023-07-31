@@ -1,0 +1,61 @@
+{
+    "id": 1455,
+    "index": 362,
+    "name": "Open Badge Factory",
+    "frankenstyle": "local_obf",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_obf",
+    "shortdescription": "Issue Open Badges created in Open Badge Factory from Moodle, and display badges issued to users.",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 April 2023, 5:56 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-20T17:56:56+08:00"
+    },
+    "aggsites": "529",
+    "aggdownloads": "353",
+    "aggfavs": "42",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1455/Moodle-screenshot1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1455/Moodle-screenshot2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1966880,
+            "firstname": "OBF",
+            "lastname": "Admin",
+            "url": "https://moodle.org/user/profile.php?id=1966880"
+        },
+        {
+            "id": 4325343,
+            "firstname": "Antti",
+            "lastname": "Koskinen",
+            "url": "https://moodle.org/user/profile.php?id=4325343"
+        },
+        {
+            "id": 4666468,
+            "firstname": "Emilie",
+            "lastname": "Lenel",
+            "url": "https://moodle.org/user/profile.php?id=4666468"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

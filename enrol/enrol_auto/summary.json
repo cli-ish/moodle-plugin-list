@@ -1,0 +1,51 @@
+{
+    "id": 1202,
+    "index": 573,
+    "name": "Auto enrolment",
+    "frankenstyle": "enrol_auto",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_auto",
+    "shortdescription": "This plugin allows for an enrolment into a course to occur automatically when a user views a course or course activity/resource. The plugin can also be configured to enrol a user upon login.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 10 April 2019, 4:35 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-04-10T04:35:53+08:00"
+    },
+    "aggsites": "1318",
+    "aggdownloads": "205",
+    "aggfavs": "92",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1202/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1159930,
+            "firstname": "Eugene",
+            "lastname": "Venter",
+            "url": "https://moodle.org/user/profile.php?id=1159930"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

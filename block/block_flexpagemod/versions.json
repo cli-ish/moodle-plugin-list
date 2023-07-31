@@ -1,0 +1,57 @@
+[
+    {
+        "id": "14451",
+        "name": "3.2.3",
+        "url": "https://moodle.org/plugins/download.php/14451/block_flexpagemod_moodle35_2019031209.zip"
+    },
+    {
+        "id": "13135",
+        "name": "3.1.3",
+        "url": "https://moodle.org/plugins/download.php/13135/block_flexpagemod_moodle26_2017080113.zip"
+    },
+    {
+        "id": "11835",
+        "name": "3.0.4-build-20160509",
+        "url": "https://moodle.org/plugins/download.php/11835/block_flexpagemod_moodle34_2012061220.zip"
+    },
+    {
+        "id": "10465",
+        "name": "2.9.3-build-20160204",
+        "url": "https://moodle.org/plugins/download.php/10465/block_flexpagemod_moodle29_2021060920.zip"
+    },
+    {
+        "id": "8985",
+        "name": "2.8.0-build-20150708",
+        "url": "https://moodle.org/plugins/download.php/8985/block_flexpagemod_moodle30_2021050705.zip"
+    },
+    {
+        "id": "7767",
+        "name": "2.7.0-build-20141229",
+        "url": "https://moodle.org/plugins/download.php/7767/block_flexpagemod_moodle25_2011111110.zip"
+    },
+    {
+        "id": "6662",
+        "name": "2.6.0-build-20140603",
+        "url": "https://moodle.org/plugins/download.php/6662/block_flexpagemod_moodle40_2013010405.zip"
+    },
+    {
+        "id": "5246",
+        "name": "2.5.0-build-20131227",
+        "url": "https://moodle.org/plugins/download.php/5246/block_flexpagemod_moodle35_2010070607.zip"
+    },
+    {
+        "id": "3014",
+        "name": "2.4.0-build-20130711",
+        "url": "https://moodle.org/plugins/download.php/3014/block_flexpagemod_moodle40_2022030700.zip"
+    },
+    {
+        "id": "2075",
+        "name": "2.3.0-build-20121228",
+        "url": "https://moodle.org/plugins/download.php/2075/block_flexpagemod_moodle32_2016080802.zip"
+    },
+    {
+        "id": "978",
+        "name": "2.2.0-build-20120629",
+        "url": "https://moodle.org/plugins/download.php/978/block_flexpagemod_moodle35_2015040306.zip"
+    }
+]

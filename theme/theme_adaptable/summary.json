@@ -1,0 +1,85 @@
+{
+    "id": 1552,
+    "index": 3,
+    "name": "Adaptable",
+    "frankenstyle": "theme_adaptable",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_adaptable",
+    "shortdescription": "Adaptable is a highly customisable responsive two column theme designed for use on both large University installations as well as small training companies.",
+    "timelastreleased": {
+        "absdate": "Monday, 8 May 2023, 4:39 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-08T04:39:03+08:00"
+    },
+    "aggsites": "19481",
+    "aggdownloads": "8k",
+    "aggfavs": "685",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1552/adaptable-logo-version-moodle.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1552/adaptable-logo-version-moodle.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1552/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1552/01-adaptable-template-one.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1552/01-adaptable-template-two.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1552/adaptable-alerts.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1552/adaptable-fonts.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1552/adaptable-front-page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1552/adaptable-mobile-social-on.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1552/adaptable-two.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1552/block-region-builder.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1552/block-region-front-page.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 230467,
+            "firstname": "Jez",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=230467"
+        },
+        {
+            "id": 2227655,
+            "firstname": "Manoj",
+            "lastname": "Solanki",
+            "url": "https://moodle.org/user/profile.php?id=2227655"
+        },
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 1917,
+    "index": 130,
+    "name": "Course recompletion",
+    "frankenstyle": "local_recompletion",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_recompletion",
+    "shortdescription": "This plugin adds course level settings for recompletion - clearing all course and activity completion for a user based on the duration set notifying the student they need to return to the course and recomplete it.",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 June 2023, 8:18 AM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-08T08:18:21+08:00"
+    },
+    "aggsites": "1047",
+    "aggdownloads": "925",
+    "aggfavs": "86",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1917/recompletionsummary.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

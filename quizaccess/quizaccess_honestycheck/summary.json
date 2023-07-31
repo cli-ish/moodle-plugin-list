@@ -1,0 +1,49 @@
+{
+    "id": 611,
+    "index": 328,
+    "name": "Acknowledge plagiarism statement access rule",
+    "frankenstyle": "quizaccess_honestycheck",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_honestycheck",
+    "shortdescription": "This Quiz access rule plugin lets you require students to agree to a statement about not plagiarising before starting a quiz.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 17 May 2023, 8:16 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-17T20:16:25+08:00"
+    },
+    "aggsites": "655",
+    "aggdownloads": "406",
+    "aggfavs": "31",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/611/honestycheck.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 831,
+    "index": 1529,
+    "name": "Question Practice",
+    "frankenstyle": "mod_qpractice",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_qpractice",
+    "shortdescription": "A teacher sets up a bank of questions organised into categories. Then the student can then choose what categories they want to practice when. ",
+    "timelastreleased": {
+        "absdate": "Saturday, 3 December 2016, 2:54 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-03T02:54:53+08:00"
+    },
+    "aggsites": "42",
+    "aggdownloads": "10",
+    "aggfavs": "22",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/831/questionpracticelogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/831/questionpracticelogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/831/create_session2.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2246,
+            "firstname": "Marcus",
+            "lastname": "Green",
+            "url": "https://moodle.org/user/profile.php?id=2246"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 329,
+    "index": 1391,
+    "name": "laura",
+    "frankenstyle": "theme_laura",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_laura",
+    "shortdescription": "Laura is a Modified Moodle Theme designed and tested for Moodle 2.2 by Fernando Casas Osorio from an original Moodle 1.9 theme (primary-school) designed by ThemZa.com http://www.themza.com ",
+    "timelastreleased": {
+        "absdate": "Friday, 6 July 2012, 3:17 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-07-06T03:17:16+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "15",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/329/Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/329/Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/329/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1458678,
+            "firstname": "Fernando",
+            "lastname": "Casas Osorio",
+            "url": "https://moodle.org/user/profile.php?id=1458678"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

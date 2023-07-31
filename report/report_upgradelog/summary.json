@@ -1,0 +1,40 @@
+{
+    "id": 2361,
+    "index": 774,
+    "name": "Upgrade log",
+    "frankenstyle": "report_upgradelog",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_upgradelog",
+    "shortdescription": "Report listing Moodle upgrade history for your site.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 April 2023, 9:14 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-24T21:14:42+08:00"
+    },
+    "aggsites": "197",
+    "aggdownloads": "128",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2361/Upgrade%20log.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 219220,
+            "firstname": "Paul",
+            "lastname": "Holden",
+            "url": "https://moodle.org/user/profile.php?id=219220"
+        }
+    ],
+    "descriptors": []
+}

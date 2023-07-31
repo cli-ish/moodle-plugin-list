@@ -1,0 +1,50 @@
+{
+    "id": 2559,
+    "index": 1776,
+    "name": "Weather",
+    "frankenstyle": "block_weather",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_weather",
+    "shortdescription": "Weather is a Moodle block to show the realtime weather of the user using the geolocation.",
+    "timelastreleased": {
+        "absdate": "Friday, 25 December 2020, 12:08 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-12-25T00:08:49+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "5",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2559/block_weather.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2559/block_weather.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2559/block_weather_01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2559/block_weather_03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2559/block_weather_04.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2559/block_weather_05.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3375956,
+            "firstname": "A K M SAFAT",
+            "lastname": "SHAHIN",
+            "url": "https://moodle.org/user/profile.php?id=3375956"
+        }
+    ],
+    "descriptors": []
+}

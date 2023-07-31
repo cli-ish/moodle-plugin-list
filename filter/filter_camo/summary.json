@@ -1,0 +1,45 @@
+{
+    "id": 1499,
+    "index": 2082,
+    "name": "Camo",
+    "frankenstyle": "filter_camo",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_camo",
+    "shortdescription": "Moodle Filter to convert images to route through a camo proxy server",
+    "timelastreleased": {
+        "absdate": "Friday, 23 October 2015, 6:11 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-10-23T06:11:45+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "1",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1499/Capture1.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1461149,
+            "firstname": "Alex",
+            "lastname": "Rowe",
+            "url": "https://moodle.org/user/profile.php?id=1461149"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

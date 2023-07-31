@@ -1,0 +1,49 @@
+{
+    "id": 298,
+    "index": 1893,
+    "name": "Teacher Diary",
+    "frankenstyle": "mod_teacherdiary",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_teacherdiary",
+    "shortdescription": "Teacher diary allows teachers to write a summary for each lecture they have adding the amount of time they spent on that.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 4 July 2012, 11:19 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-07-04T23:19:25+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/298/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/298/icon.gif?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 20879,
+            "firstname": "Domenico",
+            "lastname": "Pontari",
+            "url": "https://moodle.org/user/profile.php?id=20879"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

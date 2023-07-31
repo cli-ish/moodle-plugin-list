@@ -1,0 +1,53 @@
+{
+    "id": 2886,
+    "index": 794,
+    "name": "Cardinity",
+    "frankenstyle": "paygw_cardinity",
+    "plugintype": {
+        "type": "paygw",
+        "name": "Payment gateway"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/paygw_cardinity",
+    "shortdescription": "Cardinity is a safe and cost-effective online payment solution for e-commerce businesses selling various products or providing services. Your customers will be able to buy products online with ease and security. Cardinity is available for EU merchants of different types: from low to high risk, from businesses to sole proprietors, from retail products to digital goods.\r\n\r\nCardinity is the best and simplest way to accept payments online in Europe. Cardinity aims to expand the infrastructure of internet commerce by making it easy to process transactions and manage an online business. For more detail about Cardinity please visit https://www.Cardinity.com/.",
+    "timelastreleased": {
+        "absdate": "Thursday, 15 September 2022, 5:45 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-15T17:45:27+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "125",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2886/download.jpeg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2886/download.jpeg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2886/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2886/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2886/3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2886/4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2886/5.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3524295,
+            "firstname": "Brain",
+            "lastname": "Station 23",
+            "url": "https://moodle.org/user/profile.php?id=3524295"
+        }
+    ],
+    "descriptors": []
+}

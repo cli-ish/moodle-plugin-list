@@ -1,0 +1,42 @@
+[
+    {
+        "id": "28970",
+        "name": "3.8.5-build-2023041100",
+        "url": "https://moodle.org/plugins/download.php/28970/mod_skype_moodle27_2011090613.zip"
+    },
+    {
+        "id": "26160",
+        "name": "3.8.1-build-2022031600",
+        "url": "https://moodle.org/plugins/download.php/26160/mod_skype_moodle35_2020100501.zip"
+    },
+    {
+        "id": "24032",
+        "name": "3.7.0-build-2021042800",
+        "url": "https://moodle.org/plugins/download.php/24032/mod_skype_moodle35_2021061111.zip"
+    },
+    {
+        "id": "12142",
+        "name": "v2.7-build-20140090700",
+        "url": "https://moodle.org/plugins/download.php/12142/mod_skype_moodle36_2011020514.zip"
+    },
+    {
+        "id": "28175",
+        "name": "3.8.4-build-2022120200",
+        "url": "https://moodle.org/plugins/download.php/28175/mod_skype_moodle37_2019040101.zip"
+    },
+    {
+        "id": "26945",
+        "name": "3.8.3-build-2022062900",
+        "url": "https://moodle.org/plugins/download.php/26945/mod_skype_moodle36_2018050507.zip"
+    },
+    {
+        "id": "23325",
+        "name": "3.6.1-build-2021012900",
+        "url": "https://moodle.org/plugins/download.php/23325/mod_skype_moodle30_2015030902.zip"
+    },
+    {
+        "id": "21558",
+        "name": "3.6.0-build-2020052000",
+        "url": "https://moodle.org/plugins/download.php/21558/mod_skype_moodle27_2023060109.zip"
+    }
+]

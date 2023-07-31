@@ -1,0 +1,40 @@
+{
+    "id": 3017,
+    "index": 819,
+    "name": "Percipio Home",
+    "frankenstyle": "block_percipio_home",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_percipio_home",
+    "shortdescription": "This plugin allows learners to go directly to the Percipio platform without having to launch content.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 October 2022, 7:31 PM",
+        "reldate": "9 months",
+        "iso8601date": "2022-10-18T19:31:36+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "122",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3017/Skillsoft-Percipio-Navy-RGB-_1_.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3017/Skillsoft-Percipio-Navy-RGB-_1_.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3017/Screenshot%202022-10-18%20at%205.07.01%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4789572,
+            "firstname": "Skillsoft",
+            "lastname": "Admin",
+            "url": "https://moodle.org/user/profile.php?id=4789572"
+        }
+    ],
+    "descriptors": []
+}

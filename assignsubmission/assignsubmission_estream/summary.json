@@ -1,0 +1,69 @@
+{
+    "id": 1409,
+    "index": 459,
+    "name": "Planet eStream Video Assignment Submission Plugin",
+    "frankenstyle": "assignsubmission_estream",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_estream",
+    "shortdescription": "This plugin enables teachers to incorporate video content within their Moodle assignments, and also for students to submit video responses \u2013 these are uploaded and securely stored on your Planet eStream media library rather than Moodle itself. ",
+    "timelastreleased": {
+        "absdate": "Friday, 31 March 2023, 8:09 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-31T20:09:28+08:00"
+    },
+    "aggsites": "201",
+    "aggdownloads": "258",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1409/230estream.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1409/230estream.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1409/Moodle%206.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1409/Moodle%201.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1409/Moodle%202.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1409/Moodle%203.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1409/Moodle%204.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1409/Moodle%205.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1519383,
+            "firstname": "Planet",
+            "lastname": "eStream",
+            "url": "https://moodle.org/user/profile.php?id=1519383"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

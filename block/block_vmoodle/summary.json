@@ -1,0 +1,40 @@
+{
+    "id": 429,
+    "index": 1411,
+    "name": "VMoodle",
+    "frankenstyle": "block_vmoodle",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_vmoodle",
+    "shortdescription": "VMoodle packs a Moodle Virtualisation toolset for running many independant or mnet bound moodles as an array.",
+    "timelastreleased": {
+        "absdate": "Saturday, 18 June 2016, 9:21 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-06-18T21:21:28+08:00"
+    },
+    "aggsites": "59",
+    "aggdownloads": "14",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/429/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/429/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/429/vmoodle_architecture_fr.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": []
+}

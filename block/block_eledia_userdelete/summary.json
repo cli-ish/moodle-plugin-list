@@ -1,0 +1,49 @@
+{
+    "id": 888,
+    "index": 1366,
+    "name": "Delete User by Maillist",
+    "frankenstyle": "block_eledia_userdelete",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_eledia_userdelete",
+    "shortdescription": "This plugin deletes user accounts based on a list of email addresses. The process runs in two steps. Entering the emails and lists the users up before you delete them.",
+    "timelastreleased": {
+        "absdate": "Saturday, 10 September 2022, 12:33 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-10T00:33:31+08:00"
+    },
+    "aggsites": "26",
+    "aggdownloads": "16",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/888/eledia-logo-mu_ohne_raender.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/888/eledia-logo-mu_ohne_raender.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/888/Confirm_Page.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/888/Mail_List.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1075745,
+            "firstname": "Benjamin",
+            "lastname": "Wolf",
+            "url": "https://moodle.org/user/profile.php?id=1075745"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

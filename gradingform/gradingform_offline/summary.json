@@ -1,0 +1,40 @@
+{
+    "id": 2713,
+    "index": 1513,
+    "name": "Offline",
+    "frankenstyle": "gradingform_offline",
+    "plugintype": {
+        "type": "gradingform",
+        "name": "Advanced grading method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradingform_offline",
+    "shortdescription": "This Advanced Grading plugin allows course administrators to submit rubrics they have created offline and have it automatically inserted into the system when uploaded to use for grading.",
+    "timelastreleased": {
+        "absdate": "Saturday, 1 May 2021, 4:52 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-01T16:52:23+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "11",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2713/Screenshot%20of%20Plugin.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4135992,
+            "firstname": "Zafeer",
+            "lastname": "Mohammed",
+            "url": "https://moodle.org/user/profile.php?id=4135992"
+        }
+    ],
+    "descriptors": []
+}

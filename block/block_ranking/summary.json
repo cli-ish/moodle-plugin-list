@@ -1,0 +1,68 @@
+{
+    "id": 1015,
+    "index": 379,
+    "name": "Ranking block",
+    "frankenstyle": "block_ranking",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_ranking",
+    "shortdescription": "A ranking block to improve the gamification into the course.",
+    "timelastreleased": {
+        "absdate": "Saturday, 6 May 2017, 1:00 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-05-06T13:00:57+08:00"
+    },
+    "aggsites": "1709",
+    "aggdownloads": "329",
+    "aggfavs": "106",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1015/ranking1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1015/ranking2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1015/ranking3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1015/ranking4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1015/ranking5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1015/Screen%20Shot%202016-12-07%20at%2014.43.23.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1015/Screen%20Shot%202016-12-07%20at%2014.43.35.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 968235,
+            "firstname": "Willian",
+            "lastname": "Mano",
+            "url": "https://moodle.org/user/profile.php?id=968235"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

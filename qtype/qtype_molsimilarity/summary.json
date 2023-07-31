@@ -1,0 +1,65 @@
+{
+    "id": 2904,
+    "index": 529,
+    "name": "Molsimilarity",
+    "frankenstyle": "qtype_molsimilarity",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_molsimilarity",
+    "shortdescription": "Moodle plugin allowing the teacher to ask a chemistry related question by drawing the expected answer. The student will answer by drawing the response.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 April 2023, 5:08 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-06T17:08:23+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "225",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2904/pictoS.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2904/pictoS.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2904/benpen_draft_v2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2904/benpen_feedback.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2904/benpen_student.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4051222,
+            "firstname": "Louis",
+            "lastname": "Plyer",
+            "url": "https://moodle.org/user/profile.php?id=4051222"
+        },
+        {
+            "id": 922669,
+            "firstname": "C\u00e9line",
+            "lastname": "Perves",
+            "url": "https://moodle.org/user/profile.php?id=922669"
+        },
+        {
+            "id": 4840075,
+            "firstname": "Gilles",
+            "lastname": "MARCOU",
+            "url": "https://moodle.org/user/profile.php?id=4840075"
+        },
+        {
+            "id": 5284753,
+            "firstname": "C\u00e9lien",
+            "lastname": "Jacquemard",
+            "url": "https://moodle.org/user/profile.php?id=5284753"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,71 @@
+{
+    "id": 2485,
+    "index": 463,
+    "name": "Help",
+    "frankenstyle": "local_edusupport",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_edusupport",
+    "shortdescription": "This plugin allows to manage a moodle based decentralized helpdesk with three support levels. It basically works with Moodle forums. The 1st level support works on course level, so you can create as many support courses as you like (in our case we have a bunch of schools in our Moodle, each school has its own support course).\r\n\r\nAll 2nd and 3rd level support members get access to certain discussions in those forums, after the 1st level support forwarded an issue.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 January 2022, 2:40 PM",
+        "reldate": "18 months",
+        "iso8601date": "2022-01-28T14:40:52+08:00"
+    },
+    "aggsites": "122",
+    "aggdownloads": "254",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2485/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2485/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2485/chooseforums.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2485/choosesupporters.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2485/help-button.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2485/help-modal.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2485/issue-discussion.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2485/issue-forward.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2485/issue-manage.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        },
+        {
+            "id": 2827819,
+            "firstname": "Zentrum f\u00fcr",
+            "lastname": "Lernmanagement",
+            "url": "https://moodle.org/user/profile.php?id=2827819"
+        },
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": []
+}

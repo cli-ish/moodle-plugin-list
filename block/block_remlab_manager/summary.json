@@ -1,0 +1,44 @@
+{
+    "id": 1666,
+    "index": 1605,
+    "name": "Remlab manager",
+    "frankenstyle": "block_remlab_manager",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_remlab_manager",
+    "shortdescription": "A Moodle block for managing and configuring remote labs and to be used with the EJSApp activity module plugin",
+    "timelastreleased": {
+        "absdate": "Friday, 22 November 2019, 12:28 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-11-22T00:28:34+08:00"
+    },
+    "aggsites": "44",
+    "aggdownloads": "8",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1666/ejsapp_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1666/ejsapp_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1666/block.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1666/form.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1291642,
+            "firstname": "Luis",
+            "lastname": "de la Torre",
+            "url": "https://moodle.org/user/profile.php?id=1291642"
+        }
+    ],
+    "descriptors": []
+}

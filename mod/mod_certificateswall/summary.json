@@ -1,0 +1,64 @@
+{
+    "id": 202,
+    "index": 1037,
+    "name": "Certificates Wall",
+    "frankenstyle": "mod_certificateswall",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_certificateswall",
+    "shortdescription": "The module makes a course completion certificate for students.\r\nThe certificate is issued to a student's wall on CertificatesWall.com . And the certificate can be printed (in format A4).",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 December 2012, 1:14 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-12-13T13:14:06+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "47",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/202/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/202/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/202/moodle1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/202/moodle2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/202/moodle3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/202/moodle4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/202/moodle5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/202/moodle6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/202/moodle8.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1408227,
+            "firstname": "Roman",
+            "lastname": "Gelembiuk",
+            "url": "https://moodle.org/user/profile.php?id=1408227"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

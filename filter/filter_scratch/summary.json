@@ -1,0 +1,45 @@
+{
+    "id": 195,
+    "index": 1009,
+    "name": "Scratch",
+    "frankenstyle": "filter_scratch",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_scratch",
+    "shortdescription": "The Scratch filter allows you to embed Scratch games into labels, forums, or web pages automatically - wherever you create a link to a .sb Scratch file that has been uploaded onto the Moodle server (either as an attachment to a forum post, or as a course file).",
+    "timelastreleased": {
+        "absdate": "Friday, 30 December 2011, 5:19 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-12-30T05:19:54+08:00"
+    },
+    "aggsites": "120",
+    "aggdownloads": "54",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/195/wikimedia-cc-by-sa-120px-Scratchcat.svg-2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/195/wikimedia-cc-by-sa-120px-Scratchcat.svg-2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/195/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 70180,
+            "firstname": "Ralf",
+            "lastname": "Krause",
+            "url": "https://moodle.org/user/profile.php?id=70180"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

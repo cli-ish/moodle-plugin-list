@@ -1,0 +1,44 @@
+{
+    "id": 2918,
+    "index": 639,
+    "name": "Advanced Grading report",
+    "frankenstyle": "report_advancedgrading",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_advancedgrading",
+    "shortdescription": "Report on assignments that have been graded using the advanced grading methods, Rubric or Marking Guide. Shows a breakdown of the grades and comments.\r\n\r\nCovers similar ground to\r\n\r\nhttps://github.com/pauln/moodle-report_componentgrades\r\n\r\nThe Rubric and Marking Guide breakdown reports can be reached from the course page by clicking on an assignment and selecting from this menu. The menu option shown will depend on the grading method of the assignment.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 July 2023, 2:56 AM",
+        "reldate": "4 days",
+        "iso8601date": "2023-07-27T02:56:10+08:00"
+    },
+    "aggsites": "106",
+    "aggdownloads": "170",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2918/advancedgrading_report_menu.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2918/rubric_report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2246,
+            "firstname": "Marcus",
+            "lastname": "Green",
+            "url": "https://moodle.org/user/profile.php?id=2246"
+        }
+    ],
+    "descriptors": []
+}

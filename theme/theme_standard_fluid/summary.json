@@ -1,0 +1,45 @@
+{
+    "id": 323,
+    "index": 1447,
+    "name": "Standard Fluid",
+    "frankenstyle": "theme_standard_fluid",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_standard_fluid",
+    "shortdescription": "Standard Fluid consists of a simple CSS File and extends the 'standard' theme to a fluid template.",
+    "timelastreleased": {
+        "absdate": "Friday, 18 May 2012, 5:56 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-05-18T17:56:54+08:00"
+    },
+    "aggsites": "45",
+    "aggdownloads": "13",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/323/screenshot.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/323/screenshot.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/323/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1434809,
+            "firstname": "Web ICT",
+            "lastname": "ZHAW",
+            "url": "https://moodle.org/user/profile.php?id=1434809"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

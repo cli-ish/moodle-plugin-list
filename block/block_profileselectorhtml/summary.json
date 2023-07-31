@@ -1,0 +1,40 @@
+{
+    "id": 807,
+    "index": 1985,
+    "name": "HTML (on profile field selector)",
+    "frankenstyle": "block_profileselectorhtml",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_profileselectorhtml",
+    "shortdescription": "This block is a combined variant of the profilespecifichtml block and the editablecontenthtml block. \r\n\r\nIt provides way to distribute specific content to several classes of users splitted by matching rules upon one or two profile fields (standard or customized).",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 July 2013, 10:07 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-07-30T22:07:40+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "2",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/807/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/807/logo.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": []
+}

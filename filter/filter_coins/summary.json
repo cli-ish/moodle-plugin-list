@@ -1,0 +1,51 @@
+{
+    "id": 303,
+    "index": 1578,
+    "name": "COinS",
+    "frankenstyle": "filter_coins",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_coins",
+    "shortdescription": "The point of the filter is to automatically link from citations to the full-text of articles online, using the OpenURL mechanism. One of the easiest ways to get COinS data into a Moodle page is to drag and drop a citation from the Zotero citation management software into the Moodle html editor. As long as Zotero is configured to 'Copy as HTML' in the 'Quick Copy' setting, this will include a COinS and formatted reference when you drag and drop into an HTML editor.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 24 September 2014, 1:41 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-09-24T13:41:17+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "9",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1641966,
+            "firstname": "Daniel",
+            "lastname": "Villareal",
+            "url": "https://moodle.org/user/profile.php?id=1641966"
+        },
+        {
+            "id": 40739,
+            "firstname": "Owen",
+            "lastname": "Stephens",
+            "url": "https://moodle.org/user/profile.php?id=40739"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

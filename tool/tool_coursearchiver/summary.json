@@ -1,0 +1,62 @@
+{
+    "id": 1506,
+    "index": 143,
+    "name": "Course Archiver",
+    "frankenstyle": "tool_coursearchiver",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_coursearchiver",
+    "shortdescription": "Archive and remove past courses with this handy tool that can also be used to send notifications to course teachers, hide courses in bulk, and has the ability for course teachers to opt out of the archiving.",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 July 2023, 3:44 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-13T03:44:00+08:00"
+    },
+    "aggsites": "763",
+    "aggdownloads": "839",
+    "aggfavs": "76",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1506/Annotation%202019-06-27%20161726.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1506/5%20archive%20view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1506/Screenshot%202022-10-04%20120820.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1506/Screenshot%202022-10-04%20121426.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1506/Screenshot%202022-10-04%20121636.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 226766,
+            "firstname": "Matthew",
+            "lastname": "Davidson",
+            "url": "https://moodle.org/user/profile.php?id=226766"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

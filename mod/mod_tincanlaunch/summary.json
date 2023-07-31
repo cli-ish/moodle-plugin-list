@@ -1,0 +1,56 @@
+{
+    "id": 811,
+    "index": 302,
+    "name": "xAPI Launch Link",
+    "frankenstyle": "mod_tincanlaunch",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_tincanlaunch",
+    "shortdescription": "Launch external xAPI (Tin Can) activities from Moodle and track on a Learning Record Store (LRS). Compatible with Storyline, Captivate, and others!",
+    "timelastreleased": {
+        "absdate": "Saturday, 15 April 2023, 4:25 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-15T04:25:40+08:00"
+    },
+    "aggsites": "421",
+    "aggdownloads": "437",
+    "aggfavs": "53",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/811/tincanlaunch1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/811/tincanlaunch2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/811/tincanlaunch3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 573814,
+            "firstname": "David",
+            "lastname": "Pesce",
+            "url": "https://moodle.org/user/profile.php?id=573814"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

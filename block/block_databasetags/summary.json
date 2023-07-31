@@ -1,0 +1,40 @@
+{
+    "id": 1511,
+    "index": 1672,
+    "name": "Database Tags",
+    "frankenstyle": "block_databasetags",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_databasetags",
+    "shortdescription": "The database tags block is a block that will display a tag cloud in a course. You can select any database instance within a course, and choose any checkbox, linked checkbox or database tag fields within those databases to be shown in the block. This is NOT linked to the Moodle Tags block- it only shows the tags created by the two new database fields.",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 November 2015, 10:31 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-11-19T22:31:17+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "7",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1396756,
+            "firstname": "Andrew",
+            "lastname": "Hancox",
+            "url": "https://moodle.org/user/profile.php?id=1396756"
+        }
+    ],
+    "descriptors": []
+}

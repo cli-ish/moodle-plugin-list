@@ -1,0 +1,40 @@
+{
+    "id": 2795,
+    "index": 1657,
+    "name": "Course list advanced (deprecated)",
+    "frankenstyle": "block_course_list_advanced",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_list_advanced",
+    "shortdescription": "(deprecated) Block that lists all enroled courses of a user and shows the roles the user is enrolled with. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 12 May 2022, 11:05 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-05-12T23:05:51+08:00"
+    },
+    "aggsites": "54",
+    "aggdownloads": "7",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2795/block_course_list_advanced.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1028581,
+            "firstname": "Andreas",
+            "lastname": "Schenkel",
+            "url": "https://moodle.org/user/profile.php?id=1028581"
+        }
+    ],
+    "descriptors": []
+}

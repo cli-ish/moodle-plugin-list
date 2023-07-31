@@ -1,0 +1,40 @@
+{
+    "id": 83,
+    "index": 1896,
+    "name": "ConfigTabs",
+    "frankenstyle": "local_configtabs",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_configtabs",
+    "shortdescription": "ConfigTabs is a local plugin that converts any configuration form in Moodle from a scrolled page to a tab view page.",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 September 2011, 5:53 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-09-29T17:53:04+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/83/800px-Configtabssample.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        }
+    ],
+    "descriptors": []
+}

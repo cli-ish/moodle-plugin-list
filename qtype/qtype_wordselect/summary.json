@@ -1,0 +1,49 @@
+{
+    "id": 1701,
+    "index": 289,
+    "name": "Word Select",
+    "frankenstyle": "qtype_wordselect",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_wordselect",
+    "shortdescription": "A very easy to use \"select the words\" Moodle question type.\r\n",
+    "timelastreleased": {
+        "absdate": "Sunday, 31 July 2022, 5:54 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-07-31T17:54:27+08:00"
+    },
+    "aggsites": "1473",
+    "aggdownloads": "445",
+    "aggfavs": "71",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1701/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1701/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1701/Wordselect_qtype_Aug-29-2018%2009-51-16.gif?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2246,
+            "firstname": "Marcus",
+            "lastname": "Green",
+            "url": "https://moodle.org/user/profile.php?id=2246"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

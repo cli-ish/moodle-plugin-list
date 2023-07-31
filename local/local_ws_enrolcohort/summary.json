@@ -1,0 +1,59 @@
+{
+    "id": 2110,
+    "index": 689,
+    "name": "Webservice functions for cohort enrolment",
+    "frankenstyle": "local_ws_enrolcohort",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_ws_enrolcohort",
+    "shortdescription": "A local plugin with webservice functions for managing cohort enrolments.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 June 2022, 9:58 AM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-28T09:58:57+08:00"
+    },
+    "aggsites": "132",
+    "aggdownloads": "151",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2110/external%20services.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2110/Example%20response%20-%20Add%20an%20instance.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2110/Example%20response%20-%20Delete%20an%20instance.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2110/Example%20response%20-%20Get%20instances.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2110/Example%20response%20-%20Update%20an%20instance.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2090443,
+            "firstname": "Donald",
+            "lastname": "Barrett",
+            "url": "https://moodle.org/user/profile.php?id=2090443"
+        },
+        {
+            "id": 2049685,
+            "firstname": "Learning",
+            "lastname": "Works",
+            "url": "https://moodle.org/user/profile.php?id=2049685"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,56 @@
+{
+    "id": 182,
+    "index": 1949,
+    "name": "On-site/Off-site",
+    "frankenstyle": "block_lanonly",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_lanonly",
+    "shortdescription": "A modified version of the HTML block that allows the block to change or hide depending on whether\r\nthe user is accessing the page though a local network, or the public Internet.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 4 January 2012, 5:08 PM",
+        "reldate": "12 years",
+        "iso8601date": "2012-01-04T17:08:38+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "3",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/182/lanonly4.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/182/lanonly4.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/182/lanonly1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/182/lanonly2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/182/lanonly3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 858318,
+            "firstname": "Mark",
+            "lastname": "Johnson",
+            "url": "https://moodle.org/user/profile.php?id=858318"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Offline"
+        }
+    ]
+}

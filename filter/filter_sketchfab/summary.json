@@ -1,0 +1,45 @@
+{
+    "id": 1381,
+    "index": 1745,
+    "name": "Sketchfab Filter",
+    "frankenstyle": "filter_sketchfab",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_sketchfab",
+    "shortdescription": "Replace Sketchfab image embeds with a 3D viewer",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 July 2015, 5:51 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-07-16T17:51:38+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "6",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1381/Screen%2BShot%2B2015-03-20%2Bat%2B11.03.42%2BAM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1755294,
+            "firstname": "Jetha",
+            "lastname": "Chan",
+            "url": "https://moodle.org/user/profile.php?id=1755294"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

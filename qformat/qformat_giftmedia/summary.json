@@ -1,0 +1,49 @@
+{
+    "id": 674,
+    "index": 427,
+    "name": "Gift with medias format",
+    "frankenstyle": "qformat_giftmedia",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_giftmedia",
+    "shortdescription": "Question import format similar to Gift and uses the same syntax, but instead of a text file it imports a zip file containing the gift text file and media files (images, sounds, ...);",
+    "timelastreleased": {
+        "absdate": "Sunday, 17 July 2022, 8:39 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-07-17T20:39:25+08:00"
+    },
+    "aggsites": "537",
+    "aggdownloads": "286",
+    "aggfavs": "38",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/674/giftmedia.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 8026,
+            "firstname": "Jean-Michel",
+            "lastname": "V\u00e9drine",
+            "url": "https://moodle.org/user/profile.php?id=8026"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+[
+    {
+        "id": "29554",
+        "name": "v4.2.1",
+        "url": "https://moodle.org/plugins/download.php/29554/local_downloadcenter_moodle26_2013020516.zip"
+    },
+    {
+        "id": "28183",
+        "name": "v4.1.0",
+        "url": "https://moodle.org/plugins/download.php/28183/local_downloadcenter_moodle35_2014120313.zip"
+    },
+    {
+        "id": "27429",
+        "name": "v4.0.1",
+        "url": "https://moodle.org/plugins/download.php/27429/local_downloadcenter_moodle33_2010120602.zip"
+    },
+    {
+        "id": "27428",
+        "name": "v3.11.2",
+        "url": "https://moodle.org/plugins/download.php/27428/local_downloadcenter_moodle31_2019060415.zip"
+    },
+    {
+        "id": "24115",
+        "name": "v3.10.1",
+        "url": "https://moodle.org/plugins/download.php/24115/local_downloadcenter_moodle34_2016021014.zip"
+    },
+    {
+        "id": "24114",
+        "name": "v3.9.1",
+        "url": "https://moodle.org/plugins/download.php/24114/local_downloadcenter_moodle32_2015110112.zip"
+    },
+    {
+        "id": "20803",
+        "name": "v3.8.1",
+        "url": "https://moodle.org/plugins/download.php/20803/local_downloadcenter_moodle39_2016040415.zip"
+    },
+    {
+        "id": "19728",
+        "name": "v3.7.0",
+        "url": "https://moodle.org/plugins/download.php/19728/local_downloadcenter_moodle27_2021070905.zip"
+    },
+    {
+        "id": "19553",
+        "name": "v3.6.1",
+        "url": "https://moodle.org/plugins/download.php/19553/local_downloadcenter_moodle34_2019070609.zip"
+    },
+    {
+        "id": "16698",
+        "name": "v3.5.0",
+        "url": "https://moodle.org/plugins/download.php/16698/local_downloadcenter_moodle39_2018071003.zip"
+    },
+    {
+        "id": "15809",
+        "name": "v3.4.0",
+        "url": "https://moodle.org/plugins/download.php/15809/local_downloadcenter_moodle39_2019030418.zip"
+    },
+    {
+        "id": "14657",
+        "name": "v3.3.1",
+        "url": "https://moodle.org/plugins/download.php/14657/local_downloadcenter_moodle40_2020121102.zip"
+    },
+    {
+        "id": "13424",
+        "name": "v3.2.0",
+        "url": "https://moodle.org/plugins/download.php/13424/local_downloadcenter_moodle26_2020020412.zip"
+    }
+]

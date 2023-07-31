@@ -1,0 +1,51 @@
+{
+    "id": 900,
+    "index": 1180,
+    "name": "Portfolio",
+    "frankenstyle": "mod_giportfolio",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_giportfolio",
+    "shortdescription": "Based on the book module, this allows students to create portfolio contributions, within a structure set by the teacher.",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 November 2016, 4:36 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-11-24T04:36:17+08:00"
+    },
+    "aggsites": "346",
+    "aggdownloads": "28",
+    "aggfavs": "30",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/900/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/900/icon.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        },
+        {
+            "id": 381842,
+            "firstname": "Michael",
+            "lastname": "de Raadt",
+            "url": "https://moodle.org/user/profile.php?id=381842"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

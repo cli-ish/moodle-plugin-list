@@ -1,0 +1,49 @@
+{
+    "id": 317,
+    "index": 1217,
+    "name": "Record Audio",
+    "frankenstyle": "repository_recordaudio",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_recordaudio",
+    "shortdescription": "Allows audio recordings to be made and uploaded/inserted anywhere that files can be picked from repositories - including via the \"Moodle Media\" button in the WYSIWYG editor.",
+    "timelastreleased": {
+        "absdate": "Friday, 9 October 2015, 5:02 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-10-09T05:02:07+08:00"
+    },
+    "aggsites": "126",
+    "aggdownloads": "25",
+    "aggfavs": "19",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/317/microphone_256.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/317/microphone_256.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/317/full.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1159203,
+            "firstname": "Paul",
+            "lastname": "Nicholls",
+            "url": "https://moodle.org/user/profile.php?id=1159203"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

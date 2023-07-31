@@ -1,0 +1,59 @@
+{
+    "id": 2415,
+    "index": 784,
+    "name": "TYPO3 Repository Activity",
+    "frankenstyle": "mod_typorepo",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_typorepo",
+    "shortdescription": "The TYPO3 Repository and SSO Plugin connects a TYPO3 Installation with the Moodle installation. You can choose a TYPO3 page from a page tree to be embedded in the Moodle course. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 12 April 2022, 3:23 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-12T15:23:31+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "127",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2415/bdlogo2022.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2415/bdlogo2022.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2415/5f4711empe36c58.zc300x220.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2415/Bildschirmfoto%202020-01-23%20um%2023.04.26.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2415/Bildschirmfoto%202020-01-23%20um%2023.05.11.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2415/Bildschirmfoto%202020-01-23%20um%2023.06.36.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2415/Bildschirmfoto%202020-01-23%20um%2023.07.05.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1553381,
+            "firstname": "Stefan",
+            "lastname": "Scholz",
+            "url": "https://moodle.org/user/profile.php?id=1553381"
+        },
+        {
+            "id": 63690,
+            "firstname": "Stefan",
+            "lastname": "Ramaker",
+            "url": "https://moodle.org/user/profile.php?id=63690"
+        }
+    ],
+    "descriptors": []
+}

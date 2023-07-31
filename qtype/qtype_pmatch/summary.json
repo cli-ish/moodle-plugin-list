@@ -1,0 +1,51 @@
+{
+    "id": 230,
+    "index": 199,
+    "name": "Pattern match",
+    "frankenstyle": "qtype_pmatch",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_pmatch",
+    "shortdescription": "Allows a short response of one or a few sentences that is graded by comparing against various model answers, which are described using the OU's pattern match syntax.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 August 2022, 7:00 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-08-23T19:00:56+08:00"
+    },
+    "aggsites": "1756",
+    "aggdownloads": "627",
+    "aggfavs": "47",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/230/pmatch.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 115651,
+            "firstname": "Phil",
+            "lastname": "Butcher",
+            "url": "https://moodle.org/user/profile.php?id=115651"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

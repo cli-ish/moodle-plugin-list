@@ -1,0 +1,82 @@
+[
+    {
+        "id": "17784",
+        "name": "34.9.0",
+        "url": "https://moodle.org/plugins/download.php/17784/tool_policy_moodle36_2013060820.zip"
+    },
+    {
+        "id": "17783",
+        "name": "33.9.0",
+        "url": "https://moodle.org/plugins/download.php/17783/tool_policy_moodle40_2013061019.zip"
+    },
+    {
+        "id": "17027",
+        "name": "34.6.0",
+        "url": "https://moodle.org/plugins/download.php/17027/tool_policy_moodle28_2018110310.zip"
+    },
+    {
+        "id": "16773",
+        "name": "34.5.0",
+        "url": "https://moodle.org/plugins/download.php/16773/tool_policy_moodle34_2020110900.zip"
+    },
+    {
+        "id": "16733",
+        "name": "34.4.0",
+        "url": "https://moodle.org/plugins/download.php/16733/tool_policy_moodle39_2012060702.zip"
+    },
+    {
+        "id": "16506",
+        "name": "34.3.0",
+        "url": "https://moodle.org/plugins/download.php/16506/tool_policy_moodle34_2020110404.zip"
+    },
+    {
+        "id": "16473",
+        "name": "34.2.0",
+        "url": "https://moodle.org/plugins/download.php/16473/tool_policy_moodle38_2013110605.zip"
+    },
+    {
+        "id": "16382",
+        "name": "34.1.0",
+        "url": "https://moodle.org/plugins/download.php/16382/tool_policy_moodle34_2021100417.zip"
+    },
+    {
+        "id": "16307",
+        "name": "34.0.0",
+        "url": "https://moodle.org/plugins/download.php/16307/tool_policy_moodle25_2019111001.zip"
+    },
+    {
+        "id": "17026",
+        "name": "33.6.0",
+        "url": "https://moodle.org/plugins/download.php/17026/tool_policy_moodle33_2018121008.zip"
+    },
+    {
+        "id": "16772",
+        "name": "33.5.0",
+        "url": "https://moodle.org/plugins/download.php/16772/tool_policy_moodle33_2016050500.zip"
+    },
+    {
+        "id": "16732",
+        "name": "33.4.0",
+        "url": "https://moodle.org/plugins/download.php/16732/tool_policy_moodle36_2022120412.zip"
+    },
+    {
+        "id": "16505",
+        "name": "33.3.0",
+        "url": "https://moodle.org/plugins/download.php/16505/tool_policy_moodle32_2021090106.zip"
+    },
+    {
+        "id": "16472",
+        "name": "33.2.0",
+        "url": "https://moodle.org/plugins/download.php/16472/tool_policy_moodle27_2011060714.zip"
+    },
+    {
+        "id": "16381",
+        "name": "33.1.0",
+        "url": "https://moodle.org/plugins/download.php/16381/tool_policy_moodle27_2020040514.zip"
+    },
+    {
+        "id": "16305",
+        "name": "33.0.0",
+        "url": "https://moodle.org/plugins/download.php/16305/tool_policy_moodle34_2015100919.zip"
+    }
+]

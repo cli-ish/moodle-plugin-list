@@ -1,0 +1,47 @@
+{
+    "id": 2892,
+    "index": 331,
+    "name": "plugNmeet",
+    "frankenstyle": "mod_plugnmeet",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_plugnmeet",
+    "shortdescription": "Plug-N-Meet Open source web conferencing integration with Moodle",
+    "timelastreleased": {
+        "absdate": "Monday, 17 July 2023, 2:42 PM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-17T14:42:48+08:00"
+    },
+    "aggsites": "194",
+    "aggdownloads": "404",
+    "aggfavs": "18",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2892/main-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2892/main-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2892/banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2892/NotePad.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2892/whiteboard.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4810904,
+            "firstname": "Jibon",
+            "lastname": "Costa",
+            "url": "https://moodle.org/user/profile.php?id=4810904"
+        }
+    ],
+    "descriptors": []
+}

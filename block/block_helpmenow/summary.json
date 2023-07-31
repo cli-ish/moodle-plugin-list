@@ -1,0 +1,73 @@
+{
+    "id": 686,
+    "index": 1669,
+    "name": "Help Me Now Block",
+    "frankenstyle": "block_helpmenow",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_helpmenow",
+    "shortdescription": "This moodle block creates a chat interface for students and teachers to connect.  It also provides a help desk chat interface for students to ask questions of the teachers/admins who are assigned as helpers and currently logged in. It also has plugins for multiple sharing tools that can be enabled.",
+    "timelastreleased": {
+        "absdate": "Monday, 2 June 2014, 5:00 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-02T17:00:51+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "7",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/686/studentview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/686/teacherview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1512318,
+            "firstname": "Karen",
+            "lastname": "Eng",
+            "url": "https://moodle.org/user/profile.php?id=1512318"
+        },
+        {
+            "id": 1315150,
+            "firstname": "David",
+            "lastname": "Zaharee",
+            "url": "https://moodle.org/user/profile.php?id=1315150"
+        },
+        {
+            "id": 82371,
+            "firstname": "Matt",
+            "lastname": "Oquist",
+            "url": "https://moodle.org/user/profile.php?id=82371"
+        },
+        {
+            "id": 827113,
+            "firstname": "Jonathan",
+            "lastname": "Doane",
+            "url": "https://moodle.org/user/profile.php?id=827113"
+        },
+        {
+            "id": 542994,
+            "firstname": "J\u00e9r\u00f4me",
+            "lastname": "Mouneyrac",
+            "url": "https://moodle.org/user/profile.php?id=542994"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

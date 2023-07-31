@@ -1,0 +1,45 @@
+{
+    "id": 1564,
+    "index": 1343,
+    "name": "Twitter Feed",
+    "frankenstyle": "block_twitter",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_twitter",
+    "shortdescription": "A block to show a twitter feed with markup that can be styled via themes. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 February 2017, 8:58 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-02-28T20:58:31+08:00"
+    },
+    "aggsites": "74",
+    "aggdownloads": "17",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1564/Screen%20Shot%202016-01-28%20at%2013.27.04.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1398399,
+            "firstname": "Andrew",
+            "lastname": "Davidson",
+            "url": "https://moodle.org/user/profile.php?id=1398399"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

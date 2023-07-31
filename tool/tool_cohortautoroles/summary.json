@@ -1,0 +1,46 @@
+{
+    "id": 1719,
+    "index": 1564,
+    "name": "Cohort auto roles management",
+    "frankenstyle": "tool_cohortautoroles",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_cohortautoroles",
+    "shortdescription": "This plugin is based on the core tool_cohortroles plugin and allows the selection of a role rather than an individual to assign a manager/mentor/parent to a user.\r\n\r\nIf a user is assigned the selected role at any level - (site/course/category etc) they will be assigned as the mentor/manager/parent to all users within the cohorts selected they are also a member of.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 October 2016, 6:28 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-10-12T06:28:10+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "9",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1719/cohortautoroles.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

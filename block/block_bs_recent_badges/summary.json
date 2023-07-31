@@ -1,0 +1,58 @@
+{
+    "id": 1520,
+    "index": 1219,
+    "name": "Recent badges",
+    "frankenstyle": "block_bs_recent_badges",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_bs_recent_badges",
+    "shortdescription": "This block displays recently awarded course and site badges from all users.",
+    "timelastreleased": {
+        "absdate": "Sunday, 5 August 2018, 5:46 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-05T17:46:11+08:00"
+    },
+    "aggsites": "87",
+    "aggdownloads": "25",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1520/recent_badges_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1520/recent_badges_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1520/recent_badges_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1520/recent_badges_3b.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1520/recent_badges_4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1279450,
+            "firstname": "Matthias",
+            "lastname": "Berlin (Schwabe)",
+            "url": "https://moodle.org/user/profile.php?id=1279450"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

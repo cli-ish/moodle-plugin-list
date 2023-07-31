@@ -1,0 +1,45 @@
+{
+    "id": 805,
+    "index": 2150,
+    "name": "Link Bazaar",
+    "frankenstyle": "mod_linkbazaar",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_linkbazaar",
+    "shortdescription": "An activity that allows students to add links to resources relevant to a particular topic. Others can then vote for the most useful links to bring them to the top.",
+    "timelastreleased": {
+        "absdate": "Monday, 29 July 2013, 9:04 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-07-29T09:04:44+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1023607,
+            "firstname": "Andrew",
+            "lastname": "Davis",
+            "url": "https://moodle.org/user/profile.php?id=1023607"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

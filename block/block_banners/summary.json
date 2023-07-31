@@ -1,0 +1,45 @@
+{
+    "id": 520,
+    "index": 1367,
+    "name": "Banners",
+    "frankenstyle": "block_banners",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_banners",
+    "shortdescription": "Allow community upload of graphic banners for display into an animated carousel block",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 March 2013, 11:03 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-14T11:03:31+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "16",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1524086,
+            "firstname": "Iain",
+            "lastname": "Checkland",
+            "url": "https://moodle.org/user/profile.php?id=1524086"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

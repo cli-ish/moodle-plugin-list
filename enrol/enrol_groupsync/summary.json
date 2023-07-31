@@ -1,0 +1,52 @@
+{
+    "id": 577,
+    "index": 455,
+    "name": "Cohort members to group",
+    "frankenstyle": "enrol_groupsync",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_groupsync",
+    "shortdescription": "Cohort to group sync for users already enrolled via different method.",
+    "timelastreleased": {
+        "absdate": "Monday, 15 June 2020, 8:30 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-15T20:30:21+08:00"
+    },
+    "aggsites": "985",
+    "aggdownloads": "263",
+    "aggfavs": "53",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/577/group_members.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/577/add_instance1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/577/add_instance2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1601,
+            "firstname": "David",
+            "lastname": "Mudr\u00e1k",
+            "url": "https://moodle.org/user/profile.php?id=1601"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

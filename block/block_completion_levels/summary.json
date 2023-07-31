@@ -1,0 +1,47 @@
+{
+    "id": 3058,
+    "index": 458,
+    "name": "Completion Levels",
+    "frankenstyle": "block_completion_levels",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_completion_levels",
+    "shortdescription": "Completion Levels is a block designed to track students progression within a course, and gamify their learning experience by awarding them levels as they make progress in the course.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 January 2023, 6:39 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-18T18:39:47+08:00"
+    },
+    "aggsites": "119",
+    "aggdownloads": "259",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3058/aastudent_view.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3058/activity_marker.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3058/details.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

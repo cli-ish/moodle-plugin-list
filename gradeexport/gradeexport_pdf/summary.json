@@ -1,0 +1,52 @@
+{
+    "id": 473,
+    "index": 1218,
+    "name": "PDF Document",
+    "frankenstyle": "gradeexport_pdf",
+    "plugintype": {
+        "type": "gradeexport",
+        "name": "Grade export method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradeexport_pdf",
+    "shortdescription": "This is moodle plugin for exporting grades in PDF format. It is developed by using \"Moodle PDF library\" \r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 October 2012, 8:54 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-16T20:54:32+08:00"
+    },
+    "aggsites": "93",
+    "aggdownloads": "25",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/473/pdf1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/473/pdf2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/473/pdf3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1444287,
+            "firstname": "brami",
+            "lastname": "petluri",
+            "url": "https://moodle.org/user/profile.php?id=1444287"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 111,
+    "index": 1590,
+    "name": "National Education Network Resources",
+    "frankenstyle": "datapreset_national_education_network_resources",
+    "plugintype": {
+        "type": "datapreset",
+        "name": "Database / Preset"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/datapreset_national_education_network_resources",
+    "shortdescription": "This database contains links to around 50 of the UK's National Education Network's websites. Each entry has a description and fields for the relevant subject and key stage area. All of these fields are searchable; allowing teachers to search for relevant NEN resources quickly and easily. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 October 2011, 1:07 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-25T01:07:59+08:00"
+    },
+    "aggsites": null,
+    "aggdownloads": "9",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 89775,
+            "firstname": "Jon",
+            "lastname": "Witts",
+            "url": "https://moodle.org/user/profile.php?id=89775"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

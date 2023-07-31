@@ -1,0 +1,45 @@
+{
+    "id": 999,
+    "index": 1780,
+    "name": "Caf\u00e9 con leche",
+    "frankenstyle": "theme_cafe_con_leche",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_cafe_con_leche",
+    "shortdescription": "Theme based in Decaf, more easily customizable.\r\nES: Tema basado en Decaf, m\u00e1s f\u00e1cimente personalizable y traducido, tambi\u00e9n, al espa\u00f1ol.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 4 June 2014, 7:43 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-04T19:43:02+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "5",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/999/logo-grande.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/999/logo-grande.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/999/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 405824,
+            "firstname": "Jose Alejandro",
+            "lastname": "Mor\u00e1n P\u00e9rez",
+            "url": "https://moodle.org/user/profile.php?id=405824"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

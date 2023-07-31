@@ -1,0 +1,50 @@
+{
+    "id": 2966,
+    "index": 814,
+    "name": "Autocomplete input",
+    "frankenstyle": "profilefield_autocomplete",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_autocomplete",
+    "shortdescription": "A multi-selection profile field based on modern Moodle user interface widgets.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 19 July 2022, 5:38 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-07-19T17:38:44+08:00"
+    },
+    "aggsites": "64",
+    "aggdownloads": "122",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2966/Multiselection.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2966/Multiselection.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2966/autocomplete_0.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2966/autocomplete_1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2966/autocomplete_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2966/autocomplete_3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1394501,
+            "firstname": "Adrien",
+            "lastname": "Jamot",
+            "url": "https://moodle.org/user/profile.php?id=1394501"
+        }
+    ],
+    "descriptors": []
+}

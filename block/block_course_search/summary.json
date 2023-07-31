@@ -1,0 +1,55 @@
+{
+    "id": 507,
+    "index": 1226,
+    "name": "oohoo - Course search",
+    "frankenstyle": "block_course_search",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_search",
+    "shortdescription": "OOHOO Course Search does a complete search of all content in a course including:\r\n - Section Name and description\r\n - All activities (including all new plugins that you setup in the future) based on the \"name\", \"intro\" and \"content\" fields\r\n\r\nThe result appears as a list of links.",
+    "timelastreleased": {
+        "absdate": "Thursday, 3 April 2014, 5:43 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-03T05:43:36+08:00"
+    },
+    "aggsites": "105",
+    "aggdownloads": "24",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/507/course-search-Moodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/507/course-search-Moodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/507/screenshot_course_search_01_en.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/507/screenshot_course_search_02_en.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1413693,
+            "firstname": "Nicolas",
+            "lastname": "Bretin",
+            "url": "https://moodle.org/user/profile.php?id=1413693"
+        },
+        {
+            "id": 106123,
+            "firstname": "Patrick",
+            "lastname": "Thibaudeau",
+            "url": "https://moodle.org/user/profile.php?id=106123"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 2413,
+    "index": 1097,
+    "name": "Slider in content - for Slider Block",
+    "frankenstyle": "filter_slider",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_slider",
+    "shortdescription": "Slider filter is used to display Block Slider content anywhere in Moodle. \r\n\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 4 May 2020, 2:57 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-05-04T02:57:26+08:00"
+    },
+    "aggsites": "196",
+    "aggdownloads": "38",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2413/slider_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2413/slider_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2413/filter_slider_screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2413/Configuring%20a%20Slajder%20filter%20block.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2413/SliderID.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 925504,
+            "firstname": "Kamil",
+            "lastname": "\u0141uczak",
+            "url": "https://moodle.org/user/profile.php?id=925504"
+        }
+    ],
+    "descriptors": []
+}

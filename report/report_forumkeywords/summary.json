@@ -1,0 +1,47 @@
+{
+    "id": 2252,
+    "index": 1186,
+    "name": "Forum Keywords",
+    "frankenstyle": "report_forumkeywords",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_forumkeywords",
+    "shortdescription": "The Forum Keywords Report extract keywords from all posts in a Forum activity and generate a word cloud with a table listing the weights of each keyword. It is mainly developed for analysing Chinese, but appeared to also work for English.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 June 2019, 3:28 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-06-28T15:28:35+08:00"
+    },
+    "aggsites": "31",
+    "aggdownloads": "28",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2252/wordcloud.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2252/wordcloud.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2252/screen_01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2252/screen_02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2252/screen_03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 822403,
+            "firstname": "Andy",
+            "lastname": "Chan",
+            "url": "https://moodle.org/user/profile.php?id=822403"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,62 @@
+{
+    "id": 2984,
+    "index": 839,
+    "name": "Gamoteca",
+    "frankenstyle": "mod_gamoteca",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_gamoteca",
+    "shortdescription": "Gamoteca is a human-connected, multi-player, creator platform and learner app to make learning fun, interactive and more human. \r\n\r\nThis plugin allows admin users to create a new activity which provides a link to a game on Gamoteca website / mobile application. It will also include a web service which will be allowed accessed to Gamoteca to send user data i.e. game progress ( Not-started/In-Progress/Completed), Score, time spent, etc. back to the LMS",
+    "timelastreleased": {
+        "absdate": "Tuesday, 14 March 2023, 8:03 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-14T20:03:04+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "115",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2984/Gamoteca%20logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2984/Gamoteca%20logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2984/Activity%20Completion%20criteria.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2984/Adding%20a%20new%20game.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2984/Adding%20an%20activity%20in%20Moodle.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2984/Featured%20Games.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2984/Gamoteca%20home.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2984/Publishing%20from%20Gamoteca.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4295842,
+            "firstname": "Atish",
+            "lastname": "Gonsalves",
+            "url": "https://moodle.org/user/profile.php?id=4295842"
+        },
+        {
+            "id": 5252167,
+            "firstname": "Peter",
+            "lastname": "Varga",
+            "url": "https://moodle.org/user/profile.php?id=5252167"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,61 @@
+{
+    "id": 1291,
+    "index": 1150,
+    "name": "Formilla Live Chat",
+    "frankenstyle": "block_formillalivechat",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_formillalivechat",
+    "shortdescription": "Live chat software with real-time visitor monitoring for your Moodle site.  Answer questions and support your users with live chat! ",
+    "timelastreleased": {
+        "absdate": "Monday, 1 December 2014, 7:32 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-01T07:32:37+08:00"
+    },
+    "aggsites": "142",
+    "aggdownloads": "31",
+    "aggfavs": "23",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1291/logo_weebly_204x132.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1291/logo_weebly_204x132.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1291/Moodle_banner_2022.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1291/chat-widget%20500x500.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1291/image-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1291/image-4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1291/image-5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1291/image-7.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1888496,
+            "firstname": "Tawer",
+            "lastname": "Gilyana",
+            "url": "https://moodle.org/user/profile.php?id=1888496"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

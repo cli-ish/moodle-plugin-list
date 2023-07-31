@@ -1,0 +1,292 @@
+[
+    {
+        "id": "29441",
+        "name": "1.41-for-moodle-3.9-4.2-build-2023061400",
+        "url": "https://moodle.org/plugins/download.php/29441/mod_choicegroup_moodle40_2015090501.zip"
+    },
+    {
+        "id": "27485",
+        "name": "1.34-for-moodle-3.5-4.0-build-2022090500",
+        "url": "https://moodle.org/plugins/download.php/27485/mod_choicegroup_moodle31_2013020416.zip"
+    },
+    {
+        "id": "21574",
+        "name": "1.19-for-moodle-2.7-3.9-build-2020052500",
+        "url": "https://moodle.org/plugins/download.php/21574/mod_choicegroup_moodle32_2021070720.zip"
+    },
+    {
+        "id": "5298",
+        "name": "1.4.4-build-2014010100",
+        "url": "https://moodle.org/plugins/download.php/5298/mod_choicegroup_moodle29_2016100209.zip"
+    },
+    {
+        "id": "4303",
+        "name": "1.4.2-build-2013090100",
+        "url": "https://moodle.org/plugins/download.php/4303/mod_choicegroup_moodle25_2013050705.zip"
+    },
+    {
+        "id": "28462",
+        "name": "1.40-for-moodle-3.9-4.1-build-2023013000",
+        "url": "https://moodle.org/plugins/download.php/28462/mod_choicegroup_moodle38_2016100116.zip"
+    },
+    {
+        "id": "28278",
+        "name": "1.39-for-moodle-3.9-4.1-build-2023010300",
+        "url": "https://moodle.org/plugins/download.php/28278/mod_choicegroup_moodle36_2018100819.zip"
+    },
+    {
+        "id": "27932",
+        "name": "1.38-for-moodle-3.9-4.0-build-2022092202",
+        "url": "https://moodle.org/plugins/download.php/27932/mod_choicegroup_moodle25_2020011214.zip"
+    },
+    {
+        "id": "27879",
+        "name": "1.37-for-moodle-3.9-4.0-build-2022092201",
+        "url": "https://moodle.org/plugins/download.php/27879/mod_choicegroup_moodle30_2010111020.zip"
+    },
+    {
+        "id": "27602",
+        "name": "1.36-for-moodle-3.9-4.0-build-2022092200",
+        "url": "https://moodle.org/plugins/download.php/27602/mod_choicegroup_moodle32_2011100511.zip"
+    },
+    {
+        "id": "27500",
+        "name": "1.35-for-moodle-3.9-4.0-build-2022090700",
+        "url": "https://moodle.org/plugins/download.php/27500/mod_choicegroup_moodle36_2014100303.zip"
+    },
+    {
+        "id": "25056",
+        "name": "1.33-for-moodle-3.5-3.11-build-2021083100",
+        "url": "https://moodle.org/plugins/download.php/25056/mod_choicegroup_moodle26_2022031003.zip"
+    },
+    {
+        "id": "24953",
+        "name": "1.32-for-moodle-3.5-3.11-build-2021080500",
+        "url": "https://moodle.org/plugins/download.php/24953/mod_choicegroup_moodle27_2012041007.zip"
+    },
+    {
+        "id": "24363",
+        "name": "1.31-for-moodle-3.5-3.11-build-2021060200",
+        "url": "https://moodle.org/plugins/download.php/24363/mod_choicegroup_moodle36_2013030813.zip"
+    },
+    {
+        "id": "24196",
+        "name": "1.30-for-moodle-3.5-3.11-build-2021051600",
+        "url": "https://moodle.org/plugins/download.php/24196/mod_choicegroup_moodle26_2013110816.zip"
+    },
+    {
+        "id": "23924",
+        "name": "1.23-for-moodle-3.5-3.10-build-2021041900",
+        "url": "https://moodle.org/plugins/download.php/23924/mod_choicegroup_moodle28_2021050505.zip"
+    },
+    {
+        "id": "23842",
+        "name": "1.22-for-moodle-3.5-3.10-build-2021040800",
+        "url": "https://moodle.org/plugins/download.php/23842/mod_choicegroup_moodle28_2013081103.zip"
+    },
+    {
+        "id": "23128",
+        "name": "1.21-for-moodle-3.5-3.10-build-2020121900",
+        "url": "https://moodle.org/plugins/download.php/23128/mod_choicegroup_moodle35_2013010617.zip"
+    },
+    {
+        "id": "21901",
+        "name": "1.20-for-moodle-3.5-3.10-build-2020070100",
+        "url": "https://moodle.org/plugins/download.php/21901/mod_choicegroup_moodle35_2014120207.zip"
+    },
+    {
+        "id": "20782",
+        "name": "1.18-for-moodle-2.7-3.8-build-2019051002",
+        "url": "https://moodle.org/plugins/download.php/20782/mod_choicegroup_moodle29_2020010418.zip"
+    },
+    {
+        "id": "20480",
+        "name": "1.17-for-moodle-2.7-3.7-build-2019051001",
+        "url": "https://moodle.org/plugins/download.php/20480/mod_choicegroup_moodle31_2021040513.zip"
+    },
+    {
+        "id": "19540",
+        "name": "1.16-for-moodle-2.7-3.7-build-2019051000",
+        "url": "https://moodle.org/plugins/download.php/19540/mod_choicegroup_moodle31_2016010106.zip"
+    },
+    {
+        "id": "17344",
+        "name": "1.15-for-moodle-2.7-3.5-build-2018070900",
+        "url": "https://moodle.org/plugins/download.php/17344/mod_choicegroup_moodle34_2019060803.zip"
+    },
+    {
+        "id": "17165",
+        "name": "1.14-for-moodle-2.7-3.5-build-2018062000",
+        "url": "https://moodle.org/plugins/download.php/17165/mod_choicegroup_moodle35_2019030615.zip"
+    },
+    {
+        "id": "17087",
+        "name": "1.13-for-moodle-2.7-3.5-build-2018061301",
+        "url": "https://moodle.org/plugins/download.php/17087/mod_choicegroup_moodle26_2022090719.zip"
+    },
+    {
+        "id": "17086",
+        "name": "1.12-for-moodle-2.7-3.5-build-2018061300",
+        "url": "https://moodle.org/plugins/download.php/17086/mod_choicegroup_moodle34_2019081000.zip"
+    },
+    {
+        "id": "16858",
+        "name": "1.11-for-moodle-2.7-3.5-build-2018050101",
+        "url": "https://moodle.org/plugins/download.php/16858/mod_choicegroup_moodle37_2016080611.zip"
+    },
+    {
+        "id": "16531",
+        "name": "1.10-for-moodle-2.7-3.5-build-2018050100",
+        "url": "https://moodle.org/plugins/download.php/16531/mod_choicegroup_moodle37_2023050819.zip"
+    },
+    {
+        "id": "16014",
+        "name": "1.9.11-for-moodle-2.7-3.4-build-2018011002",
+        "url": "https://moodle.org/plugins/download.php/16014/mod_choicegroup_moodle40_2013030415.zip"
+    },
+    {
+        "id": "15763",
+        "name": "1.9.10-for-moodle-2.7-3.3-build-2018011001",
+        "url": "https://moodle.org/plugins/download.php/15763/mod_choicegroup_moodle34_2014020617.zip"
+    },
+    {
+        "id": "15314",
+        "name": "1.9.8-for-moodle-2.7-3.3-build-2017111000",
+        "url": "https://moodle.org/plugins/download.php/15314/mod_choicegroup_moodle25_2018081206.zip"
+    },
+    {
+        "id": "14872",
+        "name": "1.9.7-for-moodle-2.7-3.3-build-2017092100",
+        "url": "https://moodle.org/plugins/download.php/14872/mod_choicegroup_moodle40_2015090715.zip"
+    },
+    {
+        "id": "14408",
+        "name": "1.9.6-for-moodle-2.7-3.3-build-2017050101",
+        "url": "https://moodle.org/plugins/download.php/14408/mod_choicegroup_moodle33_2017121110.zip"
+    },
+    {
+        "id": "13908",
+        "name": "1.9.5-for-moodle-2.7-3.3-build-2017050100",
+        "url": "https://moodle.org/plugins/download.php/13908/mod_choicegroup_moodle31_2011010505.zip"
+    },
+    {
+        "id": "12730",
+        "name": "1.9.4-for-moodle-2.7-3.2-build-2016113000",
+        "url": "https://moodle.org/plugins/download.php/12730/mod_choicegroup_moodle25_2010080613.zip"
+    },
+    {
+        "id": "12362",
+        "name": "1.9.3-for-moodle-2.7-3.1-build-2016100600",
+        "url": "https://moodle.org/plugins/download.php/12362/mod_choicegroup_moodle33_2020060110.zip"
+    },
+    {
+        "id": "12357",
+        "name": "1.9.2-for-moodle-2.7-3.1-build-2016100500",
+        "url": "https://moodle.org/plugins/download.php/12357/mod_choicegroup_moodle26_2017030909.zip"
+    },
+    {
+        "id": "12135",
+        "name": "1.9.1-for-moodle-2.7-3.1-build-2016090500",
+        "url": "https://moodle.org/plugins/download.php/12135/mod_choicegroup_moodle30_2015010914.zip"
+    },
+    {
+        "id": "10026",
+        "name": "1.9-for-moodle-2.7-3.0-build-2015121000",
+        "url": "https://moodle.org/plugins/download.php/10026/mod_choicegroup_moodle34_2017070514.zip"
+    },
+    {
+        "id": "9158",
+        "name": "1.8.3-for-moodle-2.7-2.9-build-2015080100",
+        "url": "https://moodle.org/plugins/download.php/9158/mod_choicegroup_moodle38_2022081005.zip"
+    },
+    {
+        "id": "8070",
+        "name": "1.8.2-for-moodle-2.7-2.8-build-2015022302",
+        "url": "https://moodle.org/plugins/download.php/8070/mod_choicegroup_moodle39_2016070716.zip"
+    },
+    {
+        "id": "8001",
+        "name": "1.8.1-for-moodle-2.7-2.8-build-2015010101",
+        "url": "https://moodle.org/plugins/download.php/8001/mod_choicegroup_moodle32_2015080100.zip"
+    },
+    {
+        "id": "8000",
+        "name": "1.81-for-moodle-2.7-2.8-build-2015010101",
+        "url": "https://moodle.org/plugins/download.php/8000/mod_choicegroup_moodle36_2023100909.zip"
+    },
+    {
+        "id": "7640",
+        "name": "1.8-for-moodle-2.7-2.8-build-2015010100",
+        "url": "https://moodle.org/plugins/download.php/7640/mod_choicegroup_moodle32_2016090704.zip"
+    },
+    {
+        "id": "6886",
+        "name": "1.7-build-2014091700",
+        "url": "https://moodle.org/plugins/download.php/6886/mod_choicegroup_moodle31_2012100520.zip"
+    },
+    {
+        "id": "6855",
+        "name": "1.6.4-build-2014072104",
+        "url": "https://moodle.org/plugins/download.php/6855/mod_choicegroup_moodle27_2020021111.zip"
+    },
+    {
+        "id": "6852",
+        "name": "1.6.3-build-2014072103",
+        "url": "https://moodle.org/plugins/download.php/6852/mod_choicegroup_moodle34_2023020819.zip"
+    },
+    {
+        "id": "6577",
+        "name": "1.6.1-build-2014072101",
+        "url": "https://moodle.org/plugins/download.php/6577/mod_choicegroup_moodle30_2019031114.zip"
+    },
+    {
+        "id": "6548",
+        "name": "1.6-build-2014072100",
+        "url": "https://moodle.org/plugins/download.php/6548/mod_choicegroup_moodle28_2011050612.zip"
+    },
+    {
+        "id": "6423",
+        "name": "1.5-build-2014060100",
+        "url": "https://moodle.org/plugins/download.php/6423/mod_choicegroup_moodle30_2021090414.zip"
+    },
+    {
+        "id": "5255",
+        "name": "1.4.3-build-2013120100",
+        "url": "https://moodle.org/plugins/download.php/5255/mod_choicegroup_moodle32_2019051220.zip"
+    },
+    {
+        "id": "2985",
+        "name": "1.3.3-build-2012111400-based-on-mod-choice-2011112900",
+        "url": "https://moodle.org/plugins/download.php/2985/mod_choicegroup_moodle38_2017080207.zip"
+    },
+    {
+        "id": "1449",
+        "name": "1.3.2-build-2012100800-based-on-mod-choice-2011112900",
+        "url": "https://moodle.org/plugins/download.php/1449/mod_choicegroup_moodle37_2012090201.zip"
+    },
+    {
+        "id": "1403",
+        "name": "1.3.1-build-2012080600-based-on-mod-choice-2011112900",
+        "url": "https://moodle.org/plugins/download.php/1403/mod_choicegroup_moodle33_2010120309.zip"
+    },
+    {
+        "id": "1051",
+        "name": "1.3-build-2012062600-based-on-mod-choice-2011112900",
+        "url": "https://moodle.org/plugins/download.php/1051/mod_choicegroup_moodle29_2019020406.zip"
+    },
+    {
+        "id": "955",
+        "name": "1.3-build-2012042500-based-on-mod-choice-2011112900",
+        "url": "https://moodle.org/plugins/download.php/955/mod_choicegroup_moodle36_2017061018.zip"
+    },
+    {
+        "id": "428",
+        "name": "1.1-build-2012010100",
+        "url": "https://moodle.org/plugins/download.php/428/mod_choicegroup_moodle38_2012040705.zip"
+    },
+    {
+        "id": "239",
+        "name": "2010101300",
+        "url": "https://moodle.org/plugins/download.php/239/mod_choicegroup_moodle29_2011051118.zip"
+    }
+]

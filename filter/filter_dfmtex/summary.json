@@ -1,0 +1,49 @@
+{
+    "id": 748,
+    "index": 1784,
+    "name": "LaTeX2e notation",
+    "frankenstyle": "filter_dfmtex",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_dfmtex",
+    "shortdescription": "True LaTeX filter, You can use pstricks ",
+    "timelastreleased": {
+        "absdate": "Sunday, 2 June 2013, 9:20 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-06-02T21:20:29+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 115684,
+            "firstname": "Jo\u00e3o Pedro",
+            "lastname": "Alves",
+            "url": "https://moodle.org/user/profile.php?id=115684"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

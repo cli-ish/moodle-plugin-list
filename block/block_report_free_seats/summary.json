@@ -1,0 +1,50 @@
+{
+    "id": 1904,
+    "index": 1713,
+    "name": "Free seats report",
+    "frankenstyle": "block_report_free_seats",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_report_free_seats",
+    "shortdescription": "With this moodle block you can generate a report containing courses with free seats AND which having the starting date (course settings) within the upcoming n weeks. The information about free seats is taken from the activated self enrolment plugin AND/OR waitlist enrolment plugin.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 December 2022, 2:50 PM",
+        "reldate": "7 months",
+        "iso8601date": "2022-12-22T14:50:57+08:00"
+    },
+    "aggsites": "35",
+    "aggdownloads": "6",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1904/7-7-2017%201-00-11%20PM.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1904/7-7-2017%204-34-14%20PM.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 221571,
+            "firstname": "Flotter",
+            "lastname": "Totte",
+            "url": "https://moodle.org/user/profile.php?id=221571"
+        },
+        {
+            "id": 2341857,
+            "firstname": "emeneo",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=2341857"
+        }
+    ],
+    "descriptors": []
+}

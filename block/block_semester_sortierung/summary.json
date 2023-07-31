@@ -1,0 +1,45 @@
+{
+    "id": 1245,
+    "index": 1183,
+    "name": "Semester overview",
+    "frankenstyle": "block_semester_sortierung",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_semester_sortierung",
+    "shortdescription": "In the semsort block (blocks/semester_sortierung), courses are grouped by their starting dates in a semester view on the MyMoodle page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 August 2020, 9:21 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-18T21:21:57+08:00"
+    },
+    "aggsites": "103",
+    "aggdownloads": "28",
+    "aggfavs": "26",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1245/semsort.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1245/semsort.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1245/5_semsort-module_en.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

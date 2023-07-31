@@ -1,0 +1,32 @@
+[
+    {
+        "id": "27597",
+        "name": "1.5.0-build-2021111000",
+        "url": "https://moodle.org/plugins/download.php/27597/report_lpmonitoring_moodle29_2017050212.zip"
+    },
+    {
+        "id": "21502",
+        "name": "1.4.0-build-2019072401",
+        "url": "https://moodle.org/plugins/download.php/21502/report_lpmonitoring_moodle31_2021070420.zip"
+    },
+    {
+        "id": "20000",
+        "name": "1.3-build-2019072400",
+        "url": "https://moodle.org/plugins/download.php/20000/report_lpmonitoring_moodle36_2022030612.zip"
+    },
+    {
+        "id": "14945",
+        "name": "1.2.0-build-2016120500",
+        "url": "https://moodle.org/plugins/download.php/14945/report_lpmonitoring_moodle40_2021091115.zip"
+    },
+    {
+        "id": "12769",
+        "name": "1.1.1-build-2016120500",
+        "url": "https://moodle.org/plugins/download.php/12769/report_lpmonitoring_moodle31_2015020620.zip"
+    },
+    {
+        "id": "12475",
+        "name": "1.0.0-build-2016102600",
+        "url": "https://moodle.org/plugins/download.php/12475/report_lpmonitoring_moodle33_2020111106.zip"
+    }
+]

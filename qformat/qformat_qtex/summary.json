@@ -1,0 +1,49 @@
+{
+    "id": 1051,
+    "index": 1563,
+    "name": "QuestionTeX format",
+    "frankenstyle": "qformat_qtex",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_qtex",
+    "shortdescription": "QuestionTeX is a collection of LaTeX macros that enable authors to create multiple-choice tests.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 April 2014, 2:58 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-30T14:58:09+08:00"
+    },
+    "aggsites": "46",
+    "aggdownloads": "9",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1051/QuestionTeX%20example?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1051/Same%20question%20in%20Moodle?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 575394,
+            "firstname": "Leopold",
+            "lastname": "Talirz",
+            "url": "https://moodle.org/user/profile.php?id=575394"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

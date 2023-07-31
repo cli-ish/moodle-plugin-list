@@ -1,0 +1,52 @@
+{
+    "id": 572,
+    "index": 1043,
+    "name": "Simple",
+    "frankenstyle": "theme_simple",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_simple",
+    "shortdescription": "Simple design, follows the best practice of responsive web design.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 January 2015, 1:20 AM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-20T01:20:55+08:00"
+    },
+    "aggsites": "180",
+    "aggdownloads": "45",
+    "aggfavs": "23",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/572/Responsive%20Web%20Design%20-%20Different%20Devices%20-%20Home?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/572/Responsive%20Web%20Design%20-%20Different%20Devices%20-%20Content?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/572/Responsive%20Web%20Design%20-%20Different%20Devices%20-%20Content%20-%20Departement?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1434809,
+            "firstname": "Web ICT",
+            "lastname": "ZHAW",
+            "url": "https://moodle.org/user/profile.php?id=1434809"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

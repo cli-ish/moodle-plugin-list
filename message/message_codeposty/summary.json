@@ -1,0 +1,49 @@
+{
+    "id": 1526,
+    "index": 1886,
+    "name": "Codeposty SMS Sender",
+    "frankenstyle": "message_codeposty",
+    "plugintype": {
+        "type": "message",
+        "name": "Notification plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/message_codeposty",
+    "shortdescription": "Codespoty sends SMS from moodle using the SMS services of www.codeposty.ir and it is based on the SMS platforms of Iran.",
+    "timelastreleased": {
+        "absdate": "Thursday, 26 November 2015, 10:21 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-11-26T22:21:17+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1526/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1526/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1526/message_codeposty_sc.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2019052,
+            "firstname": "Maktabe",
+            "lastname": "Majazi.com",
+            "url": "https://moodle.org/user/profile.php?id=2019052"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

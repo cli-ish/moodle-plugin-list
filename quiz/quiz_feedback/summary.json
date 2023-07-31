@@ -1,0 +1,40 @@
+{
+    "id": 2885,
+    "index": 869,
+    "name": "Feedback export",
+    "frankenstyle": "quiz_feedback",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_feedback",
+    "shortdescription": "This is a quiz report that can be used to export student feedback data from Student feedback (deferred/immediate) behaviours. This report is only relevant for these question behaviours.",
+    "timelastreleased": {
+        "absdate": "Monday, 11 April 2022, 10:46 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-11T22:46:47+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "107",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2885/Report.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

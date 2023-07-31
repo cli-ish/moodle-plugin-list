@@ -1,0 +1,87 @@
+[
+    {
+        "id": "29537",
+        "name": "1.9.13",
+        "url": "https://moodle.org/plugins/download.php/29537/local_mail_moodle37_2022020310.zip"
+    },
+    {
+        "id": "22557",
+        "name": "1.9.10",
+        "url": "https://moodle.org/plugins/download.php/22557/local_mail_moodle30_2010110704.zip"
+    },
+    {
+        "id": "14940",
+        "name": "1.9.4",
+        "url": "https://moodle.org/plugins/download.php/14940/local_mail_moodle30_2015111208.zip"
+    },
+    {
+        "id": "11442",
+        "name": "1.7.5",
+        "url": "https://moodle.org/plugins/download.php/11442/local_mail_moodle39_2013030417.zip"
+    },
+    {
+        "id": "8760",
+        "name": "1.6.1",
+        "url": "https://moodle.org/plugins/download.php/8760/local_mail_moodle33_2013010902.zip"
+    },
+    {
+        "id": "7079",
+        "name": "1.5.3",
+        "url": "https://moodle.org/plugins/download.php/7079/local_mail_moodle38_2018120214.zip"
+    },
+    {
+        "id": "26393",
+        "name": "1.9.12",
+        "url": "https://moodle.org/plugins/download.php/26393/local_mail_moodle29_2020030707.zip"
+    },
+    {
+        "id": "24179",
+        "name": "1.9.11",
+        "url": "https://moodle.org/plugins/download.php/24179/local_mail_moodle27_2018020414.zip"
+    },
+    {
+        "id": "20606",
+        "name": "1.9.9",
+        "url": "https://moodle.org/plugins/download.php/20606/local_mail_moodle31_2020080504.zip"
+    },
+    {
+        "id": "18255",
+        "name": "1.9.8",
+        "url": "https://moodle.org/plugins/download.php/18255/local_mail_moodle25_2023080109.zip"
+    },
+    {
+        "id": "16756",
+        "name": "1.9.7",
+        "url": "https://moodle.org/plugins/download.php/16756/local_mail_moodle39_2015061013.zip"
+    },
+    {
+        "id": "16379",
+        "name": "1.9.6",
+        "url": "https://moodle.org/plugins/download.php/16379/local_mail_moodle33_2016041206.zip"
+    },
+    {
+        "id": "14225",
+        "name": "1.9.3",
+        "url": "https://moodle.org/plugins/download.php/14225/local_mail_moodle29_2017060906.zip"
+    },
+    {
+        "id": "13793",
+        "name": "1.9.2",
+        "url": "https://moodle.org/plugins/download.php/13793/local_mail_moodle34_2019010701.zip"
+    },
+    {
+        "id": "13364",
+        "name": "1.9.1",
+        "url": "https://moodle.org/plugins/download.php/13364/local_mail_moodle31_2015051001.zip"
+    },
+    {
+        "id": "9507",
+        "name": "1.7.2",
+        "url": "https://moodle.org/plugins/download.php/9507/local_mail_moodle37_2010040215.zip"
+    },
+    {
+        "id": "9005",
+        "name": "1.7.1",
+        "url": "https://moodle.org/plugins/download.php/9005/local_mail_moodle26_2017020718.zip"
+    }
+]

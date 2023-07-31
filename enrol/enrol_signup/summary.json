@@ -1,0 +1,45 @@
+{
+    "id": 152,
+    "index": 721,
+    "name": "Signup",
+    "frankenstyle": "enrol_signup",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_signup",
+    "shortdescription": "This enrolment plugin lets you enrol users in the desired courses when they sign up to Moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 26 May 2017, 12:59 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-05-26T00:59:05+08:00"
+    },
+    "aggsites": "281",
+    "aggdownloads": "141",
+    "aggfavs": "37",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/152/enrol_signup.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 705036,
+            "firstname": "Antonio",
+            "lastname": "Duran",
+            "url": "https://moodle.org/user/profile.php?id=705036"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

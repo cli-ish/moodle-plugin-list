@@ -1,0 +1,40 @@
+{
+    "id": 1813,
+    "index": 958,
+    "name": "Restriction by days offset from start",
+    "frankenstyle": "availability_days",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_days",
+    "shortdescription": "This plugin allows opening closing activity or sections at a day shift delay after course start or user enrolment in course.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 19 June 2018, 12:06 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-19T00:06:42+08:00"
+    },
+    "aggsites": "516",
+    "aggdownloads": "67",
+    "aggfavs": "36",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1813/settings_en.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": []
+}

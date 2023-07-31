@@ -1,0 +1,68 @@
+{
+    "id": 1212,
+    "index": 1613,
+    "name": "Global CSV feeding for Moodle",
+    "frankenstyle": "tool_sync",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_sync",
+    "shortdescription": "This plugin concentrates all CSV based approaches for feeding massively Moodle\r\nwith initialisations as courses, users, and enrollements, completing all \r\nexisting mechanisms with missing parts (cron automation, failure reports, tryback files, archiving, CSV files repository and selection, instant upload and run).",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 July 2020, 3:32 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-07-29T15:32:25+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "8",
+    "aggfavs": "19",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1212/b9a6cf9e340d1bfb43af67adc7e9dbd059467a0d.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1212/b9a6cf9e340d1bfb43af67adc7e9dbd059467a0d.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1212/00_overall_settings_menu.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1212/01_courses.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1212/02_users.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1212/03_userpictures.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1212/04_enrols.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1212/05_cohorts.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1212/08_post_processing.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

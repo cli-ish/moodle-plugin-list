@@ -1,0 +1,45 @@
+{
+    "id": 227,
+    "index": 1739,
+    "name": "Course Awards",
+    "frankenstyle": "report_courseawards",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_courseawards",
+    "shortdescription": "An admin report used to show votes and notes cast, and medals awarded, using the 'Course Awards - Vote' and 'Course Award - Medal' blocks, both of which are required to install this report.",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 October 2012, 5:55 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-11T17:55:16+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "6",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/227/report-detail.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 266725,
+            "firstname": "Paul",
+            "lastname": "Vaughan",
+            "url": "https://moodle.org/user/profile.php?id=266725"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

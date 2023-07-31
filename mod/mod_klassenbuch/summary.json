@@ -1,0 +1,45 @@
+{
+    "id": 895,
+    "index": 1663,
+    "name": "Klassenbuch",
+    "frankenstyle": "mod_klassenbuch",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_klassenbuch",
+    "shortdescription": "Modified version of the book module, adding email subscriptions, structured entries, PDF export and autosaving.",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 November 2016, 4:51 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-11-24T04:51:10+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "7",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

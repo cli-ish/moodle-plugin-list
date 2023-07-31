@@ -1,0 +1,47 @@
+[
+    {
+        "id": "18330",
+        "name": "v3.6-r1",
+        "url": "https://moodle.org/plugins/download.php/18330/repository_owncloud_moodle26_2018060810.zip"
+    },
+    {
+        "id": "18041",
+        "name": "v3.5-r4",
+        "url": "https://moodle.org/plugins/download.php/18041/repository_owncloud_moodle34_2022070801.zip"
+    },
+    {
+        "id": "17819",
+        "name": "v3.5-r3",
+        "url": "https://moodle.org/plugins/download.php/17819/repository_owncloud_moodle33_2023030303.zip"
+    },
+    {
+        "id": "17630",
+        "name": "v3.5-r2",
+        "url": "https://moodle.org/plugins/download.php/17630/repository_owncloud_moodle30_2022020615.zip"
+    },
+    {
+        "id": "16637",
+        "name": "v3.5-r1",
+        "url": "https://moodle.org/plugins/download.php/16637/repository_owncloud_moodle27_2016010715.zip"
+    },
+    {
+        "id": "15111",
+        "name": "v3.4-r2",
+        "url": "https://moodle.org/plugins/download.php/15111/repository_owncloud_moodle25_2017060319.zip"
+    },
+    {
+        "id": "14665",
+        "name": "v3.3-r7",
+        "url": "https://moodle.org/plugins/download.php/14665/repository_owncloud_moodle35_2023060119.zip"
+    },
+    {
+        "id": "14654",
+        "name": "v3.3-r6",
+        "url": "https://moodle.org/plugins/download.php/14654/repository_owncloud_moodle31_2015101206.zip"
+    },
+    {
+        "id": "14540",
+        "name": "v3.3-r5",
+        "url": "https://moodle.org/plugins/download.php/14540/repository_owncloud_moodle38_2010050302.zip"
+    }
+]

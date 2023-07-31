@@ -1,0 +1,56 @@
+{
+    "id": 29,
+    "index": 273,
+    "name": "Dialogue",
+    "frankenstyle": "mod_dialogue",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_dialogue",
+    "shortdescription": "Dialogue between two users",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 November 2022, 3:56 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-24T15:56:17+08:00"
+    },
+    "aggsites": "1233",
+    "aggdownloads": "468",
+    "aggfavs": "54",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/29/dialogue-icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/29/dialogue-icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/29/closed-conversationlist-viewany.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/29/open-conversationitem-viewown.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/29/open-conversationlist-viewown.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

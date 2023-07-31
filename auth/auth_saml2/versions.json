@@ -1,0 +1,67 @@
+[
+    {
+        "id": "28869",
+        "name": "2022111701",
+        "url": "https://moodle.org/plugins/download.php/28869/auth_saml2_moodle25_2011060818.zip"
+    },
+    {
+        "id": "20505",
+        "name": "2019110701",
+        "url": "https://moodle.org/plugins/download.php/20505/auth_saml2_moodle28_2012040911.zip"
+    },
+    {
+        "id": "19164",
+        "name": "2019022100",
+        "url": "https://moodle.org/plugins/download.php/19164/auth_saml2_moodle38_2019040220.zip"
+    },
+    {
+        "id": "27945",
+        "name": "2022111700",
+        "url": "https://moodle.org/plugins/download.php/27945/auth_saml2_moodle28_2011090510.zip"
+    },
+    {
+        "id": "27451",
+        "name": "2022083100",
+        "url": "https://moodle.org/plugins/download.php/27451/auth_saml2_moodle39_2021080903.zip"
+    },
+    {
+        "id": "27375",
+        "name": "2022081800",
+        "url": "https://moodle.org/plugins/download.php/27375/auth_saml2_moodle32_2012080517.zip"
+    },
+    {
+        "id": "27111",
+        "name": "2022071800",
+        "url": "https://moodle.org/plugins/download.php/27111/auth_saml2_moodle28_2015041107.zip"
+    },
+    {
+        "id": "26794",
+        "name": "2022060900",
+        "url": "https://moodle.org/plugins/download.php/26794/auth_saml2_moodle30_2012041011.zip"
+    },
+    {
+        "id": "26201",
+        "name": "2022032200",
+        "url": "https://moodle.org/plugins/download.php/26201/auth_saml2_moodle29_2016040312.zip"
+    },
+    {
+        "id": "26161",
+        "name": "2022031503",
+        "url": "https://moodle.org/plugins/download.php/26161/auth_saml2_moodle36_2018060407.zip"
+    },
+    {
+        "id": "24556",
+        "name": "2021062900",
+        "url": "https://moodle.org/plugins/download.php/24556/auth_saml2_moodle38_2011041113.zip"
+    },
+    {
+        "id": "24125",
+        "name": "2021040100",
+        "url": "https://moodle.org/plugins/download.php/24125/auth_saml2_moodle33_2011051200.zip"
+    },
+    {
+        "id": "17556",
+        "name": "2018071100",
+        "url": "https://moodle.org/plugins/download.php/17556/auth_saml2_moodle35_2011021119.zip"
+    }
+]

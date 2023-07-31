@@ -1,0 +1,44 @@
+{
+    "id": 2305,
+    "index": 1688,
+    "name": "Moodle App link Filter for Atto",
+    "frankenstyle": "atto_applink",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_applink",
+    "shortdescription": "Atto plugin which makes it easier to apply the Moodle App link filter to some content.",
+    "timelastreleased": {
+        "absdate": "Friday, 14 June 2019, 3:03 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-06-14T15:03:07+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "7",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2305/Screenshot%202019-06-13%20at%2016.57.58.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2305/Screenshot%202019-06-14%20at%2008.20.46.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1889394,
+            "firstname": "Dani",
+            "lastname": "Palou",
+            "url": "https://moodle.org/user/profile.php?id=1889394"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,56 @@
+{
+    "id": 3093,
+    "index": 1202,
+    "name": "Airtel Africa",
+    "frankenstyle": "paygw_airtelafrica",
+    "plugintype": {
+        "type": "paygw",
+        "name": "Payment gateway"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/paygw_airtelafrica",
+    "shortdescription": "The plugin allows a site to connect to Airtel Africa to process payments.",
+    "timelastreleased": {
+        "absdate": "Saturday, 8 July 2023, 10:00 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-08T22:00:22+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "27",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3093/img.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3093/img.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3093/payment_step6.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3093/payment_step1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3093/payment_step2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3093/payment_step3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3093/payment_step4.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3093/payment_step5.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1207459,
+            "firstname": "Renaat",
+            "lastname": "Debleu",
+            "url": "https://moodle.org/user/profile.php?id=1207459"
+        }
+    ],
+    "descriptors": []
+}

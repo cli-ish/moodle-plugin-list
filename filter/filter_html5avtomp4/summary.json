@@ -1,0 +1,40 @@
+{
+    "id": 2300,
+    "index": 1120,
+    "name": "HTML5 audio/video to MP4 filter",
+    "frankenstyle": "filter_html5avtomp4",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_html5avtomp4",
+    "shortdescription": "This filter allows the automated creation of MP4 sources for HTML5  and  elements.",
+    "timelastreleased": {
+        "absdate": "Friday, 18 June 2021, 8:06 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-18T20:06:18+08:00"
+    },
+    "aggsites": "177",
+    "aggdownloads": "35",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2300/Screenshot%202019-06-07%20at%2010.51.04.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": []
+}

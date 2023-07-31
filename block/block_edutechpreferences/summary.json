@@ -1,0 +1,53 @@
+{
+    "id": 2919,
+    "index": 1752,
+    "name": "Edutech Preferences",
+    "frankenstyle": "block_edutechpreferences",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_edutechpreferences",
+    "shortdescription": "This plugin allows teachers to easily identify the needs of accessible content required by the students of each of their courses through a preference report.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 November 2022, 1:32 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-30T01:32:02+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "6",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2919/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2919/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2919/addblocktocourse.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2919/contentpreferencesreport.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2919/studentblock.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2919/studentpreferencesform.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2919/teacherblock.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4851268,
+            "firstname": "Ricardo",
+            "lastname": "Reyes",
+            "url": "https://moodle.org/user/profile.php?id=4851268"
+        }
+    ],
+    "descriptors": []
+}

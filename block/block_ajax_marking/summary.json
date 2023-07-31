@@ -1,0 +1,45 @@
+{
+    "id": 60,
+    "index": 753,
+    "name": "AJAX Marking Block",
+    "frankenstyle": "block_ajax_marking",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_ajax_marking",
+    "shortdescription": "Shows a teacher all of the unmarked work which has been submitted by their students across all of the courses they teach in. It's most useful when placed on the front page, and it allows the work to be viewed and graded through a pop-up interface, which then updates the block once the work is marked.",
+    "timelastreleased": {
+        "absdate": "Monday, 11 February 2013, 2:08 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-02-11T02:08:37+08:00"
+    },
+    "aggsites": "101",
+    "aggdownloads": "133",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/60/ajax_marking.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/60/ajax_marking.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/60/ajax_marking.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 81450,
+            "firstname": "Matt",
+            "lastname": "Gibson",
+            "url": "https://moodle.org/user/profile.php?id=81450"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

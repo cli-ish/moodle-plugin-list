@@ -1,0 +1,50 @@
+{
+    "id": 1816,
+    "index": 593,
+    "name": "Hide courses",
+    "frankenstyle": "tool_hidecourses",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_hidecourses",
+    "shortdescription": "This admin tool allows managers to set all courses in a category (including subcategories) to either hidden from, or visible to, students.",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 November 2018, 4:06 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-11-29T04:06:04+08:00"
+    },
+    "aggsites": "189",
+    "aggdownloads": "197",
+    "aggfavs": "28",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1816/tool-hiddencourses-confirmation.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1816/tool-hidecourses-settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": []
+}

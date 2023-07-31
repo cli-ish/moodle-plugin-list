@@ -1,0 +1,22 @@
+[
+    {
+        "id": "26735",
+        "name": "version-1.1.1-moodle-4.x",
+        "url": "https://moodle.org/plugins/download.php/26735/local_learningtools_moodle32_2023020605.zip"
+    },
+    {
+        "id": "26667",
+        "name": "version-1.1.1-moodle-3.x",
+        "url": "https://moodle.org/plugins/download.php/26667/local_learningtools_moodle28_2016101012.zip"
+    },
+    {
+        "id": "26627",
+        "name": "v1.03",
+        "url": "https://moodle.org/plugins/download.php/26627/local_learningtools_moodle40_2014120416.zip"
+    },
+    {
+        "id": "25089",
+        "name": "version-1.0",
+        "url": "https://moodle.org/plugins/download.php/25089/local_learningtools_moodle32_2010080810.zip"
+    }
+]

@@ -1,0 +1,59 @@
+{
+    "id": 1220,
+    "index": 303,
+    "name": "Mycourse Status",
+    "frankenstyle": "block_mycoursestatus",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mycoursestatus",
+    "shortdescription": "Mycourse Status is a course completion block for student and editing teacher (from v3.9). You can add the block at site/global and course context level.",
+    "timelastreleased": {
+        "absdate": "Thursday, 28 July 2022, 10:29 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-07-28T22:29:01+08:00"
+    },
+    "aggsites": "132",
+    "aggdownloads": "437",
+    "aggfavs": "20",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1220/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1220/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1220/1Student-Home.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1220/2Student-CourseA.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1220/3Student-CourseB.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1220/4Student-CourseC.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1220/5Student-Report.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1220/6Teacher-Home.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1220/7Teacher-Report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1212537,
+            "firstname": "Lavanya",
+            "lastname": "Manne",
+            "url": "https://moodle.org/user/profile.php?id=1212537"
+        }
+    ],
+    "descriptors": []
+}

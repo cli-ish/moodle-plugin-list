@@ -1,0 +1,45 @@
+{
+    "id": 361,
+    "index": 1960,
+    "name": "PDF Page Limiter",
+    "frankenstyle": "mod_pdfpager",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_pdfpager",
+    "shortdescription": "Allows a course creator to add upload a large pdf file and serve only a specified page range back to the users. This has been useful in serving specific portions of a larger \"book of readings\" type of PDF files to students in remote locations without high speed internet access. It may also be used as a way to dissect a pdf document for electronic delivery where a page or pages at the beginning or end of the document are not relevant to the end user. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 June 2012, 2:31 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-26T14:31:49+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1346161,
+            "firstname": "Geoff",
+            "lastname": "Eggins",
+            "url": "https://moodle.org/user/profile.php?id=1346161"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

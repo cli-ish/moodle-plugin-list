@@ -1,0 +1,57 @@
+{
+    "id": 233,
+    "index": 1014,
+    "name": "Drag and drop onto image",
+    "frankenstyle": "qtype_ddimageortext",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_ddimageortext",
+    "shortdescription": "As of Moodle 3.0, this question type is part of the standard Moodle release. That is why there is no plugin from Moodle 3.x. You don't need one!\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 11 May 2015, 2:39 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-05-11T14:39:25+08:00"
+    },
+    "aggsites": "97",
+    "aggdownloads": "53",
+    "aggfavs": "87",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/233/ddimageexample.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 22721,
+            "firstname": "Jamie",
+            "lastname": "Pratt",
+            "url": "https://moodle.org/user/profile.php?id=22721"
+        },
+        {
+            "id": 115651,
+            "firstname": "Phil",
+            "lastname": "Butcher",
+            "url": "https://moodle.org/user/profile.php?id=115651"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "27498",
+        "name": "4.0.1",
+        "url": "https://moodle.org/plugins/download.php/27498/filter_tabs_moodle33_2014060203.zip"
+    },
+    {
+        "id": "26420",
+        "name": "v3.5-r3",
+        "url": "https://moodle.org/plugins/download.php/26420/filter_tabs_moodle36_2017030414.zip"
+    },
+    {
+        "id": "11803",
+        "name": "v3.1-r1",
+        "url": "https://moodle.org/plugins/download.php/11803/filter_tabs_moodle25_2019120514.zip"
+    },
+    {
+        "id": "10678",
+        "name": "v3.0-r3",
+        "url": "https://moodle.org/plugins/download.php/10678/filter_tabs_moodle36_2022021205.zip"
+    },
+    {
+        "id": "9900",
+        "name": "2.9-build-2015112900",
+        "url": "https://moodle.org/plugins/download.php/9900/filter_tabs_moodle36_2013050301.zip"
+    },
+    {
+        "id": "7793",
+        "name": "2.8-build-2015012300",
+        "url": "https://moodle.org/plugins/download.php/7793/filter_tabs_moodle32_2014040500.zip"
+    },
+    {
+        "id": "7792",
+        "name": "2.7-build-2015012300",
+        "url": "https://moodle.org/plugins/download.php/7792/filter_tabs_moodle39_2023100816.zip"
+    },
+    {
+        "id": "5350",
+        "name": "2.6-build-2014013100",
+        "url": "https://moodle.org/plugins/download.php/5350/filter_tabs_moodle31_2014040409.zip"
+    },
+    {
+        "id": "3559",
+        "name": "2.5-build-2013073000",
+        "url": "https://moodle.org/plugins/download.php/3559/filter_tabs_moodle31_2016100420.zip"
+    },
+    {
+        "id": "2423",
+        "name": "2.4-build-2013031800",
+        "url": "https://moodle.org/plugins/download.php/2423/filter_tabs_moodle34_2022110400.zip"
+    },
+    {
+        "id": "1906",
+        "name": "2.3-build-2012112702",
+        "url": "https://moodle.org/plugins/download.php/1906/filter_tabs_moodle30_2018120608.zip"
+    },
+    {
+        "id": "26436",
+        "name": "4.0.0",
+        "url": "https://moodle.org/plugins/download.php/26436/filter_tabs_moodle35_2019080505.zip"
+    }
+]

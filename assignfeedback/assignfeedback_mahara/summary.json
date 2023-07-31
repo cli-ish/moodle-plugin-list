@@ -1,0 +1,55 @@
+{
+    "id": 790,
+    "index": 1220,
+    "name": "Mahara Assignment Feedback",
+    "frankenstyle": "assignfeedback_mahara",
+    "plugintype": {
+        "type": "assignfeedback",
+        "name": "Assignment / Feedback plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignfeedback_mahara",
+    "shortdescription": "[For Moodle 2.6] an optional (but recommended!) addition to the Mahara Assignment Submission plugin. This plugin allows Moodle to automatically unlock submitted Mahara portfolio pages & collections after grading.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 10 February 2015, 12:40 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-02-10T12:40:57+08:00"
+    },
+    "aggsites": "60",
+    "aggdownloads": "25",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/790/site-logo4facebook.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/790/site-logo4facebook.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/790/maharafb1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/790/maharafbas2.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1070092,
+            "firstname": "Aaron",
+            "lastname": "Wells",
+            "url": "https://moodle.org/user/profile.php?id=1070092"
+        },
+        {
+            "id": 1277024,
+            "firstname": "Tony",
+            "lastname": "Box",
+            "url": "https://moodle.org/user/profile.php?id=1277024"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 414,
+    "index": 447,
+    "name": "Workflow report",
+    "frankenstyle": "report_workflow",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_workflow",
+    "shortdescription": "This report is a companion to the Workflow block. It provides reports on the state of the workflow in all courses or activities.",
+    "timelastreleased": {
+        "absdate": "Friday, 10 June 2022, 6:36 AM",
+        "reldate": "14 months",
+        "iso8601date": "2022-06-10T06:36:57+08:00"
+    },
+    "aggsites": "179",
+    "aggdownloads": "269",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/414/wf-report-results.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/414/wf-report-settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

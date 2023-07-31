@@ -1,0 +1,47 @@
+{
+    "id": 2577,
+    "index": 625,
+    "name": "Snap! submissions",
+    "frankenstyle": "assignsubmission_snap",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_snap",
+    "shortdescription": "Add to your Moodle assignments the ability to include Snap! projects",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 March 2023, 5:38 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-22T17:38:13+08:00"
+    },
+    "aggsites": "343",
+    "aggdownloads": "182",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2577/snapMoodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2577/snapMoodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2577/pluginSnap1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2577/pluginSnap2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2577/pluginSnap3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 134030,
+            "firstname": "Joan",
+            "lastname": "Guill\u00e9n",
+            "url": "https://moodle.org/user/profile.php?id=134030"
+        }
+    ],
+    "descriptors": []
+}

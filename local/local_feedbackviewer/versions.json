@@ -1,0 +1,42 @@
+[
+    {
+        "id": "24233",
+        "name": "v3.11.0",
+        "url": "https://moodle.org/plugins/download.php/24233/local_feedbackviewer_moodle37_2022071109.zip"
+    },
+    {
+        "id": "22807",
+        "name": "v3.7.1",
+        "url": "https://moodle.org/plugins/download.php/22807/local_feedbackviewer_moodle35_2019020420.zip"
+    },
+    {
+        "id": "21725",
+        "name": "v3.6.0",
+        "url": "https://moodle.org/plugins/download.php/21725/local_feedbackviewer_moodle34_2011020710.zip"
+    },
+    {
+        "id": "19578",
+        "name": "v3.4.1",
+        "url": "https://moodle.org/plugins/download.php/19578/local_feedbackviewer_moodle34_2023040417.zip"
+    },
+    {
+        "id": "16709",
+        "name": "v3.3.0",
+        "url": "https://moodle.org/plugins/download.php/16709/local_feedbackviewer_moodle26_2023010115.zip"
+    },
+    {
+        "id": "14636",
+        "name": "v3.2.0",
+        "url": "https://moodle.org/plugins/download.php/14636/local_feedbackviewer_moodle27_2012021004.zip"
+    },
+    {
+        "id": "22636",
+        "name": "v3.7.0",
+        "url": "https://moodle.org/plugins/download.php/22636/local_feedbackviewer_moodle29_2021090410.zip"
+    },
+    {
+        "id": "16710",
+        "name": "v3.4.0",
+        "url": "https://moodle.org/plugins/download.php/16710/local_feedbackviewer_moodle32_2015050615.zip"
+    }
+]

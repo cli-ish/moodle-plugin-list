@@ -1,0 +1,64 @@
+{
+    "id": 188,
+    "index": 159,
+    "name": "Accessibility",
+    "frankenstyle": "block_accessibility",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_accessibility",
+    "shortdescription": "Provides options for changing text size and colour scheme. Settings can be saved to persist between sessions. Also integrates ATbar from Southampton University ECS.",
+    "timelastreleased": {
+        "absdate": "Thursday, 23 September 2021, 3:06 AM",
+        "reldate": "22 months",
+        "iso8601date": "2021-09-23T03:06:21+08:00"
+    },
+    "aggsites": "3080",
+    "aggdownloads": "756",
+    "aggfavs": "91",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/188/acc1.PNG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/188/acc1.PNG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/188/1_access1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/188/2_access2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/188/3_access3.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/188/access1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/188/access2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/188/access3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/188/access4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4074596,
+            "firstname": "Brickfield",
+            "lastname": "Education Labs",
+            "url": "https://moodle.org/user/profile.php?id=4074596"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1798,
+    "index": 1055,
+    "name": "My Notes",
+    "frankenstyle": "block_mynotes",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mynotes",
+    "shortdescription": "A simpler mynotes system that integrates as moodle block to save user's notes\r\nfrom different areas such as site, course, modules, etc.",
+    "timelastreleased": {
+        "absdate": "Friday, 12 January 2018, 11:05 PM",
+        "reldate": "6 years",
+        "iso8601date": "2018-01-12T23:05:55+08:00"
+    },
+    "aggsites": "244",
+    "aggdownloads": "43",
+    "aggfavs": "22",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1798/mynotes_popup.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1798/Dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1798/editingoff.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1055903,
+            "firstname": "gautam",
+            "lastname": "Das",
+            "url": "https://moodle.org/user/profile.php?id=1055903"
+        }
+    ],
+    "descriptors": []
+}

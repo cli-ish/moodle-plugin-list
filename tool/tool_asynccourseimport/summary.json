@@ -1,0 +1,47 @@
+{
+    "id": 2352,
+    "index": 2047,
+    "name": "Asynchronous course import",
+    "frankenstyle": "tool_asynccourseimport",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_asynccourseimport",
+    "shortdescription": "This is a Moodle admin/tool plugin that imports a big number of courses from a CSV file using asynchronous scheduled tasks to avoid any browser's timeout errors.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 11 September 2019, 9:19 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-09-11T21:19:00+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "1",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2352/asynccourseimport-img1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2352/asynccourseimport-img2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2352/asynccourseimport-img3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2430873,
+            "firstname": "Matthieu",
+            "lastname": "Cornut",
+            "url": "https://moodle.org/user/profile.php?id=2430873"
+        }
+    ],
+    "descriptors": []
+}

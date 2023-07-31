@@ -1,0 +1,64 @@
+{
+    "id": 864,
+    "index": 976,
+    "name": "Sign In Sheet - Attendance / Signature list generator",
+    "frankenstyle": "block_signinsheet",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_signinsheet",
+    "shortdescription": "This block is a simple way to generate attendance / signature lists for students\r\nin your course. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 September 2018, 9:44 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-09-13T21:44:11+08:00"
+    },
+    "aggsites": "283",
+    "aggdownloads": "62",
+    "aggfavs": "53",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/864/sign%20in%20splash.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/864/sign1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/864/sign2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/864/sign3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/864/sign4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1181300,
+            "firstname": "Kyle",
+            "lastname": "Goslin",
+            "url": "https://moodle.org/user/profile.php?id=1181300"
+        },
+        {
+            "id": 250242,
+            "firstname": "Daniel",
+            "lastname": "Mc Sweeney",
+            "url": "https://moodle.org/user/profile.php?id=250242"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

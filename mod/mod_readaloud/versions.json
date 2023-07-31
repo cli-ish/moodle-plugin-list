@@ -1,0 +1,407 @@
+[
+    {
+        "id": "29470",
+        "name": "2.0.95-build-2023061900",
+        "url": "https://moodle.org/plugins/download.php/29470/mod_readaloud_moodle25_2010080113.zip"
+    },
+    {
+        "id": "25899",
+        "name": "2.0.75-build-2022012500",
+        "url": "https://moodle.org/plugins/download.php/25899/mod_readaloud_moodle38_2015040209.zip"
+    },
+    {
+        "id": "12636",
+        "name": "1.0.7-build-2016111901",
+        "url": "https://moodle.org/plugins/download.php/12636/mod_readaloud_moodle39_2021080600.zip"
+    },
+    {
+        "id": "29421",
+        "name": "2.0.94-build-2023061100",
+        "url": "https://moodle.org/plugins/download.php/29421/mod_readaloud_moodle31_2013110705.zip"
+    },
+    {
+        "id": "29257",
+        "name": "2.0.93-build-2023051900",
+        "url": "https://moodle.org/plugins/download.php/29257/mod_readaloud_moodle35_2012050707.zip"
+    },
+    {
+        "id": "28841",
+        "name": "2.0.92-build-2023031700",
+        "url": "https://moodle.org/plugins/download.php/28841/mod_readaloud_moodle29_2020080517.zip"
+    },
+    {
+        "id": "28058",
+        "name": "2.0.91-build-2022112701",
+        "url": "https://moodle.org/plugins/download.php/28058/mod_readaloud_moodle39_2022060601.zip"
+    },
+    {
+        "id": "28056",
+        "name": "2.0.90-build-2022112700",
+        "url": "https://moodle.org/plugins/download.php/28056/mod_readaloud_moodle37_2016100815.zip"
+    },
+    {
+        "id": "27695",
+        "name": "2.0.89-build-2022100700",
+        "url": "https://moodle.org/plugins/download.php/27695/mod_readaloud_moodle33_2014110306.zip"
+    },
+    {
+        "id": "27157",
+        "name": "2.0.87-build-2022072400",
+        "url": "https://moodle.org/plugins/download.php/27157/mod_readaloud_moodle32_2023060620.zip"
+    },
+    {
+        "id": "26778",
+        "name": "2.0.86-build-2022060500",
+        "url": "https://moodle.org/plugins/download.php/26778/mod_readaloud_moodle26_2012080118.zip"
+    },
+    {
+        "id": "26593",
+        "name": "2.0.84-build-2022050200",
+        "url": "https://moodle.org/plugins/download.php/26593/mod_readaloud_moodle40_2012010420.zip"
+    },
+    {
+        "id": "26519",
+        "name": "2.0.84-build-2022042300",
+        "url": "https://moodle.org/plugins/download.php/26519/mod_readaloud_moodle36_2010040705.zip"
+    },
+    {
+        "id": "26439",
+        "name": "2.0.82-build-2022041300",
+        "url": "https://moodle.org/plugins/download.php/26439/mod_readaloud_moodle36_2014060514.zip"
+    },
+    {
+        "id": "26335",
+        "name": "2.0.80-build-2022040600",
+        "url": "https://moodle.org/plugins/download.php/26335/mod_readaloud_moodle29_2021110919.zip"
+    },
+    {
+        "id": "26305",
+        "name": "2.0.79-build-2022040200",
+        "url": "https://moodle.org/plugins/download.php/26305/mod_readaloud_moodle31_2021110508.zip"
+    },
+    {
+        "id": "26292",
+        "name": "2.0.78-build-2022040100",
+        "url": "https://moodle.org/plugins/download.php/26292/mod_readaloud_moodle37_2016100808.zip"
+    },
+    {
+        "id": "26194",
+        "name": "2.0.77-build-2022032000",
+        "url": "https://moodle.org/plugins/download.php/26194/mod_readaloud_moodle39_2023060419.zip"
+    },
+    {
+        "id": "25676",
+        "name": "2.0.73-build-2021121500",
+        "url": "https://moodle.org/plugins/download.php/25676/mod_readaloud_moodle36_2021080304.zip"
+    },
+    {
+        "id": "25543",
+        "name": "2.0.72-build-2021112700",
+        "url": "https://moodle.org/plugins/download.php/25543/mod_readaloud_moodle28_2020120406.zip"
+    },
+    {
+        "id": "25537",
+        "name": "2.0.71-build-2021112600",
+        "url": "https://moodle.org/plugins/download.php/25537/mod_readaloud_moodle36_2018050213.zip"
+    },
+    {
+        "id": "25511",
+        "name": "2.0.70-build-2021112100",
+        "url": "https://moodle.org/plugins/download.php/25511/mod_readaloud_moodle29_2015090100.zip"
+    },
+    {
+        "id": "25399",
+        "name": "2.0.69-build-2021103101",
+        "url": "https://moodle.org/plugins/download.php/25399/mod_readaloud_moodle38_2014060816.zip"
+    },
+    {
+        "id": "25397",
+        "name": "2.0.68-build-2021103100",
+        "url": "https://moodle.org/plugins/download.php/25397/mod_readaloud_moodle27_2011081205.zip"
+    },
+    {
+        "id": "25221",
+        "name": "2.0.66-build-2021100100",
+        "url": "https://moodle.org/plugins/download.php/25221/mod_readaloud_moodle35_2020100712.zip"
+    },
+    {
+        "id": "25211",
+        "name": "2.0.65-build-2021093001",
+        "url": "https://moodle.org/plugins/download.php/25211/mod_readaloud_moodle32_2017090411.zip"
+    },
+    {
+        "id": "25114",
+        "name": "2.0.64-build-2021091200",
+        "url": "https://moodle.org/plugins/download.php/25114/mod_readaloud_moodle31_2015010311.zip"
+    },
+    {
+        "id": "25092",
+        "name": "2.0.64-build-2021090300",
+        "url": "https://moodle.org/plugins/download.php/25092/mod_readaloud_moodle25_2021060102.zip"
+    },
+    {
+        "id": "24344",
+        "name": "2.0.60-build-2021052900",
+        "url": "https://moodle.org/plugins/download.php/24344/mod_readaloud_moodle38_2020050601.zip"
+    },
+    {
+        "id": "24278",
+        "name": "2.0.59-build-2021052500",
+        "url": "https://moodle.org/plugins/download.php/24278/mod_readaloud_moodle25_2013090800.zip"
+    },
+    {
+        "id": "24255",
+        "name": "2.0.58-build-2021052200",
+        "url": "https://moodle.org/plugins/download.php/24255/mod_readaloud_moodle27_2018010203.zip"
+    },
+    {
+        "id": "23817",
+        "name": "2.0.57-build-2021040500",
+        "url": "https://moodle.org/plugins/download.php/23817/mod_readaloud_moodle33_2021090911.zip"
+    },
+    {
+        "id": "23791",
+        "name": "2.0.55-build-2021032903",
+        "url": "https://moodle.org/plugins/download.php/23791/mod_readaloud_moodle37_2013020810.zip"
+    },
+    {
+        "id": "23790",
+        "name": "2.0.54-build-2021032902",
+        "url": "https://moodle.org/plugins/download.php/23790/mod_readaloud_moodle26_2011040412.zip"
+    },
+    {
+        "id": "23789",
+        "name": "2.0.53-build-2021032900",
+        "url": "https://moodle.org/plugins/download.php/23789/mod_readaloud_moodle33_2013020711.zip"
+    },
+    {
+        "id": "23783",
+        "name": "2.0.52-build-2021032600",
+        "url": "https://moodle.org/plugins/download.php/23783/mod_readaloud_moodle30_2019050607.zip"
+    },
+    {
+        "id": "23332",
+        "name": "2.0.50-build-2021013100",
+        "url": "https://moodle.org/plugins/download.php/23332/mod_readaloud_moodle36_2019040705.zip"
+    },
+    {
+        "id": "23268",
+        "name": "2.0.49-build-2021012400",
+        "url": "https://moodle.org/plugins/download.php/23268/mod_readaloud_moodle40_2021011220.zip"
+    },
+    {
+        "id": "23093",
+        "name": "2.0.48-build-2020121400",
+        "url": "https://moodle.org/plugins/download.php/23093/mod_readaloud_moodle29_2020090106.zip"
+    },
+    {
+        "id": "22879",
+        "name": "2.0.47-build-2020111700",
+        "url": "https://moodle.org/plugins/download.php/22879/mod_readaloud_moodle36_2010070815.zip"
+    },
+    {
+        "id": "22838",
+        "name": "2.0.46-build-2020110400",
+        "url": "https://moodle.org/plugins/download.php/22838/mod_readaloud_moodle39_2022110901.zip"
+    },
+    {
+        "id": "22633",
+        "name": "2.0.45-build-2020100700",
+        "url": "https://moodle.org/plugins/download.php/22633/mod_readaloud_moodle34_2018071000.zip"
+    },
+    {
+        "id": "22497",
+        "name": "2.0.44-build-2020091700",
+        "url": "https://moodle.org/plugins/download.php/22497/mod_readaloud_moodle33_2022041119.zip"
+    },
+    {
+        "id": "22477",
+        "name": "2.0.43-build-2020091300",
+        "url": "https://moodle.org/plugins/download.php/22477/mod_readaloud_moodle37_2013100106.zip"
+    },
+    {
+        "id": "22410",
+        "name": "2.0.42-build-2020090300",
+        "url": "https://moodle.org/plugins/download.php/22410/mod_readaloud_moodle35_2014041119.zip"
+    },
+    {
+        "id": "22304",
+        "name": "2.0.41-build-2020082100",
+        "url": "https://moodle.org/plugins/download.php/22304/mod_readaloud_moodle25_2018060701.zip"
+    },
+    {
+        "id": "22105",
+        "name": "2.0.40-build-2020072701",
+        "url": "https://moodle.org/plugins/download.php/22105/mod_readaloud_moodle39_2015010905.zip"
+    },
+    {
+        "id": "21974",
+        "name": "2.0.39-build-2020071401",
+        "url": "https://moodle.org/plugins/download.php/21974/mod_readaloud_moodle35_2010011219.zip"
+    },
+    {
+        "id": "21972",
+        "name": "2.0.38-build-2020071400",
+        "url": "https://moodle.org/plugins/download.php/21972/mod_readaloud_moodle30_2018070205.zip"
+    },
+    {
+        "id": "21819",
+        "name": "2.0.34-build-2020062300",
+        "url": "https://moodle.org/plugins/download.php/21819/mod_readaloud_moodle32_2018010907.zip"
+    },
+    {
+        "id": "21743",
+        "name": "2.0.33-build-2020061600",
+        "url": "https://moodle.org/plugins/download.php/21743/mod_readaloud_moodle26_2021111002.zip"
+    },
+    {
+        "id": "21592",
+        "name": "2.0.31-build-2020060100",
+        "url": "https://moodle.org/plugins/download.php/21592/mod_readaloud_moodle34_2021041212.zip"
+    },
+    {
+        "id": "21270",
+        "name": "2.0.28-build-2020032801",
+        "url": "https://moodle.org/plugins/download.php/21270/mod_readaloud_moodle25_2010110820.zip"
+    },
+    {
+        "id": "21170",
+        "name": "2.0.27-build-2020030701",
+        "url": "https://moodle.org/plugins/download.php/21170/mod_readaloud_moodle35_2012080409.zip"
+    },
+    {
+        "id": "21167",
+        "name": "2.0.26-build-2020030700",
+        "url": "https://moodle.org/plugins/download.php/21167/mod_readaloud_moodle34_2022111116.zip"
+    },
+    {
+        "id": "21124",
+        "name": "2.0.25-build-2020022900",
+        "url": "https://moodle.org/plugins/download.php/21124/mod_readaloud_moodle33_2020050815.zip"
+    },
+    {
+        "id": "21079",
+        "name": "2.0.23-build-2020021800",
+        "url": "https://moodle.org/plugins/download.php/21079/mod_readaloud_moodle33_2018050116.zip"
+    },
+    {
+        "id": "20646",
+        "name": "2.0.21-build-2019112100",
+        "url": "https://moodle.org/plugins/download.php/20646/mod_readaloud_moodle30_2014040819.zip"
+    },
+    {
+        "id": "20511",
+        "name": "2.0.20-build-2019110700",
+        "url": "https://moodle.org/plugins/download.php/20511/mod_readaloud_moodle32_2019120214.zip"
+    },
+    {
+        "id": "20311",
+        "name": "2.0.18-build-2019092501",
+        "url": "https://moodle.org/plugins/download.php/20311/mod_readaloud_moodle28_2022021011.zip"
+    },
+    {
+        "id": "20299",
+        "name": "2.0.17-build-2019091901",
+        "url": "https://moodle.org/plugins/download.php/20299/mod_readaloud_moodle34_2010031118.zip"
+    },
+    {
+        "id": "20295",
+        "name": "2.0.16-build-2019091900",
+        "url": "https://moodle.org/plugins/download.php/20295/mod_readaloud_moodle27_2021041018.zip"
+    },
+    {
+        "id": "20238",
+        "name": "2.0.15-build-2019091000",
+        "url": "https://moodle.org/plugins/download.php/20238/mod_readaloud_moodle25_2015040103.zip"
+    },
+    {
+        "id": "19859",
+        "name": "2.0.14-build-2019062600",
+        "url": "https://moodle.org/plugins/download.php/19859/mod_readaloud_moodle33_2016121218.zip"
+    },
+    {
+        "id": "19665",
+        "name": "2.0.12-build-2019052000",
+        "url": "https://moodle.org/plugins/download.php/19665/mod_readaloud_moodle30_2012090319.zip"
+    },
+    {
+        "id": "19397",
+        "name": "2.0.11-build-2019042000",
+        "url": "https://moodle.org/plugins/download.php/19397/mod_readaloud_moodle27_2022060700.zip"
+    },
+    {
+        "id": "19122",
+        "name": "2.0.10-build-2019030600",
+        "url": "https://moodle.org/plugins/download.php/19122/mod_readaloud_moodle25_2019080911.zip"
+    },
+    {
+        "id": "19015",
+        "name": "2.0.8-build-2019021800",
+        "url": "https://moodle.org/plugins/download.php/19015/mod_readaloud_moodle38_2020081004.zip"
+    },
+    {
+        "id": "18987",
+        "name": "2.0.7-build-2019021600",
+        "url": "https://moodle.org/plugins/download.php/18987/mod_readaloud_moodle30_2015070404.zip"
+    },
+    {
+        "id": "18774",
+        "name": "2.0.6-build-2019012000",
+        "url": "https://moodle.org/plugins/download.php/18774/mod_readaloud_moodle33_2020060108.zip"
+    },
+    {
+        "id": "18536",
+        "name": "2.0.5-build-2018121400",
+        "url": "https://moodle.org/plugins/download.php/18536/mod_readaloud_moodle31_2020090118.zip"
+    },
+    {
+        "id": "18490",
+        "name": "2.0.4-build-2018120900",
+        "url": "https://moodle.org/plugins/download.php/18490/mod_readaloud_moodle28_2015061105.zip"
+    },
+    {
+        "id": "18413",
+        "name": "2.0.3-build-2018112600",
+        "url": "https://moodle.org/plugins/download.php/18413/mod_readaloud_moodle25_2023101218.zip"
+    },
+    {
+        "id": "18233",
+        "name": "2.0.1-build-2018111200",
+        "url": "https://moodle.org/plugins/download.php/18233/mod_readaloud_moodle36_2015080810.zip"
+    },
+    {
+        "id": "18008",
+        "name": "2.0.0-build-2018101200",
+        "url": "https://moodle.org/plugins/download.php/18008/mod_readaloud_moodle33_2015030815.zip"
+    },
+    {
+        "id": "10769",
+        "name": "1.0.5-build-2016031001",
+        "url": "https://moodle.org/plugins/download.php/10769/mod_readaloud_moodle31_2020010311.zip"
+    },
+    {
+        "id": "10765",
+        "name": "1.0.4-build-2016031000",
+        "url": "https://moodle.org/plugins/download.php/10765/mod_readaloud_moodle37_2011080802.zip"
+    },
+    {
+        "id": "10630",
+        "name": "1.0.3-build-2016022500",
+        "url": "https://moodle.org/plugins/download.php/10630/mod_readaloud_moodle39_2020040516.zip"
+    },
+    {
+        "id": "10579",
+        "name": "1.0.2-build-2016022102",
+        "url": "https://moodle.org/plugins/download.php/10579/mod_readaloud_moodle28_2015061003.zip"
+    },
+    {
+        "id": "10578",
+        "name": "1.0.1-build-2016022101",
+        "url": "https://moodle.org/plugins/download.php/10578/mod_readaloud_moodle32_2020100809.zip"
+    },
+    {
+        "id": "10478",
+        "name": "1.0.0-build-2016020800",
+        "url": "https://moodle.org/plugins/download.php/10478/mod_readaloud_moodle32_2012010105.zip"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "25564",
+        "name": "1.0.9-for-moodle-2.7-3.11-build-2021113000",
+        "url": "https://moodle.org/plugins/download.php/25564/atto_corrections_moodle37_2016080601.zip"
+    },
+    {
+        "id": "24647",
+        "name": "1.0.8-for-moodle-2.7-3.11-build-2021070700",
+        "url": "https://moodle.org/plugins/download.php/24647/atto_corrections_moodle40_2018050511.zip"
+    },
+    {
+        "id": "16925",
+        "name": "1.0.7-for-moodle-2.7-3.9-build-2018050201",
+        "url": "https://moodle.org/plugins/download.php/16925/atto_corrections_moodle38_2017120810.zip"
+    },
+    {
+        "id": "16537",
+        "name": "1.0.6-for-moodle-2.7-3.5-build-2018050200",
+        "url": "https://moodle.org/plugins/download.php/16537/atto_corrections_moodle31_2017021216.zip"
+    },
+    {
+        "id": "13913",
+        "name": "1.0.5-for-moodle-2.7-3.3-build-2017050100",
+        "url": "https://moodle.org/plugins/download.php/13913/atto_corrections_moodle30_2012030318.zip"
+    },
+    {
+        "id": "12736",
+        "name": "1.0.4-for-moodle-2.7-3.2",
+        "url": "https://moodle.org/plugins/download.php/12736/atto_corrections_moodle36_2011071207.zip"
+    },
+    {
+        "id": "11512",
+        "name": "1.0.3-for-moodle-2.7-3.1",
+        "url": "https://moodle.org/plugins/download.php/11512/atto_corrections_moodle26_2012020200.zip"
+    },
+    {
+        "id": "9495",
+        "name": "1.0.2-for-moodle-2.7-2.9",
+        "url": "https://moodle.org/plugins/download.php/9495/atto_corrections_moodle28_2018060107.zip"
+    },
+    {
+        "id": "7701",
+        "name": "1.0.1-for-moodle-2.7-2.8",
+        "url": "https://moodle.org/plugins/download.php/7701/atto_corrections_moodle30_2019060805.zip"
+    },
+    {
+        "id": "7065",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/7065/atto_corrections_moodle32_2023070706.zip"
+    },
+    {
+        "id": "6579",
+        "name": "1.0-rc2",
+        "url": "https://moodle.org/plugins/download.php/6579/atto_corrections_moodle39_2020110518.zip"
+    },
+    {
+        "id": "6578",
+        "name": "1.0-rc",
+        "url": "https://moodle.org/plugins/download.php/6578/atto_corrections_moodle38_2016020410.zip"
+    }
+]

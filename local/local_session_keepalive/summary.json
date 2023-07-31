@@ -1,0 +1,46 @@
+{
+    "id": 1854,
+    "index": 263,
+    "name": "Session keepalive",
+    "frankenstyle": "local_session_keepalive",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_session_keepalive",
+    "shortdescription": "Moodle plugin which checks for unsent user input in the browser and keeps the user session alive as long as needed to prevent that user input which is sent to the server after the user session has expired will be lost",
+    "timelastreleased": {
+        "absdate": "Monday, 20 March 2023, 3:16 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-20T03:16:21+08:00"
+    },
+    "aggsites": "316",
+    "aggdownloads": "494",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1854/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1854/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1854/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

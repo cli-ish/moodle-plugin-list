@@ -1,0 +1,40 @@
+{
+    "id": 45,
+    "index": 1187,
+    "name": "OpenSocial gadgets module",
+    "frankenstyle": "mod_widgetspace",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_widgetspace",
+    "shortdescription": "This is a plugin to add OpenSocial gadgets to the Moodle. OpenSocial gadgets are rendered via Apache Shindig (version 2.0) in an iGoogle similar fashion. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 September 2011, 11:40 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-09-22T23:40:33+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "28",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/45/moodle_view.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1364802,
+            "firstname": "Evgeny",
+            "lastname": "Bogdanov",
+            "url": "https://moodle.org/user/profile.php?id=1364802"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2590,
+    "index": 194,
+    "name": "Freehand drawing (ETH)",
+    "frankenstyle": "qtype_drawing",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_drawing",
+    "shortdescription": "Free-Hand drawing question type. It is SVG based, and comes in two modes: simple mode and advanced mode. Teachers can annotate on student drawings by drawing over them.",
+    "timelastreleased": {
+        "absdate": "Sunday, 4 June 2023, 2:34 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-04T14:34:15+08:00"
+    },
+    "aggsites": "507",
+    "aggdownloads": "643",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2590/Screenshot%202020-11-15%20at%2011.11.16.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 91386,
+            "firstname": "ETH",
+            "lastname": "Z\u00fcrich",
+            "url": "https://moodle.org/user/profile.php?id=91386"
+        }
+    ],
+    "descriptors": []
+}

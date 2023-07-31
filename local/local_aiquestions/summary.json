@@ -1,0 +1,53 @@
+{
+    "id": 3104,
+    "index": 719,
+    "name": "AI Text to questions generator",
+    "frankenstyle": "local_aiquestions",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_aiquestions",
+    "shortdescription": "A local plugin that is accessible from course top menu, that generates question on a given text using OpenAI ChatGPT.\r\nNote that Open AI API key is required for using this plugin.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 June 2023, 8:28 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-06T20:28:53+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "142",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3104/ai_question_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3104/ai_question_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3104/aiquestions_ready.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3104/generation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3104/local_aiquestions.jpeg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 528592,
+            "firstname": "Yedidia",
+            "lastname": "Klein",
+            "url": "https://moodle.org/user/profile.php?id=528592"
+        },
+        {
+            "id": 682587,
+            "firstname": "Ruthy",
+            "lastname": "Salomon",
+            "url": "https://moodle.org/user/profile.php?id=682587"
+        }
+    ],
+    "descriptors": []
+}

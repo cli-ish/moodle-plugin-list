@@ -1,0 +1,44 @@
+{
+    "id": 296,
+    "index": 1164,
+    "name": "Weekly format reversed",
+    "frankenstyle": "format_weeksrev",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_weeksrev",
+    "shortdescription": "Weekly format listed in reverse format so first week at bottom and current week at the top",
+    "timelastreleased": {
+        "absdate": "Friday, 20 December 2019, 4:08 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-12-20T16:08:28+08:00"
+    },
+    "aggsites": "145",
+    "aggdownloads": "30",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/296/format_weeksrev-teacherview-v3.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/296/format_weeksrev-studentview-v3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1973579,
+            "firstname": "Arnaud",
+            "lastname": "Trouv\u00e9",
+            "url": "https://moodle.org/user/profile.php?id=1973579"
+        }
+    ],
+    "descriptors": []
+}

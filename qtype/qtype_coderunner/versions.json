@@ -1,0 +1,132 @@
+[
+    {
+        "id": "27875",
+        "name": "5.1.1",
+        "url": "https://moodle.org/plugins/download.php/27875/qtype_coderunner_moodle33_2012010902.zip"
+    },
+    {
+        "id": "26238",
+        "name": "4.2.3",
+        "url": "https://moodle.org/plugins/download.php/26238/qtype_coderunner_moodle39_2014110103.zip"
+    },
+    {
+        "id": "22620",
+        "name": "3.7.9",
+        "url": "https://moodle.org/plugins/download.php/22620/qtype_coderunner_moodle27_2019030204.zip"
+    },
+    {
+        "id": "14561",
+        "name": "3.2.0",
+        "url": "https://moodle.org/plugins/download.php/14561/qtype_coderunner_moodle26_2014050805.zip"
+    },
+    {
+        "id": "27397",
+        "name": "5.0.0",
+        "url": "https://moodle.org/plugins/download.php/27397/qtype_coderunner_moodle31_2019030608.zip"
+    },
+    {
+        "id": "25542",
+        "name": "4.1.1",
+        "url": "https://moodle.org/plugins/download.php/25542/qtype_coderunner_moodle28_2018090210.zip"
+    },
+    {
+        "id": "25171",
+        "name": "4.1.0",
+        "url": "https://moodle.org/plugins/download.php/25171/qtype_coderunner_moodle27_2019020320.zip"
+    },
+    {
+        "id": "24253",
+        "name": "4.0.2",
+        "url": "https://moodle.org/plugins/download.php/24253/qtype_coderunner_moodle33_2019110911.zip"
+    },
+    {
+        "id": "23718",
+        "name": "4.0.1",
+        "url": "https://moodle.org/plugins/download.php/23718/qtype_coderunner_moodle29_2018051205.zip"
+    },
+    {
+        "id": "21856",
+        "name": "3.7.8",
+        "url": "https://moodle.org/plugins/download.php/21856/qtype_coderunner_moodle36_2019100809.zip"
+    },
+    {
+        "id": "21590",
+        "name": "3.7.7",
+        "url": "https://moodle.org/plugins/download.php/21590/qtype_coderunner_moodle39_2016081118.zip"
+    },
+    {
+        "id": "20977",
+        "name": "3.7.5",
+        "url": "https://moodle.org/plugins/download.php/20977/qtype_coderunner_moodle36_2021090605.zip"
+    },
+    {
+        "id": "20637",
+        "name": "3.7.4",
+        "url": "https://moodle.org/plugins/download.php/20637/qtype_coderunner_moodle40_2020010707.zip"
+    },
+    {
+        "id": "20492",
+        "name": "3.7.2",
+        "url": "https://moodle.org/plugins/download.php/20492/qtype_coderunner_moodle32_2010101105.zip"
+    },
+    {
+        "id": "19994",
+        "name": "3.6.1",
+        "url": "https://moodle.org/plugins/download.php/19994/qtype_coderunner_moodle25_2010091103.zip"
+    },
+    {
+        "id": "18873",
+        "name": "3.6.0",
+        "url": "https://moodle.org/plugins/download.php/18873/qtype_coderunner_moodle36_2014071113.zip"
+    },
+    {
+        "id": "18132",
+        "name": "3.5.3",
+        "url": "https://moodle.org/plugins/download.php/18132/qtype_coderunner_moodle31_2020050918.zip"
+    },
+    {
+        "id": "17477",
+        "name": "3.5.0",
+        "url": "https://moodle.org/plugins/download.php/17477/qtype_coderunner_moodle28_2012020214.zip"
+    },
+    {
+        "id": "16516",
+        "name": "3.4.0",
+        "url": "https://moodle.org/plugins/download.php/16516/qtype_coderunner_moodle34_2021080716.zip"
+    },
+    {
+        "id": "16153",
+        "name": "3.3.0",
+        "url": "https://moodle.org/plugins/download.php/16153/qtype_coderunner_moodle33_2012040500.zip"
+    },
+    {
+        "id": "14114",
+        "name": "3.1.5",
+        "url": "https://moodle.org/plugins/download.php/14114/qtype_coderunner_moodle36_2021100102.zip"
+    },
+    {
+        "id": "13488",
+        "name": "3.1.4",
+        "url": "https://moodle.org/plugins/download.php/13488/qtype_coderunner_moodle40_2022010207.zip"
+    },
+    {
+        "id": "13361",
+        "name": "3.1.3",
+        "url": "https://moodle.org/plugins/download.php/13361/qtype_coderunner_moodle25_2012040118.zip"
+    },
+    {
+        "id": "13150",
+        "name": "3.1.2",
+        "url": "https://moodle.org/plugins/download.php/13150/qtype_coderunner_moodle30_2012021213.zip"
+    },
+    {
+        "id": "12985",
+        "name": "3.1.1",
+        "url": "https://moodle.org/plugins/download.php/12985/qtype_coderunner_moodle31_2016021114.zip"
+    },
+    {
+        "id": "12971",
+        "name": "3.1.0",
+        "url": "https://moodle.org/plugins/download.php/12971/qtype_coderunner_moodle38_2022020900.zip"
+    }
+]

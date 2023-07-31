@@ -1,0 +1,52 @@
+{
+    "id": 2207,
+    "index": 549,
+    "name": "H5P Filter",
+    "frankenstyle": "filter_h5p",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_h5p",
+    "shortdescription": "This filter adds the possibility to get h5p content being automatically embedded in textfields based on the activityname.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 22 June 2021, 11:53 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-22T23:53:46+08:00"
+    },
+    "aggsites": "1402",
+    "aggdownloads": "214",
+    "aggfavs": "40",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2207/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2207/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2207/screenshot-filter_h5p.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        },
+        {
+            "id": 2827819,
+            "firstname": "Zentrum f\u00fcr",
+            "lastname": "Lernmanagement",
+            "url": "https://moodle.org/user/profile.php?id=2827819"
+        },
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": []
+}

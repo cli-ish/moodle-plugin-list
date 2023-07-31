@@ -1,0 +1,32 @@
+[
+    {
+        "id": "27596",
+        "name": "1.1.1-build-2021112500",
+        "url": "https://moodle.org/plugins/download.php/27596/tool_cohortsync_moodle40_2017050702.zip"
+    },
+    {
+        "id": "21614",
+        "name": "1.2.0",
+        "url": "https://moodle.org/plugins/download.php/21614/tool_cohortsync_moodle38_2017021118.zip"
+    },
+    {
+        "id": "12407",
+        "name": "1.1.0-build-2016101100",
+        "url": "https://moodle.org/plugins/download.php/12407/tool_cohortsync_moodle25_2014010609.zip"
+    },
+    {
+        "id": "12314",
+        "name": "1.0.1-build-2016092900",
+        "url": "https://moodle.org/plugins/download.php/12314/tool_cohortsync_moodle26_2011020420.zip"
+    },
+    {
+        "id": "12261",
+        "name": "1.0.0-build-2016060600",
+        "url": "https://moodle.org/plugins/download.php/12261/tool_cohortsync_moodle31_2020031205.zip"
+    },
+    {
+        "id": "12235",
+        "name": "2016060600",
+        "url": "https://moodle.org/plugins/download.php/12235/tool_cohortsync_moodle32_2011020714.zip"
+    }
+]

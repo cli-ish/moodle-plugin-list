@@ -1,0 +1,45 @@
+{
+    "id": 738,
+    "index": 1144,
+    "name": "HTML5 content editable editor",
+    "frankenstyle": "editor_contenteditable",
+    "plugintype": {
+        "type": "editor",
+        "name": "Editor"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/editor_contenteditable",
+    "shortdescription": "Replacement text editor that uses HTML5 contenteditable regions to create a simpler and faster text editor. \r\n\r\nIf you find any issues, please report them on github.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 July 2013, 11:46 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-07-30T11:46:52+08:00"
+    },
+    "aggsites": "40",
+    "aggdownloads": "32",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/738/contenteditable-screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1337843,
+            "firstname": "Damyon",
+            "lastname": "Wiese",
+            "url": "https://moodle.org/user/profile.php?id=1337843"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

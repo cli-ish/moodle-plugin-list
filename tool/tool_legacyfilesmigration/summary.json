@@ -1,0 +1,55 @@
+{
+    "id": 1349,
+    "index": 1995,
+    "name": "Legacy files migration",
+    "frankenstyle": "tool_legacyfilesmigration",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_legacyfilesmigration",
+    "shortdescription": "This plugin is designed in order to migrate legacy course files to private files area for a choosen user",
+    "timelastreleased": {
+        "absdate": "Tuesday, 17 November 2015, 6:43 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-11-17T18:43:24+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "2",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1349/Capture%20du%202015-02-10%20145422.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1349/Capture%20du%202015-02-10%20150235.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1349/Capture%20du%202015-02-10%20150432.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1349/Capture%20du%202015-02-10%20150516.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 922669,
+            "firstname": "C\u00e9line",
+            "lastname": "Perves",
+            "url": "https://moodle.org/user/profile.php?id=922669"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

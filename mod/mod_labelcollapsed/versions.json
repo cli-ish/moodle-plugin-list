@@ -1,0 +1,22 @@
+[
+    {
+        "id": "25213",
+        "name": "v3.11-r2",
+        "url": "https://moodle.org/plugins/download.php/25213/mod_labelcollapsed_moodle25_2011120813.zip"
+    },
+    {
+        "id": "24738",
+        "name": "v3.11-r1",
+        "url": "https://moodle.org/plugins/download.php/24738/mod_labelcollapsed_moodle35_2021060409.zip"
+    },
+    {
+        "id": "24661",
+        "name": "v3.10-r3",
+        "url": "https://moodle.org/plugins/download.php/24661/mod_labelcollapsed_moodle29_2023100619.zip"
+    },
+    {
+        "id": "23514",
+        "name": "v3.10-r1",
+        "url": "https://moodle.org/plugins/download.php/23514/mod_labelcollapsed_moodle27_2013080120.zip"
+    }
+]

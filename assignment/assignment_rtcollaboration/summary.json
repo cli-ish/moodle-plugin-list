@@ -1,0 +1,45 @@
+{
+    "id": 71,
+    "index": 1071,
+    "name": "Collaborative real-time editor",
+    "frankenstyle": "assignment_rtcollaboration",
+    "plugintype": {
+        "type": "assignment",
+        "name": "Assignment / Legacy plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignment_rtcollaboration",
+    "shortdescription": "rtcollaboration is a new type of assignment. It's a collaborative real-time editor that works like Google Docs \r\nTwo or more users can work at the same time in the same document. When you type a word the text is updated in real-time for the other users\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 4 November 2011, 3:49 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-11-04T15:49:17+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": "42",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/71/rtcollab.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        }
+    ]
+}

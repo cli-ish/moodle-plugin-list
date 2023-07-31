@@ -1,0 +1,46 @@
+{
+    "id": 2624,
+    "index": 1481,
+    "name": "iyzico Payment",
+    "frankenstyle": "enrol_iyzicopayment",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_iyzicopayment",
+    "shortdescription": "Enroll users via iyzico payment gateway",
+    "timelastreleased": {
+        "absdate": "Sunday, 14 February 2021, 12:56 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-14T00:56:07+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": "12",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2624/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC_2021-01-29_16-26-19.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4029014,
+            "firstname": "\u00d6zcan",
+            "lastname": "O\u011fuz",
+            "url": "https://moodle.org/user/profile.php?id=4029014"
+        },
+        {
+            "id": 3965903,
+            "firstname": "U\u011fur",
+            "lastname": "Ar\u0131c\u0131",
+            "url": "https://moodle.org/user/profile.php?id=3965903"
+        }
+    ],
+    "descriptors": []
+}

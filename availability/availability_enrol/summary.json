@@ -1,0 +1,47 @@
+{
+    "id": 2027,
+    "index": 981,
+    "name": "Activity Restriction by course enrollment",
+    "frankenstyle": "availability_enrol",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_enrol",
+    "shortdescription": "A Moodle Availablity Condition Plugin to test for enrolled students.",
+    "timelastreleased": {
+        "absdate": "Saturday, 10 March 2018, 5:53 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-03-10T05:53:03+08:00"
+    },
+    "aggsites": "108",
+    "aggdownloads": "61",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2027/availability_enrol_course.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2027/availability_enrol_rules.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2027/availability_enrol_select.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1981578,
+            "firstname": "Christian",
+            "lastname": "Glahn",
+            "url": "https://moodle.org/user/profile.php?id=1981578"
+        }
+    ],
+    "descriptors": []
+}

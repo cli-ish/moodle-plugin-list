@@ -1,0 +1,45 @@
+{
+    "id": 804,
+    "index": 1325,
+    "name": "Elcentra Social Login",
+    "frankenstyle": "auth_elcentra",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_elcentra",
+    "shortdescription": "Updated! This plugin gives you an easy way of letting your users login through their Facebook, Twitter, Google, LinkedIn and VKontakte (New!) accounts. ",
+    "timelastreleased": {
+        "absdate": "Friday, 2 May 2014, 1:39 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-02T13:39:31+08:00"
+    },
+    "aggsites": "43",
+    "aggdownloads": "18",
+    "aggfavs": "27",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/804/elcentra.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/804/elcentra.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/804/Login%20page?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1619708,
+            "firstname": "elcentra",
+            "lastname": "admin",
+            "url": "https://moodle.org/user/profile.php?id=1619708"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

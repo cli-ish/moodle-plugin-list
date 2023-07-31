@@ -1,0 +1,65 @@
+{
+    "id": 810,
+    "index": 1388,
+    "name": "GPS Format",
+    "frankenstyle": "format_gps",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_gps",
+    "shortdescription": "The course format \u201eGPS Format\u201c allows e-learning content to be displayed according to the geo coordinates of the learner. This enables location-based mobile learning.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 5 April 2016, 6:49 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-05T18:49:06+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "15",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/810/gps.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/810/gps.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/810/iPad.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/810/Samsung%20Galaxy%20S4.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1064752,
+            "firstname": "J\u00fcrgen",
+            "lastname": "Kappus",
+            "url": "https://moodle.org/user/profile.php?id=1064752"
+        },
+        {
+            "id": 520295,
+            "firstname": "Barry",
+            "lastname": "Oosthuizen",
+            "url": "https://moodle.org/user/profile.php?id=520295"
+        },
+        {
+            "id": 70180,
+            "firstname": "Ralf",
+            "lastname": "Krause",
+            "url": "https://moodle.org/user/profile.php?id=70180"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

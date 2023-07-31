@@ -1,0 +1,53 @@
+{
+    "id": 170,
+    "index": 162,
+    "name": "Ouriginal plagiarism plugin",
+    "frankenstyle": "plagiarism_urkund",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_urkund",
+    "shortdescription": "With more than three decades of knowledge and expertise, Ouriginal delivers cutting-edge technology in the field of text-matching and plagiarism prevention. Their software helps enhance the potential of students to think originally, saves time for teachers when evaluating assignments, and assists corporations preserve their reputations.",
+    "timelastreleased": {
+        "absdate": "Saturday, 19 November 2022, 7:37 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-19T07:37:08+08:00"
+    },
+    "aggsites": "942",
+    "aggdownloads": "746",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/170/Stacked%20logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/170/Stacked%20logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/170/urkundreport.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/170/urkund%20workshop.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5550744,
+            "firstname": "Jes\u00fas",
+            "lastname": "Prieto L\u00f3pez",
+            "url": "https://moodle.org/user/profile.php?id=5550744"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

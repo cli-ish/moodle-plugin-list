@@ -1,0 +1,53 @@
+{
+    "id": 212,
+    "index": 1429,
+    "name": "sitenavigation",
+    "frankenstyle": "block_sitenavigation",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_sitenavigation",
+    "shortdescription": "A block to navigate through all categories and subcategories of Moodle sites merged with my own previous myCourses Block to navigate own courses.",
+    "timelastreleased": {
+        "absdate": "Friday, 5 July 2013, 2:54 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-07-05T02:54:55+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "14",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/212/sitenavigationBlock.gif?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/212/sitenavigationInOwnTabCatsAndCourses.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/212/sitenavigationInOwnTabCatsAndCoursesNoScrollBars.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/212/sitenavigationInOwnTabCatsOnly.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/212/sitenavigationMyCoursesInline.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 77708,
+            "firstname": "Rosario",
+            "lastname": "Carc\u00f2",
+            "url": "https://moodle.org/user/profile.php?id=77708"
+        }
+    ],
+    "descriptors": []
+}

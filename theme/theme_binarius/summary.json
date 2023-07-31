@@ -1,0 +1,45 @@
+{
+    "id": 1079,
+    "index": 1197,
+    "name": "Binarius",
+    "frankenstyle": "theme_binarius",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_binarius",
+    "shortdescription": "This theme was part of the Moodle core distribution, but for Moodle 2.7+ has been moved to Moodle Plugins",
+    "timelastreleased": {
+        "absdate": "Monday, 14 April 2014, 12:47 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-14T12:47:23+08:00"
+    },
+    "aggsites": "72",
+    "aggdownloads": "27",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1079/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

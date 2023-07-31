@@ -1,0 +1,53 @@
+{
+    "id": 3082,
+    "index": 576,
+    "name": "Automatic extension",
+    "frankenstyle": "assignsubmission_automaticextension",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_automaticextension",
+    "shortdescription": "This plugin allows students to request an automatic extension. A \"Request extension\" button will be presented on the assignment view page, pressing the button will take the student to a confirmation page, after confirming an extension will be applied using the site settings.",
+    "timelastreleased": {
+        "absdate": "Monday, 6 February 2023, 3:02 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-06T15:02:12+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "204",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3082/moodle-assignsubmission_automaticextension-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3082/moodle-assignsubmission_automaticextension-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3082/moodle-assignsubmission_automaticextension-3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2188238,
+            "firstname": "Rossco",
+            "lastname": "Hellmans",
+            "url": "https://moodle.org/user/profile.php?id=2188238"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

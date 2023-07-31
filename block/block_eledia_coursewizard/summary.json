@@ -1,0 +1,58 @@
+{
+    "id": 1048,
+    "index": 2096,
+    "name": "Course wizard",
+    "frankenstyle": "block_eledia_coursewizard",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_eledia_coursewizard",
+    "shortdescription": "With this block a user with specific rights can easily create new courses and enrol\r\nusers into the new course just by adding their e-mail addresses.",
+    "timelastreleased": {
+        "absdate": "Monday, 22 December 2014, 6:15 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-22T18:15:37+08:00"
+    },
+    "aggsites": "48",
+    "aggdownloads": null,
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1048/eledia-logo-mu_ohne_raender.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1048/eledia-logo-mu_ohne_raender.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1048/block_course_wizard_step1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1048/block_course_wizard_step2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1048/block_course_wizard.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1279450,
+            "firstname": "Matthias",
+            "lastname": "Berlin (Schwabe)",
+            "url": "https://moodle.org/user/profile.php?id=1279450"
+        },
+        {
+            "id": 36220,
+            "firstname": "Andreas",
+            "lastname": "Grabs",
+            "url": "https://moodle.org/user/profile.php?id=36220"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

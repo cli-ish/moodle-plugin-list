@@ -1,0 +1,56 @@
+{
+    "id": 1167,
+    "index": 197,
+    "name": "oEmbed Filter",
+    "frankenstyle": "filter_oembed",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_oembed",
+    "shortdescription": "A filter that will swap hyperlinks pointing towards supported websites with an embedded version using code retrieved from the site using the oEmbed protocol. An option for \"Lazy\" loading of some sites is also available.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 27 November 2019, 2:58 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-11-27T02:58:07+08:00"
+    },
+    "aggsites": "1818",
+    "aggdownloads": "629",
+    "aggfavs": "48",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1167/Manageproviders.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1167/oEmbed1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1167/oEmbed2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1167/oEmbed3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1835508,
+            "firstname": "James",
+            "lastname": "McQuillan",
+            "url": "https://moodle.org/user/profile.php?id=1835508"
+        },
+        {
+            "id": 9561,
+            "firstname": "Mike",
+            "lastname": "Churchward",
+            "url": "https://moodle.org/user/profile.php?id=9561"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,52 @@
+{
+    "id": 527,
+    "index": 1891,
+    "name": "filterMenu v2",
+    "frankenstyle": "filter_filtermenu",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_filtermenu",
+    "shortdescription": "This filter build a dynamic menu containing user courses (or all courses) list.\r\nCe filtre construit un menu dynamique affichant les cours de l'utilisateur ou tous les cours (au choix)\r\n",
+    "timelastreleased": {
+        "absdate": "Saturday, 17 November 2012, 1:05 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-17T01:05:59+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "4",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/527/logo.PNG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/527/logo.PNG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/527/filtermenu_all_courses.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/527/filtermenu_english.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/527/Menu.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 873036,
+            "firstname": "Pascal",
+            "lastname": "Maury",
+            "url": "https://moodle.org/user/profile.php?id=873036"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

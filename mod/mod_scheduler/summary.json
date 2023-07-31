@@ -1,0 +1,58 @@
+{
+    "id": 123,
+    "index": 40,
+    "name": "Scheduler",
+    "frankenstyle": "mod_scheduler",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_scheduler",
+    "shortdescription": "An appointment scheduler for planning face-to-face meetings between teachers and students. Teachers can set up time slots, and students can choose one of these on Moodle.",
+    "timelastreleased": {
+        "absdate": "Thursday, 25 May 2023, 1:57 AM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-25T01:57:47+08:00"
+    },
+    "aggsites": "5347",
+    "aggdownloads": "1k",
+    "aggfavs": "178",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/123/schedulericon.gif.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/123/schedulericon.gif.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/123/Editing_Scheduler_-_2014-09-17_20.01.50.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/123/SchedulerDemo_Demo_Meeting_-_2014-09-17_20.12.46.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/123/SchedulerDemo_Demo_Studentscreen-_2014-09-17_20.15.20.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/123/SchedulerDemo_Demo_Teacherscreen-_2014-09-17_20.19.55.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/123/SchedulerDemo_Demo_Teachreview_of_student_-_2014-09-17_20.22.30.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 772075,
+            "firstname": "Henning",
+            "lastname": "Bostelmann",
+            "url": "https://moodle.org/user/profile.php?id=772075"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

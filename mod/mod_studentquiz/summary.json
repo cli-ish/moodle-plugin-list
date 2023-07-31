@@ -1,0 +1,59 @@
+{
+    "id": 1736,
+    "index": 124,
+    "name": "StudentQuiz",
+    "frankenstyle": "mod_studentquiz",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_studentquiz",
+    "shortdescription": "StudentQuiz enables students to collaboratively create their own question pools in Moodle. Students can filter these questions into quizzes, and they can rate and comment questions while working through the quizzes. StudentQuiz computes each students contribution and learning progress and compares this with the community. The created questions become part of the Moodle question bank and can be reused in other Moodle quizzes. The video \"StudentQuiz in a minute\" tube.switch.ch/videos/d0e37788 provides a quick introduction.",
+    "timelastreleased": {
+        "absdate": "Friday, 23 December 2022, 2:45 AM",
+        "reldate": "7 months",
+        "iso8601date": "2022-12-23T02:45:34+08:00"
+    },
+    "aggsites": "1213",
+    "aggdownloads": "957",
+    "aggfavs": "117",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1736/StudentQuizLogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1736/StudentQuizLogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1736/Main%20View.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1736/Ranking.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1736/Statistics.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 16927,
+            "firstname": "Frank",
+            "lastname": "Koch",
+            "url": "https://moodle.org/user/profile.php?id=16927"
+        },
+        {
+            "id": 2297792,
+            "firstname": "Dragon",
+            "lastname": "Dionysius",
+            "url": "https://moodle.org/user/profile.php?id=2297792"
+        }
+    ],
+    "descriptors": []
+}

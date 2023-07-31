@@ -1,0 +1,49 @@
+{
+    "id": 1521,
+    "index": 1442,
+    "name": "Meet the Students",
+    "frankenstyle": "block_meet_the_students",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_meet_the_students",
+    "shortdescription": "Meet the Students is a block that displays profile pictures of students enrolled in a course so that students can easily see who they are studying with. Profiles are displayed in order of last activity.",
+    "timelastreleased": {
+        "absdate": "Thursday, 3 December 2015, 2:54 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-12-03T14:54:45+08:00"
+    },
+    "aggsites": "73",
+    "aggdownloads": "13",
+    "aggfavs": "12",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1521/Screen%20Shot%202015-10-26%20at%201.49.58%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1521/Screen%20Shot%202015-10-26%20at%201.52.28%20PM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1748832,
+            "firstname": "Mikhail",
+            "lastname": "Janowski",
+            "url": "https://moodle.org/user/profile.php?id=1748832"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

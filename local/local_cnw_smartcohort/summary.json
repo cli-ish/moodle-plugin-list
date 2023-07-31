@@ -1,0 +1,47 @@
+{
+    "id": 2246,
+    "index": 1054,
+    "name": "Smart Cohort",
+    "frankenstyle": "local_cnw_smartcohort",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_cnw_smartcohort",
+    "shortdescription": "With Smart Cohort modul, users automatically added to cohorts based on filters.",
+    "timelastreleased": {
+        "absdate": "Monday, 6 May 2019, 5:03 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-05-06T17:03:03+08:00"
+    },
+    "aggsites": "253",
+    "aggdownloads": "43",
+    "aggfavs": "29",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2246/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2246/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2246/007_create_with_2_rules.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2246/010_initialized.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2246/rules.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2604494,
+            "firstname": "CNW",
+            "lastname": "Zrt.",
+            "url": "https://moodle.org/user/profile.php?id=2604494"
+        }
+    ],
+    "descriptors": []
+}

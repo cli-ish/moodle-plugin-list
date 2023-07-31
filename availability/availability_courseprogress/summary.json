@@ -1,0 +1,40 @@
+{
+    "id": 2534,
+    "index": 501,
+    "name": "Restriction by course progress",
+    "frankenstyle": "availability_courseprogress",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_courseprogress",
+    "shortdescription": "This plugin allows teachers to add activities with restriction based on the student course completion progress.",
+    "timelastreleased": {
+        "absdate": "Sunday, 9 August 2020, 11:03 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-09T23:03:04+08:00"
+    },
+    "aggsites": "483",
+    "aggdownloads": "233",
+    "aggfavs": "23",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2534/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 968235,
+            "firstname": "Willian",
+            "lastname": "Mano",
+            "url": "https://moodle.org/user/profile.php?id=968235"
+        }
+    ],
+    "descriptors": []
+}

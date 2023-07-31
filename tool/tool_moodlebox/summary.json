@@ -1,0 +1,44 @@
+{
+    "id": 1807,
+    "index": 741,
+    "name": "MoodleBox",
+    "frankenstyle": "tool_moodlebox",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_moodlebox",
+    "shortdescription": "A Moodle administration plugin providing a GUI to some settings and management of a MoodleBox, a Moodle server installed on a Raspberry Pi with some sort of Linux version installed (Raspberry Pi OS preferred).",
+    "timelastreleased": {
+        "absdate": "Monday, 31 July 2023, 3:29 PM",
+        "reldate": "8 hours",
+        "iso8601date": "2023-07-31T15:29:25+08:00"
+    },
+    "aggsites": "145",
+    "aggdownloads": "136",
+    "aggfavs": "22",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1807/moodlebox-fr.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1807/moodlebox.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 6406,
+            "firstname": "Nicolas",
+            "lastname": "Martignoni",
+            "url": "https://moodle.org/user/profile.php?id=6406"
+        }
+    ],
+    "descriptors": []
+}

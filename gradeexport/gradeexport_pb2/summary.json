@@ -1,0 +1,49 @@
+{
+    "id": 107,
+    "index": 1587,
+    "name": "NOACSC Progressbook grade export module",
+    "frankenstyle": "gradeexport_pb2",
+    "plugintype": {
+        "type": "gradeexport",
+        "name": "Grade export method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradeexport_pb2",
+    "shortdescription": "The NOACSC Progressbook grade export module exports grades in a format that can be directly imported in the Progressbook gradebook application.\r\n\r\nWhen in your gradebook, the entry \"NOACSC Progressbook file\" will be available with the other grade export options that ship with Moodle.  Select that option and follow the prompts.",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 October 2011, 12:48 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-20T00:48:07+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "9",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 530747,
+            "firstname": "NOACSC",
+            "lastname": "Moodle",
+            "url": "https://moodle.org/user/profile.php?id=530747"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

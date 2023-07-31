@@ -1,0 +1,47 @@
+{
+    "id": 1858,
+    "index": 1273,
+    "name": "Grade Book",
+    "frankenstyle": "local_gradebook",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_gradebook",
+    "shortdescription": "This moodle plugin has the goal of improve usability when setting grades in Moodle. Moodle API provides an input where you can write your math expressions and that is difficult to some teachers. Therefore we are developing this plugin in order to make easier this process using a web interface.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 June 2017, 7:52 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-06-02T19:52:57+08:00"
+    },
+    "aggsites": "31",
+    "aggdownloads": "21",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1858/Captura%20de%20pantalla%202017-05-15%20a%20las%2015.40.43.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1858/Captura%20de%20pantalla%202017-05-20%20a%20las%2013.16.39.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1858/Captura%20de%20pantalla%202017-05-21%20a%20las%2016.08.12.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2019496,
+            "firstname": "Daniel",
+            "lastname": "Tome Fernandez",
+            "url": "https://moodle.org/user/profile.php?id=2019496"
+        }
+    ],
+    "descriptors": []
+}

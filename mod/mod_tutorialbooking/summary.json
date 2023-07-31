@@ -1,0 +1,73 @@
+{
+    "id": 1192,
+    "index": 220,
+    "name": "Signup Sheets",
+    "frankenstyle": "mod_tutorialbooking",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_tutorialbooking",
+    "shortdescription": "The signup sheets module (formerly known as tutorial booking) is designed to allow instructors of a course\r\nto create slots that the students can sign themselves up to. ",
+    "timelastreleased": {
+        "absdate": "Friday, 27 January 2023, 10:04 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-27T22:04:32+08:00"
+    },
+    "aggsites": "590",
+    "aggdownloads": "567",
+    "aggfavs": "66",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1192/UoN-UK-C-M.BlueRGB.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1192/UoN-UK-C-M.BlueRGB.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1192/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1192/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1192/3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1192/4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1192/5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1192/6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1192/7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1192/tutorialbooking-mobile.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1805510,
+            "firstname": "The University",
+            "lastname": "of Nottingham",
+            "url": "https://moodle.org/user/profile.php?id=1805510"
+        },
+        {
+            "id": 1457891,
+            "firstname": "Neill",
+            "lastname": "Magill",
+            "url": "https://moodle.org/user/profile.php?id=1457891"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

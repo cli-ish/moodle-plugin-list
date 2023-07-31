@@ -1,0 +1,49 @@
+{
+    "id": 605,
+    "index": 2064,
+    "name": "IDList2",
+    "frankenstyle": "enrol_idlist2",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_idlist2",
+    "shortdescription": "This plugin is designed to automatize the enrollment of users, using a list of authorized students. The users are enrolled automatically if they are included in the list. ",
+    "timelastreleased": {
+        "absdate": "Saturday, 16 March 2013, 12:10 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-16T00:10:48+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "1",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/605/sshot1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 563907,
+            "firstname": "Javier",
+            "lastname": "Martinez Baena",
+            "url": "https://moodle.org/user/profile.php?id=563907"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

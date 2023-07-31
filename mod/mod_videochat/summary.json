@@ -1,0 +1,49 @@
+{
+    "id": 342,
+    "index": 1631,
+    "name": "2 Way Video Chat",
+    "frankenstyle": "mod_videochat",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_videochat",
+    "shortdescription": "This 2 Way Video Chat edition integrates into Moodle as an activity module so private video chat rooms can be added to courses as activities, in example for evaluating students. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 June 2012, 4:34 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-26T16:34:58+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "8",
+    "aggfavs": "20",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/342/box_2w_180.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/342/box_2w_180.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/342/2wvc3_371x275.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1285863,
+            "firstname": "Teodor",
+            "lastname": "Nica",
+            "url": "https://moodle.org/user/profile.php?id=1285863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

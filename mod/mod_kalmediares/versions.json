@@ -1,0 +1,42 @@
+[
+    {
+        "id": "28390",
+        "name": "2.1.0r2",
+        "url": "https://moodle.org/plugins/download.php/28390/mod_kalmediares_moodle30_2014120500.zip"
+    },
+    {
+        "id": "24240",
+        "name": "2.0.0r3",
+        "url": "https://moodle.org/plugins/download.php/24240/mod_kalmediares_moodle30_2022120820.zip"
+    },
+    {
+        "id": "22784",
+        "name": "1.5.0",
+        "url": "https://moodle.org/plugins/download.php/22784/mod_kalmediares_moodle30_2014080920.zip"
+    },
+    {
+        "id": "21698",
+        "name": "1.4.2",
+        "url": "https://moodle.org/plugins/download.php/21698/mod_kalmediares_moodle31_2017070509.zip"
+    },
+    {
+        "id": "21535",
+        "name": "1.4.1r3",
+        "url": "https://moodle.org/plugins/download.php/21535/mod_kalmediares_moodle33_2018110713.zip"
+    },
+    {
+        "id": "21503",
+        "name": "1.4.1r2",
+        "url": "https://moodle.org/plugins/download.php/21503/mod_kalmediares_moodle34_2014010116.zip"
+    },
+    {
+        "id": "21479",
+        "name": "1.4.1",
+        "url": "https://moodle.org/plugins/download.php/21479/mod_kalmediares_moodle32_2015010517.zip"
+    },
+    {
+        "id": "20609",
+        "name": "1.4.0",
+        "url": "https://moodle.org/plugins/download.php/20609/mod_kalmediares_moodle31_2021010102.zip"
+    }
+]

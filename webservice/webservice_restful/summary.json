@@ -1,0 +1,40 @@
+{
+    "id": 2065,
+    "index": 222,
+    "name": "RESTful protocol",
+    "frankenstyle": "webservice_restful",
+    "plugintype": {
+        "type": "webservice",
+        "name": "Webservice protocol"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/webservice_restful",
+    "shortdescription": "A REStful webservice plugin for Moodle LMS\r\n\r\nThis plugin allows Moodle's webservice interface to operate in a more RESTFul way.\r\nInstead of each webservice call having a URL query parameter define what webservice function to use, webservice functions are made available by discrete URLs.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 25 May 2022, 10:39 AM",
+        "reldate": "14 months",
+        "iso8601date": "2022-05-25T10:39:29+08:00"
+    },
+    "aggsites": "1032",
+    "aggdownloads": "564",
+    "aggfavs": "25",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2065/Selection_084.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

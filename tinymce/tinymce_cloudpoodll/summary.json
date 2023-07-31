@@ -1,0 +1,56 @@
+{
+    "id": 2334,
+    "index": 725,
+    "name": "Cloud Poodll for TinyMCE - audio and video recording",
+    "frankenstyle": "tinymce_cloudpoodll",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_cloudpoodll",
+    "shortdescription": "An audio and video recorder for Moodle. The recordings are stored in the cloud and can be automatically subtitled in English, French, Spanish, Italian or Portuguese. Administrators can choose from recorder skins, and use Moodle capabilities to control the display of icons. Cloud Poodll for TinyMCE is not dependent on any other plugin.",
+    "timelastreleased": {
+        "absdate": "Sunday, 14 August 2022, 1:27 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-08-14T13:27:07+08:00"
+    },
+    "aggsites": "91",
+    "aggdownloads": "140",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2334/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2334/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2334/Cloud%20Poodll%20for%20TinyMCE%20-%20audio%20and%20video%20recording.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2334/2019-08-12_16-42-06.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2334/2019-08-12_16-46-16.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2334/2019-08-12_16-46-40.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2334/2019-08-12_16-47-04.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2334/MoodleTile_CloudforTinyMCE.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

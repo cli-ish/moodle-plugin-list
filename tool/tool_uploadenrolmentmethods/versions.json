@@ -1,0 +1,27 @@
+[
+    {
+        "id": "29222",
+        "name": "1.4.0-build-2023051500",
+        "url": "https://moodle.org/plugins/download.php/29222/tool_uploadenrolmentmethods_moodle25_2020040115.zip"
+    },
+    {
+        "id": "20139",
+        "name": "1.2.0",
+        "url": "https://moodle.org/plugins/download.php/20139/tool_uploadenrolmentmethods_moodle36_2011060310.zip"
+    },
+    {
+        "id": "24851",
+        "name": "1.3.4-build-2021080201",
+        "url": "https://moodle.org/plugins/download.php/24851/tool_uploadenrolmentmethods_moodle26_2013031120.zip"
+    },
+    {
+        "id": "24282",
+        "name": "1.3.3-build-2021050800",
+        "url": "https://moodle.org/plugins/download.php/24282/tool_uploadenrolmentmethods_moodle27_2023080910.zip"
+    },
+    {
+        "id": "17483",
+        "name": "1.1.0",
+        "url": "https://moodle.org/plugins/download.php/17483/tool_uploadenrolmentmethods_moodle33_2022020911.zip"
+    }
+]

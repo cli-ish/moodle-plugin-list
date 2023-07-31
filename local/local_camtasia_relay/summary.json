@@ -1,0 +1,45 @@
+{
+    "id": 271,
+    "index": 1954,
+    "name": "Camtasia Relay Notification Plugin",
+    "frankenstyle": "local_camtasia_relay",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_camtasia_relay",
+    "shortdescription": "This plugin is a Web Service plugin for Camtasia Relay to send notifications to your Moodle server.  Without this plugin, your Camtasia Relay server will be unable to send notifications to your Moodle server.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 March 2012, 10:26 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-14T22:26:01+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "3",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/271/relay-podium-new.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/271/relay-podium-new.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1426057,
+            "firstname": "Camtasia",
+            "lastname": "Relay",
+            "url": "https://moodle.org/user/profile.php?id=1426057"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

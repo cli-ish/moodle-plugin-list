@@ -1,0 +1,62 @@
+{
+    "id": 89,
+    "index": 16,
+    "name": "Collapsed Topics",
+    "frankenstyle": "format_topcoll",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_topcoll",
+    "shortdescription": "An interchangeable topic or week based format that solves the issue of the 'Scroll of Death' when a course has many topics.",
+    "timelastreleased": {
+        "absdate": "Monday, 8 May 2023, 4:41 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-08T04:41:09+08:00"
+    },
+    "aggsites": "5679",
+    "aggdownloads": "3k",
+    "aggfavs": "158",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/89/tc_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/89/tc_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/89/Collapsed_topics_image.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/89/ct_24_settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/89/ct_c_20.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/89/ct_c_23.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/89/ct_c2_23.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/89/ct_e_a.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/89/ct_l_23.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/89/ct_s_a.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        }
+    ],
+    "descriptors": []
+}

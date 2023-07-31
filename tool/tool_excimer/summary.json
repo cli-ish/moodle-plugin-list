@@ -1,0 +1,40 @@
+{
+    "id": 3139,
+    "index": 1171,
+    "name": "Excimer profiler",
+    "frankenstyle": "tool_excimer",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_excimer",
+    "shortdescription": "This is a Moodle admin plugin that provides developers with insights into not\r\nonly what pages in your site are slow, but why. It uses the the Excimer sampling\r\nphp profiler to so.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 June 2023, 4:51 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-02T16:51:10+08:00"
+    },
+    "aggsites": "70",
+    "aggdownloads": "29",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3139/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3139/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3139/122533874-59b15400-d065-11eb-833c-cd6d00ffbf1c.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

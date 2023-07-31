@@ -1,0 +1,51 @@
+{
+    "id": 1221,
+    "index": 1403,
+    "name": "Live allocation",
+    "frankenstyle": "workshopallocation_live",
+    "plugintype": {
+        "type": "workshopallocation",
+        "name": "Workshop / Submissions allocation method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/workshopallocation_live",
+    "shortdescription": "Allocation method for Moodle Workshop that automatically allocates for review submissions made during the assessment phase.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 November 2017, 4:26 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-11-22T04:26:54+08:00"
+    },
+    "aggsites": "133",
+    "aggdownloads": "14",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1221/live.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 214778,
+            "firstname": "Albert",
+            "lastname": "Gasset",
+            "url": "https://moodle.org/user/profile.php?id=214778"
+        },
+        {
+            "id": 321782,
+            "firstname": "David",
+            "lastname": "Pinyol Gras",
+            "url": "https://moodle.org/user/profile.php?id=321782"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

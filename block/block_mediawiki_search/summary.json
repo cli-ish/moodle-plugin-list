@@ -1,0 +1,49 @@
+{
+    "id": 461,
+    "index": 1632,
+    "name": "MediaWiki Search",
+    "frankenstyle": "block_mediawiki_search",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mediawiki_search",
+    "shortdescription": "Creates a search field for a MediaWiki based wiki.",
+    "timelastreleased": {
+        "absdate": "Monday, 26 November 2012, 6:42 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-26T06:42:21+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "8",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/461/Wiki.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/461/Wiki.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/461/MWS_settings.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/461/MWS.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 860723,
+            "firstname": "Nathan",
+            "lastname": "Robbins",
+            "url": "https://moodle.org/user/profile.php?id=860723"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

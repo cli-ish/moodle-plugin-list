@@ -1,0 +1,62 @@
+{
+    "id": 2993,
+    "index": 855,
+    "name": "Whiteboard",
+    "frankenstyle": "mod_whiteboard",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_whiteboard",
+    "shortdescription": "Teachers can use the Whiteboard activity to collaborate with students using popular whiteboard solutions like MIRO and Conceptboard",
+    "timelastreleased": {
+        "absdate": "Saturday, 20 August 2022, 4:38 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-08-20T16:38:46+08:00"
+    },
+    "aggsites": "88",
+    "aggdownloads": "112",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2993/Logo-1.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2993/Logo-1.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2993/Whiteboard%20by%20bdecent-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2993/Whiteboard%20by%20bdecent%20%E2%80%94%20activity%20picker.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2993/Whiteboard%20by%20bdecent%20%E2%80%94%20adding%20a%20whiteboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2993/Whiteboard%20by%20bdecent%20%E2%80%94%20conceptboard%20example.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2993/Whiteboard%20by%20bdecent%20%E2%80%94%20course%20page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2993/Whiteboard%20by%20bdecent%20%E2%80%94%20miro%20example.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1553381,
+            "firstname": "Stefan",
+            "lastname": "Scholz",
+            "url": "https://moodle.org/user/profile.php?id=1553381"
+        },
+        {
+            "id": 5033676,
+            "firstname": "bdecent",
+            "lastname": "gmbh",
+            "url": "https://moodle.org/user/profile.php?id=5033676"
+        }
+    ],
+    "descriptors": []
+}

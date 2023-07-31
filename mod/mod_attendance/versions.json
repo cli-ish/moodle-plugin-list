@@ -1,0 +1,392 @@
+[
+    {
+        "id": "28958",
+        "name": "2023041800",
+        "url": "https://moodle.org/plugins/download.php/28958/mod_attendance_moodle38_2013011104.zip"
+    },
+    {
+        "id": "28807",
+        "name": "2023020107",
+        "url": "https://moodle.org/plugins/download.php/28807/mod_attendance_moodle32_2018060416.zip"
+    },
+    {
+        "id": "28432",
+        "name": "4.0.11",
+        "url": "https://moodle.org/plugins/download.php/28432/mod_attendance_moodle35_2016120307.zip"
+    },
+    {
+        "id": "28433",
+        "name": "3.11.17",
+        "url": "https://moodle.org/plugins/download.php/28433/mod_attendance_moodle39_2010030304.zip"
+    },
+    {
+        "id": "24565",
+        "name": "3.9.3",
+        "url": "https://moodle.org/plugins/download.php/24565/mod_attendance_moodle39_2021090617.zip"
+    },
+    {
+        "id": "23075",
+        "name": "3.9.1",
+        "url": "https://moodle.org/plugins/download.php/23075/mod_attendance_moodle40_2013060818.zip"
+    },
+    {
+        "id": "22327",
+        "name": "3.7.2",
+        "url": "https://moodle.org/plugins/download.php/22327/mod_attendance_moodle25_2016080613.zip"
+    },
+    {
+        "id": "19642",
+        "name": "3.6.7",
+        "url": "https://moodle.org/plugins/download.php/19642/mod_attendance_moodle38_2016071210.zip"
+    },
+    {
+        "id": "21116",
+        "name": "3.5.6",
+        "url": "https://moodle.org/plugins/download.php/21116/mod_attendance_moodle35_2011040800.zip"
+    },
+    {
+        "id": "16324",
+        "name": "3.4.4",
+        "url": "https://moodle.org/plugins/download.php/16324/mod_attendance_moodle29_2014031210.zip"
+    },
+    {
+        "id": "16323",
+        "name": "3.3.15",
+        "url": "https://moodle.org/plugins/download.php/16323/mod_attendance_moodle31_2023031120.zip"
+    },
+    {
+        "id": "16322",
+        "name": "3.2.20",
+        "url": "https://moodle.org/plugins/download.php/16322/mod_attendance_moodle35_2020051116.zip"
+    },
+    {
+        "id": "14895",
+        "name": "3.1.1.2",
+        "url": "https://moodle.org/plugins/download.php/14895/mod_attendance_moodle38_2017100514.zip"
+    },
+    {
+        "id": "10937",
+        "name": "3.1.0.1",
+        "url": "https://moodle.org/plugins/download.php/10937/mod_attendance_moodle29_2011080320.zip"
+    },
+    {
+        "id": "8459",
+        "name": "2.9.1",
+        "url": "https://moodle.org/plugins/download.php/8459/mod_attendance_moodle32_2012121217.zip"
+    },
+    {
+        "id": "8461",
+        "name": "2.7.2",
+        "url": "https://moodle.org/plugins/download.php/8461/mod_attendance_moodle31_2021041103.zip"
+    },
+    {
+        "id": "7306",
+        "name": "2.6.2",
+        "url": "https://moodle.org/plugins/download.php/7306/mod_attendance_moodle35_2021040211.zip"
+    },
+    {
+        "id": "3827",
+        "name": "2.4.3",
+        "url": "https://moodle.org/plugins/download.php/3827/mod_attendance_moodle37_2023060918.zip"
+    },
+    {
+        "id": "28783",
+        "name": "2023020105",
+        "url": "https://moodle.org/plugins/download.php/28783/mod_attendance_moodle36_2018110211.zip"
+    },
+    {
+        "id": "28609",
+        "name": "2023020104",
+        "url": "https://moodle.org/plugins/download.php/28609/mod_attendance_moodle36_2014050911.zip"
+    },
+    {
+        "id": "28555",
+        "name": "2023020102",
+        "url": "https://moodle.org/plugins/download.php/28555/mod_attendance_moodle38_2010100102.zip"
+    },
+    {
+        "id": "28436",
+        "name": "2023012601",
+        "url": "https://moodle.org/plugins/download.php/28436/mod_attendance_moodle40_2022061106.zip"
+    },
+    {
+        "id": "27947",
+        "name": "2022111700",
+        "url": "https://moodle.org/plugins/download.php/27947/mod_attendance_moodle36_2018101015.zip"
+    },
+    {
+        "id": "27540",
+        "name": "4.0.10",
+        "url": "https://moodle.org/plugins/download.php/27540/mod_attendance_moodle39_2019071005.zip"
+    },
+    {
+        "id": "27528",
+        "name": "4.0.9",
+        "url": "https://moodle.org/plugins/download.php/27528/mod_attendance_moodle26_2011011108.zip"
+    },
+    {
+        "id": "27527",
+        "name": "4.0.8",
+        "url": "https://moodle.org/plugins/download.php/27527/mod_attendance_moodle31_2019110712.zip"
+    },
+    {
+        "id": "27496",
+        "name": "4.0.7",
+        "url": "https://moodle.org/plugins/download.php/27496/mod_attendance_moodle39_2021101018.zip"
+    },
+    {
+        "id": "27463",
+        "name": "4.0.6",
+        "url": "https://moodle.org/plugins/download.php/27463/mod_attendance_moodle31_2021101014.zip"
+    },
+    {
+        "id": "27426",
+        "name": "4.0.5",
+        "url": "https://moodle.org/plugins/download.php/27426/mod_attendance_moodle34_2011040413.zip"
+    },
+    {
+        "id": "26912",
+        "name": "4.0.3",
+        "url": "https://moodle.org/plugins/download.php/26912/mod_attendance_moodle25_2022080819.zip"
+    },
+    {
+        "id": "26832",
+        "name": "4.0.2",
+        "url": "https://moodle.org/plugins/download.php/26832/mod_attendance_moodle31_2018110100.zip"
+    },
+    {
+        "id": "26675",
+        "name": "4.0.1",
+        "url": "https://moodle.org/plugins/download.php/26675/mod_attendance_moodle30_2023101005.zip"
+    },
+    {
+        "id": "26170",
+        "name": "4.0.0",
+        "url": "https://moodle.org/plugins/download.php/26170/mod_attendance_moodle38_2012051002.zip"
+    },
+    {
+        "id": "27529",
+        "name": "3.11.16",
+        "url": "https://moodle.org/plugins/download.php/27529/mod_attendance_moodle26_2014090818.zip"
+    },
+    {
+        "id": "27525",
+        "name": "3.11.15",
+        "url": "https://moodle.org/plugins/download.php/27525/mod_attendance_moodle38_2018010713.zip"
+    },
+    {
+        "id": "27453",
+        "name": "3.11.14",
+        "url": "https://moodle.org/plugins/download.php/27453/mod_attendance_moodle40_2014041119.zip"
+    },
+    {
+        "id": "26913",
+        "name": "3.11.11",
+        "url": "https://moodle.org/plugins/download.php/26913/mod_attendance_moodle29_2013070103.zip"
+    },
+    {
+        "id": "25012",
+        "name": "3.11.10",
+        "url": "https://moodle.org/plugins/download.php/25012/mod_attendance_moodle40_2020120606.zip"
+    },
+    {
+        "id": "25009",
+        "name": "3.11.9",
+        "url": "https://moodle.org/plugins/download.php/25009/mod_attendance_moodle37_2015110208.zip"
+    },
+    {
+        "id": "25008",
+        "name": "3.11.8",
+        "url": "https://moodle.org/plugins/download.php/25008/mod_attendance_moodle32_2017060817.zip"
+    },
+    {
+        "id": "24996",
+        "name": "3.11.7",
+        "url": "https://moodle.org/plugins/download.php/24996/mod_attendance_moodle33_2022060210.zip"
+    },
+    {
+        "id": "24990",
+        "name": "3.11.6",
+        "url": "https://moodle.org/plugins/download.php/24990/mod_attendance_moodle36_2011101108.zip"
+    },
+    {
+        "id": "24952",
+        "name": "3.11.5",
+        "url": "https://moodle.org/plugins/download.php/24952/mod_attendance_moodle32_2021120720.zip"
+    },
+    {
+        "id": "24564",
+        "name": "3.11.3",
+        "url": "https://moodle.org/plugins/download.php/24564/mod_attendance_moodle36_2012120815.zip"
+    },
+    {
+        "id": "24562",
+        "name": "3.11.2",
+        "url": "https://moodle.org/plugins/download.php/24562/mod_attendance_moodle30_2013101218.zip"
+    },
+    {
+        "id": "24120",
+        "name": "3.11.1",
+        "url": "https://moodle.org/plugins/download.php/24120/mod_attendance_moodle33_2016120506.zip"
+    },
+    {
+        "id": "24563",
+        "name": "3.9.2",
+        "url": "https://moodle.org/plugins/download.php/24563/mod_attendance_moodle26_2019010520.zip"
+    },
+    {
+        "id": "22326",
+        "name": "3.8.4",
+        "url": "https://moodle.org/plugins/download.php/22326/mod_attendance_moodle26_2021080909.zip"
+    },
+    {
+        "id": "22036",
+        "name": "3.8.3",
+        "url": "https://moodle.org/plugins/download.php/22036/mod_attendance_moodle25_2015031101.zip"
+    },
+    {
+        "id": "21114",
+        "name": "3.8.1",
+        "url": "https://moodle.org/plugins/download.php/21114/mod_attendance_moodle28_2017060216.zip"
+    },
+    {
+        "id": "21115",
+        "name": "3.7.1",
+        "url": "https://moodle.org/plugins/download.php/21115/mod_attendance_moodle35_2022030103.zip"
+    },
+    {
+        "id": "19061",
+        "name": "3.6.5",
+        "url": "https://moodle.org/plugins/download.php/19061/mod_attendance_moodle25_2021070714.zip"
+    },
+    {
+        "id": "18442",
+        "name": "3.6.3",
+        "url": "https://moodle.org/plugins/download.php/18442/mod_attendance_moodle40_2022100816.zip"
+    },
+    {
+        "id": "18109",
+        "name": "3.5.5",
+        "url": "https://moodle.org/plugins/download.php/18109/mod_attendance_moodle32_2018040512.zip"
+    },
+    {
+        "id": "17818",
+        "name": "3.5.3",
+        "url": "https://moodle.org/plugins/download.php/17818/mod_attendance_moodle34_2019040507.zip"
+    },
+    {
+        "id": "17334",
+        "name": "3.5.1",
+        "url": "https://moodle.org/plugins/download.php/17334/mod_attendance_moodle32_2014090217.zip"
+    },
+    {
+        "id": "16650",
+        "name": "3.5.0",
+        "url": "https://moodle.org/plugins/download.php/16650/mod_attendance_moodle37_2020091101.zip"
+    },
+    {
+        "id": "16092",
+        "name": "3.4.3",
+        "url": "https://moodle.org/plugins/download.php/16092/mod_attendance_moodle39_2015060715.zip"
+    },
+    {
+        "id": "15174",
+        "name": "3.4.1",
+        "url": "https://moodle.org/plugins/download.php/15174/mod_attendance_moodle40_2016110300.zip"
+    },
+    {
+        "id": "16094",
+        "name": "3.3.14",
+        "url": "https://moodle.org/plugins/download.php/16094/mod_attendance_moodle26_2020020506.zip"
+    },
+    {
+        "id": "14931",
+        "name": "3.3.12",
+        "url": "https://moodle.org/plugins/download.php/14931/mod_attendance_moodle36_2011021000.zip"
+    },
+    {
+        "id": "14023",
+        "name": "3.3.5",
+        "url": "https://moodle.org/plugins/download.php/14023/mod_attendance_moodle30_2020111101.zip"
+    },
+    {
+        "id": "13747",
+        "name": "3.3.4",
+        "url": "https://moodle.org/plugins/download.php/13747/mod_attendance_moodle31_2023050102.zip"
+    },
+    {
+        "id": "16095",
+        "name": "3.2.19",
+        "url": "https://moodle.org/plugins/download.php/16095/mod_attendance_moodle33_2015050818.zip"
+    },
+    {
+        "id": "14932",
+        "name": "3.2.17",
+        "url": "https://moodle.org/plugins/download.php/14932/mod_attendance_moodle35_2018020915.zip"
+    },
+    {
+        "id": "13325",
+        "name": "3.2.4",
+        "url": "https://moodle.org/plugins/download.php/13325/mod_attendance_moodle27_2010011004.zip"
+    },
+    {
+        "id": "12725",
+        "name": "3.2.2",
+        "url": "https://moodle.org/plugins/download.php/12725/mod_attendance_moodle25_2018020501.zip"
+    },
+    {
+        "id": "12721",
+        "name": "3.2.1",
+        "url": "https://moodle.org/plugins/download.php/12721/mod_attendance_moodle39_2011041100.zip"
+    },
+    {
+        "id": "11468",
+        "name": "3.1.0.3",
+        "url": "https://moodle.org/plugins/download.php/11468/mod_attendance_moodle35_2023120712.zip"
+    },
+    {
+        "id": "11313",
+        "name": "3.1.0.2",
+        "url": "https://moodle.org/plugins/download.php/11313/mod_attendance_moodle30_2018060705.zip"
+    },
+    {
+        "id": "9589",
+        "name": "3.0.0.1",
+        "url": "https://moodle.org/plugins/download.php/9589/mod_attendance_moodle30_2015101203.zip"
+    },
+    {
+        "id": "8279",
+        "name": "2.8.1",
+        "url": "https://moodle.org/plugins/download.php/8279/mod_attendance_moodle30_2020120816.zip"
+    },
+    {
+        "id": "7304",
+        "name": "2.7.1",
+        "url": "https://moodle.org/plugins/download.php/7304/mod_attendance_moodle37_2010070208.zip"
+    },
+    {
+        "id": "5997",
+        "name": "2.7.0",
+        "url": "https://moodle.org/plugins/download.php/5997/mod_attendance_moodle36_2022080700.zip"
+    },
+    {
+        "id": "5996",
+        "name": "2.6.1",
+        "url": "https://moodle.org/plugins/download.php/5996/mod_attendance_moodle27_2016110811.zip"
+    },
+    {
+        "id": "5477",
+        "name": "2.6.0",
+        "url": "https://moodle.org/plugins/download.php/5477/mod_attendance_moodle39_2016030817.zip"
+    },
+    {
+        "id": "3830",
+        "name": "2.5.2",
+        "url": "https://moodle.org/plugins/download.php/3830/mod_attendance_moodle37_2017010120.zip"
+    },
+    {
+        "id": "3366",
+        "name": "2.4.1",
+        "url": "https://moodle.org/plugins/download.php/3366/mod_attendance_moodle31_2023101104.zip"
+    }
+]

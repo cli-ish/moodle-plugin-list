@@ -1,0 +1,64 @@
+{
+    "id": 269,
+    "index": 179,
+    "name": "Admin presets",
+    "frankenstyle": "block_admin_presets",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_admin_presets",
+    "shortdescription": "Allow administrators to export the site settings to .xml presets, import and load other sites presets.",
+    "timelastreleased": {
+        "absdate": "Monday, 12 December 2022, 10:46 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-12-12T22:46:59+08:00"
+    },
+    "aggsites": "1785",
+    "aggdownloads": "682",
+    "aggfavs": "77",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/269/LOGO_PIMENKO.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/269/LOGO_PIMENKO.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/269/Digidago2-adminpreset.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/269/Digidago1-adminpreset.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/269/Digidago3-adminpreset.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1405141,
+            "firstname": "Cl\u00e9ment",
+            "lastname": "Prudhomme",
+            "url": "https://moodle.org/user/profile.php?id=1405141"
+        },
+        {
+            "id": 2336220,
+            "firstname": "Jordan",
+            "lastname": "KESRAOUI",
+            "url": "https://moodle.org/user/profile.php?id=2336220"
+        },
+        {
+            "id": 2335577,
+            "firstname": "Sylvain",
+            "lastname": "Revenu",
+            "url": "https://moodle.org/user/profile.php?id=2335577"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

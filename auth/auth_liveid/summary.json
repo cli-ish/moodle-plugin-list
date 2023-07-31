@@ -1,0 +1,49 @@
+{
+    "id": 252,
+    "index": 1262,
+    "name": "Windows Live ID",
+    "frankenstyle": "auth_liveid",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_liveid",
+    "shortdescription": "The Windows Live\u2122 authentication plugin allows you to simultaneously log in to your Moodle course and MS Live account so you only need one username and password. You will see a link to \"Sign in with MS Live ID\" to the right of the Moodle login. It authenticates your Windows Live ID and signs you into your Moodle course, giving you access to the features of the Microsoft Live Services block from within the course. ",
+    "timelastreleased": {
+        "absdate": "Friday, 7 September 2012, 5:56 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-09-07T05:56:19+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "22",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1428332,
+            "firstname": "MrmsLive",
+            "lastname": "Account",
+            "url": "https://moodle.org/user/profile.php?id=1428332"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Office"
+        }
+    ]
+}

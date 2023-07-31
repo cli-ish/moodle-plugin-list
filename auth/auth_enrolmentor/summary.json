@@ -1,0 +1,45 @@
+{
+    "id": 812,
+    "index": 1448,
+    "name": "Autoenrol Parents",
+    "frankenstyle": "auth_enrolmentor",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_enrolmentor",
+    "shortdescription": "Auto assign parents, mentors or managers a role to users based on a custom profile field.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 October 2015, 3:46 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-10-13T15:46:52+08:00"
+    },
+    "aggsites": "42",
+    "aggdownloads": "13",
+    "aggfavs": "23",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/812/flowchart%20auth_enrolmentor.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1355163,
+            "firstname": "Virgil",
+            "lastname": "Ashruf",
+            "url": "https://moodle.org/user/profile.php?id=1355163"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

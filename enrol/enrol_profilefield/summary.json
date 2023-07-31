@@ -1,0 +1,49 @@
+{
+    "id": 590,
+    "index": 1561,
+    "name": "Profile Field Enrolment",
+    "frankenstyle": "enrol_profilefield",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_profilefield",
+    "shortdescription": "Allows binding an enrollment strategy to some value in the user profile",
+    "timelastreleased": {
+        "absdate": "Friday, 22 February 2013, 5:17 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-02-22T05:17:05+08:00"
+    },
+    "aggsites": "48",
+    "aggdownloads": "9",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/590/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/590/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/590/two_doors_profile_sample.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

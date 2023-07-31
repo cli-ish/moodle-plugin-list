@@ -1,0 +1,40 @@
+{
+    "id": 883,
+    "index": 1979,
+    "name": "Goodbye",
+    "frankenstyle": "local_goodbye",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_goodbye",
+    "shortdescription": "Allows self registred users to delete their account",
+    "timelastreleased": {
+        "absdate": "Tuesday, 7 April 2015, 10:44 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-04-07T22:44:37+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "2",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/883/Screen%20Shot%202015-04-07%20at%2016.37.40.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,74 @@
+{
+    "id": 1042,
+    "index": 1690,
+    "name": "iAssign",
+    "frankenstyle": "mod_iassign",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_iassign",
+    "shortdescription": "iAssign (Interactive Assignment) package aims to enhance activities in Moodle, allowing the incorporation of\r\n\"Interactive Learning Modules\" (iLM) to Moodle.\r\niAssign also provides: an area to teachers cooperate (Block); a filter to incorporate any iLM in any Moodle text (Filter); and a TinyMCE editor button (TinyMCE Plugin).\r\nAttention: in order to proper work, iAssign needs its associated packages - block, filter, and editor (please, get all of them).",
+    "timelastreleased": {
+        "absdate": "Sunday, 14 February 2021, 3:09 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-14T03:09:13+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "7",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1042/iassign-logo_256.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1042/iassign-logo_256.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1042/iassign_example1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1042/iassign_example2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1042/iassign-01.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1042/iassign-02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1042/iassign-03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1028957,
+            "firstname": "Le\u00f4nidas",
+            "lastname": "Brand\u00e3o",
+            "url": "https://moodle.org/user/profile.php?id=1028957"
+        },
+        {
+            "id": 774672,
+            "firstname": "Patricia",
+            "lastname": "Alves Rodrigues",
+            "url": "https://moodle.org/user/profile.php?id=774672"
+        },
+        {
+            "id": 2416542,
+            "firstname": "Igor",
+            "lastname": "F\u00e9lix",
+            "url": "https://moodle.org/user/profile.php?id=2416542"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

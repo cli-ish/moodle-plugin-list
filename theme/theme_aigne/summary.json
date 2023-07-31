@@ -1,0 +1,70 @@
+{
+    "id": 814,
+    "index": 1033,
+    "name": "aigne",
+    "frankenstyle": "theme_aigne",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_aigne",
+    "shortdescription": "This theme is oriented to improve the rate of loading pages giving a new look. Optimized for areas with slower Internet connection, following the standard programming parameters, using only php, html and css. People without previous knowledge can set up the theme with more than 100 options of customization.\r\nPlease, check the 'add to my favorite'. It's the better way to keep this Project alive... :) ... thanks!!!",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 April 2020, 6:56 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-04-16T06:56:09+08:00"
+    },
+    "aggsites": "125",
+    "aggdownloads": "49",
+    "aggfavs": "27",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/814/icon128.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/814/icon128.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/814/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/814/parrilla3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/814/screenshot_1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/814/screenshot_2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/814/screenshot_3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/814/screenshot_4.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/814/screenshot_5.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/814/screenshot_6.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/814/screenshot_course.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 441414,
+            "firstname": "Franc",
+            "lastname": "Pombal",
+            "url": "https://moodle.org/user/profile.php?id=441414"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

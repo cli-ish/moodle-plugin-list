@@ -1,0 +1,45 @@
+{
+    "id": 579,
+    "index": 988,
+    "name": "Set splitting question",
+    "frankenstyle": "qtype_splitset",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_splitset",
+    "shortdescription": "The splitset question is alike a matrix question but with simpler model. Il allows layouting a serie of questions with a common set of possible answers (f.e. yes/no, allowed/not allowed, less/more/equal ...).",
+    "timelastreleased": {
+        "absdate": "Monday, 3 April 2017, 5:33 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-04-03T17:33:51+08:00"
+    },
+    "aggsites": "255",
+    "aggdownloads": "58",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/579/splitset_question.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

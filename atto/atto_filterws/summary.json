@@ -1,0 +1,47 @@
+{
+    "id": 2230,
+    "index": 697,
+    "name": "WebService Filter for Atto (Moodle Mobile app)",
+    "frankenstyle": "atto_filterws",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_filterws",
+    "shortdescription": "This plugin makes it easier to include the WebService Filter plugin tags in the content while using the Atto editor. It will allows you to add a new button in the Atto toolbar to add these tags.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 17 January 2023, 3:44 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-17T15:44:00+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "149",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2230/01_attofilterws_toolbar.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2230/02_attofilterws_popup.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2230/03_attofilterws_result.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1889394,
+            "firstname": "Dani",
+            "lastname": "Palou",
+            "url": "https://moodle.org/user/profile.php?id=1889394"
+        }
+    ],
+    "descriptors": []
+}

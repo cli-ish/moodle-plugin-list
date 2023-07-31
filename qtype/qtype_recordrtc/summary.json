@@ -1,0 +1,62 @@
+{
+    "id": 2405,
+    "index": 230,
+    "name": "Record audio/video question type",
+    "frankenstyle": "qtype_recordrtc",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_recordrtc",
+    "shortdescription": "A manually graded Moodle question type, where the student records a short audio response to answer the question asked.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 17 May 2023, 8:49 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-17T20:49:58+08:00"
+    },
+    "aggsites": "1092",
+    "aggdownloads": "546",
+    "aggfavs": "49",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2405/icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2405/icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2405/01_qtype_recordrtc_new.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2405/02_qtype_recordrtc_recorded.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2405/03_qtype_recordrtc_review.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2405/04_qtype_recordrtc_grading.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 2232540,
+            "firstname": "Chris",
+            "lastname": "Nelson",
+            "url": "https://moodle.org/user/profile.php?id=2232540"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        }
+    ],
+    "descriptors": []
+}

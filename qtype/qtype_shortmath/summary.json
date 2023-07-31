@@ -1,0 +1,56 @@
+{
+    "id": 2153,
+    "index": 994,
+    "name": "ShortMath",
+    "frankenstyle": "qtype_shortmath",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_shortmath",
+    "shortdescription": "A  question type for writing beautiful mathematical expressions using MathQuill. This question type is an extension of the shortanswer question type.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 4 August 2021, 8:28 PM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-04T20:28:23+08:00"
+    },
+    "aggsites": "366",
+    "aggdownloads": "56",
+    "aggfavs": "29",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2153/math-sqrt.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2153/math-sqrt.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2153/ShortMath.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2153/ShortMath%20in%20JazzQuiz.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2153/ShortMath%20template%20editor.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2153/ShortMath%20template%20management.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2328217,
+            "firstname": "Andr\u00e9",
+            "lastname": "Storhaug",
+            "url": "https://moodle.org/user/profile.php?id=2328217"
+        },
+        {
+            "id": 2003093,
+            "firstname": "George",
+            "lastname": "Schaathun",
+            "url": "https://moodle.org/user/profile.php?id=2003093"
+        }
+    ],
+    "descriptors": []
+}

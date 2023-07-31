@@ -1,0 +1,59 @@
+{
+    "id": 236,
+    "index": 187,
+    "name": "Variable numeric set",
+    "frankenstyle": "qtype_varnumericset",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_varnumericset",
+    "shortdescription": "A calculated numeric question type with variable and expression\r\nevaluation. All values are precalculated although a question can have several\r\nvariants with different variable values for each variant.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 13 April 2022, 7:00 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-13T19:00:39+08:00"
+    },
+    "aggsites": "886",
+    "aggdownloads": "664",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/236/varnumericset-attempt.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/236/varnumericset-edit.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 667,
+    "index": 1153,
+    "name": "Cohort greeting",
+    "frankenstyle": "enrol_elediacohortgreeting",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_elediacohortgreeting",
+    "shortdescription": "This plugin is based on the core enrolment cohort.\r\nWithin this plugin we add a course greeting to the plugin similar to the self enrol plugin.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 September 2022, 11:42 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-02T23:42:59+08:00"
+    },
+    "aggsites": "117",
+    "aggdownloads": "31",
+    "aggfavs": "20",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/667/eledia-logo-mu_ohne_raender.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/667/eledia-logo-mu_ohne_raender.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/667/cohortgreeting_setting.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1075745,
+            "firstname": "Benjamin",
+            "lastname": "Wolf",
+            "url": "https://moodle.org/user/profile.php?id=1075745"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

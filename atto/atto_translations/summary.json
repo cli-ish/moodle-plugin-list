@@ -1,0 +1,40 @@
+{
+    "id": 2977,
+    "index": 632,
+    "name": "Translations",
+    "frankenstyle": "atto_translations",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_translations",
+    "shortdescription": "Atto editor plugin to support functionality of filter_translations",
+    "timelastreleased": {
+        "absdate": "Tuesday, 19 July 2022, 9:15 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-07-19T21:15:22+08:00"
+    },
+    "aggsites": "62",
+    "aggdownloads": "176",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2977/Screenshot%202022-07-19%20at%2016.20.04.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1396756,
+            "firstname": "Andrew",
+            "lastname": "Hancox",
+            "url": "https://moodle.org/user/profile.php?id=1396756"
+        }
+    ],
+    "descriptors": []
+}

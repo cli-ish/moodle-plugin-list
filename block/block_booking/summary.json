@@ -1,0 +1,46 @@
+{
+    "id": 1969,
+    "index": 1615,
+    "name": "Bookings overview",
+    "frankenstyle": "block_booking",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_booking",
+    "shortdescription": "This block provides an overview of all bookings made with the booking module. Depending on the rights in the different booking module instances the user can see his/her bookings only or bookings made by others sorting them by course or user.",
+    "timelastreleased": {
+        "absdate": "Monday, 26 March 2018, 11:17 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-03-26T23:17:11+08:00"
+    },
+    "aggsites": "27",
+    "aggdownloads": "8",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1969/bookings-overview.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        },
+        {
+            "id": 4890909,
+            "firstname": "Wunderbyte",
+            "lastname": "GmbH",
+            "url": "https://moodle.org/user/profile.php?id=4890909"
+        }
+    ],
+    "descriptors": []
+}

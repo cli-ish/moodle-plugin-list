@@ -1,0 +1,71 @@
+{
+    "id": 1384,
+    "index": 621,
+    "name": "Video Easy Filter",
+    "frankenstyle": "filter_videoeasy",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_videoeasy",
+    "shortdescription": "VideoEasy is a filter to play mp4, mp3 and other media files with  html5 players. It uses user editable templates to allow the admin to customize the appearance of existing players or to support new players. Predefined player templates support Video JS, JPlayer, JW Player, Flowplayer and MediaElement.js",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 October 2019, 4:43 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-10-24T16:43:41+08:00"
+    },
+    "aggsites": "699",
+    "aggdownloads": "183",
+    "aggfavs": "41",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1384/VideoEasy.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1384/VideoEasy.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1384/Video%20Easy%20Filter.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1384/customize.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1384/filehandlers.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1384/localsettings.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1384/MoodleTile_Videoeasy.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1384/presets.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1384/videoeasyplayers.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1384/videoeasytemplates.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

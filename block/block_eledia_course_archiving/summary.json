@@ -1,0 +1,49 @@
+{
+    "id": 914,
+    "index": 489,
+    "name": "Course Archiving",
+    "frankenstyle": "block_eledia_course_archiving",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_eledia_course_archiving",
+    "shortdescription": "This plugin archives or delete courses from chosen categories depending on their start date.",
+    "timelastreleased": {
+        "absdate": "Saturday, 3 September 2022, 12:20 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-03T00:20:04+08:00"
+    },
+    "aggsites": "90",
+    "aggdownloads": "239",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/914/eledia-logo-mu_ohne_raender.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/914/eledia-logo-mu_ohne_raender.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/914/course_archiving_config.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/914/course_archiving_formula.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1075745,
+            "firstname": "Benjamin",
+            "lastname": "Wolf",
+            "url": "https://moodle.org/user/profile.php?id=1075745"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

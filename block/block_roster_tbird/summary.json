@@ -1,0 +1,58 @@
+{
+    "id": 925,
+    "index": 1983,
+    "name": "Roster",
+    "frankenstyle": "block_roster_tbird",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_roster_tbird",
+    "shortdescription": "The Roster block shows a page with a list of users in a course, with either a simply list of names,email, etc.  (similar to the participant functionality), or a more enhanced list that shows their picture and the description from the student profiles. This is useful for faculty to get to know their students quickly and learn about their backgrounds easily.\r\n\r\nPlease note that the most up-to-date version will always be in the github repository listed below. The Moodle module downloadable here may not be updated as frequently.\r\n\r\nThe latest versions (for 2.4, 2.6 and 2.7) fix a bug where the settings page on sites installed from Moodle 2.x did not show the list of roles properly. (This worked on 1.x => 2.x upgraded sites).",
+    "timelastreleased": {
+        "absdate": "Wednesday, 25 June 2014, 12:42 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-25T00:42:02+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "2",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/925/roster.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/925/roster-block-config.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/925/roster-settings.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/925/roster3.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/925/roster4.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1139933,
+            "firstname": "Johan",
+            "lastname": "Reinalda",
+            "url": "https://moodle.org/user/profile.php?id=1139933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

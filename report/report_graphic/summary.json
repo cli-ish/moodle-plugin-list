@@ -1,0 +1,45 @@
+{
+    "id": 1463,
+    "index": 1148,
+    "name": "Events Graphic Report",
+    "frankenstyle": "report_graphic",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_graphic",
+    "shortdescription": "Manage your moodle using the Events Graphic Reports plugins and see what's happening on your moodle. Browse graphics by course, and see what's the events most triggered, user acitivity and more. ",
+    "timelastreleased": {
+        "absdate": "Monday, 27 July 2015, 4:20 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-07-27T16:20:05+08:00"
+    },
+    "aggsites": "239",
+    "aggdownloads": "31",
+    "aggfavs": "46",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1463/graphs.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1756621,
+            "firstname": "Simey",
+            "lastname": "Lameze",
+            "url": "https://moodle.org/user/profile.php?id=1756621"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

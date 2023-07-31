@@ -1,0 +1,59 @@
+{
+    "id": 1186,
+    "index": 889,
+    "name": "Music Theory",
+    "frankenstyle": "qtype_musictheory",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_musictheory",
+    "shortdescription": "Question type supporting several exercises for music theory instruction.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 July 2019, 8:41 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-07-16T20:41:07+08:00"
+    },
+    "aggsites": "516",
+    "aggdownloads": "101",
+    "aggfavs": "43",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1186/harmonic_function_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1186/interval_id_screenshot.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1186/key_signature_screenshot.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1186/keyboard_input_screenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 887793,
+            "firstname": "Eric",
+            "lastname": "Brisson",
+            "url": "https://moodle.org/user/profile.php?id=887793"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Music"
+        }
+    ]
+}

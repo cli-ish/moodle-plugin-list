@@ -1,0 +1,46 @@
+{
+    "id": 3105,
+    "index": 661,
+    "name": "Multi-Language Content (v2)",
+    "frankenstyle": "tiny_multilang2",
+    "plugintype": {
+        "type": "tiny",
+        "name": "TinyMCE editor / tiny"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tiny_multilang2",
+    "shortdescription": "This plugin will make the creation of multilingual contents on Moodle much more easier with TinyMCE editor.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 July 2023, 8:01 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-06T20:01:41+08:00"
+    },
+    "aggsites": "60",
+    "aggdownloads": "162",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3105/tiny_multilang2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3105/tiny_multilang2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3105/moodle-tiny_multilang2.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 5154071,
+            "firstname": "Stephan",
+            "lastname": "Robotta",
+            "url": "https://moodle.org/user/profile.php?id=5154071"
+        },
+        {
+            "id": 1350696,
+            "firstname": "Luca",
+            "lastname": "B\u00f6sch",
+            "url": "https://moodle.org/user/profile.php?id=1350696"
+        }
+    ],
+    "descriptors": []
+}

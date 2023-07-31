@@ -1,0 +1,49 @@
+{
+    "id": 285,
+    "index": 1158,
+    "name": "Login/Logout",
+    "frankenstyle": "block_login_logout",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_login_logout",
+    "shortdescription": "Block to login and logout moodle  ",
+    "timelastreleased": {
+        "absdate": "Sunday, 29 April 2012, 7:35 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-04-29T07:35:49+08:00"
+    },
+    "aggsites": "73",
+    "aggdownloads": "31",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/285/logologinlogout.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/285/logologinlogout.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/285/screenshot1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/285/screenshot2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 9065,
+            "firstname": "Luis",
+            "lastname": "De Sousa",
+            "url": "https://moodle.org/user/profile.php?id=9065"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

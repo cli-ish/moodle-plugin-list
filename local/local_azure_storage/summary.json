@@ -1,0 +1,40 @@
+{
+    "id": 2042,
+    "index": 1653,
+    "name": "Azure Object Storage SDK for PHP",
+    "frankenstyle": "local_azure_storage",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_azure_storage",
+    "shortdescription": "There is a growing collection of various moodle plugins that require these Azure libraries in order to work. We don't want to have multiple copies of these libraries bundled into each plugin, firstly because they are quite large, but also because it can cause issues with library namespaces and php auto loading.\r\n\r\nPlugins that depend on this library are:\r\n\r\nhttps://github.com/catalyst/moodle-tool_objectfs",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 April 2018, 8:27 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-04-05T08:27:32+08:00"
+    },
+    "aggsites": "69",
+    "aggdownloads": "7",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2042/Azure.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2042/Azure.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2042/Azure.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

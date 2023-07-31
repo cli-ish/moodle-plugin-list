@@ -1,0 +1,55 @@
+{
+    "id": 975,
+    "index": 608,
+    "name": "Analytics",
+    "frankenstyle": "local_analytics",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_analytics",
+    "shortdescription": "A local Moodle Module adding Analytics. This plugin currently supports 3 Analytics modes, Piwik, Google Universal Analytics and Google Legacy Analytics.",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 March 2020, 8:53 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-03-19T20:53:30+08:00"
+    },
+    "aggsites": "1087",
+    "aggdownloads": "190",
+    "aggfavs": "119",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/975/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/975/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/975/Analytics_Taxonomy.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/975/Analytics_Visitor_Flow.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/975/Google_Analytics_page_Titles.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/975/piwik_app.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

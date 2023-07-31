@@ -1,0 +1,32 @@
+[
+    {
+        "id": "8888",
+        "name": "1.8.3-build-2015070400",
+        "url": "https://moodle.org/plugins/download.php/8888/block_iclicker_moodle29_2013080111.zip"
+    },
+    {
+        "id": "8734",
+        "name": "1.8.2-build-2015052500",
+        "url": "https://moodle.org/plugins/download.php/8734/block_iclicker_moodle36_2020120811.zip"
+    },
+    {
+        "id": "5952",
+        "name": "1.8-build-2014022000",
+        "url": "https://moodle.org/plugins/download.php/5952/block_iclicker_moodle31_2019060610.zip"
+    },
+    {
+        "id": "4709",
+        "name": "1.7-build-2013102900",
+        "url": "https://moodle.org/plugins/download.php/4709/block_iclicker_moodle31_2014100815.zip"
+    },
+    {
+        "id": "8388",
+        "name": "1.8.1-build-2015041900",
+        "url": "https://moodle.org/plugins/download.php/8388/block_iclicker_moodle39_2021091003.zip"
+    },
+    {
+        "id": "3001",
+        "name": "1.4-build-2013051400",
+        "url": "https://moodle.org/plugins/download.php/3001/block_iclicker_moodle27_2018020805.zip"
+    }
+]

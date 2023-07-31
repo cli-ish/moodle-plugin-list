@@ -1,0 +1,45 @@
+{
+    "id": 354,
+    "index": 1926,
+    "name": "CMM - Copy File to Moodle",
+    "frankenstyle": "repository_datatelcmm",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_datatelcmm",
+    "shortdescription": "This plugin supports uploading documents into Moodle courses from the Course Materials Manager (CMM), a component of Ellucian\u2019s Colleague Portal.",
+    "timelastreleased": {
+        "absdate": "Thursday, 23 August 2012, 3:30 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-08-23T03:30:44+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1461424,
+            "firstname": "Ellucian",
+            "lastname": "Inc",
+            "url": "https://moodle.org/user/profile.php?id=1461424"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

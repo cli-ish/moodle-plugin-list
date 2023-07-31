@@ -1,0 +1,55 @@
+{
+    "id": 1690,
+    "index": 167,
+    "name": "Stash availability",
+    "frankenstyle": "availability_stash",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_stash",
+    "shortdescription": "Stash availability is used in conjunction with block_stash to allow items from the stash to determine the availability of course activities. #game #gamification",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 May 2018, 1:33 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-09T13:33:49+08:00"
+    },
+    "aggsites": "826",
+    "aggdownloads": "724",
+    "aggfavs": "33",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1690/restriction-detail.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1690/restriction.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1391647,
+            "firstname": "Adrian",
+            "lastname": "Greeve",
+            "url": "https://moodle.org/user/profile.php?id=1391647"
+        },
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

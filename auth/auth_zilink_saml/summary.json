@@ -1,0 +1,49 @@
+{
+    "id": 1160,
+    "index": 1636,
+    "name": "ZiLink - SAML Authentication",
+    "frankenstyle": "auth_zilink_saml",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_zilink_saml",
+    "shortdescription": "The ZiLink plugins work together - please ensure you download and install the full set of ZiLink plugins. The extent of integration depends on the data being available within the school MIS. Data integration is supplied by ZiNET Connect - 30-day trial, ZiLink Community Programme or Premier Support is available. ",
+    "timelastreleased": {
+        "absdate": "Monday, 15 September 2014, 9:08 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-09-15T21:08:28+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "8",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1160/SchoolsICT%20Limited.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1160/SchoolsICT%20Limited.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1160/zilink_saml_1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1806648,
+            "firstname": "SchoolsICT",
+            "lastname": "Support",
+            "url": "https://moodle.org/user/profile.php?id=1806648"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

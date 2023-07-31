@@ -1,0 +1,117 @@
+[
+    {
+        "id": "29444",
+        "name": "4.1.0-build-2023061403",
+        "url": "https://moodle.org/plugins/download.php/29444/mod_magtest_moodle39_2015071108.zip"
+    },
+    {
+        "id": "29442",
+        "name": "4.0.0-build-2023061402",
+        "url": "https://moodle.org/plugins/download.php/29442/mod_magtest_moodle33_2020090213.zip"
+    },
+    {
+        "id": "29443",
+        "name": "3.9.0-build-2023061401",
+        "url": "https://moodle.org/plugins/download.php/29443/mod_magtest_moodle36_2011050105.zip"
+    },
+    {
+        "id": "16850",
+        "name": "3.1.0-build-2018042400",
+        "url": "https://moodle.org/plugins/download.php/16850/mod_magtest_moodle40_2010070806.zip"
+    },
+    {
+        "id": "16854",
+        "name": "3.5.0-build-2016060100",
+        "url": "https://moodle.org/plugins/download.php/16854/mod_magtest_moodle30_2015030418.zip"
+    },
+    {
+        "id": "16853",
+        "name": "3.4.0-build-2016060100",
+        "url": "https://moodle.org/plugins/download.php/16853/mod_magtest_moodle35_2022081000.zip"
+    },
+    {
+        "id": "16852",
+        "name": "3.3.0-build-2016060100",
+        "url": "https://moodle.org/plugins/download.php/16852/mod_magtest_moodle35_2021010105.zip"
+    },
+    {
+        "id": "16851",
+        "name": "3.2.0-build-2016060100",
+        "url": "https://moodle.org/plugins/download.php/16851/mod_magtest_moodle38_2015060820.zip"
+    },
+    {
+        "id": "11554",
+        "name": "3.0.0-build-2016060100",
+        "url": "https://moodle.org/plugins/download.php/11554/mod_magtest_moodle33_2019040106.zip"
+    },
+    {
+        "id": "11553",
+        "name": "2.9.0-build-2016060100",
+        "url": "https://moodle.org/plugins/download.php/11553/mod_magtest_moodle29_2013110803.zip"
+    },
+    {
+        "id": "11552",
+        "name": "2.8.0-build-2016060100",
+        "url": "https://moodle.org/plugins/download.php/11552/mod_magtest_moodle28_2011080116.zip"
+    },
+    {
+        "id": "11551",
+        "name": "2.7.0-build-2016060100",
+        "url": "https://moodle.org/plugins/download.php/11551/mod_magtest_moodle33_2022070419.zip"
+    },
+    {
+        "id": "7661",
+        "name": "2.6.0-build-2014012802",
+        "url": "https://moodle.org/plugins/download.php/7661/mod_magtest_moodle26_2013110615.zip"
+    },
+    {
+        "id": "4444",
+        "name": "2.4.0-build-2013070901",
+        "url": "https://moodle.org/plugins/download.php/4444/mod_magtest_moodle37_2010070602.zip"
+    },
+    {
+        "id": "2153",
+        "name": "2.3.0-build-2012103100",
+        "url": "https://moodle.org/plugins/download.php/2153/mod_magtest_moodle25_2014100801.zip"
+    },
+    {
+        "id": "2152",
+        "name": "2.2.0-build-2008053100",
+        "url": "https://moodle.org/plugins/download.php/2152/mod_magtest_moodle37_2014120609.zip"
+    },
+    {
+        "id": "1624",
+        "name": "1.9.0-build-2008053100",
+        "url": "https://moodle.org/plugins/download.php/1624/mod_magtest_moodle39_2019010711.zip"
+    },
+    {
+        "id": "27952",
+        "name": "3.9.0-build-2019071800",
+        "url": "https://moodle.org/plugins/download.php/27952/mod_magtest_moodle37_2017090803.zip"
+    },
+    {
+        "id": "11555",
+        "name": "3.1.0-build-2016060100",
+        "url": "https://moodle.org/plugins/download.php/11555/mod_magtest_moodle25_2016051007.zip"
+    },
+    {
+        "id": "10949",
+        "name": "3.0.0-build-2014012802",
+        "url": "https://moodle.org/plugins/download.php/10949/mod_magtest_moodle28_2015100410.zip"
+    },
+    {
+        "id": "10948",
+        "name": "2.9.0-build-2014012802",
+        "url": "https://moodle.org/plugins/download.php/10948/mod_magtest_moodle35_2016040818.zip"
+    },
+    {
+        "id": "10947",
+        "name": "2.8.0-build-2014012802",
+        "url": "https://moodle.org/plugins/download.php/10947/mod_magtest_moodle35_2012010608.zip"
+    },
+    {
+        "id": "10936",
+        "name": "2.7.0-build-2014012802",
+        "url": "https://moodle.org/plugins/download.php/10936/mod_magtest_moodle36_2010120405.zip"
+    }
+]

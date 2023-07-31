@@ -1,0 +1,40 @@
+{
+    "id": 449,
+    "index": 1916,
+    "name": "Controlled Mnet Access",
+    "frankenstyle": "block_user_mnet_hosts",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_user_mnet_hosts",
+    "shortdescription": "User Mnet Host block is an extension of Mnet_Host bloc\r\nallowing access controlled display of MNET accesses depending on some\r\ncustom dedicated user profile fields settings.\r\n",
+    "timelastreleased": {
+        "absdate": "Saturday, 3 May 2014, 6:50 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-03T06:50:41+08:00"
+    },
+    "aggsites": "21",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/449/user_mnet_hosts.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": 1359,
+    "index": 1372,
+    "name": "UNI Login",
+    "frankenstyle": "auth_unilogin",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_unilogin",
+    "shortdescription": "This plugin allows users to login to moodle using the Danish UNI\u2022Login service ",
+    "timelastreleased": {
+        "absdate": "Monday, 16 March 2015, 3:45 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-03-16T15:45:36+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "16",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1359/unilogin-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1359/unilogin-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1359/Selection_047.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1359/Selection_048.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1684289,
+            "firstname": "Jan Aagaard",
+            "lastname": "Meier",
+            "url": "https://moodle.org/user/profile.php?id=1684289"
+        }
+    ],
+    "descriptors": []
+}

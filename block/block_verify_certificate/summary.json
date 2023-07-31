@@ -1,0 +1,49 @@
+{
+    "id": 1477,
+    "index": 944,
+    "name": "Verify Certificate",
+    "frankenstyle": "block_verify_certificate",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_verify_certificate",
+    "shortdescription": "This block helps course / site administrators to check / verify certificates based on the code printed on the certificate. It will list all the details for the certificates so it can be manually verified against the copy of the certificate.\r\n\r\nRequirement: \r\n\r\nThe certificate module is required for this plugin to work. \r\n\r\nIn order for this plugin to work you need to make sure the \"Print Code\" is set to Yes under the certificate 'Text options'.",
+    "timelastreleased": {
+        "absdate": "Friday, 5 October 2018, 6:04 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-10-05T06:04:39+08:00"
+    },
+    "aggsites": "392",
+    "aggdownloads": "71",
+    "aggfavs": "41",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1477/verify_block.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1477/verify_block.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1477/Certificate-verified.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1477/Certificate-unverified.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1081228,
+            "firstname": "Manieer",
+            "lastname": "Chhettri",
+            "url": "https://moodle.org/user/profile.php?id=1081228"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 349,
+    "index": 836,
+    "name": "Section",
+    "frankenstyle": "block_section",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_section",
+    "shortdescription": "\ufeffThe Section block displays the contents of a course section as a block.",
+    "timelastreleased": {
+        "absdate": "Friday, 10 January 2020, 5:07 PM",
+        "reldate": "4 years",
+        "iso8601date": "2020-01-10T17:07:17+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "116",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/349/section1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/349/section2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1973579,
+            "firstname": "Arnaud",
+            "lastname": "Trouv\u00e9",
+            "url": "https://moodle.org/user/profile.php?id=1973579"
+        },
+        {
+            "id": 1488406,
+            "firstname": "Andil",
+            "lastname": "Technologies de l'information et de la formation",
+            "url": "https://moodle.org/user/profile.php?id=1488406"
+        }
+    ],
+    "descriptors": []
+}

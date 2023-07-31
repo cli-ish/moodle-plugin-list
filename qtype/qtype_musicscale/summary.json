@@ -1,0 +1,49 @@
+{
+    "id": 475,
+    "index": 1840,
+    "name": "Music Scale",
+    "frankenstyle": "qtype_musicscale",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_musicscale",
+    "shortdescription": "This question type deals with musical scales and may be useful for music theory instruction. The respondent is given a key and tonic, and is prompted to enter a scale. A question bank is included, including all major and minor scales, with and without a key signature. Answers are entered in a graphical user interface.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 4 September 2013, 3:33 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-04T03:33:36+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/475/MusicScale.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1450603,
+            "firstname": "Jay",
+            "lastname": "Huber",
+            "url": "https://moodle.org/user/profile.php?id=1450603"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Music"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "id": 1295,
+    "index": 951,
+    "name": "HTTP Basic authentication",
+    "frankenstyle": "auth_basic",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_basic",
+    "shortdescription": "Enable services and users to authenticate using basic auth.",
+    "timelastreleased": {
+        "absdate": "Friday, 30 July 2021, 7:54 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-07-30T07:54:17+08:00"
+    },
+    "aggsites": "314",
+    "aggdownloads": "69",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1295/login.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1295/login.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1295/Admin%20settings?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1295/CLI%20Curl.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        },
+        {
+            "id": 2132462,
+            "firstname": "Daniel",
+            "lastname": "Thee Roperto",
+            "url": "https://moodle.org/user/profile.php?id=2132462"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

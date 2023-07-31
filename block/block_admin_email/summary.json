@@ -1,0 +1,61 @@
+{
+    "id": 279,
+    "index": 1371,
+    "name": "Administrative Email",
+    "frankenstyle": "block_admin_email",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_admin_email",
+    "shortdescription": "A Moodle block that allows administrators to selectively email groups of users from within Moodle",
+    "timelastreleased": {
+        "absdate": "Wednesday, 21 March 2012, 10:36 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-21T22:36:25+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "16",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/279/Screen%20shot%202012-03-21%20at%2010.09.24%20AM.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/279/Screen%20shot%202012-03-21%20at%2010.09.24%20AM.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/279/Screen%20shot%202012-03-21%20at%2010.08.52%20AM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/279/Screen%20shot%202012-03-21%20at%2010.09.24%20AM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 141420,
+            "firstname": "Robert",
+            "lastname": "Russo",
+            "url": "https://moodle.org/user/profile.php?id=141420"
+        },
+        {
+            "id": 1084008,
+            "firstname": "jason",
+            "lastname": "peak",
+            "url": "https://moodle.org/user/profile.php?id=1084008"
+        },
+        {
+            "id": 1518666,
+            "firstname": "David",
+            "lastname": "Elliott",
+            "url": "https://moodle.org/user/profile.php?id=1518666"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

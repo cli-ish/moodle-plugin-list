@@ -1,0 +1,49 @@
+{
+    "id": 1293,
+    "index": 2118,
+    "name": "Compile discussions",
+    "frankenstyle": "block_compile_discussions",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_compile_discussions",
+    "shortdescription": "This block will list all the forums and advanced forums in a course, in two drop-down menus. Selection of a forum from the menu will display all discussions in that forum, in nested layout, on a single page. This can be convenient for printing.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 9 December 2014, 2:06 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-09T02:06:28+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": null,
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1293/Image1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1293/Image2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 62931,
+            "firstname": "Steve",
+            "lastname": "Bond",
+            "url": "https://moodle.org/user/profile.php?id=62931"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 2251,
+    "index": 970,
+    "name": "Print out for review",
+    "frankenstyle": "qformat_printout",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_printout",
+    "shortdescription": "This plugin provides an additional export format for questions, which presents them in an easily readable, \r\nclear format, also suited for printout. ",
+    "timelastreleased": {
+        "absdate": "Friday, 15 May 2020, 4:13 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-05-15T16:13:11+08:00"
+    },
+    "aggsites": "295",
+    "aggdownloads": "63",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2251/qformat_printout1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2251/qformat_printout2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1565460,
+            "firstname": "stefan",
+            "lastname": "weber",
+            "url": "https://moodle.org/user/profile.php?id=1565460"
+        }
+    ],
+    "descriptors": []
+}

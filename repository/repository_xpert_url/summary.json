@@ -1,0 +1,64 @@
+{
+    "id": 1362,
+    "index": 1571,
+    "name": "URL downloader (Xpert)",
+    "frankenstyle": "repository_xpert_url",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_xpert_url",
+    "shortdescription": "The 'URL downloader (Xpert)' repository allows a user to attribute an image downloaded via a URL to the copyright holder",
+    "timelastreleased": {
+        "absdate": "Monday, 25 July 2022, 3:43 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-07-25T15:43:00+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "9",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1362/logo_uon.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1362/logo_uon.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1362/1.%20xpert_url_download_example.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1362/2.%20xpert_url_download_file.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1362/3.%20xpert_url_select_this_file.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1362/4.%20xpert_url_insert_image.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1362/5.%20xpert_url_download_attributed_image.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1805510,
+            "firstname": "The University",
+            "lastname": "of Nottingham",
+            "url": "https://moodle.org/user/profile.php?id=1805510"
+        },
+        {
+            "id": 1457891,
+            "firstname": "Neill",
+            "lastname": "Magill",
+            "url": "https://moodle.org/user/profile.php?id=1457891"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 1898,
+    "index": 1044,
+    "name": "Proctoring by Examus",
+    "frankenstyle": "availability_examus",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_examus",
+    "shortdescription": "This plugin enables integration with Examus Proctoring System to provide supervision over test takers. Examus utilizes face and emotion recognition technology to analyze users' behavior during the test.\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 22 November 2021, 7:10 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-22T19:10:27+08:00"
+    },
+    "aggsites": "144",
+    "aggdownloads": "45",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1898/128x128%20%281%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1898/128x128%20%281%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1898/Screenshot%202017-07-28%2012.13.32.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1898/Screenshot%202017-07-28%2012.22.26.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2118160,
+            "firstname": "Max",
+            "lastname": "Pomazuev",
+            "url": "https://moodle.org/user/profile.php?id=2118160"
+        },
+        {
+            "id": 3401078,
+            "firstname": "Admin",
+            "lastname": "Examus",
+            "url": "https://moodle.org/user/profile.php?id=3401078"
+        }
+    ],
+    "descriptors": []
+}

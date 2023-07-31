@@ -1,0 +1,45 @@
+{
+    "id": 1279,
+    "index": 1572,
+    "name": "Add news forum to new courses",
+    "frankenstyle": "local_news_forum",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_news_forum",
+    "shortdescription": "This plugin creates a news forum on course creation. This eliminates the requirement to have the latest news block installed in order to create the forum on versions of Moodle prior to 3.2. This issue is fully described in MDL-26707. You do not need this plugin if you are running Moodle 3.2 or higher.",
+    "timelastreleased": {
+        "absdate": "Monday, 23 May 2016, 9:29 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-05-23T21:29:19+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "9",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

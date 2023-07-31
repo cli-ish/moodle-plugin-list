@@ -1,0 +1,192 @@
+[
+    {
+        "id": "29672",
+        "name": "version-1.0.55-build-2023072301",
+        "url": "https://moodle.org/plugins/download.php/29672/mod_minilesson_moodle25_2022090320.zip"
+    },
+    {
+        "id": "29668",
+        "name": "version-1.0.54-build-2023072300",
+        "url": "https://moodle.org/plugins/download.php/29668/mod_minilesson_moodle25_2021050706.zip"
+    },
+    {
+        "id": "29255",
+        "name": "version-1.0.52-build-2023051300",
+        "url": "https://moodle.org/plugins/download.php/29255/mod_minilesson_moodle40_2018061213.zip"
+    },
+    {
+        "id": "28874",
+        "name": "version-1.0.51-build-2023040400",
+        "url": "https://moodle.org/plugins/download.php/28874/mod_minilesson_moodle40_2016010417.zip"
+    },
+    {
+        "id": "28842",
+        "name": "version-1.0.50-build-2023031700",
+        "url": "https://moodle.org/plugins/download.php/28842/mod_minilesson_moodle35_2016051201.zip"
+    },
+    {
+        "id": "28627",
+        "name": "version-1.0.49-build-2023022701",
+        "url": "https://moodle.org/plugins/download.php/28627/mod_minilesson_moodle36_2017070409.zip"
+    },
+    {
+        "id": "28109",
+        "name": "version-1.0.47-build-2022120200",
+        "url": "https://moodle.org/plugins/download.php/28109/mod_minilesson_moodle34_2010100614.zip"
+    },
+    {
+        "id": "28057",
+        "name": "version-1.0.46-build-2022112700",
+        "url": "https://moodle.org/plugins/download.php/28057/mod_minilesson_moodle40_2016031220.zip"
+    },
+    {
+        "id": "27694",
+        "name": "version-1.0.45-build-2022100700",
+        "url": "https://moodle.org/plugins/download.php/27694/mod_minilesson_moodle37_2012070212.zip"
+    },
+    {
+        "id": "27239",
+        "name": "1.0.43-build-2022073100",
+        "url": "https://moodle.org/plugins/download.php/27239/mod_minilesson_moodle33_2017020416.zip"
+    },
+    {
+        "id": "26771",
+        "name": "1.0.42-build-2022060500",
+        "url": "https://moodle.org/plugins/download.php/26771/mod_minilesson_moodle26_2018040811.zip"
+    },
+    {
+        "id": "26594",
+        "name": "1.0.40-build-2022050200",
+        "url": "https://moodle.org/plugins/download.php/26594/mod_minilesson_moodle30_2011010717.zip"
+    },
+    {
+        "id": "26438",
+        "name": "1.0.38-build-2022041300",
+        "url": "https://moodle.org/plugins/download.php/26438/mod_minilesson_moodle36_2021120514.zip"
+    },
+    {
+        "id": "26191",
+        "name": "1.0.37-build-2022032000",
+        "url": "https://moodle.org/plugins/download.php/26191/mod_minilesson_moodle40_2015030818.zip"
+    },
+    {
+        "id": "26039",
+        "name": "1.0.36-build-2022022000",
+        "url": "https://moodle.org/plugins/download.php/26039/mod_minilesson_moodle39_2015010512.zip"
+    },
+    {
+        "id": "26011",
+        "name": "1.0.35-build-2022021401",
+        "url": "https://moodle.org/plugins/download.php/26011/mod_minilesson_moodle32_2011050201.zip"
+    },
+    {
+        "id": "26010",
+        "name": "1.0.34-build-2022021400",
+        "url": "https://moodle.org/plugins/download.php/26010/mod_minilesson_moodle40_2015060403.zip"
+    },
+    {
+        "id": "25939",
+        "name": "1.0.32-build-2022020300",
+        "url": "https://moodle.org/plugins/download.php/25939/mod_minilesson_moodle32_2011070419.zip"
+    },
+    {
+        "id": "25898",
+        "name": "1.0.31-build-2022012500",
+        "url": "https://moodle.org/plugins/download.php/25898/mod_minilesson_moodle40_2014051108.zip"
+    },
+    {
+        "id": "25894",
+        "name": "1.0.30-build-2022012001",
+        "url": "https://moodle.org/plugins/download.php/25894/mod_minilesson_moodle34_2019031200.zip"
+    },
+    {
+        "id": "25716",
+        "name": "1.0.30-build-2021122200",
+        "url": "https://moodle.org/plugins/download.php/25716/mod_minilesson_moodle33_2020010703.zip"
+    },
+    {
+        "id": "25513",
+        "name": "1.0.29-build-2021112100",
+        "url": "https://moodle.org/plugins/download.php/25513/mod_minilesson_moodle40_2021031100.zip"
+    },
+    {
+        "id": "25026",
+        "name": "1.0.28-build-2021082701",
+        "url": "https://moodle.org/plugins/download.php/25026/mod_minilesson_moodle27_2016040719.zip"
+    },
+    {
+        "id": "24581",
+        "name": "1.0.26-build-2021063000",
+        "url": "https://moodle.org/plugins/download.php/24581/mod_minilesson_moodle33_2022030806.zip"
+    },
+    {
+        "id": "24346",
+        "name": "1.0.24-build-2021052901",
+        "url": "https://moodle.org/plugins/download.php/24346/mod_minilesson_moodle37_2015090916.zip"
+    },
+    {
+        "id": "24343",
+        "name": "1.0.23-build-2021052900",
+        "url": "https://moodle.org/plugins/download.php/24343/mod_minilesson_moodle26_2018080409.zip"
+    },
+    {
+        "id": "24277",
+        "name": "1.0.22-build-2021052500",
+        "url": "https://moodle.org/plugins/download.php/24277/mod_minilesson_moodle29_2017111108.zip"
+    },
+    {
+        "id": "24254",
+        "name": "1.0.21-build-2021052200",
+        "url": "https://moodle.org/plugins/download.php/24254/mod_minilesson_moodle27_2020111213.zip"
+    },
+    {
+        "id": "23989",
+        "name": "1.0.19-build-2021042500",
+        "url": "https://moodle.org/plugins/download.php/23989/mod_minilesson_moodle34_2010080609.zip"
+    },
+    {
+        "id": "23859",
+        "name": "1.0.17-build-2021041100",
+        "url": "https://moodle.org/plugins/download.php/23859/mod_minilesson_moodle40_2016080811.zip"
+    },
+    {
+        "id": "23820",
+        "name": "1.0.16-build-2021033000",
+        "url": "https://moodle.org/plugins/download.php/23820/mod_minilesson_moodle29_2016090105.zip"
+    },
+    {
+        "id": "23512",
+        "name": "1.0.14-build-2021021802",
+        "url": "https://moodle.org/plugins/download.php/23512/mod_minilesson_moodle39_2015060207.zip"
+    },
+    {
+        "id": "23511",
+        "name": "1.0.13-build-2021021801",
+        "url": "https://moodle.org/plugins/download.php/23511/mod_minilesson_moodle35_2014060417.zip"
+    },
+    {
+        "id": "23498",
+        "name": "1.0.12-build-2021021800",
+        "url": "https://moodle.org/plugins/download.php/23498/mod_minilesson_moodle25_2018070803.zip"
+    },
+    {
+        "id": "23331",
+        "name": "1.0.11-build-2021013100",
+        "url": "https://moodle.org/plugins/download.php/23331/mod_minilesson_moodle29_2017110106.zip"
+    },
+    {
+        "id": "23267",
+        "name": "1.0.10-build-2021012400",
+        "url": "https://moodle.org/plugins/download.php/23267/mod_minilesson_moodle28_2011100419.zip"
+    },
+    {
+        "id": "23238",
+        "name": "1.0.8-build-2021011800",
+        "url": "https://moodle.org/plugins/download.php/23238/mod_minilesson_moodle30_2018011014.zip"
+    },
+    {
+        "id": "23168",
+        "name": "1.0.6-build-2020122300",
+        "url": "https://moodle.org/plugins/download.php/23168/mod_minilesson_moodle26_2018040410.zip"
+    }
+]

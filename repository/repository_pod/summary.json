@@ -1,0 +1,53 @@
+{
+    "id": 2751,
+    "index": 1060,
+    "name": "Pod",
+    "frankenstyle": "repository_pod",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_pod",
+    "shortdescription": "Repository pod is a moodle repository plugin that enable to create file resource linked by reference to an external POD v2 server filtering the pod resource list for current user\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 17 March 2023, 11:04 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-17T23:04:55+08:00"
+    },
+    "aggsites": "70",
+    "aggdownloads": "43",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2751/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2751/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2751/pod_instance_settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2751/pod_instances.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2751/pod_list_no_thumbnail.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2751/pod_view_choice.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2751/pod_view.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 922669,
+            "firstname": "C\u00e9line",
+            "lastname": "Perves",
+            "url": "https://moodle.org/user/profile.php?id=922669"
+        }
+    ],
+    "descriptors": []
+}

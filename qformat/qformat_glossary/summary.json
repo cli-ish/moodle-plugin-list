@@ -1,0 +1,49 @@
+{
+    "id": 1672,
+    "index": 651,
+    "name": "Moodle glossary entries",
+    "frankenstyle": "qformat_glossary",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_glossary",
+    "shortdescription": "A question format plugin to convert between quiz questions and glossary entries ",
+    "timelastreleased": {
+        "absdate": "Friday, 1 April 2022, 1:21 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-01T13:21:34+08:00"
+    },
+    "aggsites": "196",
+    "aggdownloads": "166",
+    "aggfavs": "25",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1672/exportglossaryentries.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1672/importglossaryentries.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1470073,
+            "firstname": "Daniel",
+            "lastname": "Thies",
+            "url": "https://moodle.org/user/profile.php?id=1470073"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

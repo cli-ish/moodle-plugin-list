@@ -1,0 +1,45 @@
+{
+    "id": 459,
+    "index": 1914,
+    "name": "My courses",
+    "frankenstyle": "block_my_courses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_my_courses",
+    "shortdescription": "Another block for course overview. This block allow sorting courses Alphabetically, by Time created and Time modified and hide/show courses overview. ",
+    "timelastreleased": {
+        "absdate": "Monday, 8 October 2012, 11:03 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-08T23:03:25+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "3",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1441578,
+            "firstname": "Filip",
+            "lastname": "Ben\u010do",
+            "url": "https://moodle.org/user/profile.php?id=1441578"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

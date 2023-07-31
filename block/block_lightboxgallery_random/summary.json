@@ -1,0 +1,53 @@
+{
+    "id": 172,
+    "index": 1884,
+    "name": "Lightbox Gallery Randomizer",
+    "frankenstyle": "block_lightboxgallery_random",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_lightboxgallery_random",
+    "shortdescription": "Display a thumbnail of random image from a course's lightboxgallery. \r\nDepends on lightboxgallery module.",
+    "timelastreleased": {
+        "absdate": "Monday, 12 December 2011, 4:50 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-12-12T16:50:47+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/172/block_lightboxgallery_random_2011120901-block_screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/172/block_lightboxgallery_random_2011120901-config_screen.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 312272,
+            "firstname": "Pawe\u0142 ",
+            "lastname": "Suwi\u0144ski",
+            "url": "https://moodle.org/user/profile.php?id=312272"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

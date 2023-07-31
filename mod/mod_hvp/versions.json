@@ -1,0 +1,217 @@
+[
+    {
+        "id": "29419",
+        "name": "1.23.2",
+        "url": "https://moodle.org/plugins/download.php/29419/mod_hvp_moodle30_2023050605.zip"
+    },
+    {
+        "id": "29306",
+        "name": "1.23.1",
+        "url": "https://moodle.org/plugins/download.php/29306/mod_hvp_moodle35_2023120106.zip"
+    },
+    {
+        "id": "28179",
+        "name": "1.23.0",
+        "url": "https://moodle.org/plugins/download.php/28179/mod_hvp_moodle32_2013090617.zip"
+    },
+    {
+        "id": "25878",
+        "name": "1.22.4",
+        "url": "https://moodle.org/plugins/download.php/25878/mod_hvp_moodle40_2022080420.zip"
+    },
+    {
+        "id": "24438",
+        "name": "1.22.3",
+        "url": "https://moodle.org/plugins/download.php/24438/mod_hvp_moodle34_2020090113.zip"
+    },
+    {
+        "id": "24030",
+        "name": "1.22.2",
+        "url": "https://moodle.org/plugins/download.php/24030/mod_hvp_moodle30_2020010304.zip"
+    },
+    {
+        "id": "23975",
+        "name": "1.22.1",
+        "url": "https://moodle.org/plugins/download.php/23975/mod_hvp_moodle37_2021050803.zip"
+    },
+    {
+        "id": "23888",
+        "name": "1.22.0",
+        "url": "https://moodle.org/plugins/download.php/23888/mod_hvp_moodle29_2011020810.zip"
+    },
+    {
+        "id": "22165",
+        "name": "1.21.0",
+        "url": "https://moodle.org/plugins/download.php/22165/mod_hvp_moodle29_2019041101.zip"
+    },
+    {
+        "id": "21001",
+        "name": "1.20.2",
+        "url": "https://moodle.org/plugins/download.php/21001/mod_hvp_moodle34_2016090414.zip"
+    },
+    {
+        "id": "20571",
+        "name": "1.20.1",
+        "url": "https://moodle.org/plugins/download.php/20571/mod_hvp_moodle34_2023050920.zip"
+    },
+    {
+        "id": "20491",
+        "name": "1.20.0",
+        "url": "https://moodle.org/plugins/download.php/20491/mod_hvp_moodle27_2016010516.zip"
+    },
+    {
+        "id": "20122",
+        "name": "1.19.1",
+        "url": "https://moodle.org/plugins/download.php/20122/mod_hvp_moodle31_2010031207.zip"
+    },
+    {
+        "id": "20118",
+        "name": "1.19",
+        "url": "https://moodle.org/plugins/download.php/20118/mod_hvp_moodle40_2016060613.zip"
+    },
+    {
+        "id": "19594",
+        "name": "1.18",
+        "url": "https://moodle.org/plugins/download.php/19594/mod_hvp_moodle34_2010010812.zip"
+    },
+    {
+        "id": "19174",
+        "name": "1.17.2",
+        "url": "https://moodle.org/plugins/download.php/19174/mod_hvp_moodle31_2016071019.zip"
+    },
+    {
+        "id": "19171",
+        "name": "1.17.1",
+        "url": "https://moodle.org/plugins/download.php/19171/mod_hvp_moodle25_2023110505.zip"
+    },
+    {
+        "id": "19168",
+        "name": "1.17",
+        "url": "https://moodle.org/plugins/download.php/19168/mod_hvp_moodle32_2023010220.zip"
+    },
+    {
+        "id": "19150",
+        "name": "1.16",
+        "url": "https://moodle.org/plugins/download.php/19150/mod_hvp_moodle31_2013111211.zip"
+    },
+    {
+        "id": "19030",
+        "name": "1.15",
+        "url": "https://moodle.org/plugins/download.php/19030/mod_hvp_moodle33_2018100607.zip"
+    },
+    {
+        "id": "18393",
+        "name": "1.14",
+        "url": "https://moodle.org/plugins/download.php/18393/mod_hvp_moodle27_2018070600.zip"
+    },
+    {
+        "id": "18324",
+        "name": "1.13",
+        "url": "https://moodle.org/plugins/download.php/18324/mod_hvp_moodle31_2021060612.zip"
+    },
+    {
+        "id": "18166",
+        "name": "1.12",
+        "url": "https://moodle.org/plugins/download.php/18166/mod_hvp_moodle26_2013041107.zip"
+    },
+    {
+        "id": "18150",
+        "name": "1.11",
+        "url": "https://moodle.org/plugins/download.php/18150/mod_hvp_moodle35_2017010710.zip"
+    },
+    {
+        "id": "17686",
+        "name": "1.10",
+        "url": "https://moodle.org/plugins/download.php/17686/mod_hvp_moodle35_2013121111.zip"
+    },
+    {
+        "id": "16996",
+        "name": "1.9",
+        "url": "https://moodle.org/plugins/download.php/16996/mod_hvp_moodle28_2015081200.zip"
+    },
+    {
+        "id": "16892",
+        "name": "1.8",
+        "url": "https://moodle.org/plugins/download.php/16892/mod_hvp_moodle28_2022031206.zip"
+    },
+    {
+        "id": "15838",
+        "name": "1.7",
+        "url": "https://moodle.org/plugins/download.php/15838/mod_hvp_moodle37_2015040715.zip"
+    },
+    {
+        "id": "15518",
+        "name": "1.6",
+        "url": "https://moodle.org/plugins/download.php/15518/mod_hvp_moodle36_2015040409.zip"
+    },
+    {
+        "id": "14747",
+        "name": "1.5",
+        "url": "https://moodle.org/plugins/download.php/14747/mod_hvp_moodle26_2017110513.zip"
+    },
+    {
+        "id": "14157",
+        "name": "1.4",
+        "url": "https://moodle.org/plugins/download.php/14157/mod_hvp_moodle35_2010091119.zip"
+    },
+    {
+        "id": "14076",
+        "name": "1.3",
+        "url": "https://moodle.org/plugins/download.php/14076/mod_hvp_moodle34_2014050919.zip"
+    },
+    {
+        "id": "13761",
+        "name": "1.2",
+        "url": "https://moodle.org/plugins/download.php/13761/mod_hvp_moodle39_2016050817.zip"
+    },
+    {
+        "id": "13628",
+        "name": "1.1",
+        "url": "https://moodle.org/plugins/download.php/13628/mod_hvp_moodle32_2017061216.zip"
+    },
+    {
+        "id": "13434",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/13434/mod_hvp_moodle26_2020071120.zip"
+    },
+    {
+        "id": "13238",
+        "name": "1.0-rc.8",
+        "url": "https://moodle.org/plugins/download.php/13238/mod_hvp_moodle32_2016120407.zip"
+    },
+    {
+        "id": "13207",
+        "name": "1.0-rc.7",
+        "url": "https://moodle.org/plugins/download.php/13207/mod_hvp_moodle36_2015070606.zip"
+    },
+    {
+        "id": "13047",
+        "name": "1.0-rc.6",
+        "url": "https://moodle.org/plugins/download.php/13047/mod_hvp_moodle31_2016050306.zip"
+    },
+    {
+        "id": "12763",
+        "name": "1.0-rc.5",
+        "url": "https://moodle.org/plugins/download.php/12763/mod_hvp_moodle28_2016091005.zip"
+    },
+    {
+        "id": "12542",
+        "name": "1.0-rc.4",
+        "url": "https://moodle.org/plugins/download.php/12542/mod_hvp_moodle40_2014060710.zip"
+    },
+    {
+        "id": "12275",
+        "name": "1.0-rc.3",
+        "url": "https://moodle.org/plugins/download.php/12275/mod_hvp_moodle32_2018120609.zip"
+    },
+    {
+        "id": "11900",
+        "name": "1.0-rc.2",
+        "url": "https://moodle.org/plugins/download.php/11900/mod_hvp_moodle36_2019040105.zip"
+    },
+    {
+        "id": "11732",
+        "name": "1.0-rc",
+        "url": "https://moodle.org/plugins/download.php/11732/mod_hvp_moodle33_2021020108.zip"
+    }
+]

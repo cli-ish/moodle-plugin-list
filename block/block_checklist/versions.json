@@ -1,0 +1,87 @@
+[
+    {
+        "id": "28963",
+        "name": "3.4.1.0",
+        "url": "https://moodle.org/plugins/download.php/28963/block_checklist_moodle33_2015121011.zip"
+    },
+    {
+        "id": "9764",
+        "name": "2.x-build-2015010100",
+        "url": "https://moodle.org/plugins/download.php/9764/block_checklist_moodle35_2011021108.zip"
+    },
+    {
+        "id": "27962",
+        "name": "3.4-build-2022111900",
+        "url": "https://moodle.org/plugins/download.php/27962/block_checklist_moodle33_2016030612.zip"
+    },
+    {
+        "id": "26181",
+        "name": "3.4-build-2022012200",
+        "url": "https://moodle.org/plugins/download.php/26181/block_checklist_moodle36_2022021101.zip"
+    },
+    {
+        "id": "24176",
+        "name": "3.4-build-2021051500",
+        "url": "https://moodle.org/plugins/download.php/24176/block_checklist_moodle40_2011071109.zip"
+    },
+    {
+        "id": "21717",
+        "name": "3.4-build-2020021600",
+        "url": "https://moodle.org/plugins/download.php/21717/block_checklist_moodle30_2010090814.zip"
+    },
+    {
+        "id": "20132",
+        "name": "3.4-build-2018040200",
+        "url": "https://moodle.org/plugins/download.php/20132/block_checklist_moodle33_2012120319.zip"
+    },
+    {
+        "id": "6840",
+        "name": "2.x-build-2014090800",
+        "url": "https://moodle.org/plugins/download.php/6840/block_checklist_moodle35_2019100509.zip"
+    },
+    {
+        "id": "4914",
+        "name": "2.x-build-2013111900",
+        "url": "https://moodle.org/plugins/download.php/4914/block_checklist_moodle32_2019050404.zip"
+    },
+    {
+        "id": "1814",
+        "name": "2.x-build-2012120700",
+        "url": "https://moodle.org/plugins/download.php/1814/block_checklist_moodle35_2021080420.zip"
+    },
+    {
+        "id": "1756",
+        "name": "2.x-build-2012112700",
+        "url": "https://moodle.org/plugins/download.php/1756/block_checklist_moodle35_2011100619.zip"
+    },
+    {
+        "id": "1391",
+        "name": "2.x-build-2012092200",
+        "url": "https://moodle.org/plugins/download.php/1391/block_checklist_moodle26_2020111209.zip"
+    },
+    {
+        "id": "1030",
+        "name": "2.x-build-2012070700",
+        "url": "https://moodle.org/plugins/download.php/1030/block_checklist_moodle26_2021030720.zip"
+    },
+    {
+        "id": "495",
+        "name": "2.x-build-2012020800",
+        "url": "https://moodle.org/plugins/download.php/495/block_checklist_moodle26_2011030911.zip"
+    },
+    {
+        "id": "463",
+        "name": "2.x-build-2012012700",
+        "url": "https://moodle.org/plugins/download.php/463/block_checklist_moodle30_2012100518.zip"
+    },
+    {
+        "id": "459",
+        "name": "2.x-build-2012010200",
+        "url": "https://moodle.org/plugins/download.php/459/block_checklist_moodle39_2018061219.zip"
+    },
+    {
+        "id": "312",
+        "name": "2.x-build-2011040900",
+        "url": "https://moodle.org/plugins/download.php/312/block_checklist_moodle27_2011030712.zip"
+    }
+]

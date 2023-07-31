@@ -1,0 +1,45 @@
+{
+    "id": 1076,
+    "index": 1516,
+    "name": "Afterburner",
+    "frankenstyle": "theme_afterburner",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_afterburner",
+    "shortdescription": "This theme was part of the Moodle core distribution, but for Moodle 2.7+ has now been moved to Moodle Plugins",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 August 2016, 7:24 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-11T07:24:33+08:00"
+    },
+    "aggsites": "160",
+    "aggdownloads": "10",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1076/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

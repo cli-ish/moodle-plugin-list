@@ -1,0 +1,68 @@
+{
+    "id": 1567,
+    "index": 539,
+    "name": "Group formation",
+    "frankenstyle": "mod_groupformation",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_groupformation",
+    "shortdescription": "Formation of optimized learning groups - by topic preference or best match of individuals' charatceristics and preferences; in one easy to use Moodle acticity;  languages available: German, English",
+    "timelastreleased": {
+        "absdate": "Monday, 2 January 2023, 9:27 PM",
+        "reldate": "7 months",
+        "iso8601date": "2023-01-02T21:27:17+08:00"
+    },
+    "aggsites": "103",
+    "aggdownloads": "219",
+    "aggfavs": "26",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1567/Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1567/Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1567/Choosing%20scenario.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1567/Activity%20overview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1567/activity%20settings%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1567/activity%20settings%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1567/built%20groups.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1567/define%20topics.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1567/Including%20knowledge.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1567/student%20evaluation%20example.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1567/student%20overview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1567/student%20questionnaire.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2033304,
+            "firstname": "Multimedia Communication  Lab",
+            "lastname": "KOM",
+            "url": "https://moodle.org/user/profile.php?id=2033304"
+        }
+    ],
+    "descriptors": []
+}

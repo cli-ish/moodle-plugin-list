@@ -1,0 +1,45 @@
+{
+    "id": 359,
+    "index": 1750,
+    "name": "Strawberry",
+    "frankenstyle": "theme_strawberry",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_strawberry",
+    "shortdescription": "Strawberry is a fixed-width, two column theme for Moodle 2 based on the Strawberry theme by Templatemo.com.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 October 2012, 7:32 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-31T07:32:49+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "6",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/359/strawberry_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/359/strawberry_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/359/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 764775,
+            "firstname": "Miriam",
+            "lastname": "Laidlaw",
+            "url": "https://moodle.org/user/profile.php?id=764775"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

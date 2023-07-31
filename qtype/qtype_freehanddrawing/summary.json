@@ -1,0 +1,45 @@
+{
+    "id": 905,
+    "index": 884,
+    "name": "Freehand Drawing",
+    "frankenstyle": "qtype_freehanddrawing",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_freehanddrawing",
+    "shortdescription": "Freehand Drawing is a question type for Moodle which allows examinees to draw their solution in a quiz.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 8 October 2013, 6:45 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-10-08T18:45:35+08:00"
+    },
+    "aggsites": "287",
+    "aggdownloads": "103",
+    "aggfavs": "19",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1615462,
+            "firstname": "Jacob",
+            "lastname": "Shapiro",
+            "url": "https://moodle.org/user/profile.php?id=1615462"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

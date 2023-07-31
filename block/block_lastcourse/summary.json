@@ -1,0 +1,40 @@
+{
+    "id": 2045,
+    "index": 1768,
+    "name": "My last course",
+    "frankenstyle": "block_lastcourse",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_lastcourse",
+    "shortdescription": "Sometimes we forget which course or module we've consulted last time because we were interrupted by an important event. This block gives access to the last course and last module viewed.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 May 2021, 10:21 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-18T22:21:05+08:00"
+    },
+    "aggsites": "40",
+    "aggdownloads": "5",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2045/BlockLastCourse.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 60266,
+            "firstname": "Dey",
+            "lastname": "Bendifallah",
+            "url": "https://moodle.org/user/profile.php?id=60266"
+        }
+    ],
+    "descriptors": []
+}

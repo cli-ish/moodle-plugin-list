@@ -1,0 +1,46 @@
+{
+    "id": 1985,
+    "index": 786,
+    "name": "Cohort external database",
+    "frankenstyle": "tool_cohortdatabase",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_cohortdatabase",
+    "shortdescription": "This plugin creates site-level cohorts using a connection to an external database. (similar to enrol_database plugin but instead of creating enrolments it creates site-level cohorts.)",
+    "timelastreleased": {
+        "absdate": "Friday, 25 November 2022, 3:24 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-25T15:24:28+08:00"
+    },
+    "aggsites": "136",
+    "aggdownloads": "126",
+    "aggfavs": "24",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1985/cohortexternaldb.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

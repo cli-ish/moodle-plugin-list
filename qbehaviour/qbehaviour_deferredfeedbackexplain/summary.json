@@ -1,0 +1,49 @@
+{
+    "id": 1262,
+    "index": 643,
+    "name": "Deferred feedback with explanation",
+    "frankenstyle": "qbehaviour_deferredfeedbackexplain",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_deferredfeedbackexplain",
+    "shortdescription": "This question behaviour is just like deferred feedback, but with an additional input box where students can give a reason why they gave the answer they did.",
+    "timelastreleased": {
+        "absdate": "Monday, 21 March 2022, 12:41 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-21T00:41:33+08:00"
+    },
+    "aggsites": "304",
+    "aggdownloads": "168",
+    "aggfavs": "22",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1262/answered.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1262/inprogress.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

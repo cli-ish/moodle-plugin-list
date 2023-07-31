@@ -1,0 +1,68 @@
+{
+    "id": 2139,
+    "index": 1221,
+    "name": "BrainCert HTML5 Virtual Classroom",
+    "frankenstyle": "mod_braincert",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_braincert",
+    "shortdescription": "BrainCert's next-generation HTML5 Virtual Classroom is designed to deliver live classes, meetings, webinars, and collaborative group conferences to audience anywhere right from your Moodle site!",
+    "timelastreleased": {
+        "absdate": "Tuesday, 7 September 2021, 11:40 PM",
+        "reldate": "23 months",
+        "iso8601date": "2021-09-07T23:40:43+08:00"
+    },
+    "aggsites": "45",
+    "aggdownloads": "25",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2139/icon-128x128.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2139/icon-128x128.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2139/00-Virtual%20Classroom.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2139/Annotate%20over%20documents.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2139/Attendee%20enhanced%20info.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2139/Code%20Editor.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2139/Group%20Screen%20Sharing.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2139/LaTEX%20Equation%20Editor.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2139/Media%20Player.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2139/RTL%20support.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2139/Video%20conferencing.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2139/WollgframAlpha.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2476330,
+            "firstname": "BrainCert",
+            "lastname": "Virtual Classroom",
+            "url": "https://moodle.org/user/profile.php?id=2476330"
+        }
+    ],
+    "descriptors": []
+}

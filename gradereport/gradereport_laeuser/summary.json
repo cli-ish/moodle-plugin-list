@@ -1,0 +1,45 @@
+{
+    "id": 1004,
+    "index": 1849,
+    "name": "LAE User report",
+    "frankenstyle": "gradereport_laeuser",
+    "plugintype": {
+        "type": "gradereport",
+        "name": "Gradebook report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradereport_laeuser",
+    "shortdescription": "User report with actual weights, contribution column and 'what if'",
+    "timelastreleased": {
+        "absdate": "Tuesday, 8 April 2014, 11:11 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-08T23:11:09+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "4",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 5845,
+            "firstname": "Bob",
+            "lastname": "Puffer",
+            "url": "https://moodle.org/user/profile.php?id=5845"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

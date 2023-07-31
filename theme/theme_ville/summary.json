@@ -1,0 +1,45 @@
+{
+    "id": 274,
+    "index": 2058,
+    "name": "ville",
+    "frankenstyle": "theme_ville",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_ville",
+    "shortdescription": "A two column theme. Admin can change logo and link colors. ",
+    "timelastreleased": {
+        "absdate": "Monday, 19 March 2012, 8:50 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-19T20:50:06+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "1",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/274/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/274/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/274/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

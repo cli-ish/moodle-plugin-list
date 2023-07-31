@@ -1,0 +1,59 @@
+{
+    "id": 1615,
+    "index": 748,
+    "name": "IP address list quiz access rule",
+    "frankenstyle": "quizaccess_ipaddresslist",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_ipaddresslist",
+    "shortdescription": "This plugin works just as usual limitation on IP, but the list of subnets with names (eg, library, local area network, a computer lab, etc.) enters the site administrator. Teachers in tests simply select the required subnet.",
+    "timelastreleased": {
+        "absdate": "Sunday, 12 December 2021, 1:22 AM",
+        "reldate": "20 months",
+        "iso8601date": "2021-12-12T01:22:41+08:00"
+    },
+    "aggsites": "177",
+    "aggdownloads": "134",
+    "aggfavs": "26",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1615/01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1615/02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1615/03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1615/04.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 585006,
+            "firstname": "Vadim",
+            "lastname": "Dvorovenko",
+            "url": "https://moodle.org/user/profile.php?id=585006"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 517,
+    "index": 65,
+    "name": "Microsoft Word File Import/Export (Question Format)",
+    "frankenstyle": "qformat_wordtable",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_wordtable",
+    "shortdescription": "Import questions (including images and equations) from structured tables in a Word file (.docx format) into a course question bank, and also export questions to a Word file, allowing for round-trip editing.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 October 2022, 4:48 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-10-27T04:48:24+08:00"
+    },
+    "aggsites": "4384",
+    "aggdownloads": "1k",
+    "aggfavs": "174",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/517/logo.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/517/logo.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/517/cloze_question_350.gif?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 726938,
+            "firstname": "Eoin",
+            "lastname": "Campbell",
+            "url": "https://moodle.org/user/profile.php?id=726938"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

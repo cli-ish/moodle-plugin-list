@@ -1,0 +1,47 @@
+[
+    {
+        "id": "5091",
+        "name": "2.5.1-build-2013120500",
+        "url": "https://moodle.org/plugins/download.php/5091/assignment_poodllonline_moodle25_2020080310.zip"
+    },
+    {
+        "id": "2978",
+        "name": "2.5.0-build-2013050900",
+        "url": "https://moodle.org/plugins/download.php/2978/assignment_poodllonline_moodle26_2015070320.zip"
+    },
+    {
+        "id": "2252",
+        "name": "2.4.0-build-2013022200",
+        "url": "https://moodle.org/plugins/download.php/2252/assignment_poodllonline_moodle32_2012120705.zip"
+    },
+    {
+        "id": "1912",
+        "name": "2.3.9-build-2012120400",
+        "url": "https://moodle.org/plugins/download.php/1912/assignment_poodllonline_moodle27_2014070908.zip"
+    },
+    {
+        "id": "1553",
+        "name": "2.3.8-build-2012102100",
+        "url": "https://moodle.org/plugins/download.php/1553/assignment_poodllonline_moodle32_2012020900.zip"
+    },
+    {
+        "id": "1280",
+        "name": "2.3.6-build-2012082900",
+        "url": "https://moodle.org/plugins/download.php/1280/assignment_poodllonline_moodle37_2018021208.zip"
+    },
+    {
+        "id": "1253",
+        "name": "2.3.5-build-2012080500",
+        "url": "https://moodle.org/plugins/download.php/1253/assignment_poodllonline_moodle27_2013110704.zip"
+    },
+    {
+        "id": "877",
+        "name": "2.2-build-2012052500",
+        "url": "https://moodle.org/plugins/download.php/877/assignment_poodllonline_moodle33_2019050718.zip"
+    },
+    {
+        "id": "776",
+        "name": "2.2-build-2012040800",
+        "url": "https://moodle.org/plugins/download.php/776/assignment_poodllonline_moodle32_2022080908.zip"
+    }
+]

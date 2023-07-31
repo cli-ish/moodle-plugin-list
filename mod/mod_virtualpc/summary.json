@@ -1,0 +1,47 @@
+{
+    "id": 1789,
+    "index": 1232,
+    "name": "Virtual PC",
+    "frankenstyle": "mod_virtualpc",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_virtualpc",
+    "shortdescription": "Virtual PC activity provides access to virtual computers offered by virtualization programs (VMware, oVirt, OpenStack, Citrix) and managed by UDS. The virtual infrastructure administrator creates virtual computers that Moodle course teachers can select and offer to their students using this activity module. That way, students can use easily the software installed in the virtual computers, such as license restricted software, without having to install it in their personal computers, fulfilling all the legal conditions. The students only need their web browser and a small plugin to jump seamlessly from within the course to the virtual computer.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 7 February 2017, 2:55 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-02-07T02:55:12+08:00"
+    },
+    "aggsites": "37",
+    "aggdownloads": "24",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1789/preview.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1789/put_activity.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1789/view_activity.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 133465,
+            "firstname": "A.",
+            "lastname": "gtdino",
+            "url": "https://moodle.org/user/profile.php?id=133465"
+        }
+    ],
+    "descriptors": []
+}

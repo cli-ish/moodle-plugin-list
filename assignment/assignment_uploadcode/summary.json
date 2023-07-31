@@ -1,0 +1,52 @@
+{
+    "id": 513,
+    "index": 1583,
+    "name": "SIM-Plagiarism",
+    "frankenstyle": "assignment_uploadcode",
+    "plugintype": {
+        "type": "assignment",
+        "name": "Assignment / Legacy plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignment_uploadcode",
+    "shortdescription": "A Plagiarism Detection plugin for Moodle 1.9.* through use of similarity-tester and Graphviz packages.",
+    "timelastreleased": {
+        "absdate": "Sunday, 4 November 2012, 3:29 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-04T03:29:27+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "9",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/513/sim-plagiarism_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/513/sim-plagiarism_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/513/screen1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/513/screen2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/513/screen3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1521410,
+            "firstname": "Daniele",
+            "lastname": "Gazzelloni",
+            "url": "https://moodle.org/user/profile.php?id=1521410"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

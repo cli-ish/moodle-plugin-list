@@ -1,0 +1,50 @@
+{
+    "id": 2731,
+    "index": 1720,
+    "name": "Course Teams group",
+    "frankenstyle": "local_courseteam",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_courseteam",
+    "shortdescription": "Enables the teacher to generate an MS Teams group from the course configuration page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 3 August 2021, 5:02 PM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-03T17:02:59+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": "6",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2731/enable.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2731/main.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2731/result.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2731/sidemenu.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4127471,
+            "firstname": "Eve",
+            "lastname": "Ormisson",
+            "url": "https://moodle.org/user/profile.php?id=4127471"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id": "12908",
+        "name": "3.2.0-build-20161219",
+        "url": "https://moodle.org/plugins/download.php/12908/mod_aspirelist_moodle30_2016050100.zip"
+    },
+    {
+        "id": "12907",
+        "name": "2.9.6-build-20161219",
+        "url": "https://moodle.org/plugins/download.php/12907/mod_aspirelist_moodle36_2018091212.zip"
+    },
+    {
+        "id": "10028",
+        "name": "2.7.8-build-20151210",
+        "url": "https://moodle.org/plugins/download.php/10028/mod_aspirelist_moodle36_2015050820.zip"
+    },
+    {
+        "id": "9412",
+        "name": "2.6.8",
+        "url": "https://moodle.org/plugins/download.php/9412/mod_aspirelist_moodle38_2016060116.zip"
+    },
+    {
+        "id": "7785",
+        "name": "2.5.5",
+        "url": "https://moodle.org/plugins/download.php/7785/mod_aspirelist_moodle39_2016100315.zip"
+    }
+]

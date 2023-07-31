@@ -1,0 +1,45 @@
+{
+    "id": 454,
+    "index": 380,
+    "name": "Bootstrap",
+    "frankenstyle": "theme_bootstrap",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_bootstrap",
+    "shortdescription": "This is a Moodle theme based on the Bootstrap CSS framework. It has minimal styling and can be used to create User Experience optimized themes",
+    "timelastreleased": {
+        "absdate": "Tuesday, 2 August 2016, 8:24 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-02T20:24:53+08:00"
+    },
+    "aggsites": "1676",
+    "aggdownloads": "329",
+    "aggfavs": "66",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/454/Screen%20shot%202012-09-28%20at%207.40.09%20AM.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/454/Screen%20shot%202012-09-28%20at%207.40.09%20AM.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/454/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1311,
+    "index": 1255,
+    "name": "Collapsible regions",
+    "frankenstyle": "filter_collapsible",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_collapsible",
+    "shortdescription": "Easy way to create collapsible regions within descriptions and text for Moodle.",
+    "timelastreleased": {
+        "absdate": "Monday, 5 December 2016, 9:33 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-05T21:33:57+08:00"
+    },
+    "aggsites": "177",
+    "aggdownloads": "22",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1311/innocampus-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1311/innocampus-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1311/screenshot03.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1311/screenshot06.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1311/screenshot07.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1463452,
+            "firstname": "Jan",
+            "lastname": "Eberhardt",
+            "url": "https://moodle.org/user/profile.php?id=1463452"
+        }
+    ],
+    "descriptors": []
+}

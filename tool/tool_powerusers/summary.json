@@ -1,0 +1,47 @@
+{
+    "id": 3019,
+    "index": 838,
+    "name": "Power users generator",
+    "frankenstyle": "tool_powerusers",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_powerusers",
+    "shortdescription": "This generator uses the Marvel API to generate users from your favorite characters in your Moodle instance.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 April 2023, 5:33 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-27T17:33:11+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "115",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3019/plugin.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3019/plugin2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3019/plugin3.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2522716,
+            "firstname": "David",
+            "lastname": "Matamoros",
+            "url": "https://moodle.org/user/profile.php?id=2522716"
+        }
+    ],
+    "descriptors": []
+}

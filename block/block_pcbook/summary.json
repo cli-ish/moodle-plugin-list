@@ -1,0 +1,45 @@
+{
+    "id": 1232,
+    "index": 2143,
+    "name": "PCBook",
+    "frankenstyle": "block_pcbook",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_pcbook",
+    "shortdescription": "This is a block which links to a pcbook server and shows how many of your computers are free or busy.\r\n",
+    "timelastreleased": {
+        "absdate": "Sunday, 12 October 2014, 11:17 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-10-12T23:17:42+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1232/pcbook.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1851758,
+            "firstname": "Mike",
+            "lastname": "Dawson",
+            "url": "https://moodle.org/user/profile.php?id=1851758"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

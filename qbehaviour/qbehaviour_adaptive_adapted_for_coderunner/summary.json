@@ -1,0 +1,40 @@
+{
+    "id": 1788,
+    "index": 128,
+    "name": "Adaptive adapted for coderunner",
+    "frankenstyle": "qbehaviour_adaptive_adapted_for_coderunner",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_adaptive_adapted_for_coderunner",
+    "shortdescription": "A specialised version of the standard Moodle adaptive behaviour for use with the CodeRunner plugin (qtype_coderunner).",
+    "timelastreleased": {
+        "absdate": "Saturday, 27 November 2021, 6:46 AM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-27T06:46:34+08:00"
+    },
+    "aggsites": "2877",
+    "aggdownloads": "944",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1788/A%20sample%20coderunner%20image%2C%20demonstrating%20some%20of%20the%20specialised%20behaviour%20%28a%20question%20precheck%20button%29..png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 402334,
+            "firstname": "Richard",
+            "lastname": "Lobb",
+            "url": "https://moodle.org/user/profile.php?id=402334"
+        }
+    ],
+    "descriptors": []
+}

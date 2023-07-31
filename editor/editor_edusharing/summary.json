@@ -1,0 +1,61 @@
+{
+    "id": 1607,
+    "index": 1230,
+    "name": "edu-sharing Editor",
+    "frankenstyle": "editor_edusharing",
+    "plugintype": {
+        "type": "editor",
+        "name": "Editor"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/editor_edusharing",
+    "shortdescription": "The edu-sharing editor plugin adds the option to embed all kinds of edu-sharing content to all WYSIWYG fields. The new button will open the edu-sharing search engine and let you pick an item embed. Audio and video-files will be embedded with a player. Documents will be represented by a link. You may pick which version of the content you would like to provide in the course (always the latest vs. the version you just picked).",
+    "timelastreleased": {
+        "absdate": "Monday, 24 February 2020, 8:10 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-02-24T20:10:56+08:00"
+    },
+    "aggsites": "41",
+    "aggdownloads": "24",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1607/edu-sharing.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1607/edu-sharing.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1607/1.%20edu-sharing%20button%20in%20wysiwyg%20editor?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1607/2.%20edu-sharing%20search.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1607/3.%20embedding_options.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1607/4.%20added%20edu-sharing%20content?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2685541,
+            "firstname": "Christian",
+            "lastname": "Ernst",
+            "url": "https://moodle.org/user/profile.php?id=2685541"
+        },
+        {
+            "id": 5580377,
+            "firstname": "edu-sharing",
+            "lastname": "Integrations",
+            "url": "https://moodle.org/user/profile.php?id=5580377"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

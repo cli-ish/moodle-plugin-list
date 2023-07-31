@@ -1,0 +1,56 @@
+{
+    "id": 1108,
+    "index": 1887,
+    "name": "Tripleplay Repository Plugin",
+    "frankenstyle": "repository_tripleplay",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_tripleplay",
+    "shortdescription": "Tripleplay Repository plugin allows Tripleplay users to embed content from Tripleplay Systems into Moodle.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 29 April 2014, 7:14 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-29T19:14:43+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "4",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1108/128x128_orb.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1108/128x128_orb.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1108/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1108/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1108/3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1787429,
+            "firstname": "Tripleplay",
+            "lastname": "Services",
+            "url": "https://moodle.org/user/profile.php?id=1787429"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

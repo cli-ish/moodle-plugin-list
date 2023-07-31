@@ -1,0 +1,51 @@
+{
+    "id": 1180,
+    "index": 1705,
+    "name": "Formal white",
+    "frankenstyle": "theme_formal_white",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_formal_white",
+    "shortdescription": "Formal White is a fluid-width, three-column theme built upon both Base and Canvas, two parent themes included in the Moodle core. This theme was coded and is maintained by MediaTouch 2000.",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 July 2014, 6:12 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-07-17T18:12:41+08:00"
+    },
+    "aggsites": "169",
+    "aggdownloads": "6",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 12568,
+            "firstname": "Andrea",
+            "lastname": "Bicciolo",
+            "url": "https://moodle.org/user/profile.php?id=12568"
+        },
+        {
+            "id": 76222,
+            "firstname": "Daniele",
+            "lastname": "Cordella",
+            "url": "https://moodle.org/user/profile.php?id=76222"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

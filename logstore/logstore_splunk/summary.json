@@ -1,0 +1,45 @@
+{
+    "id": 1614,
+    "index": 1992,
+    "name": "Splunk logstore",
+    "frankenstyle": "logstore_splunk",
+    "plugintype": {
+        "type": "logstore",
+        "name": "Log store manager / Log store"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/logstore_splunk",
+    "shortdescription": "A plugin for syncing Moodle logs to Splunk either in realtime or as a background task.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 19 April 2016, 10:03 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-19T22:03:06+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "2",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1899632,
+            "firstname": "Skylar",
+            "lastname": "Kelty",
+            "url": "https://moodle.org/user/profile.php?id=1899632"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

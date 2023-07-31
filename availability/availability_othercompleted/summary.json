@@ -1,0 +1,40 @@
+{
+    "id": 2293,
+    "index": 161,
+    "name": "Restriction by other course completion",
+    "frankenstyle": "availability_othercompleted",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_othercompleted",
+    "shortdescription": "This plugin allows restricting access of activities and resources in your course based on other course completion status. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 17 May 2023, 12:46 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-17T12:46:46+08:00"
+    },
+    "aggsites": "1214",
+    "aggdownloads": "748",
+    "aggfavs": "37",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2293/ModernLMS-logo-full-white.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2293/ModernLMS-logo-full-white.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2293/moodle-plugin.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1282159,
+            "firstname": "Sam",
+            "lastname": "Suresh",
+            "url": "https://moodle.org/user/profile.php?id=1282159"
+        }
+    ],
+    "descriptors": []
+}

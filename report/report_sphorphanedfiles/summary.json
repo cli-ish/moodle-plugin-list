@@ -1,0 +1,46 @@
+{
+    "id": 2982,
+    "index": 973,
+    "name": "Report Orphaned files",
+    "frankenstyle": "report_sphorphanedfiles",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_sphorphanedfiles",
+    "shortdescription": "# Report Orphaned files #\r\n\r\nThis plugin is a report to show files that are stored in moodle but are not in use.",
+    "timelastreleased": {
+        "absdate": "Friday, 13 January 2023, 5:58 PM",
+        "reldate": "7 months",
+        "iso8601date": "2023-01-13T17:58:14+08:00"
+    },
+    "aggsites": "50",
+    "aggdownloads": "63",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2982/orphanedfiles_small.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2982/orphanedfiles_small.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2982/orphanedfiles.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4906986,
+            "firstname": "SchulportalHessen",
+            "lastname": "(technischer Account)",
+            "url": "https://moodle.org/user/profile.php?id=4906986"
+        },
+        {
+            "id": 1028581,
+            "firstname": "Andreas",
+            "lastname": "Schenkel",
+            "url": "https://moodle.org/user/profile.php?id=1028581"
+        }
+    ],
+    "descriptors": []
+}

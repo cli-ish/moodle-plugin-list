@@ -1,0 +1,47 @@
+[
+    {
+        "id": "26756",
+        "name": "1.2.0-2022-05-06",
+        "url": "https://moodle.org/plugins/download.php/26756/fileconverter_onedrive_moodle36_2015101101.zip"
+    },
+    {
+        "id": "22889",
+        "name": "1.1.3-2020-11-06",
+        "url": "https://moodle.org/plugins/download.php/22889/fileconverter_onedrive_moodle28_2023050907.zip"
+    },
+    {
+        "id": "20790",
+        "name": "1.1.2-2019-12-05",
+        "url": "https://moodle.org/plugins/download.php/20790/fileconverter_onedrive_moodle39_2021051017.zip"
+    },
+    {
+        "id": "18522",
+        "name": "1.0.2-2018-12-13",
+        "url": "https://moodle.org/plugins/download.php/18522/fileconverter_onedrive_moodle35_2016080708.zip"
+    },
+    {
+        "id": "20052",
+        "name": "1.1.1-2019-05-13",
+        "url": "https://moodle.org/plugins/download.php/20052/fileconverter_onedrive_moodle40_2016050611.zip"
+    },
+    {
+        "id": "19112",
+        "name": "1.1.0-2019-02-08",
+        "url": "https://moodle.org/plugins/download.php/19112/fileconverter_onedrive_moodle28_2017070720.zip"
+    },
+    {
+        "id": "18735",
+        "name": "1.0.3-2019-01-08",
+        "url": "https://moodle.org/plugins/download.php/18735/fileconverter_onedrive_moodle39_2019091004.zip"
+    },
+    {
+        "id": "17374",
+        "name": "1.0.1-2018-07-13",
+        "url": "https://moodle.org/plugins/download.php/17374/fileconverter_onedrive_moodle30_2019031009.zip"
+    },
+    {
+        "id": "17268",
+        "name": "1.0.0-2018-06-01",
+        "url": "https://moodle.org/plugins/download.php/17268/fileconverter_onedrive_moodle33_2020030119.zip"
+    }
+]

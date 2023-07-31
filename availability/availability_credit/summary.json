@@ -1,0 +1,53 @@
+{
+    "id": 2712,
+    "index": 587,
+    "name": "Restriction by credit",
+    "frankenstyle": "availability_credit",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_credit",
+    "shortdescription": "Pay with credits for course contents",
+    "timelastreleased": {
+        "absdate": "Saturday, 1 May 2021, 5:41 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-01T05:41:42+08:00"
+    },
+    "aggsites": "57",
+    "aggdownloads": "199",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2712/bdlogo2022.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2712/bdlogo2022.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2712/CREDIT-by-bdecent.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2712/Bildschirmfoto%202021-04-30%20um%2023.34.04.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2712/Bildschirmfoto%202021-04-30%20um%2023.34.14.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1553381,
+            "firstname": "Stefan",
+            "lastname": "Scholz",
+            "url": "https://moodle.org/user/profile.php?id=1553381"
+        },
+        {
+            "id": 5033676,
+            "firstname": "bdecent",
+            "lastname": "gmbh",
+            "url": "https://moodle.org/user/profile.php?id=5033676"
+        }
+    ],
+    "descriptors": []
+}

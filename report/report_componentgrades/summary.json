@@ -1,0 +1,58 @@
+{
+    "id": 1153,
+    "index": 398,
+    "name": "Export Component Grades",
+    "frankenstyle": "report_componentgrades",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_componentgrades",
+    "shortdescription": "Exports the component grades from a Rubric or Marking Guide for a given assignment into an Excel spreadsheet.",
+    "timelastreleased": {
+        "absdate": "Monday, 30 August 2021, 3:23 PM",
+        "reldate": "23 months",
+        "iso8601date": "2021-08-30T15:23:06+08:00"
+    },
+    "aggsites": "572",
+    "aggdownloads": "313",
+    "aggfavs": "29",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1153/_marking_guide_export2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1153/_rubric_spreadsheet.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1153/rubric_grade_export.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1159203,
+            "firstname": "Paul",
+            "lastname": "Nicholls",
+            "url": "https://moodle.org/user/profile.php?id=1159203"
+        },
+        {
+            "id": 2246,
+            "firstname": "Marcus",
+            "lastname": "Green",
+            "url": "https://moodle.org/user/profile.php?id=2246"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

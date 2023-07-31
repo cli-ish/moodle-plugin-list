@@ -1,0 +1,45 @@
+{
+    "id": 64,
+    "index": 1002,
+    "name": "Course File Area",
+    "frankenstyle": "repository_coursefilearea",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_coursefilearea",
+    "shortdescription": "Course file storage repository for Moodle 2, which replicates the Moodle 1.x course files functionality.",
+    "timelastreleased": {
+        "absdate": "Friday, 1 June 2018, 7:02 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-01T19:02:24+08:00"
+    },
+    "aggsites": "248",
+    "aggdownloads": "55",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/64/cfa.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 10165,
+            "firstname": "Tim",
+            "lastname": "Williams",
+            "url": "https://moodle.org/user/profile.php?id=10165"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

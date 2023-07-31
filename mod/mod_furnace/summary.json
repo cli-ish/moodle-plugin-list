@@ -1,0 +1,56 @@
+{
+    "id": 346,
+    "index": 2031,
+    "name": "Furnace",
+    "frankenstyle": "mod_furnace",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_furnace",
+    "shortdescription": "Plug-in to allow moodle users with Haivision's Furnace IPTV product to integrate Furnace assets into their moodle environment",
+    "timelastreleased": {
+        "absdate": "Saturday, 7 July 2012, 4:56 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-07-07T04:56:18+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "2",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/346/Furnace_VF.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/346/Furnace_VF.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/346/Moodle_AddNewFurnace.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/346/Moodle_VideoListExample.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/346/Moodle_WeeklyOutline_TC1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1444344,
+            "firstname": "Chris",
+            "lastname": "Ule",
+            "url": "https://moodle.org/user/profile.php?id=1444344"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 1333,
+    "index": 69,
+    "name": "Microsoft 365 Integration (shell plugin)",
+    "frankenstyle": "local_office365",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_office365",
+    "shortdescription": "This plugin is a shell plugin that has dependencies on all Microsoft 365 plugins. This helps keep related plugins together.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 28 June 2023, 6:51 PM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-28T18:51:38+08:00"
+    },
+    "aggsites": "1144",
+    "aggdownloads": "1k",
+    "aggfavs": "46",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1333/local_o365-plugin.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1540471,
+            "firstname": "Enovation",
+            "lastname": "Dev Team",
+            "url": "https://moodle.org/user/profile.php?id=1540471"
+        },
+        {
+            "id": 1835508,
+            "firstname": "James",
+            "lastname": "McQuillan",
+            "url": "https://moodle.org/user/profile.php?id=1835508"
+        },
+        {
+            "id": 1977124,
+            "firstname": "Zion",
+            "lastname": "Brewer",
+            "url": "https://moodle.org/user/profile.php?id=1977124"
+        },
+        {
+            "id": 1937202,
+            "firstname": "Nima",
+            "lastname": "Mojgani",
+            "url": "https://moodle.org/user/profile.php?id=1937202"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Office"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "19962",
+        "name": "auth-saml-version-of-16-07-2019",
+        "url": "https://moodle.org/plugins/download.php/19962/auth_saml_moodle36_2018100505.zip"
+    },
+    {
+        "id": "13021",
+        "name": "auth-saml-version-of-19-01-2017",
+        "url": "https://moodle.org/plugins/download.php/13021/auth_saml_moodle39_2020080812.zip"
+    },
+    {
+        "id": "9041",
+        "name": "auth-saml-version-of-29-07-2015",
+        "url": "https://moodle.org/plugins/download.php/9041/auth_saml_moodle26_2016090813.zip"
+    },
+    {
+        "id": "4011",
+        "name": "2013110701",
+        "url": "https://moodle.org/plugins/download.php/4011/auth_saml_moodle31_2016061214.zip"
+    },
+    {
+        "id": "19770",
+        "name": "auth-saml-version-of-13-06-2019",
+        "url": "https://moodle.org/plugins/download.php/19770/auth_saml_moodle37_2016041003.zip"
+    },
+    {
+        "id": "18728",
+        "name": "auth-saml-version-of-15-01-2019",
+        "url": "https://moodle.org/plugins/download.php/18728/auth_saml_moodle35_2010071216.zip"
+    },
+    {
+        "id": "12631",
+        "name": "auth-saml-version-of-18-11-2016",
+        "url": "https://moodle.org/plugins/download.php/12631/auth_saml_moodle36_2016010515.zip"
+    },
+    {
+        "id": "2398",
+        "name": "2013180303",
+        "url": "https://moodle.org/plugins/download.php/2398/auth_saml_moodle38_2013021020.zip"
+    },
+    {
+        "id": "1646",
+        "name": "2012110601",
+        "url": "https://moodle.org/plugins/download.php/1646/auth_saml_moodle32_2020070310.zip"
+    },
+    {
+        "id": "178",
+        "name": "2011101601",
+        "url": "https://moodle.org/plugins/download.php/178/auth_saml_moodle25_2015040201.zip"
+    }
+]

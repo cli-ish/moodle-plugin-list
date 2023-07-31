@@ -1,0 +1,59 @@
+{
+    "id": 344,
+    "index": 1858,
+    "name": "Video Consultation",
+    "frankenstyle": "mod_videoconsultation",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_videoconsultation",
+    "shortdescription": "Video Consultation is a video communication web application designed for online video consultations, interactive live presentations, trainings, webinars, coaching and online collaboration.  This Video Consultation edition integrates into Moodle as an activity module so video consultation seminars can be added to courses as activities.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 June 2012, 4:38 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-26T16:38:26+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "4",
+    "aggfavs": "15",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/344/box_cns_180.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/344/box_cns_180.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/344/vc_userstatus.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/344/vcons_371x275.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/344/vcons_buttons.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/344/vcons_encoder.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1285863,
+            "firstname": "Teodor",
+            "lastname": "Nica",
+            "url": "https://moodle.org/user/profile.php?id=1285863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

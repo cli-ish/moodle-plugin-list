@@ -1,0 +1,50 @@
+{
+    "id": 1987,
+    "index": 1508,
+    "name": "Thai Buddhist Calendar Type",
+    "frankenstyle": "calendartype_thaibuddhist",
+    "plugintype": {
+        "type": "calendartype",
+        "name": "Calendar type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/calendartype_thaibuddhist",
+    "shortdescription": "Moodle calendar type for Thai Buddhist year",
+    "timelastreleased": {
+        "absdate": "Sunday, 17 January 2021, 9:09 PM",
+        "reldate": "3 years",
+        "iso8601date": "2021-01-17T21:09:47+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "11",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1987/%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E.JPG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1987/%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E.JPG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1987/%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%20%281%29.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1987/%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%20%282%29.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1987/%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E%20%283%29.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1987/%E0%B8%88%E0%B8%B1%E0%B8%9A%E0%B8%A0%E0%B8%B2%E0%B8%9E.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2280938,
+            "firstname": "Ponlawat",
+            "lastname": "Weerapanpisit",
+            "url": "https://moodle.org/user/profile.php?id=2280938"
+        }
+    ],
+    "descriptors": []
+}

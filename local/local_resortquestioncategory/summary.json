@@ -1,0 +1,49 @@
+{
+    "id": 1611,
+    "index": 1650,
+    "name": "Resort question categories",
+    "frankenstyle": "local_resortquestioncategory",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_resortquestioncategory",
+    "shortdescription": "This plugin allows to sort question categories and subcategories in alphabetical order.",
+    "timelastreleased": {
+        "absdate": "Saturday, 13 June 2020, 12:38 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-13T12:38:40+08:00"
+    },
+    "aggsites": "87",
+    "aggdownloads": "7",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1611/01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1611/02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 585006,
+            "firstname": "Vadim",
+            "lastname": "Dvorovenko",
+            "url": "https://moodle.org/user/profile.php?id=585006"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

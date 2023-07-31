@@ -1,0 +1,59 @@
+{
+    "id": 96,
+    "index": 186,
+    "name": "Pcast",
+    "frankenstyle": "mod_pcast",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_pcast",
+    "shortdescription": "Activity module to create podcasts in Moodle",
+    "timelastreleased": {
+        "absdate": "Wednesday, 19 April 2023, 2:52 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-19T02:52:29+08:00"
+    },
+    "aggsites": "772",
+    "aggdownloads": "669",
+    "aggfavs": "44",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/96/pcast_sort_author.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/96/pcast_sort_category.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/96/pcast_view_comments.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/96/pcast_view_episode.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 45256,
+            "firstname": "Stephen",
+            "lastname": "Bourget",
+            "url": "https://moodle.org/user/profile.php?id=45256"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

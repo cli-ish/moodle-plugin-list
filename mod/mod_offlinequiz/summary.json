@@ -1,0 +1,49 @@
+{
+    "id": 1242,
+    "index": 86,
+    "name": "Offline Quiz",
+    "frankenstyle": "mod_offlinequiz",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_offlinequiz",
+    "shortdescription": "The MC Offline quiz module (mod/offlinequiz) adds paper-and-pencil multiple-choice quizzes to Moodle. In offline quizzes students mark answers to questions on a sheet of paper (the answer form).  ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 12:19 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T00:19:31+08:00"
+    },
+    "aggsites": "1891",
+    "aggdownloads": "1k",
+    "aggfavs": "168",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1242/offline_test.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1242/offline_test.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1242/offlinequiz.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Offline"
+        }
+    ]
+}

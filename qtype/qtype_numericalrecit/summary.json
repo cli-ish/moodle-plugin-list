@@ -1,0 +1,74 @@
+{
+    "id": 2866,
+    "index": 832,
+    "name": "Formula with steps R\u00c9CIT",
+    "frankenstyle": "qtype_numericalrecit",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_numericalrecit",
+    "shortdescription": "This question type is derived from the Formulas question. It allows you to generate a problem containing random variables or a table of values. It allows students to easily upload a photo of their mathematical approach.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 26 April 2023, 1:33 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-26T01:33:18+08:00"
+    },
+    "aggsites": "114",
+    "aggdownloads": "117",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2866/RECIT_Logo_RVB.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2866/RECIT_Logo_RVB.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2866/ques_recit_1.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2866/quest_recit_2.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2866/quest_recit_3.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2866/quest_recit_4.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1410015,
+            "firstname": "\u00c9tienne",
+            "lastname": "Roy",
+            "url": "https://moodle.org/user/profile.php?id=1410015"
+        },
+        {
+            "id": 2860252,
+            "firstname": "Gustavo",
+            "lastname": "Bazzo",
+            "url": "https://moodle.org/user/profile.php?id=2860252"
+        },
+        {
+            "id": 4223745,
+            "firstname": "Emile",
+            "lastname": "Jacques",
+            "url": "https://moodle.org/user/profile.php?id=4223745"
+        },
+        {
+            "id": 4223718,
+            "firstname": "Yvon",
+            "lastname": "Qu\u00e9mener",
+            "url": "https://moodle.org/user/profile.php?id=4223718"
+        },
+        {
+            "id": 4223728,
+            "firstname": "R\u00c9CITFAD",
+            "lastname": "Service national",
+            "url": "https://moodle.org/user/profile.php?id=4223728"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,132 @@
+[
+    {
+        "id": "11815",
+        "name": "3.1.0.0",
+        "url": "https://moodle.org/plugins/download.php/11815/local_msaccount_moodle34_2015090617.zip"
+    },
+    {
+        "id": "11403",
+        "name": "30.0.0.4",
+        "url": "https://moodle.org/plugins/download.php/11403/local_msaccount_moodle34_2010050810.zip"
+    },
+    {
+        "id": "11409",
+        "name": "29.0.0.5",
+        "url": "https://moodle.org/plugins/download.php/11409/local_msaccount_moodle26_2021090213.zip"
+    },
+    {
+        "id": "11418",
+        "name": "28.0.0.6",
+        "url": "https://moodle.org/plugins/download.php/11418/local_msaccount_moodle29_2010070308.zip"
+    },
+    {
+        "id": "11419",
+        "name": "27.0.0.7",
+        "url": "https://moodle.org/plugins/download.php/11419/local_msaccount_moodle30_2014110700.zip"
+    },
+    {
+        "id": "10905",
+        "name": "30.0.0.3",
+        "url": "https://moodle.org/plugins/download.php/10905/local_msaccount_moodle27_2017011004.zip"
+    },
+    {
+        "id": "10598",
+        "name": "30.0.0.2",
+        "url": "https://moodle.org/plugins/download.php/10598/local_msaccount_moodle25_2016040603.zip"
+    },
+    {
+        "id": "10111",
+        "name": "30.0.0.1",
+        "url": "https://moodle.org/plugins/download.php/10111/local_msaccount_moodle28_2012120518.zip"
+    },
+    {
+        "id": "10894",
+        "name": "29.0.0.4",
+        "url": "https://moodle.org/plugins/download.php/10894/local_msaccount_moodle33_2023030114.zip"
+    },
+    {
+        "id": "10586",
+        "name": "29.0.0.3",
+        "url": "https://moodle.org/plugins/download.php/10586/local_msaccount_moodle39_2015031020.zip"
+    },
+    {
+        "id": "10099",
+        "name": "29.0.0.2",
+        "url": "https://moodle.org/plugins/download.php/10099/local_msaccount_moodle36_2017060319.zip"
+    },
+    {
+        "id": "9794",
+        "name": "29.0.0.1",
+        "url": "https://moodle.org/plugins/download.php/9794/local_msaccount_moodle32_2011100411.zip"
+    },
+    {
+        "id": "8694",
+        "name": "29.0.0.0",
+        "url": "https://moodle.org/plugins/download.php/8694/local_msaccount_moodle36_2010030114.zip"
+    },
+    {
+        "id": "10883",
+        "name": "28.0.0.5",
+        "url": "https://moodle.org/plugins/download.php/10883/local_msaccount_moodle27_2016090615.zip"
+    },
+    {
+        "id": "10566",
+        "name": "28.0.0.4",
+        "url": "https://moodle.org/plugins/download.php/10566/local_msaccount_moodle37_2013120805.zip"
+    },
+    {
+        "id": "10089",
+        "name": "28.0.0.3",
+        "url": "https://moodle.org/plugins/download.php/10089/local_msaccount_moodle35_2023090508.zip"
+    },
+    {
+        "id": "9783",
+        "name": "28.0.0.2",
+        "url": "https://moodle.org/plugins/download.php/9783/local_msaccount_moodle27_2014030613.zip"
+    },
+    {
+        "id": "7939",
+        "name": "28.0.0.1",
+        "url": "https://moodle.org/plugins/download.php/7939/local_msaccount_moodle26_2012040401.zip"
+    },
+    {
+        "id": "7837",
+        "name": "28.0.0.0",
+        "url": "https://moodle.org/plugins/download.php/7837/local_msaccount_moodle29_2017080200.zip"
+    },
+    {
+        "id": "10873",
+        "name": "27.0.0.6",
+        "url": "https://moodle.org/plugins/download.php/10873/local_msaccount_moodle30_2012090803.zip"
+    },
+    {
+        "id": "10553",
+        "name": "27.0.0.5",
+        "url": "https://moodle.org/plugins/download.php/10553/local_msaccount_moodle37_2023110214.zip"
+    },
+    {
+        "id": "10075",
+        "name": "27.0.0.4",
+        "url": "https://moodle.org/plugins/download.php/10075/local_msaccount_moodle36_2011070919.zip"
+    },
+    {
+        "id": "9775",
+        "name": "27.0.0.3",
+        "url": "https://moodle.org/plugins/download.php/9775/local_msaccount_moodle35_2014030511.zip"
+    },
+    {
+        "id": "7938",
+        "name": "27.0.0.2",
+        "url": "https://moodle.org/plugins/download.php/7938/local_msaccount_moodle28_2018010610.zip"
+    },
+    {
+        "id": "7823",
+        "name": "27.0.0.1",
+        "url": "https://moodle.org/plugins/download.php/7823/local_msaccount_moodle38_2019020815.zip"
+    },
+    {
+        "id": "7725",
+        "name": "1.0.0.0",
+        "url": "https://moodle.org/plugins/download.php/7725/local_msaccount_moodle37_2021120800.zip"
+    }
+]

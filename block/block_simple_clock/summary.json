@@ -1,0 +1,62 @@
+{
+    "id": 2,
+    "index": 658,
+    "name": "Simple Clock",
+    "frankenstyle": "block_simple_clock",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_simple_clock",
+    "shortdescription": "A simple JavaScript clock that highlights the time difference between a student and the Moodle server",
+    "timelastreleased": {
+        "absdate": "Sunday, 18 February 2018, 4:33 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-02-18T04:33:41+08:00"
+    },
+    "aggsites": "1131",
+    "aggdownloads": "162",
+    "aggfavs": "30",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2/Default.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2/Default.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2/Days.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2/Default.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2/NoHeader.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2/NoIcons.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2/Seconds.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2/ServerOnly.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2/Settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2/UserOnly.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 381842,
+            "firstname": "Michael",
+            "lastname": "de Raadt",
+            "url": "https://moodle.org/user/profile.php?id=381842"
+        }
+    ],
+    "descriptors": []
+}

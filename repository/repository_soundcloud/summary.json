@@ -1,0 +1,53 @@
+{
+    "id": 31,
+    "index": 1986,
+    "name": "Soundcloud",
+    "frankenstyle": "repository_soundcloud",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_soundcloud",
+    "shortdescription": "Link to SoundCloud streams",
+    "timelastreleased": {
+        "absdate": "Tuesday, 17 December 2013, 10:59 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-12-17T10:59:55+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "2",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/31/soundcloud.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/31/soundcloud.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/31/Soundcloud-repository.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 19649,
+            "firstname": "Troy",
+            "lastname": "Williams",
+            "url": "https://moodle.org/user/profile.php?id=19649"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Flash"
+        }
+    ]
+}

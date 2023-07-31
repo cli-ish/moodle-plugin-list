@@ -1,0 +1,51 @@
+{
+    "id": 383,
+    "index": 1379,
+    "name": "STACK 2.0 format",
+    "frankenstyle": "qformat_stack",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_stack",
+    "shortdescription": "This format imports questions saved from STACK 2 servers.",
+    "timelastreleased": {
+        "absdate": "Friday, 26 September 2014, 10:10 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-09-26T22:10:28+08:00"
+    },
+    "aggsites": "98",
+    "aggdownloads": "15",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 20620,
+            "firstname": "Christopher",
+            "lastname": "Sangwin",
+            "url": "https://moodle.org/user/profile.php?id=20620"
+        },
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

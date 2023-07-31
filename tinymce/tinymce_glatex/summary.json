@@ -1,0 +1,49 @@
+{
+    "id": 1609,
+    "index": 1007,
+    "name": "TinyMCE LaTeX Plugin",
+    "frankenstyle": "tinymce_glatex",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_glatex",
+    "shortdescription": "Moodle plugin to write formulae in TinyMCE through Google APIs",
+    "timelastreleased": {
+        "absdate": "Monday, 18 June 2018, 2:54 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-18T02:54:32+08:00"
+    },
+    "aggsites": "372",
+    "aggdownloads": "54",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1609/latex.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1609/latex.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1609/Screenshot%20%284%29.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1609/Screenshot2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1613124,
+            "firstname": "Yevhen",
+            "lastname": "Matasar",
+            "url": "https://moodle.org/user/profile.php?id=1613124"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

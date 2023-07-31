@@ -1,0 +1,59 @@
+{
+    "id": 2401,
+    "index": 1904,
+    "name": "Enrol key",
+    "frankenstyle": "block_enrolkey",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_enrolkey",
+    "shortdescription": "An easy way to enrol using an enrolkey from anywhere within moodle.",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 December 2019, 6:51 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-12-19T06:51:39+08:00"
+    },
+    "aggsites": "43",
+    "aggdownloads": "3",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2401/Screenshot%20from%202019-12-19%2008-55-09.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2401/Screenshot%20from%202019-12-19%2008-56-13.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2401/Screenshot%20from%202019-12-19%2008-56-49.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2401/Screenshot%20from%202019-12-19%2014-18-12.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2401/Screenshot%20from%202019-12-19%2014-21-36.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        }
+    ],
+    "descriptors": []
+}

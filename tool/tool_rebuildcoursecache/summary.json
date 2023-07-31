@@ -1,0 +1,56 @@
+{
+    "id": 660,
+    "index": 1258,
+    "name": "Rebuild Course Cache",
+    "frankenstyle": "tool_rebuildcoursecache",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_rebuildcoursecache",
+    "shortdescription": "Moodle admin tool to rebuild the course cache for all courses.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 19 March 2013, 7:13 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-19T07:13:20+08:00"
+    },
+    "aggsites": "40",
+    "aggdownloads": "22",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/660/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/660/screenshot2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/660/screenshot3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1461149,
+            "firstname": "Alex",
+            "lastname": "Rowe",
+            "url": "https://moodle.org/user/profile.php?id=1461149"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

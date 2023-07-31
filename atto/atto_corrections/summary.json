@@ -1,0 +1,49 @@
+{
+    "id": 1146,
+    "index": 924,
+    "name": "Corrections",
+    "frankenstyle": "atto_corrections",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_corrections",
+    "shortdescription": "Allows inline corrections to be set inside any text with the editor.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 November 2021, 10:53 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-30T22:53:08+08:00"
+    },
+    "aggsites": "957",
+    "aggdownloads": "81",
+    "aggfavs": "44",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1146/atto_corrections.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

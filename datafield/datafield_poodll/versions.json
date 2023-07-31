@@ -1,0 +1,77 @@
+[
+    {
+        "id": "28128",
+        "name": "3.1.2-build-2022120200",
+        "url": "https://moodle.org/plugins/download.php/28128/datafield_poodll_moodle25_2019100909.zip"
+    },
+    {
+        "id": "18412",
+        "name": "3.1.1-build-2018113000",
+        "url": "https://moodle.org/plugins/download.php/18412/datafield_poodll_moodle35_2010080610.zip"
+    },
+    {
+        "id": "10062",
+        "name": "1.2.6-build-2015121101",
+        "url": "https://moodle.org/plugins/download.php/10062/datafield_poodll_moodle32_2011070104.zip"
+    },
+    {
+        "id": "7628",
+        "name": "1.2.5-build-2014070100",
+        "url": "https://moodle.org/plugins/download.php/7628/datafield_poodll_moodle32_2017120116.zip"
+    },
+    {
+        "id": "16725",
+        "name": "3.1.0-build-2018041000",
+        "url": "https://moodle.org/plugins/download.php/16725/datafield_poodll_moodle29_2018050413.zip"
+    },
+    {
+        "id": "14721",
+        "name": "3.0.3-build-2017082600",
+        "url": "https://moodle.org/plugins/download.php/14721/datafield_poodll_moodle25_2019110406.zip"
+    },
+    {
+        "id": "12709",
+        "name": "3.0.2-build-2016112101",
+        "url": "https://moodle.org/plugins/download.php/12709/datafield_poodll_moodle31_2013051014.zip"
+    },
+    {
+        "id": "12032",
+        "name": "3.0.0-build-2016081401",
+        "url": "https://moodle.org/plugins/download.php/12032/datafield_poodll_moodle30_2021060214.zip"
+    },
+    {
+        "id": "6322",
+        "name": "1.2.4-build-2014053000",
+        "url": "https://moodle.org/plugins/download.php/6322/datafield_poodll_moodle29_2010110216.zip"
+    },
+    {
+        "id": "5937",
+        "name": "1.2.3-build-2014050100",
+        "url": "https://moodle.org/plugins/download.php/5937/datafield_poodll_moodle33_2016091211.zip"
+    },
+    {
+        "id": "5600",
+        "name": "1.2.2-build-2013031300",
+        "url": "https://moodle.org/plugins/download.php/5600/datafield_poodll_moodle25_2015020909.zip"
+    },
+    {
+        "id": "5088",
+        "name": "1.2.1-build-2013120500",
+        "url": "https://moodle.org/plugins/download.php/5088/datafield_poodll_moodle36_2021100407.zip"
+    },
+    {
+        "id": "3095",
+        "name": "1.2-build-2013050900",
+        "url": "https://moodle.org/plugins/download.php/3095/datafield_poodll_moodle37_2010060116.zip"
+    },
+    {
+        "id": "1911",
+        "name": "1.1-build-2012120400",
+        "url": "https://moodle.org/plugins/download.php/1911/datafield_poodll_moodle40_2016051219.zip"
+    },
+    {
+        "id": "1569",
+        "name": "1.0-build-2012102500",
+        "url": "https://moodle.org/plugins/download.php/1569/datafield_poodll_moodle40_2014101200.zip"
+    }
+]

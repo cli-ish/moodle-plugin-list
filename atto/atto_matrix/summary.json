@@ -1,0 +1,49 @@
+{
+    "id": 1501,
+    "index": 654,
+    "name": "Matrix editor",
+    "frankenstyle": "atto_matrix",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_matrix",
+    "shortdescription": "Moodle Atto Editor plugin for TeX/MathJax Matrices and Arrays.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 September 2015, 2:57 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-09-30T02:57:06+08:00"
+    },
+    "aggsites": "175",
+    "aggdownloads": "165",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1501/icon90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1501/icon90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1501/MatrixScreenshot4.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 6805,
+            "firstname": "Geoffrey",
+            "lastname": "Rowland",
+            "url": "https://moodle.org/user/profile.php?id=6805"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

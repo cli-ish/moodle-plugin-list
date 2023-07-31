@@ -1,0 +1,45 @@
+{
+    "id": 248,
+    "index": 1843,
+    "name": "Solstice",
+    "frankenstyle": "theme_solstice",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_solstice",
+    "shortdescription": "An update to 2.1+ to the classic Moodle 1.X theme Solstice. ",
+    "timelastreleased": {
+        "absdate": "Friday, 17 February 2012, 2:26 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-02-17T02:26:33+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/248/logo1.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/248/logo1.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/248/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

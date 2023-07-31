@@ -1,0 +1,56 @@
+{
+    "id": 2569,
+    "index": 75,
+    "name": "Google Meet\u2122 for Moodle",
+    "frankenstyle": "mod_googlemeet",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_googlemeet",
+    "shortdescription": "The Google Meet\u2122 for Moodle plugin allows the teacher, without having to leave Moodle, to create a Google Meet room and make available to the students the recordings of the room saved in Google Drive.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 2 May 2023, 1:08 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-02T01:08:04+08:00"
+    },
+    "aggsites": "3571",
+    "aggdownloads": "1k",
+    "aggfavs": "69",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2569/googlemeet90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2569/googlemeet90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2569/screen2.3.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2569/screen2.1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2569/screen2.2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2569/screen2.4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2569/screen2.5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2569/screen2.6.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3750999,
+            "firstname": "Rone",
+            "lastname": "Santos",
+            "url": "https://moodle.org/user/profile.php?id=3750999"
+        }
+    ],
+    "descriptors": []
+}

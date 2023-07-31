@@ -1,0 +1,40 @@
+{
+    "id": 2356,
+    "index": 1566,
+    "name": "Clipboard",
+    "frankenstyle": "block_clipboard",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_clipboard",
+    "shortdescription": "The Clipboard block enables you to duplicate activities and resources across your courses via the block.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 17 September 2019, 2:24 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-09-17T02:24:06+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "9",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2356/block_clipboard.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2702361,
+            "firstname": "Tomonori",
+            "lastname": "Maruyama",
+            "url": "https://moodle.org/user/profile.php?id=2702361"
+        }
+    ],
+    "descriptors": []
+}

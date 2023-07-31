@@ -1,0 +1,40 @@
+{
+    "id": 386,
+    "index": 1083,
+    "name": "Folder View format",
+    "frankenstyle": "format_folderview",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_folderview",
+    "shortdescription": "Blackboard Open Source is proud to release Folder View, a course format that displays activities and resources within a folder that is expandable or collapsible. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 September 2018, 11:42 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-09-20T23:42:01+08:00"
+    },
+    "aggsites": "36",
+    "aggdownloads": "40",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/386/local_mr_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/386/local_mr_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/386/Screen%20Shot%202018-09-20%20at%2010.46.42%20AM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": []
+}

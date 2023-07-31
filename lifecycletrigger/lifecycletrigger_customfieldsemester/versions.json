@@ -1,0 +1,27 @@
+[
+    {
+        "id": "28715",
+        "name": "v4.1-r1",
+        "url": "https://moodle.org/plugins/download.php/28715/lifecycletrigger_customfieldsemester_moodle32_2022120306.zip"
+    },
+    {
+        "id": "28103",
+        "name": "v4.0-r1",
+        "url": "https://moodle.org/plugins/download.php/28103/lifecycletrigger_customfieldsemester_moodle27_2012121206.zip"
+    },
+    {
+        "id": "28104",
+        "name": "v3.11-r1",
+        "url": "https://moodle.org/plugins/download.php/28104/lifecycletrigger_customfieldsemester_moodle37_2012121004.zip"
+    },
+    {
+        "id": "28106",
+        "name": "v3.10-r1",
+        "url": "https://moodle.org/plugins/download.php/28106/lifecycletrigger_customfieldsemester_moodle27_2020020320.zip"
+    },
+    {
+        "id": "28105",
+        "name": "v3.9-r3",
+        "url": "https://moodle.org/plugins/download.php/28105/lifecycletrigger_customfieldsemester_moodle35_2016040507.zip"
+    }
+]

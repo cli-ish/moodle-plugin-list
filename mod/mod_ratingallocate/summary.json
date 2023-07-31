@@ -1,0 +1,59 @@
+{
+    "id": 1231,
+    "index": 256,
+    "name": "Fair Allocation",
+    "frankenstyle": "mod_ratingallocate",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_ratingallocate",
+    "shortdescription": "This Module lets you add an activity to courses, in which users can rate choices. You may then distribute the users fairly to the choices by maximizing overall 'happiness' in terms of ratings.\r\nThis may be an alternative to the choice activity or first-come-first-served.\r\n",
+    "timelastreleased": {
+        "absdate": "Wednesday, 17 May 2023, 5:00 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-17T17:00:52+08:00"
+    },
+    "aggsites": "521",
+    "aggdownloads": "503",
+    "aggfavs": "46",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1231/screenshot_students_view.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1231/screenshot_teachers_view.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 1859594,
+            "firstname": "Tobias",
+            "lastname": "Reischmann",
+            "url": "https://moodle.org/user/profile.php?id=1859594"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        }
+    ]
+}

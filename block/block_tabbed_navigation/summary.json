@@ -1,0 +1,40 @@
+{
+    "id": 1385,
+    "index": 1846,
+    "name": "SMB Streamline: Tabbed Navigation",
+    "frankenstyle": "block_tabbed_navigation",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_tabbed_navigation",
+    "shortdescription": "This is a simple block with no configuration. Simply add it to a Topics or Weeks course set to show all sections on the same page, and it will add a tabbed navigation at the top of the course. This only works on Bootstrap themes.",
+    "timelastreleased": {
+        "absdate": "Friday, 27 March 2015, 10:24 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-03-27T10:24:34+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "4",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1385/small-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1385/small-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1385/tabbed_navigation_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 240338,
+            "firstname": "Nicolas",
+            "lastname": "Connault",
+            "url": "https://moodle.org/user/profile.php?id=240338"
+        }
+    ],
+    "descriptors": []
+}

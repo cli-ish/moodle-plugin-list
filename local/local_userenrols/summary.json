@@ -1,0 +1,45 @@
+{
+    "id": 662,
+    "index": 499,
+    "name": "CSV Enrolls & Groups plugin",
+    "frankenstyle": "local_userenrols",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_userenrols",
+    "shortdescription": "Use this local plugin to import user enrollments and group assignments from a delimited text file into the course. New user accounts will not be created, so each of the users listed in the input file must already have an account set up in the site.",
+    "timelastreleased": {
+        "absdate": "Monday, 3 July 2023, 12:54 AM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-03T00:54:35+08:00"
+    },
+    "aggsites": "789",
+    "aggdownloads": "234",
+    "aggfavs": "37",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/662/csvega.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 268334,
+            "firstname": "Fred",
+            "lastname": "Woolard",
+            "url": "https://moodle.org/user/profile.php?id=268334"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

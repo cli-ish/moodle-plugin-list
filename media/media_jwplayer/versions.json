@@ -1,0 +1,37 @@
+[
+    {
+        "id": "25954",
+        "name": "8-0.2-for-moodle-3.9-jw8-2022020500",
+        "url": "https://moodle.org/plugins/download.php/25954/media_jwplayer_moodle37_2011051002.zip"
+    },
+    {
+        "id": "20672",
+        "name": "7-0.5-for-moodle-3.5-jw7-cdn-7.12.13",
+        "url": "https://moodle.org/plugins/download.php/20672/media_jwplayer_moodle33_2016070809.zip"
+    },
+    {
+        "id": "14402",
+        "name": "7-0.1-for-moodle-3.2-jw7-cdn-7.12.1",
+        "url": "https://moodle.org/plugins/download.php/14402/media_jwplayer_moodle32_2017110917.zip"
+    },
+    {
+        "id": "23397",
+        "name": "8-0.1-for-moodle-3.9-jw8",
+        "url": "https://moodle.org/plugins/download.php/23397/media_jwplayer_moodle36_2017081105.zip"
+    },
+    {
+        "id": "20088",
+        "name": "7-0.4-for-moodle-3.5-jw7-cdn-7.12.13",
+        "url": "https://moodle.org/plugins/download.php/20088/media_jwplayer_moodle40_2017061210.zip"
+    },
+    {
+        "id": "17708",
+        "name": "7-0.3-for-moodle-3.5-jw7-cdn-7.12.13",
+        "url": "https://moodle.org/plugins/download.php/17708/media_jwplayer_moodle38_2023061003.zip"
+    },
+    {
+        "id": "17245",
+        "name": "7-0.2-for-moodle-3.5-jw7-cdn-7.12.13",
+        "url": "https://moodle.org/plugins/download.php/17245/media_jwplayer_moodle25_2018070219.zip"
+    }
+]

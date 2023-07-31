@@ -1,0 +1,40 @@
+{
+    "id": 2346,
+    "index": 874,
+    "name": "Category Duplicate",
+    "frankenstyle": "local_catdup",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_catdup",
+    "shortdescription": "Local Plugin for duplicating a category and all it sub categories and courses to a new empty category. Usefull for new year creation.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 17 August 2021, 9:16 PM",
+        "reldate": "23 months",
+        "iso8601date": "2021-08-17T21:16:39+08:00"
+    },
+    "aggsites": "330",
+    "aggdownloads": "105",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2346/clone-159040_640.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2346/clone-159040_640.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2346/catdup.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 528592,
+            "firstname": "Yedidia",
+            "lastname": "Klein",
+            "url": "https://moodle.org/user/profile.php?id=528592"
+        }
+    ],
+    "descriptors": []
+}

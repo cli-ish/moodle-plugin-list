@@ -1,0 +1,74 @@
+{
+    "id": 2418,
+    "index": 185,
+    "name": "Dash",
+    "frankenstyle": "block_dash",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_dash",
+    "shortdescription": "The interface builder for Moodle",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 March 2023, 12:21 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-28T00:21:44+08:00"
+    },
+    "aggsites": "427",
+    "aggdownloads": "673",
+    "aggfavs": "47",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2418/bdlogo2022.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2418/bdlogo2022.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2418/DASH-by-bdecent.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2418/Dash%201.3%20by%20bdecent%20%E2%80%94%20preferences%20conditions.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2418/Dash%201.3%20by%20bdecent%20%E2%80%94%20preferences%20fields.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2418/Dash%201.3%20by%20bdecent%20%E2%80%94%20preferences%20filters.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2418/Dash%201.3%20by%20bdecent%20%E2%80%94%20preferences%20general.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2418/Dash%20Pro%201.3%20by%20bdecent%20%E2%80%94%20block%20configuration.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2418/Dash%20Pro%201.3%20by%20bdecent%20%E2%80%94%20build%20dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2418/Dash%20Pro%201.3%20by%20bdecent%20%E2%80%94%20create%20dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2418/Dash%20Pro%201.3%20by%20bdecent%20%E2%80%94%20global%20configuration.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2418/Dash%20Pro%201.3%20by%20bdecent%20%E2%80%94%20manage%20dashboards.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1553381,
+            "firstname": "Stefan",
+            "lastname": "Scholz",
+            "url": "https://moodle.org/user/profile.php?id=1553381"
+        },
+        {
+            "id": 5033676,
+            "firstname": "bdecent",
+            "lastname": "gmbh",
+            "url": "https://moodle.org/user/profile.php?id=5033676"
+        }
+    ],
+    "descriptors": []
+}

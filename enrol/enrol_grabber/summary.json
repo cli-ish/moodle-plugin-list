@@ -1,0 +1,56 @@
+{
+    "id": 1721,
+    "index": 1923,
+    "name": "Enrolments grabber",
+    "frankenstyle": "enrol_grabber",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_grabber",
+    "shortdescription": "An enrolment plugin that grabs enrolments from another method",
+    "timelastreleased": {
+        "absdate": "Thursday, 10 November 2016, 10:50 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-11-10T22:50:11+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "3",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1721/grabber_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1721/grabber_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1721/Grabber_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1721/Grabber_4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1721/Grabber_5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1721/Grabber_manual_enrolments.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 922669,
+            "firstname": "C\u00e9line",
+            "lastname": "Perves",
+            "url": "https://moodle.org/user/profile.php?id=922669"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": 1461,
+    "index": 208,
+    "name": "Logstore xAPI",
+    "frankenstyle": "logstore_xapi",
+    "plugintype": {
+        "type": "logstore",
+        "name": "Log store manager / Log store"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/logstore_xapi",
+    "shortdescription": "Logstore_xapi is a logstore plugin that emits xAPI statements to a Learning Record Store (LRS). Please post all questions, comments, and issues to Github (https://github.com/xAPI-vle/moodle-logstore_xapi).",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 October 2022, 3:14 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-10-20T03:14:17+08:00"
+    },
+    "aggsites": "806",
+    "aggdownloads": "601",
+    "aggfavs": "49",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1461/logstore_xapi_lrs.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 573814,
+            "firstname": "David",
+            "lastname": "Pesce",
+            "url": "https://moodle.org/user/profile.php?id=573814"
+        }
+    ],
+    "descriptors": []
+}

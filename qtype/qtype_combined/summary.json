@@ -1,0 +1,57 @@
+{
+    "id": 771,
+    "index": 207,
+    "name": "Combined",
+    "frankenstyle": "qtype_combined",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_combined",
+    "shortdescription": "A Moodle question type which allows questions to be built up from parts that are other simpler question types (requires you to have these question types installed)",
+    "timelastreleased": {
+        "absdate": "Friday, 23 December 2022, 1:02 AM",
+        "reldate": "7 months",
+        "iso8601date": "2022-12-23T01:02:26+08:00"
+    },
+    "aggsites": "1203",
+    "aggdownloads": "605",
+    "aggfavs": "57",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/771/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/771/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/771/combinedqtype.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 115651,
+            "firstname": "Phil",
+            "lastname": "Butcher",
+            "url": "https://moodle.org/user/profile.php?id=115651"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

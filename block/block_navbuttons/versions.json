@@ -1,0 +1,117 @@
+[
+    {
+        "id": "28964",
+        "name": "3.4.1.0",
+        "url": "https://moodle.org/plugins/download.php/28964/block_navbuttons_moodle28_2018100510.zip"
+    },
+    {
+        "id": "15310",
+        "name": "2.2-build-2017100900",
+        "url": "https://moodle.org/plugins/download.php/15310/block_navbuttons_moodle35_2012091002.zip"
+    },
+    {
+        "id": "13",
+        "name": "2011021500",
+        "url": "https://moodle.org/plugins/download.php/13/block_navbuttons_moodle28_2018020502.zip"
+    },
+    {
+        "id": "14",
+        "name": "2011012900",
+        "url": "https://moodle.org/plugins/download.php/14/block_navbuttons_moodle33_2010100311.zip"
+    },
+    {
+        "id": "27961",
+        "name": "3.4-build-2022111900",
+        "url": "https://moodle.org/plugins/download.php/27961/block_navbuttons_moodle40_2012030902.zip"
+    },
+    {
+        "id": "26743",
+        "name": "3.4-build-2022052800",
+        "url": "https://moodle.org/plugins/download.php/26743/block_navbuttons_moodle31_2012120801.zip"
+    },
+    {
+        "id": "26185",
+        "name": "3.4-build-2022012200",
+        "url": "https://moodle.org/plugins/download.php/26185/block_navbuttons_moodle27_2010111114.zip"
+    },
+    {
+        "id": "24173",
+        "name": "3.4-build-2021040900",
+        "url": "https://moodle.org/plugins/download.php/24173/block_navbuttons_moodle35_2023060707.zip"
+    },
+    {
+        "id": "22790",
+        "name": "3.4-build-2020110700",
+        "url": "https://moodle.org/plugins/download.php/22790/block_navbuttons_moodle36_2018090617.zip"
+    },
+    {
+        "id": "20615",
+        "name": "2019101800",
+        "url": "https://moodle.org/plugins/download.php/20615/block_navbuttons_moodle38_2019100400.zip"
+    },
+    {
+        "id": "16750",
+        "name": "3.4-build-2018042100",
+        "url": "https://moodle.org/plugins/download.php/16750/block_navbuttons_moodle31_2016110902.zip"
+    },
+    {
+        "id": "14032",
+        "name": "2.2-build-2017051700",
+        "url": "https://moodle.org/plugins/download.php/14032/block_navbuttons_moodle28_2010040603.zip"
+    },
+    {
+        "id": "14001",
+        "name": "2017051200",
+        "url": "https://moodle.org/plugins/download.php/14001/block_navbuttons_moodle25_2023120720.zip"
+    },
+    {
+        "id": "13930",
+        "name": "2.2-build-2017051200",
+        "url": "https://moodle.org/plugins/download.php/13930/block_navbuttons_moodle35_2017041111.zip"
+    },
+    {
+        "id": "11330",
+        "name": "2.2-build-2016052000",
+        "url": "https://moodle.org/plugins/download.php/11330/block_navbuttons_moodle32_2020010318.zip"
+    },
+    {
+        "id": "6462",
+        "name": "2.2-build-2014070601",
+        "url": "https://moodle.org/plugins/download.php/6462/block_navbuttons_moodle36_2016011206.zip"
+    },
+    {
+        "id": "5347",
+        "name": "2.2-build-2013111900",
+        "url": "https://moodle.org/plugins/download.php/5347/block_navbuttons_moodle27_2018101214.zip"
+    },
+    {
+        "id": "3074",
+        "name": "2.2-build-2013052200",
+        "url": "https://moodle.org/plugins/download.php/3074/block_navbuttons_moodle29_2017040903.zip"
+    },
+    {
+        "id": "2376",
+        "name": "2.2-build-2013031500",
+        "url": "https://moodle.org/plugins/download.php/2376/block_navbuttons_moodle26_2015090819.zip"
+    },
+    {
+        "id": "1937",
+        "name": "2.2-build-2012123000",
+        "url": "https://moodle.org/plugins/download.php/1937/block_navbuttons_moodle36_2023031119.zip"
+    },
+    {
+        "id": "1811",
+        "name": "2.2-build-2012120700",
+        "url": "https://moodle.org/plugins/download.php/1811/block_navbuttons_moodle30_2017110917.zip"
+    },
+    {
+        "id": "992",
+        "name": "2.2-build-2012070200",
+        "url": "https://moodle.org/plugins/download.php/992/block_navbuttons_moodle33_2023110604.zip"
+    },
+    {
+        "id": "751",
+        "name": "2.2-build-2012031600",
+        "url": "https://moodle.org/plugins/download.php/751/block_navbuttons_moodle25_2021071215.zip"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "29349",
+        "name": "4-possible-from-moodle-3.11-transitional",
+        "url": "https://moodle.org/plugins/download.php/29349/qtype_kprime_moodle38_2019020502.zip"
+    },
+    {
+        "id": "25382",
+        "name": "2.3-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/25382/qtype_kprime_moodle28_2022100303.zip"
+    },
+    {
+        "id": "26723",
+        "name": "for-moodle-4.0-and-moodle-3.11-transitional",
+        "url": "https://moodle.org/plugins/download.php/26723/qtype_kprime_moodle32_2013060105.zip"
+    },
+    {
+        "id": "19249",
+        "name": "2.2-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/19249/qtype_kprime_moodle27_2012090411.zip"
+    },
+    {
+        "id": "19059",
+        "name": "1.7-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/19059/qtype_kprime_moodle39_2020070218.zip"
+    },
+    {
+        "id": "12581",
+        "name": "1.6-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/12581/qtype_kprime_moodle26_2018120413.zip"
+    },
+    {
+        "id": "11679",
+        "name": "1.5-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/11679/qtype_kprime_moodle35_2016020920.zip"
+    },
+    {
+        "id": "10350",
+        "name": "1.3-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/10350/qtype_kprime_moodle31_2011070408.zip"
+    }
+]

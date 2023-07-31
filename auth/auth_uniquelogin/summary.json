@@ -1,0 +1,45 @@
+{
+    "id": 184,
+    "index": 456,
+    "name": "Unique Login",
+    "frankenstyle": "auth_uniquelogin",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_uniquelogin",
+    "shortdescription": "This authentication plug-in prevents that each one Moodle user has more than one active session simultaneously.",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 September 2022, 9:14 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-29T21:14:42+08:00"
+    },
+    "aggsites": "760",
+    "aggdownloads": "259",
+    "aggfavs": "38",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/184/uniquelogin.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 56090,
+            "firstname": "Ant\u00f3nio",
+            "lastname": "Vilela",
+            "url": "https://moodle.org/user/profile.php?id=56090"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": 494,
+    "index": 1246,
+    "name": "User role assignment from LDAP",
+    "frankenstyle": "enrol_ldapuserrel",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_ldapuserrel",
+    "shortdescription": "This plugin allows you to configure automatic synchronisation of relationships between users from a LDAP server. It is mainly used to assign Parent/Mentor r\u00f4le.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 February 2014, 4:02 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-02-25T04:02:26+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "23",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/494/ldap-2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/494/ldap-2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/494/ldapUserRoleAssignmentSetting1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/494/ldapUserRoleAssignmentSetting2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1334474,
+            "firstname": "Maxime",
+            "lastname": "Pelletier",
+            "url": "https://moodle.org/user/profile.php?id=1334474"
+        },
+        {
+            "id": 1434260,
+            "firstname": "Alistair",
+            "lastname": "Spark",
+            "url": "https://moodle.org/user/profile.php?id=1434260"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

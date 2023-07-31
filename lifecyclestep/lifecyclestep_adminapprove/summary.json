@@ -1,0 +1,46 @@
+{
+    "id": 3150,
+    "index": 1124,
+    "name": "Admin Approve Step",
+    "frankenstyle": "lifecyclestep_adminapprove",
+    "plugintype": {
+        "type": "lifecyclestep",
+        "name": "Course life cycle step"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/lifecyclestep_adminapprove",
+    "shortdescription": "A step for Course Life Cycle, in which admins can manually decide for every course, whether the course should proceed or roll back.\r\n\r\nThis is meant as a safeguard, so that admins can verify that their workflows are working correctly.",
+    "timelastreleased": {
+        "absdate": "Friday, 9 June 2023, 10:30 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-09T22:30:08+08:00"
+    },
+    "aggsites": "48",
+    "aggdownloads": "35",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3150/lifecyclestep_adminapprove.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 3540996,
+            "firstname": "Justus",
+            "lastname": "Dieckmann",
+            "url": "https://moodle.org/user/profile.php?id=3540996"
+        }
+    ],
+    "descriptors": []
+}

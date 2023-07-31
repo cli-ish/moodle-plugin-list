@@ -1,0 +1,40 @@
+{
+    "id": 1557,
+    "index": 1090,
+    "name": "REST protocol (with JSON/XML payload support)",
+    "frankenstyle": "webservice_restjson",
+    "plugintype": {
+        "type": "webservice",
+        "name": "Webservice protocol"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/webservice_restjson",
+    "shortdescription": "REST webservice protocol based on the standard core REST webservice, but with added support for JSON & XML payloads\r\nand supports using HTTP ACCEPTS headers for determining response format.\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 19 February 2016, 6:26 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-02-19T18:26:36+08:00"
+    },
+    "aggsites": "145",
+    "aggdownloads": "39",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 897648,
+            "firstname": "Owen",
+            "lastname": "Barritt",
+            "url": "https://moodle.org/user/profile.php?id=897648"
+        }
+    ],
+    "descriptors": []
+}

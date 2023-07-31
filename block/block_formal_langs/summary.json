@@ -1,0 +1,45 @@
+{
+    "id": 558,
+    "index": 785,
+    "name": "Formal languages block",
+    "frankenstyle": "block_formal_langs",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_formal_langs",
+    "shortdescription": "Formal languages block centralizes code for scanning and parsing of different languages. For now it is used by Preg and CorrectWriting question types, but other plugins can use it as well.",
+    "timelastreleased": {
+        "absdate": "Sunday, 3 May 2020, 10:21 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-05-03T22:21:21+08:00"
+    },
+    "aggsites": "169",
+    "aggdownloads": "126",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/558/formallangs.JPG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 104931,
+            "firstname": "Oleg",
+            "lastname": "Sychev",
+            "url": "https://moodle.org/user/profile.php?id=104931"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 4,
+            "value": "Languages"
+        }
+    ]
+}

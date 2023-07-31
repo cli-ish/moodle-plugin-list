@@ -1,0 +1,47 @@
+{
+    "id": 2942,
+    "index": 966,
+    "name": "Consent Form",
+    "frankenstyle": "mod_consentform",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_consentform",
+    "shortdescription": "This module allows trainers to hide/reveal course elements in dependence of a consentform agreement/refusal.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 July 2023, 5:37 PM",
+        "reldate": "4 days",
+        "iso8601date": "2023-07-27T17:37:49+08:00"
+    },
+    "aggsites": "165",
+    "aggdownloads": "64",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2942/mod_consentform_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2942/mod_consentform_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2942/CF_Demo2.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2942/CF_Demo3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2942/CF_Demo4.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": []
+}

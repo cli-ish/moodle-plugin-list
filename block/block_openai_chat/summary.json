@@ -1,0 +1,47 @@
+{
+    "id": 2941,
+    "index": 94,
+    "name": "OpenAI Chat Block",
+    "frankenstyle": "block_openai_chat",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_openai_chat",
+    "shortdescription": "This plugin provides a chat block powered by OpenAI's GPT-3 text completion API, with customizable AI personality.",
+    "timelastreleased": {
+        "absdate": "Friday, 17 March 2023, 12:25 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-17T00:25:29+08:00"
+    },
+    "aggsites": "771",
+    "aggdownloads": "1k",
+    "aggfavs": "46",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2941/162025197-52c34e24-66a8-46e7-ab95-b0f65268031b.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2941/ezgif-5-6ca8990357.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2941/Screenshot%202022-05-05%20131714.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4702601,
+            "firstname": "Bryce",
+            "lastname": "Yoder",
+            "url": "https://moodle.org/user/profile.php?id=4702601"
+        }
+    ],
+    "descriptors": []
+}

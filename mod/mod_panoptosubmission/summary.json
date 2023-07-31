@@ -1,0 +1,65 @@
+{
+    "id": 2889,
+    "index": 479,
+    "name": "Panopto Student Submission",
+    "frankenstyle": "mod_panoptosubmission",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_panoptosubmission",
+    "shortdescription": "This plugin adds a Panopto Student Submission activity to Moodle. This tool can be used to create activities that will allow students to submit Panopto Content to be graded by graders for the course.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 15 March 2023, 4:56 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-15T04:56:17+08:00"
+    },
+    "aggsites": "88",
+    "aggdownloads": "245",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2889/moodleActivityFinalizeSubmit.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2889/moodleActivityGradeBtn.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2889/moodleActivityGradeInputs.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2889/moodleActivityGradeScreen.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2889/moodleActivityStudentSubmissionFolder.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2889/moodleActivitySubmissionBtn.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2889/moodleCourseSelectActivityTool.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2889/moodleNewAssignmentBasicInfo.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2889/moodleNewAssignmentStudentView.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2151851,
+            "firstname": "joseph",
+            "lastname": "malmsten",
+            "url": "https://moodle.org/user/profile.php?id=2151851"
+        }
+    ],
+    "descriptors": []
+}

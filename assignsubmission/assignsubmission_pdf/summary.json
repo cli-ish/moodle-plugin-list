@@ -1,0 +1,49 @@
+{
+    "id": 581,
+    "index": 408,
+    "name": "PDF submission",
+    "frankenstyle": "assignsubmission_pdf",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_pdf",
+    "shortdescription": "This allows a teacher to annotate and return PDF files that have been submitted by students. Teachers can add and position comments and draw lines, ovals, stamps, rectangles and highlights onto the student's work, from within the browser.",
+    "timelastreleased": {
+        "absdate": "Friday, 15 April 2016, 6:32 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-15T18:32:45+08:00"
+    },
+    "aggsites": "655",
+    "aggdownloads": "301",
+    "aggfavs": "31",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/581/assignsubmission_pdf_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/581/assignsubmission_pdf_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/581/assignsubmission_pdf1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/581/assignsubmission_pdf2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

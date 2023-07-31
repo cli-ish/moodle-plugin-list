@@ -1,0 +1,55 @@
+{
+    "id": 1519,
+    "index": 1137,
+    "name": "Badge Enrolment",
+    "frankenstyle": "enrol_badgeenrol",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_badgeenrol",
+    "shortdescription": "With this enrolment plugin users can only enrol into a course when they have one or more required site badges.",
+    "timelastreleased": {
+        "absdate": "Sunday, 5 August 2018, 6:02 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-05T18:02:46+08:00"
+    },
+    "aggsites": "453",
+    "aggdownloads": "32",
+    "aggfavs": "28",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1519/badgeenrol_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1519/badgeenrol_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1519/badgeenrol_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1519/badgeenrol_4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1279450,
+            "firstname": "Matthias",
+            "lastname": "Berlin (Schwabe)",
+            "url": "https://moodle.org/user/profile.php?id=1279450"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

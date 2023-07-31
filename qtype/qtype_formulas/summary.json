@@ -1,0 +1,63 @@
+{
+    "id": 1267,
+    "index": 260,
+    "name": "Formulas question type",
+    "frankenstyle": "qtype_formulas",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_formulas",
+    "shortdescription": "This is a question type plugin for Moodle with random values and multiple answer fields.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 April 2023, 1:57 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-24T13:57:15+08:00"
+    },
+    "aggsites": "1752",
+    "aggdownloads": "500",
+    "aggfavs": "68",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1267/formulasquestion.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1267/formulasquestion.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1267/formulas%201.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1267/formulas%202.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1822259,
+            "firstname": "Dominique",
+            "lastname": "Bauer",
+            "url": "https://moodle.org/user/profile.php?id=1822259"
+        },
+        {
+            "id": 2300005,
+            "firstname": "Philipp",
+            "lastname": "Imhof",
+            "url": "https://moodle.org/user/profile.php?id=2300005"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

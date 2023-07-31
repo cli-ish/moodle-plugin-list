@@ -1,0 +1,53 @@
+{
+    "id": 1744,
+    "index": 1475,
+    "name": "Quick Course Search",
+    "frankenstyle": "block_quick_course",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quick_course",
+    "shortdescription": "A simple block which lets you search for courses in your Moodle system, with quick links to edit the course, check the participants list and check the meta relationships.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 February 2020, 6:31 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-02-27T06:31:23+08:00"
+    },
+    "aggsites": "72",
+    "aggdownloads": "12",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1744/Duck-Fusion_Cropped.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1744/Duck-Fusion_Cropped.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1744/block-with-results-expanded.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1744/block-with-results.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1744/block.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1744/relationships-child.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1744/relationships-parent.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1377971,
+            "firstname": "Conn",
+            "lastname": "Warwicker",
+            "url": "https://moodle.org/user/profile.php?id=1377971"
+        }
+    ],
+    "descriptors": []
+}

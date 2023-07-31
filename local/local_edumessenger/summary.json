@@ -1,0 +1,44 @@
+{
+    "id": 1951,
+    "index": 2113,
+    "name": "eduMessenger",
+    "frankenstyle": "local_edumessenger",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_edumessenger",
+    "shortdescription": "eduMessenger is an instant messenger that's main purpose is connecting students and teachers in educational environments! eduMessenger uses Moodle as a background-tool to provide the messaging functionality to anyone who hosts their own Moodle instance as a basement for their groups and data.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 10 October 2017, 3:08 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-10-10T03:08:04+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": null,
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1951/icon-114.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1951/icon-114.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1951/edm_mainmenu.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1951/edm_services.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        }
+    ],
+    "descriptors": []
+}

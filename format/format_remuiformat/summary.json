@@ -1,0 +1,62 @@
+{
+    "id": 2268,
+    "index": 0,
+    "name": "Edwiser Course Formats",
+    "frankenstyle": "format_remuiformat",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_remuiformat",
+    "shortdescription": "Let your students focus on what matters - learning, with the all-new and intuitive Edwiser Course Formats plugin! Choose from unique course formats like Card and List. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 May 2023, 2:16 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-31T14:16:44+08:00"
+    },
+    "aggsites": "6008",
+    "aggdownloads": "31k",
+    "aggfavs": "116",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2268/edwiser-logoalternate.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2268/edwiser-logoalternate.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2268/1%29%20Card%20layout%20full%20page.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2268/2%29%20course%20format%20card.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2268/3%29%20course%20format.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2268/4%29%20section%20page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2268/5%29%20Course-Understanding-Advanced-Digital-Marketing.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2268/6%29%20list%20layout%20full%20page%20expanded.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2268/7%29%20list%20layout.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2268/8%29%20list%20layout%20section%20page.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2568868,
+            "firstname": "Edwiser",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=2568868"
+        }
+    ],
+    "descriptors": []
+}

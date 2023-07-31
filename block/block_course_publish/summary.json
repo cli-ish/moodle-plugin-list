@@ -1,0 +1,44 @@
+{
+    "id": 1425,
+    "index": 771,
+    "name": "Course publish",
+    "frankenstyle": "block_course_publish",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_publish",
+    "shortdescription": "This plugin publishes a course link to a particular Facebook page. ",
+    "timelastreleased": {
+        "absdate": "Friday, 6 May 2022, 7:46 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-05-06T19:46:23+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "129",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1425/DualCube_LOGO.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1425/DualCube_LOGO.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1425/Configuration%20page%20of%20Course%20publish%20block.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1425/course%20publish%20block.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1832609,
+            "firstname": "DualCube",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1832609"
+        }
+    ],
+    "descriptors": []
+}

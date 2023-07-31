@@ -1,0 +1,117 @@
+[
+    {
+        "id": "29406",
+        "name": "4.1.0-build-2019121103",
+        "url": "https://moodle.org/plugins/download.php/29406/mod_flashcard_moodle26_2014120514.zip"
+    },
+    {
+        "id": "29405",
+        "name": "4.0.0-build-2019121102",
+        "url": "https://moodle.org/plugins/download.php/29405/mod_flashcard_moodle32_2022061219.zip"
+    },
+    {
+        "id": "29404",
+        "name": "3.9.0-build-2019121101",
+        "url": "https://moodle.org/plugins/download.php/29404/mod_flashcard_moodle27_2021070405.zip"
+    },
+    {
+        "id": "20787",
+        "name": "3.5.0-build-2019011000",
+        "url": "https://moodle.org/plugins/download.php/20787/mod_flashcard_moodle26_2013050110.zip"
+    },
+    {
+        "id": "20788",
+        "name": "3.7.0-build-2019011000",
+        "url": "https://moodle.org/plugins/download.php/20788/mod_flashcard_moodle35_2012070411.zip"
+    },
+    {
+        "id": "20786",
+        "name": "3.6.0-build-2019011000",
+        "url": "https://moodle.org/plugins/download.php/20786/mod_flashcard_moodle35_2016050516.zip"
+    },
+    {
+        "id": "16633",
+        "name": "3.4.0-build-2017022000",
+        "url": "https://moodle.org/plugins/download.php/16633/mod_flashcard_moodle29_2014060801.zip"
+    },
+    {
+        "id": "15871",
+        "name": "3.3.0-build-2017022000",
+        "url": "https://moodle.org/plugins/download.php/15871/mod_flashcard_moodle39_2021120315.zip"
+    },
+    {
+        "id": "14178",
+        "name": "3.2.0-build-2017022000",
+        "url": "https://moodle.org/plugins/download.php/14178/mod_flashcard_moodle35_2012100318.zip"
+    },
+    {
+        "id": "13368",
+        "name": "3.0.0-build-2017022000",
+        "url": "https://moodle.org/plugins/download.php/13368/mod_flashcard_moodle27_2013030105.zip"
+    },
+    {
+        "id": "13265",
+        "name": "3.1.0-build-2017022000",
+        "url": "https://moodle.org/plugins/download.php/13265/mod_flashcard_moodle26_2023080217.zip"
+    },
+    {
+        "id": "10945",
+        "name": "2.9.0-build-2014071100",
+        "url": "https://moodle.org/plugins/download.php/10945/mod_flashcard_moodle37_2020080704.zip"
+    },
+    {
+        "id": "9898",
+        "name": "2.8.0-build-2014071100",
+        "url": "https://moodle.org/plugins/download.php/9898/mod_flashcard_moodle38_2023121212.zip"
+    },
+    {
+        "id": "9897",
+        "name": "2.7.0-build-2014071100",
+        "url": "https://moodle.org/plugins/download.php/9897/mod_flashcard_moodle29_2011010818.zip"
+    },
+    {
+        "id": "6870",
+        "name": "2.6.0-build-2014051200",
+        "url": "https://moodle.org/plugins/download.php/6870/mod_flashcard_moodle39_2023040708.zip"
+    },
+    {
+        "id": "4891",
+        "name": "2.4.0-build-2012040100",
+        "url": "https://moodle.org/plugins/download.php/4891/mod_flashcard_moodle29_2020031214.zip"
+    },
+    {
+        "id": "1077",
+        "name": "3.1",
+        "url": "https://moodle.org/plugins/download.php/1077/mod_flashcard_moodle34_2010011001.zip"
+    },
+    {
+        "id": "690",
+        "name": "2.1",
+        "url": "https://moodle.org/plugins/download.php/690/mod_flashcard_moodle27_2012091120.zip"
+    },
+    {
+        "id": "16634",
+        "name": "3.5.0-build-2017022000",
+        "url": "https://moodle.org/plugins/download.php/16634/mod_flashcard_moodle35_2018030404.zip"
+    },
+    {
+        "id": "10946",
+        "name": "3.0.0-build-2014071100",
+        "url": "https://moodle.org/plugins/download.php/10946/mod_flashcard_moodle37_2023080612.zip"
+    },
+    {
+        "id": "5148",
+        "name": "2.6.0-build-2014010600",
+        "url": "https://moodle.org/plugins/download.php/5148/mod_flashcard_moodle33_2020090815.zip"
+    },
+    {
+        "id": "951",
+        "name": "3.0",
+        "url": "https://moodle.org/plugins/download.php/951/mod_flashcard_moodle33_2013070406.zip"
+    },
+    {
+        "id": "233",
+        "name": "2.0",
+        "url": "https://moodle.org/plugins/download.php/233/mod_flashcard_moodle39_2023120211.zip"
+    }
+]

@@ -1,0 +1,46 @@
+{
+    "id": 1968,
+    "index": 1746,
+    "name": "Submission marker",
+    "frankenstyle": "assignsubmission_submarker",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_submarker",
+    "shortdescription": "Submarker is an additional submission type to use in conjunction with other submissions such as file or text submissions to have student report their completed exercises.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 31 October 2017, 6:09 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-10-31T18:09:50+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "6",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1968/Usage%20cases.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2336243,
+            "firstname": "Jami",
+            "lastname": "Kousa",
+            "url": "https://moodle.org/user/profile.php?id=2336243"
+        },
+        {
+            "id": 2360933,
+            "firstname": "Tuomo",
+            "lastname": "Torppa",
+            "url": "https://moodle.org/user/profile.php?id=2360933"
+        }
+    ],
+    "descriptors": []
+}

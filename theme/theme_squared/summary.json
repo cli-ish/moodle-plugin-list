@@ -1,0 +1,64 @@
+{
+    "id": 1306,
+    "index": 294,
+    "name": "squared",
+    "frankenstyle": "theme_squared",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_squared",
+    "shortdescription": "The theme is generally based on squares. If you like squares, that is definately your first choice, if you do not like squares, \r\nyou might consider it as well, because it looks really good ;-).",
+    "timelastreleased": {
+        "absdate": "Monday, 10 July 2023, 7:55 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-10T19:55:52+08:00"
+    },
+    "aggsites": "882",
+    "aggdownloads": "442",
+    "aggfavs": "129",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1306/Bildschirmfoto%20vom%202015-01-03%20001343.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1306/Bildschirmfoto%20vom%202015-01-03%20001416.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1306/Bildschirmfoto%20vom%202015-01-03%20001526.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        },
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        },
+        {
+            "id": 4890909,
+            "firstname": "Wunderbyte",
+            "lastname": "GmbH",
+            "url": "https://moodle.org/user/profile.php?id=4890909"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

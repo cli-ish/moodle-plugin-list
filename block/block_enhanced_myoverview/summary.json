@@ -1,0 +1,52 @@
+{
+    "id": 3042,
+    "index": 481,
+    "name": "Enhanced Course overview",
+    "frankenstyle": "block_enhanced_myoverview",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_enhanced_myoverview",
+    "shortdescription": "This block will enhance my overview block and display courses in which a user is a teacher for example.\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 3 March 2023, 6:55 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-03T18:55:07+08:00"
+    },
+    "aggsites": "27",
+    "aggdownloads": "244",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3042/screenEnhancedMyOverview.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 5084745,
+            "firstname": "Martin",
+            "lastname": "Cornu-Mansuy",
+            "url": "https://moodle.org/user/profile.php?id=5084745"
+        },
+        {
+            "id": 2569955,
+            "firstname": "Laurent",
+            "lastname": "David",
+            "url": "https://moodle.org/user/profile.php?id=2569955"
+        },
+        {
+            "id": 4333720,
+            "firstname": "Camille",
+            "lastname": "Carlier",
+            "url": "https://moodle.org/user/profile.php?id=4333720"
+        }
+    ],
+    "descriptors": []
+}

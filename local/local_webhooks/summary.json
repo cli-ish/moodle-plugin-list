@@ -1,0 +1,47 @@
+{
+    "id": 1965,
+    "index": 135,
+    "name": "WebHooks",
+    "frankenstyle": "local_webhooks",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_webhooks",
+    "shortdescription": "Adding WebHook features to the Moodle system.",
+    "timelastreleased": {
+        "absdate": "Saturday, 16 May 2020, 5:55 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-05-16T05:55:48+08:00"
+    },
+    "aggsites": "526",
+    "aggdownloads": "871",
+    "aggfavs": "29",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1965/managerservice.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1965/editservice.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1965/restorebackup.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2272957,
+            "firstname": "Valentin",
+            "lastname": "Popov",
+            "url": "https://moodle.org/user/profile.php?id=2272957"
+        }
+    ],
+    "descriptors": []
+}

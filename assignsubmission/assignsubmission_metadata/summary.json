@@ -1,0 +1,49 @@
+{
+    "id": 825,
+    "index": 1637,
+    "name": "Metadata submissions",
+    "frankenstyle": "assignsubmission_metadata",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_metadata",
+    "shortdescription": "Adds extra metadata fields to be added as a assignment submission plugin\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 September 2013, 5:29 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-05T05:29:39+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "8",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/825/Metadata%20Assignment%20View.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/825/Metadata%20Assignment.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 520295,
+            "firstname": "Barry",
+            "lastname": "Oosthuizen",
+            "url": "https://moodle.org/user/profile.php?id=520295"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

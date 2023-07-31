@@ -1,0 +1,70 @@
+{
+    "id": 1312,
+    "index": 761,
+    "name": "My Feedback",
+    "frankenstyle": "report_myfeedback",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_myfeedback",
+    "shortdescription": "A Moodle Report that shows all student feedback on one page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 April 2023, 6:09 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-04T06:09:22+08:00"
+    },
+    "aggsites": "613",
+    "aggdownloads": "131",
+    "aggfavs": "84",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1312/1.My%20feedback%20v2.7%20overview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1312/2.%20My%20feedback%20v2.7%20comments.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1312/3.%20MyFeedbackProfileReportsv29incontext.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1312/4.%20MyStudents.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1312/5.%20Personal%20tutor%20dashboard.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1312/6.%20Module%20tutor%20dashboard.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1312/7.%20Departmental%20Admin%20dashboard.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 468785,
+            "firstname": "Jessica",
+            "lastname": "Gramp",
+            "url": "https://moodle.org/user/profile.php?id=468785"
+        },
+        {
+            "id": 1434260,
+            "firstname": "Alistair",
+            "lastname": "Spark",
+            "url": "https://moodle.org/user/profile.php?id=1434260"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

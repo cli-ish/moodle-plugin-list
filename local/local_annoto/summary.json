@@ -1,0 +1,65 @@
+{
+    "id": 2324,
+    "index": 467,
+    "name": "Annoto - Unleashing In-Video Collaboration, Assessment  and Insights",
+    "frankenstyle": "local_annoto",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_annoto",
+    "shortdescription": "Annoto is enabling your course participants to add time-based annotations as an overlay to any video content, turning passive video watching into an active and collaborative learning experience while providing you actionable insights on the students and the video content delivered. Annoto covers all your different use cases when using video content and used for student assignments, skills development, collaborative learning, guided watching, peer review, and many more.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 June 2023, 3:51 PM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-22T15:51:29+08:00"
+    },
+    "aggsites": "154",
+    "aggdownloads": "251",
+    "aggfavs": "26",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2324/annoto_logo-01.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2324/annoto_logo-01.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2324/000Annoto%20Moodle%202.jpeg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2324/00Layers.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2324/0Annoto%20Overlay.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2324/Analytics%20and%20Insights%20%20-%20dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2324/Capture.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2324/Screen%20Shot%202021-12-29%20at%204.32.39.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2324/Untitled.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2324/Video%20view.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2324/Widget.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2525577,
+            "firstname": "Annoto",
+            "lastname": "Annoto",
+            "url": "https://moodle.org/user/profile.php?id=2525577"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,50 @@
+{
+    "id": 3067,
+    "index": 992,
+    "name": "Payments report",
+    "frankenstyle": "report_payments",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_payments",
+    "shortdescription": "This report helps admins and managers to get a better view who payed for which course.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 April 2023, 10:07 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-24T22:07:56+08:00"
+    },
+    "aggsites": "34",
+    "aggdownloads": "57",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3067/overview2.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3067/overview3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3067/overview4-sort.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3067/overview5.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1207459,
+            "firstname": "Renaat",
+            "lastname": "Debleu",
+            "url": "https://moodle.org/user/profile.php?id=1207459"
+        }
+    ],
+    "descriptors": []
+}

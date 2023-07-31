@@ -1,0 +1,40 @@
+{
+    "id": 2273,
+    "index": 723,
+    "name": "UbiCast Nudgis block plugin",
+    "frankenstyle": "block_ubicast",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_ubicast",
+    "shortdescription": "A block plugin for Moodle to embed Nudgis channels in courses.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 September 2022, 6:09 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-20T18:09:55+08:00"
+    },
+    "aggsites": "101",
+    "aggdownloads": "141",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2273/ubicast-icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2273/ubicast-icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2273/block_ubicast_preview.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1546056,
+            "firstname": "St\u00e9phane",
+            "lastname": "Diemer",
+            "url": "https://moodle.org/user/profile.php?id=1546056"
+        }
+    ],
+    "descriptors": []
+}

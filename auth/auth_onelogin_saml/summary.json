@@ -1,0 +1,49 @@
+{
+    "id": 92,
+    "index": 1122,
+    "name": "OneLogin SAML SSO Authentication",
+    "frankenstyle": "auth_onelogin_saml",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_onelogin_saml",
+    "shortdescription": "Automatically creates Moodle accounts and authenticates user identities via SAML from the OneLogin.com service. \r\n\r\nhttp://support.onelogin.com/entries/20508233-configuring-saml-for-moodle2",
+    "timelastreleased": {
+        "absdate": "Tuesday, 10 August 2021, 5:32 PM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-10T17:32:58+08:00"
+    },
+    "aggsites": "90",
+    "aggdownloads": "35",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/92/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/92/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/92/Moodle%20Config%20Screen%20Options.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/92/moodle_Screenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4074131,
+            "firstname": "Sixto Pablo",
+            "lastname": "Martin Garcia",
+            "url": "https://moodle.org/user/profile.php?id=4074131"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

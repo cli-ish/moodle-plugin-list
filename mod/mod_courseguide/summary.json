@@ -1,0 +1,53 @@
+{
+    "id": 1870,
+    "index": 1782,
+    "name": "Course guide",
+    "frankenstyle": "mod_courseguide",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_courseguide",
+    "shortdescription": "This plugin allows a teacher to create a guide. However the teacher cannot create his own \"freestyle\" guide, when tutors add a Course guide activity in their course, they must pick a template.",
+    "timelastreleased": {
+        "absdate": "Friday, 3 August 2018, 2:43 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-03T14:43:13+08:00"
+    },
+    "aggsites": "26",
+    "aggdownloads": "5",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1870/Screen%20Shot%202017-06-11%20at%204.16.16%20pm.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1870/Screen%20Shot%202017-06-11%20at%204.16.38%20pm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1870/Screen%20Shot%202017-06-11%20at%204.16.53%20pm.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 542994,
+            "firstname": "J\u00e9r\u00f4me",
+            "lastname": "Mouneyrac",
+            "url": "https://moodle.org/user/profile.php?id=542994"
+        },
+        {
+            "id": 230467,
+            "firstname": "Jez",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=230467"
+        }
+    ],
+    "descriptors": []
+}

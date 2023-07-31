@@ -1,0 +1,45 @@
+{
+    "id": 319,
+    "index": 292,
+    "name": "Dates",
+    "frankenstyle": "report_editdates",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_editdates",
+    "shortdescription": "This 'report' is actually a tool to let you edit all the dates in a course on one page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 June 2022, 10:49 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-28T22:49:04+08:00"
+    },
+    "aggsites": "1405",
+    "aggdownloads": "443",
+    "aggfavs": "64",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/319/editdates.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

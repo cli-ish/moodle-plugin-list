@@ -1,0 +1,40 @@
+{
+    "id": 803,
+    "index": 1436,
+    "name": "Search Courses (Autocomplete)",
+    "frankenstyle": "block_searchcourses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_searchcourses",
+    "shortdescription": "Just enter the first letter of the course you want to search and the auto complete box gives you a list of matching courses with the current word highlighted. The block also has a 'My Courses' feature, when enabled, lets you search only the courses the current user is registered on . \r\n\r\nThis block is best used on the 'My Home' page which allows centre positioning of blocks thereby giving you a wider space to see the autocomplete results. \r\n\r\n \r\n\r\nCopyright : University of Bath",
+    "timelastreleased": {
+        "absdate": "Friday, 26 December 2014, 11:49 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-26T23:49:29+08:00"
+    },
+    "aggsites": "105",
+    "aggdownloads": "13",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/803/logo-uob-p280%5B1%5D.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/803/logo-uob-p280%5B1%5D.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/803/searchcourses_1.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1436697,
+            "firstname": "Hittesh",
+            "lastname": "Ahuja",
+            "url": "https://moodle.org/user/profile.php?id=1436697"
+        }
+    ],
+    "descriptors": []
+}

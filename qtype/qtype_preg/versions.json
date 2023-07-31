@@ -1,0 +1,62 @@
+[
+    {
+        "id": "21474",
+        "name": "preg-3.6",
+        "url": "https://moodle.org/plugins/download.php/21474/qtype_preg_moodle35_2014050406.zip"
+    },
+    {
+        "id": "21458",
+        "name": "preg-3.2",
+        "url": "https://moodle.org/plugins/download.php/21458/qtype_preg_moodle37_2010120318.zip"
+    },
+    {
+        "id": "15436",
+        "name": "preg-3.1",
+        "url": "https://moodle.org/plugins/download.php/15436/qtype_preg_moodle26_2022060803.zip"
+    },
+    {
+        "id": "12785",
+        "name": "preg-3.0",
+        "url": "https://moodle.org/plugins/download.php/12785/qtype_preg_moodle38_2013030518.zip"
+    },
+    {
+        "id": "8880",
+        "name": "preg-2.8",
+        "url": "https://moodle.org/plugins/download.php/8880/qtype_preg_moodle25_2016070520.zip"
+    },
+    {
+        "id": "6976",
+        "name": "preg-2.7-release",
+        "url": "https://moodle.org/plugins/download.php/6976/qtype_preg_moodle26_2020071111.zip"
+    },
+    {
+        "id": "6567",
+        "name": "preg-2.6-release",
+        "url": "https://moodle.org/plugins/download.php/6567/qtype_preg_moodle31_2017070302.zip"
+    },
+    {
+        "id": "4781",
+        "name": "preg-2.5-release",
+        "url": "https://moodle.org/plugins/download.php/4781/qtype_preg_moodle33_2019030717.zip"
+    },
+    {
+        "id": "2087",
+        "name": "preg-2.3.1",
+        "url": "https://moodle.org/plugins/download.php/2087/qtype_preg_moodle31_2022060902.zip"
+    },
+    {
+        "id": "4558",
+        "name": "preg-2.5-release-candidate",
+        "url": "https://moodle.org/plugins/download.php/4558/qtype_preg_moodle28_2011060620.zip"
+    },
+    {
+        "id": "3509",
+        "name": "preg-2.5",
+        "url": "https://moodle.org/plugins/download.php/3509/qtype_preg_moodle39_2011100511.zip"
+    },
+    {
+        "id": "1918",
+        "name": "preg-2.3",
+        "url": "https://moodle.org/plugins/download.php/1918/qtype_preg_moodle38_2014060618.zip"
+    }
+]

@@ -1,0 +1,56 @@
+{
+    "id": 1505,
+    "index": 482,
+    "name": "Students tracker",
+    "frankenstyle": "block_studentstracker",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_studentstracker",
+    "shortdescription": "This block aims to give teachers and staff a simple tool to view how many students didn't visit a course for a long time and doing so, tries to reduce student's dropping out.",
+    "timelastreleased": {
+        "absdate": "Friday, 24 June 2022, 9:58 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-24T21:58:37+08:00"
+    },
+    "aggsites": "558",
+    "aggdownloads": "243",
+    "aggfavs": "71",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1505/screenshot-main.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1505/students-tracker.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1505/studentstracker-example.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2007854,
+            "firstname": "Pierre",
+            "lastname": "Duverneix",
+            "url": "https://moodle.org/user/profile.php?id=2007854"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

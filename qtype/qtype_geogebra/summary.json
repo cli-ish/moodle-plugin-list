@@ -1,0 +1,71 @@
+{
+    "id": 1218,
+    "index": 226,
+    "name": "GeoGebra",
+    "frankenstyle": "qtype_geogebra",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_geogebra",
+    "shortdescription": "The GeoGebra question type plugin allows teachers to set up questions which can be solved and automatically checked using GeoGebra.\r\nThis question type also supports randomization of the applet and automatic and manual grading.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 April 2023, 8:13 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-04T20:13:16+08:00"
+    },
+    "aggsites": "1680",
+    "aggdownloads": "555",
+    "aggfavs": "60",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1218/geogebra.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1218/geogebra.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1218/Punkt%20im%20Koordinatensystem%20finden1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1218/Punkt%20im%20Koordinatensystem%20finden2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1218/Punkt%20im%20Koordinatensystem%20finden3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1218/Punkt%20im%20Koordinatensystem%20finden4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1218/Punkt%20im%20Koordinatensystem%20finden5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1218/Punkt%20im%20Koordinatensystem%20finden6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1218/Punkt%20im%20Koordinatensystem%20finden7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1218/Punkt%20im%20Koordinatensystem%20finden8.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4744274,
+            "firstname": "Mebis",
+            "lastname": "Lernplattform",
+            "url": "https://moodle.org/user/profile.php?id=4744274"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Geography"
+        }
+    ]
+}

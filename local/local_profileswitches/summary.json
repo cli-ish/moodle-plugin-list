@@ -1,0 +1,49 @@
+{
+    "id": 416,
+    "index": 1813,
+    "name": "Profile switches",
+    "frankenstyle": "local_profileswitches",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_profileswitches",
+    "shortdescription": "This local plugin adds to the user's profile section of the settings block on/off switches for html editor and course ajax.",
+    "timelastreleased": {
+        "absdate": "Saturday, 29 September 2012, 6:35 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-09-29T06:35:21+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "5",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/416/editor-off.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/416/editor-on.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 150168,
+            "firstname": "Itamar",
+            "lastname": "Tzadok",
+            "url": "https://moodle.org/user/profile.php?id=150168"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

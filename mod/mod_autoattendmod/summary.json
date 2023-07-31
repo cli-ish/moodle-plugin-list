@@ -1,0 +1,45 @@
+{
+    "id": 732,
+    "index": 441,
+    "name": "Auto Attendance Module",
+    "frankenstyle": "mod_autoattendmod",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_autoattendmod",
+    "shortdescription": "This is a additional module to auto attendance block.\r\n",
+    "timelastreleased": {
+        "absdate": "Saturday, 18 June 2022, 4:12 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-18T16:12:36+08:00"
+    },
+    "aggsites": "608",
+    "aggdownloads": "273",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/732/autoattendmod.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 191084,
+            "firstname": "Fumikazu",
+            "lastname": "Iseki",
+            "url": "https://moodle.org/user/profile.php?id=191084"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

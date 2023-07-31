@@ -1,0 +1,40 @@
+{
+    "id": 2693,
+    "index": 367,
+    "name": "Offlinequiz Cronjob",
+    "frankenstyle": "report_offlinequizcron",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_offlinequizcron",
+    "shortdescription": "The Offline Quiz Cron plugin adds an interface to the Offline Quiz activity (mod_offlinequiz) to inspect and change pending cronjobs for the Offline Quiz.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 12:23 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T00:23:33+08:00"
+    },
+    "aggsites": "97",
+    "aggdownloads": "348",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2693/offline_quiz_cron_large.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2693/offline_quiz_cron_large.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2693/Screenshot%20-%20offline%20quiz%20cron.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": []
+}

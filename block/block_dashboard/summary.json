@@ -1,0 +1,47 @@
+{
+    "id": 434,
+    "index": 1004,
+    "name": "Dashboard",
+    "frankenstyle": "block_dashboard",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_dashboard",
+    "shortdescription": "Graphic, one query dashboard element using MIT library JQplot and other libraries",
+    "timelastreleased": {
+        "absdate": "Sunday, 17 April 2016, 5:47 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-17T17:47:42+08:00"
+    },
+    "aggsites": "92",
+    "aggdownloads": "55",
+    "aggfavs": "33",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/434/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/434/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/434/dash_sample_3.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/434/dash_sample_5_tree_view_partial.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/434/tabular_output_fr.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": []
+}

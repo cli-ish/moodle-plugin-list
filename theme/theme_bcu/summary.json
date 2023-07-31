@@ -1,0 +1,61 @@
+{
+    "id": 1290,
+    "index": 516,
+    "name": "BCU",
+    "frankenstyle": "theme_bcu",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_bcu",
+    "shortdescription": "This is the theme from the moodle site of Birmingham City University. It's based on bootstrap and allows for extensive customisation and some unique features to help improve Moodle's usability.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 July 2015, 10:45 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-07-01T22:45:04+08:00"
+    },
+    "aggsites": "635",
+    "aggdownloads": "227",
+    "aggfavs": "224",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1290/front-page-cropped.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1290/front-page-full.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1290/full-screen.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1290/messages.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1837256,
+            "firstname": "Mike",
+            "lastname": "Grant",
+            "url": "https://moodle.org/user/profile.php?id=1837256"
+        },
+        {
+            "id": 230467,
+            "firstname": "Jez",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=230467"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

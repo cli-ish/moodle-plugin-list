@@ -1,0 +1,40 @@
+{
+    "id": 2821,
+    "index": 2078,
+    "name": "Web monetization",
+    "frankenstyle": "local_webmonetization",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_webmonetization",
+    "shortdescription": "This plugin allows you to use the Web Monetization standard to receive streaming payments from users of your Moodle site.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 15 December 2021, 6:47 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-12-15T18:47:05+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "1",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2821/Screenshot%202021-10-19%20at%2013.23.24.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2821/Screenshot%202021-10-19%20at%2013.23.24.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2821/Screenshot%202021-10-19%20at%2012.53.45.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1396756,
+            "firstname": "Andrew",
+            "lastname": "Hancox",
+            "url": "https://moodle.org/user/profile.php?id=1396756"
+        }
+    ],
+    "descriptors": []
+}

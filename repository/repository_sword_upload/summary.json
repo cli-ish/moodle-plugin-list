@@ -1,0 +1,45 @@
+{
+    "id": 972,
+    "index": 2050,
+    "name": "Reposit\u00f3rio SWORD Upload",
+    "frankenstyle": "repository_sword_upload",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_sword_upload",
+    "shortdescription": "Plugin to upload lerning objects to DSpace and link it in Moodle",
+    "timelastreleased": {
+        "absdate": "Wednesday, 28 May 2014, 8:43 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-28T20:43:14+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "1",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1517181,
+            "firstname": "Marcelo",
+            "lastname": "Schmitt",
+            "url": "https://moodle.org/user/profile.php?id=1517181"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

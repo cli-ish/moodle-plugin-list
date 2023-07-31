@@ -1,0 +1,67 @@
+{
+    "id": 24,
+    "index": 198,
+    "name": "Code-checker",
+    "frankenstyle": "local_codechecker",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_codechecker",
+    "shortdescription": "A tool for developers that helps them follow Moodle's coding style.",
+    "timelastreleased": {
+        "absdate": "Monday, 29 May 2023, 12:57 AM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-29T00:57:40+08:00"
+    },
+    "aggsites": "610",
+    "aggdownloads": "629",
+    "aggfavs": "52",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/24/moodle-local_codechecker.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/24/moodle-local_codechecker.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/24/screenshot01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/24/screenshot02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3176,
+            "firstname": "Eloy",
+            "lastname": "Lafuente (stronk7)",
+            "url": "https://moodle.org/user/profile.php?id=3176"
+        },
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 2418643,
+            "firstname": "V\u00edctor",
+            "lastname": "D\u00e9niz Falc\u00f3n",
+            "url": "https://moodle.org/user/profile.php?id=2418643"
+        },
+        {
+            "id": 119927,
+            "firstname": "Sara",
+            "lastname": "Arjona T\u00e9llez",
+            "url": "https://moodle.org/user/profile.php?id=119927"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Developer"
+        }
+    ]
+}

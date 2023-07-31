@@ -1,0 +1,63 @@
+{
+    "id": 1144,
+    "index": 1285,
+    "name": "Reset Password",
+    "frankenstyle": "local_resetpassword",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_resetpassword",
+    "shortdescription": "This local plugin allows an external service to access Moodle's reset password functionality.",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 August 2014, 8:04 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-08-14T08:04:07+08:00"
+    },
+    "aggsites": "54",
+    "aggdownloads": "20",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1144/learningworkslogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1144/learningworkslogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1144/Moodle%20Settings.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1552464,
+            "firstname": "Aaron",
+            "lastname": "Leggett",
+            "url": "https://moodle.org/user/profile.php?id=1552464"
+        },
+        {
+            "id": 1534352,
+            "firstname": "Chris",
+            "lastname": "Clark",
+            "url": "https://moodle.org/user/profile.php?id=1534352"
+        },
+        {
+            "id": 2049685,
+            "firstname": "Learning",
+            "lastname": "Works",
+            "url": "https://moodle.org/user/profile.php?id=2049685"
+        },
+        {
+            "id": 1284414,
+            "firstname": "Jeremy",
+            "lastname": "FitzPatrick",
+            "url": "https://moodle.org/user/profile.php?id=1284414"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

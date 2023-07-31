@@ -1,0 +1,45 @@
+{
+    "id": 347,
+    "index": 1819,
+    "name": "Obsidian",
+    "frankenstyle": "theme_obsidian",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_obsidian",
+    "shortdescription": "\ufeffObsidian is a simple high contrast theme with eight extra block positions.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 20 June 2012, 8:56 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-20T08:56:34+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "5",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/347/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 860723,
+            "firstname": "Nathan",
+            "lastname": "Robbins",
+            "url": "https://moodle.org/user/profile.php?id=860723"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

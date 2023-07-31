@@ -1,0 +1,52 @@
+{
+    "id": 842,
+    "index": 928,
+    "name": "Slideshow",
+    "frankenstyle": "block_slideshow",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_slideshow",
+    "shortdescription": "A block that inserts a slideshow in the header of the front page or course page.  Features include customizable background colors, transition types, speeds, and size.",
+    "timelastreleased": {
+        "absdate": "Saturday, 27 August 2016, 5:10 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-27T05:10:42+08:00"
+    },
+    "aggsites": "308",
+    "aggdownloads": "79",
+    "aggfavs": "45",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/842/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/842/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/842/1_site.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/842/2_course.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/842/3_configuration.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 519127,
+            "firstname": "Paul",
+            "lastname": "P.",
+            "url": "https://moodle.org/user/profile.php?id=519127"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

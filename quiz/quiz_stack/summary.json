@@ -1,0 +1,51 @@
+{
+    "id": 777,
+    "index": 1235,
+    "name": "STACK response analysis",
+    "frankenstyle": "quiz_stack",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_stack",
+    "shortdescription": "A legacy report on the outcomes of any STACK questions in a quiz. (Not currently maintained)",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 November 2014, 3:28 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-11-13T03:28:57+08:00"
+    },
+    "aggsites": "174",
+    "aggdownloads": "23",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/777/inequality.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 20620,
+            "firstname": "Christopher",
+            "lastname": "Sangwin",
+            "url": "https://moodle.org/user/profile.php?id=20620"
+        },
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

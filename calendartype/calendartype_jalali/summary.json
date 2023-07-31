@@ -1,0 +1,49 @@
+{
+    "id": 949,
+    "index": 497,
+    "name": "Persian calendar",
+    "frankenstyle": "calendartype_jalali",
+    "plugintype": {
+        "type": "calendartype",
+        "name": "Calendar type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/calendartype_jalali",
+    "shortdescription": "This plugin provides Jalali calendar support for Moodle",
+    "timelastreleased": {
+        "absdate": "Wednesday, 13 January 2021, 2:18 PM",
+        "reldate": "3 years",
+        "iso8601date": "2021-01-13T14:18:53+08:00"
+    },
+    "aggsites": "655",
+    "aggdownloads": "235",
+    "aggfavs": "40",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/949/Screenshot%20at%202013-10-27%20012453.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/949/Screenshot%20at%202013-10-27%20012529.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 723655,
+            "firstname": "Shamim",
+            "lastname": "Rezaie",
+            "url": "https://moodle.org/user/profile.php?id=723655"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

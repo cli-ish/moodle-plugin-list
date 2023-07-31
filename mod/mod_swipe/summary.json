@@ -1,0 +1,50 @@
+{
+    "id": 2745,
+    "index": 1532,
+    "name": "Swipe",
+    "frankenstyle": "mod_swipe",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_swipe",
+    "shortdescription": "Get feedback on text, images and videos in a fun interactive way",
+    "timelastreleased": {
+        "absdate": "Wednesday, 23 June 2021, 8:17 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-23T20:17:23+08:00"
+    },
+    "aggsites": "34",
+    "aggdownloads": "10",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2745/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2745/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2745/swipe%20images.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2745/swipe%20report.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2745/swipe%20text.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2745/swipe%20videos.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": []
+}

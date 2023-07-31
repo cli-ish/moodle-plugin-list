@@ -1,0 +1,56 @@
+{
+    "id": 142,
+    "index": 182,
+    "name": "Exabis E-Portfolio",
+    "frankenstyle": "block_exaport",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_exaport",
+    "shortdescription": "Start ePortfolio work with Moodle \u2013 a compact block with everything needed to collect, select, reflect and share. Exabis ePortfolio establishes a learner driven way of contributing learning products during learning processes course independently.\r\nKey features are:\r\n-\tbuilding up ePortfolios with an individual structure\r\n-\tlinking ePortfolio-artefacts to competences\r\n-\tpublishing of views with a selection of material\r\n-\texport to Europass for CVs\r\n-\tintegration of OpenBadges\r\n-\texport to SCORM-format",
+    "timelastreleased": {
+        "absdate": "Saturday, 15 July 2023, 3:49 PM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-15T15:49:27+08:00"
+    },
+    "aggsites": "1392",
+    "aggdownloads": "680",
+    "aggfavs": "82",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/142/eportfolio.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/142/eportfolio.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/142/exaport_view.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/142/exaport_view2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/142/exaport.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        }
+    ]
+}

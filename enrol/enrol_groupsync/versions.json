@@ -1,0 +1,37 @@
+[
+    {
+        "id": "21712",
+        "name": "1.2.2",
+        "url": "https://moodle.org/plugins/download.php/21712/enrol_groupsync_moodle29_2017020214.zip"
+    },
+    {
+        "id": "1909",
+        "name": "1.0.0",
+        "url": "https://moodle.org/plugins/download.php/1909/enrol_groupsync_moodle40_2021120716.zip"
+    },
+    {
+        "id": "18395",
+        "name": "1.2.1",
+        "url": "https://moodle.org/plugins/download.php/18395/enrol_groupsync_moodle26_2017090710.zip"
+    },
+    {
+        "id": "17052",
+        "name": "1.2.0",
+        "url": "https://moodle.org/plugins/download.php/17052/enrol_groupsync_moodle27_2017050712.zip"
+    },
+    {
+        "id": "15303",
+        "name": "1.1.2",
+        "url": "https://moodle.org/plugins/download.php/15303/enrol_groupsync_moodle27_2013050404.zip"
+    },
+    {
+        "id": "13856",
+        "name": "1.1.1",
+        "url": "https://moodle.org/plugins/download.php/13856/enrol_groupsync_moodle32_2011110804.zip"
+    },
+    {
+        "id": "11332",
+        "name": "1.1.0",
+        "url": "https://moodle.org/plugins/download.php/11332/enrol_groupsync_moodle32_2011080300.zip"
+    }
+]

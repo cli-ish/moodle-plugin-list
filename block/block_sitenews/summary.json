@@ -1,0 +1,49 @@
+{
+    "id": 1275,
+    "index": 1182,
+    "name": "Site news",
+    "frankenstyle": "block_sitenews",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_sitenews",
+    "shortdescription": "Display site news in full scale at my startpage.",
+    "timelastreleased": {
+        "absdate": "Friday, 10 January 2020, 11:02 PM",
+        "reldate": "4 years",
+        "iso8601date": "2020-01-10T23:02:12+08:00"
+    },
+    "aggsites": "106",
+    "aggdownloads": "28",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1275/innocampus.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1275/innocampus.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1275/screenshot01.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1275/screenshot02.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1463452,
+            "firstname": "Jan",
+            "lastname": "Eberhardt",
+            "url": "https://moodle.org/user/profile.php?id=1463452"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

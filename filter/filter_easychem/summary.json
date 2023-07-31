@@ -1,0 +1,49 @@
+{
+    "id": 1318,
+    "index": 1833,
+    "name": "Easychem Chemical Structure and Equation Filter",
+    "frankenstyle": "filter_easychem",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_easychem",
+    "shortdescription": "Filter that utilizes Easychem.js to display chemical equations, structures and reactions in HTML5.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 January 2015, 9:58 AM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-13T09:58:29+08:00"
+    },
+    "aggsites": "86",
+    "aggdownloads": "4",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1318/screenshot_easychem_filter.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

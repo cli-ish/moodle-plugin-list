@@ -1,0 +1,45 @@
+{
+    "id": 213,
+    "index": 2004,
+    "name": "QuizPort",
+    "frankenstyle": "mod_quizport",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_quizport",
+    "shortdescription": "QuizPort module for Moodle 1.0 to 1.9",
+    "timelastreleased": {
+        "absdate": "Monday, 25 April 2016, 10:30 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-25T10:30:41+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "2",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 8277,
+            "firstname": "Gordon",
+            "lastname": "Bateson",
+            "url": "https://moodle.org/user/profile.php?id=8277"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

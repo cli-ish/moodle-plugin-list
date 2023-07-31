@@ -1,0 +1,45 @@
+{
+    "id": 112,
+    "index": 1964,
+    "name": "MultiLayout",
+    "frankenstyle": "theme_multilayout",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_multilayout",
+    "shortdescription": "MultiLayout is a theme with minimal styling which enables various 1, 2 or 3 column page layouts to be used from within the single layout file with little recoding (one line to be uncommented). It is intended to be used as a parent theme for further styling (in the same manner as Base/Standard) rather than as a complete site theme on its own.\r\nAlongside the multiple layouts, it also has additional block regions above and below main content to provide maximum flexibility for the layout of any page.",
+    "timelastreleased": {
+        "absdate": "Friday, 21 October 2011, 5:47 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-21T05:47:44+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/112/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 480148,
+            "firstname": "Richard",
+            "lastname": "Oelmann",
+            "url": "https://moodle.org/user/profile.php?id=480148"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

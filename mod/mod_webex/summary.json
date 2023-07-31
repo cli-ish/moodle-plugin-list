@@ -1,0 +1,55 @@
+{
+    "id": 385,
+    "index": 1575,
+    "name": "WebEx Training Center connector",
+    "frankenstyle": "mod_webex",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_webex",
+    "shortdescription": "Teachers can link meetings and then students can login and participate in those.",
+    "timelastreleased": {
+        "absdate": "Monday, 10 September 2012, 11:44 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-09-10T23:44:25+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "9",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/385/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/385/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/385/screenshot2.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/385/sreenshot1.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 58883,
+            "firstname": "Beto",
+            "lastname": "Castillo Llaque",
+            "url": "https://moodle.org/user/profile.php?id=58883"
+        },
+        {
+            "id": 14707,
+            "firstname": "Carlos",
+            "lastname": "Kiyan Tsunami",
+            "url": "https://moodle.org/user/profile.php?id=14707"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

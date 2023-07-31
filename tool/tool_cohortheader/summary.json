@@ -1,0 +1,56 @@
+{
+    "id": 2762,
+    "index": 1864,
+    "name": "Cohort based additional html settings.",
+    "frankenstyle": "tool_cohortheader",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_cohortheader",
+    "shortdescription": "Allows additionalhtml settings to be applied based on the users site-level cohorts",
+    "timelastreleased": {
+        "absdate": "Friday, 23 July 2021, 11:08 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-07-23T11:08:02+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "4",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2762/Screenshot%20from%202021-07-22%2022-38-56.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2762/Screenshot%20from%202021-07-22%2022-41-26.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 3981159,
+            "firstname": "Ant1234",
+            "lastname": "Cat",
+            "url": "https://moodle.org/user/profile.php?id=3981159"
+        },
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        }
+    ],
+    "descriptors": []
+}

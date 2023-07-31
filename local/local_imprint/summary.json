@@ -1,0 +1,47 @@
+{
+    "id": 3168,
+    "index": 1215,
+    "name": "Imprint",
+    "frankenstyle": "local_imprint",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_imprint",
+    "shortdescription": "This plugins adds an imprint before the footer.",
+    "timelastreleased": {
+        "absdate": "Sunday, 30 July 2023, 10:33 PM",
+        "reldate": "1 day",
+        "iso8601date": "2023-07-30T22:33:44+08:00"
+    },
+    "aggsites": null,
+    "aggdownloads": "26",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3168/Backend.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3168/Frontend-1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3168/Frontend-2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3945203,
+            "firstname": "Andreas",
+            "lastname": "Koch",
+            "url": "https://moodle.org/user/profile.php?id=3945203"
+        }
+    ],
+    "descriptors": []
+}

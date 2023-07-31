@@ -1,0 +1,58 @@
+{
+    "id": 1402,
+    "index": 1838,
+    "name": "SageCell",
+    "frankenstyle": "filter_sagecell",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_sagecell",
+    "shortdescription": "A Moodle filter plug-in to view results of Sage code using the SageMathCell server. \r\nIt embeds any code as plain text.\r\n\r\nThis filter will replace Sage code in [sage]...[/sage] block with the result of calculations in embedded sagecell.\r\n\r\n",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 January 2018, 9:11 PM",
+        "reldate": "6 years",
+        "iso8601date": "2018-01-31T21:11:49+08:00"
+    },
+    "aggsites": "31",
+    "aggdownloads": "4",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1402/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1402/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1402/Clipboard01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1402/Clipboard02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1402/Clipboard03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1947972,
+            "firstname": "Eugene",
+            "lastname": "Modlo",
+            "url": "https://moodle.org/user/profile.php?id=1947972"
+        },
+        {
+            "id": 1264402,
+            "firstname": "Sergey",
+            "lastname": "Semerikov",
+            "url": "https://moodle.org/user/profile.php?id=1264402"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

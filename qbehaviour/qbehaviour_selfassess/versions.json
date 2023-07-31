@@ -1,0 +1,32 @@
+[
+    {
+        "id": "29214",
+        "name": "v1.4-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/29214/qbehaviour_selfassess_moodle37_2020041020.zip"
+    },
+    {
+        "id": "24924",
+        "name": "v1.2-for-moodle-3.9",
+        "url": "https://moodle.org/plugins/download.php/24924/qbehaviour_selfassess_moodle25_2020030708.zip"
+    },
+    {
+        "id": "21877",
+        "name": "v1.0-for-moodle-3.6",
+        "url": "https://moodle.org/plugins/download.php/21877/qbehaviour_selfassess_moodle35_2023080902.zip"
+    },
+    {
+        "id": "20931",
+        "name": "v0.7-for-moodle-3.5",
+        "url": "https://moodle.org/plugins/download.php/20931/qbehaviour_selfassess_moodle31_2020040311.zip"
+    },
+    {
+        "id": "26268",
+        "name": "v1.3-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/26268/qbehaviour_selfassess_moodle28_2020121104.zip"
+    },
+    {
+        "id": "23117",
+        "name": "v1.1-for-moodle-3.9",
+        "url": "https://moodle.org/plugins/download.php/23117/qbehaviour_selfassess_moodle34_2015090615.zip"
+    }
+]

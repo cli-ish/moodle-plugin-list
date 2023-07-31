@@ -1,0 +1,53 @@
+{
+    "id": 1074,
+    "index": 1989,
+    "name": "Name to Structure or Reaction",
+    "frankenstyle": "qtype_easyoname",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_easyoname",
+    "shortdescription": "Name to structure (or reaction) question type.  You can ask studnts to draw chemical structures or reactions.  This plugin requires Marvin Applets from Chemaxon. ",
+    "timelastreleased": {
+        "absdate": "Friday, 3 October 2014, 1:02 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-10-03T01:02:22+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "2",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1074/nametostruct_create.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1074/nametostruct_preview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

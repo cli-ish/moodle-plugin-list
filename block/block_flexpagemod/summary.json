@@ -1,0 +1,40 @@
+{
+    "id": 367,
+    "index": 1298,
+    "name": "Flexpage Activity",
+    "frankenstyle": "block_flexpagemod",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_flexpagemod",
+    "shortdescription": "Moodlerooms is proud to release the Flexpage Activity block, which allows the Flexpage course format to embed activities into different regions of the page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 July 2017, 10:17 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-07-18T22:17:39+08:00"
+    },
+    "aggsites": "67",
+    "aggdownloads": "19",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/367/block_flexpage_mod.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": []
+}

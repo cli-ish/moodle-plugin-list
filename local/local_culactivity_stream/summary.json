@@ -1,0 +1,40 @@
+{
+    "id": 1257,
+    "index": 807,
+    "name": "CUL Activity Stream",
+    "frankenstyle": "local_culactivity_stream",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_culactivity_stream",
+    "shortdescription": "Local plugin which sends messages when a course activity/resource is added or updated. Part of the CUL Activity Stream suite.",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 June 2022, 11:51 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-25T23:51:43+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "123",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1062329,
+            "firstname": "Amanda",
+            "lastname": "Doughty",
+            "url": "https://moodle.org/user/profile.php?id=1062329"
+        }
+    ],
+    "descriptors": []
+}

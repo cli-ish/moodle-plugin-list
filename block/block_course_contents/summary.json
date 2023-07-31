@@ -1,0 +1,52 @@
+{
+    "id": 127,
+    "index": 371,
+    "name": "Course contents",
+    "frankenstyle": "block_course_contents",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_contents",
+    "shortdescription": "Course contents block displays a list of all visible sections (such as topics or weeks) in the course. Clicking at a link scrolls to that section or displays just that particular section, depending on the course layout setting.",
+    "timelastreleased": {
+        "absdate": "Sunday, 14 February 2021, 5:16 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-14T05:16:34+08:00"
+    },
+    "aggsites": "1305",
+    "aggdownloads": "341",
+    "aggfavs": "90",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/127/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/127/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/127/scratch.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/127/scratch-difference.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/127/settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1601,
+            "firstname": "David",
+            "lastname": "Mudr\u00e1k",
+            "url": "https://moodle.org/user/profile.php?id=1601"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

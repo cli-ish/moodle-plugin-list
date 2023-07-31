@@ -1,0 +1,62 @@
+{
+    "id": 1688,
+    "index": 67,
+    "name": "Buttons",
+    "frankenstyle": "format_buttons",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_buttons",
+    "shortdescription": "Buttons is a course format that creates a menu with buttons to access the sections, one by one. \r\nPlease favourite \u2665!",
+    "timelastreleased": {
+        "absdate": "Thursday, 9 February 2023, 12:28 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-09T12:28:37+08:00"
+    },
+    "aggsites": "4474",
+    "aggdownloads": "1k",
+    "aggfavs": "238",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1688/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1688/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1688/thumb.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1688/donate.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1688/Formats.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1688/logo.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1688/PIC_2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1688/PIC_3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1688/PIC_4.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1688/PIC_6.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 969214,
+            "firstname": "Rodrigo",
+            "lastname": "Brand\u00e3o",
+            "url": "https://moodle.org/user/profile.php?id=969214"
+        }
+    ],
+    "descriptors": []
+}

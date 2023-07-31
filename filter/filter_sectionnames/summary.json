@@ -1,0 +1,40 @@
+{
+    "id": 1822,
+    "index": 665,
+    "name": "Section names auto-linking",
+    "frankenstyle": "filter_sectionnames",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_sectionnames",
+    "shortdescription": "Converts exact section names in Moodle into links to the section or bookmark links if on the same page.",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 April 2019, 1:51 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-04-18T01:51:41+08:00"
+    },
+    "aggsites": "98",
+    "aggdownloads": "160",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1822/filter.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 226766,
+            "firstname": "Matthew",
+            "lastname": "Davidson",
+            "url": "https://moodle.org/user/profile.php?id=226766"
+        }
+    ],
+    "descriptors": []
+}

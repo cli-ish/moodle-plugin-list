@@ -1,0 +1,45 @@
+{
+    "id": 932,
+    "index": 2149,
+    "name": "Auto-link Hijacker",
+    "frankenstyle": "filter_autolinkhijacker",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_autolinkhijacker",
+    "shortdescription": "This filter shamelessly hijacks the glossary auto-links by replacing all auto-linked URLs by another arbitrary one, e.g. one pointing to Forvo. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 16 October 2013, 10:08 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-10-16T22:08:34+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/932/Forvo%20filter%20auto-linking.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 728638,
+            "firstname": "Frank",
+            "lastname": "Ralf",
+            "url": "https://moodle.org/user/profile.php?id=728638"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

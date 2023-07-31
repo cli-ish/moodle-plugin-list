@@ -1,0 +1,40 @@
+{
+    "id": 2680,
+    "index": 146,
+    "name": "Pop up activities",
+    "frankenstyle": "format_popups",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_popups",
+    "shortdescription": "The Pop up activities course format displays resources and simple activities embedded in modals instead of redirecting from the course page.",
+    "timelastreleased": {
+        "absdate": "Friday, 5 May 2023, 3:43 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-05T03:43:45+08:00"
+    },
+    "aggsites": "982",
+    "aggdownloads": "834",
+    "aggfavs": "53",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2680/squarelogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2680/squarelogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2680/Screenshot%20from%202021-04-09%2021-57-15.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1470073,
+            "firstname": "Daniel",
+            "lastname": "Thies",
+            "url": "https://moodle.org/user/profile.php?id=1470073"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2081,
+    "index": 1239,
+    "name": "TRAX Logs",
+    "frankenstyle": "logstore_trax",
+    "plugintype": {
+        "type": "logstore",
+        "name": "Log store manager / Log store"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/logstore_trax",
+    "shortdescription": "This plugin transforms Moodle logs into xAPI statements, and sends then to your LRS.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 October 2021, 5:00 PM",
+        "reldate": "21 months",
+        "iso8601date": "2021-10-26T17:00:32+08:00"
+    },
+    "aggsites": "100",
+    "aggdownloads": "23",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2081/Capture.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 569356,
+            "firstname": "S\u00e9bastien",
+            "lastname": "FRAYSSE",
+            "url": "https://moodle.org/user/profile.php?id=569356"
+        }
+    ],
+    "descriptors": []
+}

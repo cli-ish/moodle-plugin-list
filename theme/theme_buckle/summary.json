@@ -1,0 +1,45 @@
+{
+    "id": 729,
+    "index": 2112,
+    "name": "buckle",
+    "frankenstyle": "theme_buckle",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_buckle",
+    "shortdescription": "Buckle is a basic theme which uses bootstrapbase as its parent. It is designed to be built onto rather than as a 'finished' production theme in a similar manner to the 'standard' and 'clean' themes in core.\r\nIt takes bootstrapbase and adds the responsive version of the 3column HolyGrail layout.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 7 May 2013, 4:43 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-07T04:43:42+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": null,
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/729/buckle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/729/buckle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/729/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 480148,
+            "firstname": "Richard",
+            "lastname": "Oelmann",
+            "url": "https://moodle.org/user/profile.php?id=480148"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

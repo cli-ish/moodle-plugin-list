@@ -1,0 +1,44 @@
+{
+    "id": 519,
+    "index": 1836,
+    "name": "Course Tree List",
+    "frankenstyle": "block_course_tree_list",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_tree_list",
+    "shortdescription": "This block will display all courses a user is enrolled in, within the hierarchy course categories listing.",
+    "timelastreleased": {
+        "absdate": "Monday, 9 September 2013, 9:37 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-09T21:37:22+08:00"
+    },
+    "aggsites": "44",
+    "aggdownloads": "4",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/519/block_course_tree_list_mini.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/519/block_course_tree_list.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1450603,
+            "firstname": "Jay",
+            "lastname": "Huber",
+            "url": "https://moodle.org/user/profile.php?id=1450603"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": 540,
+    "index": 1375,
+    "name": "Single activity format",
+    "frankenstyle": "format_singleactivity",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_singleactivity",
+    "shortdescription": "Allows to create course that consists of only one activity",
+    "timelastreleased": {
+        "absdate": "Monday, 24 June 2013, 1:31 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-06-24T13:31:47+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "16",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        }
+    ],
+    "descriptors": []
+}

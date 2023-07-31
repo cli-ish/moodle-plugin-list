@@ -1,0 +1,45 @@
+{
+    "id": 1468,
+    "index": 899,
+    "name": "Max Views",
+    "frankenstyle": "availability_maxviews",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_maxviews",
+    "shortdescription": "An availability condition for Moodle that limits the number of views of activities and resources by users",
+    "timelastreleased": {
+        "absdate": "Wednesday, 28 June 2023, 2:38 AM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-28T02:38:35+08:00"
+    },
+    "aggsites": "151",
+    "aggdownloads": "95",
+    "aggfavs": "23",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1468/maxviews.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

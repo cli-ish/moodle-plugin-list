@@ -1,0 +1,52 @@
+{
+    "id": 22,
+    "index": 1252,
+    "name": "Decaf",
+    "frankenstyle": "theme_decaf",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_decaf",
+    "shortdescription": "A clean, simple theme which adds an \"Awesomebar\" at the top of the page to provide quick, easy navigation.",
+    "timelastreleased": {
+        "absdate": "Friday, 1 February 2019, 3:55 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-02-01T15:55:51+08:00"
+    },
+    "aggsites": "254",
+    "aggdownloads": "22",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/22/Decaf-awesome-touch.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/22/screenshot.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/22/screenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1159203,
+            "firstname": "Paul",
+            "lastname": "Nicholls",
+            "url": "https://moodle.org/user/profile.php?id=1159203"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

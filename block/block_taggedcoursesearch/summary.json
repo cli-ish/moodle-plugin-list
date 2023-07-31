@@ -1,0 +1,53 @@
+{
+    "id": 2255,
+    "index": 678,
+    "name": "Tagged Course Search",
+    "frankenstyle": "block_taggedcoursesearch",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_taggedcoursesearch",
+    "shortdescription": "This block - based on Moodle 3.5 course overview - allows users to search courses by tag.",
+    "timelastreleased": {
+        "absdate": "Friday, 31 May 2019, 2:22 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-05-31T02:22:18+08:00"
+    },
+    "aggsites": "175",
+    "aggdownloads": "155",
+    "aggfavs": "18",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2255/block_taggedcoursesearch.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2255/block_taggedcoursesearch.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2255/block_taggedcoursesearch.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2255/Screenshot_2019-03-15%20Dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2255/Screenshot_2019-03-17%20m36%20Administration%20Appearance%20Manage%20tags.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1488406,
+            "firstname": "Andil",
+            "lastname": "Technologies de l'information et de la formation",
+            "url": "https://moodle.org/user/profile.php?id=1488406"
+        },
+        {
+            "id": 1973579,
+            "firstname": "Arnaud",
+            "lastname": "Trouv\u00e9",
+            "url": "https://moodle.org/user/profile.php?id=1973579"
+        }
+    ],
+    "descriptors": []
+}

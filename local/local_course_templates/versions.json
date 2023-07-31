@@ -1,0 +1,37 @@
+[
+    {
+        "id": "29245",
+        "name": "course-templates-plugin-version-4.2-a",
+        "url": "https://moodle.org/plugins/download.php/29245/local_course_templates_moodle27_2014031208.zip"
+    },
+    {
+        "id": "20783",
+        "name": "course-templates-plugin-version-3.7-a",
+        "url": "https://moodle.org/plugins/download.php/20783/local_course_templates_moodle36_2015040718.zip"
+    },
+    {
+        "id": "29244",
+        "name": "course-templates-plugin-version-3.11-f",
+        "url": "https://moodle.org/plugins/download.php/29244/local_course_templates_moodle32_2013040518.zip"
+    },
+    {
+        "id": "26281",
+        "name": "course-templates-plugin-version-3.11-e",
+        "url": "https://moodle.org/plugins/download.php/26281/local_course_templates_moodle26_2014050203.zip"
+    },
+    {
+        "id": "26148",
+        "name": "course-templates-plugin-version-3.11-c",
+        "url": "https://moodle.org/plugins/download.php/26148/local_course_templates_moodle32_2010110220.zip"
+    },
+    {
+        "id": "26109",
+        "name": "course-templates-plugin-version-3.11-a",
+        "url": "https://moodle.org/plugins/download.php/26109/local_course_templates_moodle31_2016101208.zip"
+    },
+    {
+        "id": "20153",
+        "name": "course-templates-plugin-version-3.6-b",
+        "url": "https://moodle.org/plugins/download.php/20153/local_course_templates_moodle36_2010060613.zip"
+    }
+]

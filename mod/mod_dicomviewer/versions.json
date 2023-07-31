@@ -1,0 +1,22 @@
+[
+    {
+        "id": "27365",
+        "name": "1.2.1",
+        "url": "https://moodle.org/plugins/download.php/27365/mod_dicomviewer_moodle25_2011050802.zip"
+    },
+    {
+        "id": "27284",
+        "name": "1.2.0",
+        "url": "https://moodle.org/plugins/download.php/27284/mod_dicomviewer_moodle26_2014061019.zip"
+    },
+    {
+        "id": "24673",
+        "name": "1.1.0",
+        "url": "https://moodle.org/plugins/download.php/24673/mod_dicomviewer_moodle33_2010040816.zip"
+    },
+    {
+        "id": "24660",
+        "name": "1.0.0",
+        "url": "https://moodle.org/plugins/download.php/24660/mod_dicomviewer_moodle26_2014011209.zip"
+    }
+]

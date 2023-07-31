@@ -1,0 +1,45 @@
+{
+    "id": 487,
+    "index": 1730,
+    "name": "Learning Outcome Wizard",
+    "frankenstyle": "block_low_wizard",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_low_wizard",
+    "shortdescription": "Used to suggest activities in Moodle to be added to courses.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 24 October 2012, 9:43 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-24T09:43:23+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "6",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/487/moodle_wizard_logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/487/moodle_wizard_logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/487/wizard%201.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1517530,
+            "firstname": "Anthony",
+            "lastname": "Franzi",
+            "url": "https://moodle.org/user/profile.php?id=1517530"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

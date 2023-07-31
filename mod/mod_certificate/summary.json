@@ -1,0 +1,40 @@
+{
+    "id": 105,
+    "index": 121,
+    "name": "Certificate",
+    "frankenstyle": "mod_certificate",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_certificate",
+    "shortdescription": "This module allows for the dynamic generation of certificates based on predefined conditions set by the teacher.\r\n\r\nNOTE: This plugin is no longer receiving any new features. Only bug fixes are being applied. I have been working on a new plugin which can be located at https://moodle.org/plugins/mod_customcert which allows complete customisation of the PDF via the browser, whereas this plugin requires FTP and PHP knowledge. Both plugins can be installed on a site at once with no issues.",
+    "timelastreleased": {
+        "absdate": "Thursday, 25 August 2016, 11:50 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-25T11:50:47+08:00"
+    },
+    "aggsites": "6193",
+    "aggdownloads": "970",
+    "aggfavs": "191",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/105/Certificate_1.gif?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1057750,
+            "firstname": "Mark",
+            "lastname": "Nelson",
+            "url": "https://moodle.org/user/profile.php?id=1057750"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,50 @@
+{
+    "id": 2109,
+    "index": 918,
+    "name": "Live Report",
+    "frankenstyle": "quiz_liveviewgrid",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_liveviewgrid",
+    "shortdescription": "A utility to allow teachers to view a dynamic, Live Report (table/spreadsheet) of students' answers to the questions in a quiz. This Live Report upgrades automatically as students change answers or submit new answers. Teachers can also (1) choose to view the grades the answers to date would receive and/or (2) click on a question to obtain a historgram or listing of answers to an individual question.",
+    "timelastreleased": {
+        "absdate": "Saturday, 29 April 2023, 1:54 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-29T01:54:48+08:00"
+    },
+    "aggsites": "260",
+    "aggdownloads": "84",
+    "aggfavs": "31",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2109/Histogram.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2109/liveveiwgridReportScreenshotToolTip.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2109/SelectLiveReport.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2109/Spreadsheet.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 249562,
+            "firstname": "Bill",
+            "lastname": "Junkin",
+            "url": "https://moodle.org/user/profile.php?id=249562"
+        }
+    ],
+    "descriptors": []
+}

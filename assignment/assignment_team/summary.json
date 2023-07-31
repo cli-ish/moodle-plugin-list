@@ -1,0 +1,51 @@
+{
+    "id": 165,
+    "index": 1478,
+    "name": "Team Assignment",
+    "frankenstyle": "assignment_team",
+    "plugintype": {
+        "type": "assignment",
+        "name": "Assignment / Legacy plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignment_team",
+    "shortdescription": "The Moodle Team Assignment allows students to organise themselves into teams of 1 or more students for the purpose of completing an assignment. A team submission (which may consist of one or more files) is then submitted to Moodle for marking by the teacher. When the teacher marks the submission they can grade the students with a single team mark. If necessary, 1 or more team members can be given individual marks. Note that this version does not support rubric grading.",
+    "timelastreleased": {
+        "absdate": "Friday, 13 April 2012, 2:38 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-04-13T14:38:50+08:00"
+    },
+    "aggsites": "34",
+    "aggdownloads": "12",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 890654,
+            "firstname": "Paul",
+            "lastname": "Charsley",
+            "url": "https://moodle.org/user/profile.php?id=890654"
+        },
+        {
+            "id": 1409645,
+            "firstname": "Tsubasa",
+            "lastname": "Nakata",
+            "url": "https://moodle.org/user/profile.php?id=1409645"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

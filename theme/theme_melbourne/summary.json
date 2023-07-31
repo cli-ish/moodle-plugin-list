@@ -1,0 +1,49 @@
+{
+    "id": 200,
+    "index": 1728,
+    "name": "Melbourne",
+    "frankenstyle": "theme_melbourne",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_melbourne",
+    "shortdescription": "The original Melbourne was created during a jet-lag induced all-night code sprint during the Moodle Moot 2010 in Melbourne, Australia.  This is a port to Moodle 2.",
+    "timelastreleased": {
+        "absdate": "Monday, 9 January 2012, 9:37 PM",
+        "reldate": "12 years",
+        "iso8601date": "2012-01-09T21:37:45+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "6",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/200/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/200/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/200/frontpage.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/200/login.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 913417,
+            "firstname": "Sandeep",
+            "lastname": "Gill",
+            "url": "https://moodle.org/user/profile.php?id=913417"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

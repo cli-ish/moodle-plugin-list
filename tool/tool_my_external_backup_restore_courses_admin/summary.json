@@ -1,0 +1,40 @@
+{
+    "id": 1717,
+    "index": 1369,
+    "name": "admin tool for block \"Restore courses from remote Moodles\"",
+    "frankenstyle": "tool_my_external_backup_restore_courses_admin",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_my_external_backup_restore_courses_admin",
+    "shortdescription": "admin tool to manage scheduled task of block_my_external_backup_restore_courses plugin\r\nmy_external_backup_restore_courses_admin is admin tool plugin that enable to manage scheduled task of block_my_external_backup_restore_courses plugin",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 October 2016, 5:57 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-10-06T17:57:03+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "16",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1717/moodle_admin_backup_restore.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 922669,
+            "firstname": "C\u00e9line",
+            "lastname": "Perves",
+            "url": "https://moodle.org/user/profile.php?id=922669"
+        }
+    ],
+    "descriptors": []
+}

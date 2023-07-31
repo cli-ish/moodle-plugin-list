@@ -1,0 +1,52 @@
+{
+    "id": 1343,
+    "index": 1652,
+    "name": "Retrieve Title and Teaserimage from webpage via url",
+    "frankenstyle": "filter_urlresource",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_urlresource",
+    "shortdescription": "This Filter is required for the Socialwall Course Format.\r\n\r\nThe Moodle Socialwall will transform your Moodle course into a social learning platform.  This includes a familiar post interface, timeline of posts, filtering of the timeline, and integration with Moodle's activities and resources.  A social learning format allows teachers to pick up the tool and begin using it right away.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 October 2015, 1:48 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-10-20T01:48:09+08:00"
+    },
+    "aggsites": "75",
+    "aggdownloads": "7",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1343/socialwall_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1343/socialwall_icon.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 26675,
+            "firstname": "Chris",
+            "lastname": "Kenniburg",
+            "url": "https://moodle.org/user/profile.php?id=26675"
+        },
+        {
+            "id": 1224738,
+            "firstname": "Bryan",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=1224738"
+        },
+        {
+            "id": 1609930,
+            "firstname": "Andreas",
+            "lastname": "Wagner",
+            "url": "https://moodle.org/user/profile.php?id=1609930"
+        }
+    ],
+    "descriptors": []
+}

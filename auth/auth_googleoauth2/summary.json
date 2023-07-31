@@ -1,0 +1,40 @@
+{
+    "id": 40,
+    "index": 728,
+    "name": "Oauth2 authentication plugin for Moodle (for Moodle 3.2 and earlier)",
+    "frankenstyle": "auth_googleoauth2",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_googleoauth2",
+    "shortdescription": "Sign-in with an Oauth2 provider. The first time you sign-in, a new account is created.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 5 February 2019, 10:20 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-02-05T22:20:10+08:00"
+    },
+    "aggsites": "789",
+    "aggdownloads": "139",
+    "aggfavs": "272",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/40/oauth-2-sm.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/40/oauth-2-sm.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/40/Screen%20Shot%202015-11-04%20at%209.19.45%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 617016,
+            "firstname": "Sergio",
+            "lastname": "Rabellino",
+            "url": "https://moodle.org/user/profile.php?id=617016"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "28161",
+        "name": "2.1",
+        "url": "https://moodle.org/plugins/download.php/28161/block_coursesearch_moodle27_2020050215.zip"
+    },
+    {
+        "id": "24322",
+        "name": "2.0",
+        "url": "https://moodle.org/plugins/download.php/24322/block_coursesearch_moodle36_2017071112.zip"
+    },
+    {
+        "id": "24319",
+        "name": "1.3",
+        "url": "https://moodle.org/plugins/download.php/24319/block_coursesearch_moodle37_2018020313.zip"
+    },
+    {
+        "id": "20964",
+        "name": "1.2",
+        "url": "https://moodle.org/plugins/download.php/20964/block_coursesearch_moodle35_2023021113.zip"
+    },
+    {
+        "id": "16321",
+        "name": "1.1",
+        "url": "https://moodle.org/plugins/download.php/16321/block_coursesearch_moodle38_2021080819.zip"
+    },
+    {
+        "id": "14374",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/14374/block_coursesearch_moodle37_2012010215.zip"
+    }
+]

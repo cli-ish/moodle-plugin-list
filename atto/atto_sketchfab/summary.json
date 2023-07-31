@@ -1,0 +1,45 @@
+{
+    "id": 1380,
+    "index": 1288,
+    "name": "Sketchfab for Atto",
+    "frankenstyle": "atto_sketchfab",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_sketchfab",
+    "shortdescription": "Sketchfab 3d model embedding",
+    "timelastreleased": {
+        "absdate": "Wednesday, 8 April 2015, 4:38 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-04-08T16:38:42+08:00"
+    },
+    "aggsites": "26",
+    "aggdownloads": "20",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1380/Screen%2BShot%2B2015-03-20%2Bat%2B10.51.43%2BAM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1755294,
+            "firstname": "Jetha",
+            "lastname": "Chan",
+            "url": "https://moodle.org/user/profile.php?id=1755294"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

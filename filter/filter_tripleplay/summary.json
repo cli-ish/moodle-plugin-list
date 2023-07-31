@@ -1,0 +1,49 @@
+{
+    "id": 1107,
+    "index": 2083,
+    "name": "Tripleplay Filter plugin",
+    "frankenstyle": "filter_tripleplay",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_tripleplay",
+    "shortdescription": "The Tripleplay Filter plugin will automatically convert media inserted using the Tripleplay repository plugin to display the content.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 29 April 2014, 6:30 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-29T18:30:44+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "1",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1107/128x128_orb.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1107/128x128_orb.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1107/3.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1787429,
+            "firstname": "Tripleplay",
+            "lastname": "Services",
+            "url": "https://moodle.org/user/profile.php?id=1787429"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

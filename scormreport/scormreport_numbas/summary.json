@@ -1,0 +1,40 @@
+{
+    "id": 2840,
+    "index": 1212,
+    "name": "Numbas report",
+    "frankenstyle": "scormreport_numbas",
+    "plugintype": {
+        "type": "scormreport",
+        "name": "SCORM package / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/scormreport_numbas",
+    "shortdescription": "This Moodle plugin provides a special report for Moodle's SCORM player, for use with Numbas exams.\r\n\r\nFor each attempt, it shows the student's answers and scores against the correct answer for each part, in an easier to read form than Moodle's built-in \"track details\" view.",
+    "timelastreleased": {
+        "absdate": "Monday, 29 November 2021, 6:01 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-29T18:01:36+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "26",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2840/numbas-icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2840/numbas-icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2840/Screenshot%202021-11-29%20at%2008-53-58%20stuff%20scorm%20package.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1519924,
+            "firstname": "Christian",
+            "lastname": "Lawson-Perfect",
+            "url": "https://moodle.org/user/profile.php?id=1519924"
+        }
+    ],
+    "descriptors": []
+}

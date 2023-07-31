@@ -1,0 +1,51 @@
+{
+    "id": 1240,
+    "index": 2021,
+    "name": "PUMA/BibSonomy Module",
+    "frankenstyle": "mod_pbm",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_pbm",
+    "shortdescription": "PBM is the PUMA/BibSonomy plugin for Moodle. It helps you to publish publication lists from the Publication Management System http://www.academic-puma.de or http://www.bibsonomy.org .",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 August 2018, 9:59 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-21T21:59:19+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "2",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1240/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1240/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1240/pbm_activity.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1561808,
+            "firstname": "Florian",
+            "lastname": "Fassing",
+            "url": "https://moodle.org/user/profile.php?id=1561808"
+        },
+        {
+            "id": 2477824,
+            "firstname": "Mario",
+            "lastname": "Holtm\u00fcller",
+            "url": "https://moodle.org/user/profile.php?id=2477824"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

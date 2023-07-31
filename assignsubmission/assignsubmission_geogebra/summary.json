@@ -1,0 +1,62 @@
+{
+    "id": 1217,
+    "index": 1084,
+    "name": "GeoGebra submissions",
+    "frankenstyle": "assignsubmission_geogebra",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_geogebra",
+    "shortdescription": "Adds the ability to directly edit and submit a GeoGebra applet in an Assignment.\r\nTeacher can view or download the applet directly in Moodle. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 27 September 2016, 6:02 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-27T18:02:13+08:00"
+    },
+    "aggsites": "595",
+    "aggdownloads": "39",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1217/geogebra.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1217/geogebra.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1217/UmkreisDreieck1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1217/UmkreisDreieck2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1217/UmkreisDreieck3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1217/UmkreisDreieck4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1217/UmkreisDreieck5.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1877004,
+            "firstname": "International",
+            "lastname": "GeoGebra Institute",
+            "url": "https://moodle.org/user/profile.php?id=1877004"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Geography"
+        }
+    ]
+}

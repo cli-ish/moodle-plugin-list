@@ -1,0 +1,53 @@
+{
+    "id": 307,
+    "index": 2133,
+    "name": "Mappa",
+    "frankenstyle": "mod_maps",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_maps",
+    "shortdescription": "This is an activity module for insert flash maps into courses",
+    "timelastreleased": {
+        "absdate": "Saturday, 16 November 2013, 1:05 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-11-16T01:05:44+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": null,
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/307/screen_mappa.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 546143,
+            "firstname": "Mauro",
+            "lastname": "Paoletti",
+            "url": "https://moodle.org/user/profile.php?id=546143"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Flash"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Geography"
+        }
+    ]
+}

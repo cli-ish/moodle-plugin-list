@@ -1,0 +1,45 @@
+{
+    "id": 42,
+    "index": 1021,
+    "name": "SimpleSpace",
+    "frankenstyle": "theme_simplespace",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_simplespace",
+    "shortdescription": "This is a three column flexible width theme.",
+    "timelastreleased": {
+        "absdate": "Sunday, 7 April 2013, 6:54 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-07T18:54:09+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "52",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/42/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/42/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/42/simplespace.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 2771,
+    "index": 647,
+    "name": "Random select answers",
+    "frankenstyle": "qtype_answersselect",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_answersselect",
+    "shortdescription": "A multiple-choice, multiple-response question type with particular scoring rules.\r\nRecommended if your question has many correct and incorrect answers from which \"pool\" a set number can be selected at runtime.",
+    "timelastreleased": {
+        "absdate": "Saturday, 17 June 2023, 10:44 PM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-17T22:44:42+08:00"
+    },
+    "aggsites": "200",
+    "aggdownloads": "167",
+    "aggfavs": "15",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2771/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2771/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2771/answersselect_edit.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2771/answersselect_preview.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 20216,
+            "firstname": "Joseph",
+            "lastname": "R\u00e9zeau",
+            "url": "https://moodle.org/user/profile.php?id=20216"
+        }
+    ],
+    "descriptors": []
+}

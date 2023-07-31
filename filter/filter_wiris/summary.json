@@ -1,0 +1,56 @@
+{
+    "id": 193,
+    "index": 87,
+    "name": "MathType filter by WIRIS",
+    "frankenstyle": "filter_wiris",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_wiris",
+    "shortdescription": "Type and handwrite mathematical notation in Moodle with MathType, the world leading equation editor.",
+    "timelastreleased": {
+        "absdate": "Monday, 12 June 2023, 10:24 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-12T22:24:41+08:00"
+    },
+    "aggsites": "5700",
+    "aggdownloads": "1k",
+    "aggfavs": "53",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/193/MT_google_icon128.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/193/MT_google_icon128.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/193/10%20MathType%20for%20Moodle.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/193/20%20MathType%20for%20Moodle%20-%20Handwrite.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/193/99%20MathType%20filter%20settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1343738,
+            "firstname": "WIRIS",
+            "lastname": "team",
+            "url": "https://moodle.org/user/profile.php?id=1343738"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

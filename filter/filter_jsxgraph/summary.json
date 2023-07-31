@@ -1,0 +1,62 @@
+{
+    "id": 2115,
+    "index": 465,
+    "name": "JSXGraph",
+    "frankenstyle": "filter_jsxgraph",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_jsxgraph",
+    "shortdescription": "JSXGraph is a cross-browser JavaScript library for interactive geometry, function plotting, charting, and data visualization in the web browser. This is a plugin for Moodle to enable function plotting and dynamic geometry constructions with JSXGraph within a Moodle platform. Using the JSXGraph filter makes it a lot easier to embed JSXGraph constructions into Moodle online documents, e.g. in contents like page, quiz, link,...",
+    "timelastreleased": {
+        "absdate": "Friday, 30 June 2023, 2:43 AM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-06-30T02:43:57+08:00"
+    },
+    "aggsites": "402",
+    "aggdownloads": "252",
+    "aggfavs": "23",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2115/logo_1000x1000.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2115/logo_1000x1000.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2115/multiple-boards.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2115/circle-approximation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2115/demo.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2115/infinity.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2115/polygons.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2115/riemann-sum.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2115/secant-and-tangent.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2115/settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2455896,
+            "firstname": "Andreas",
+            "lastname": "Walter",
+            "url": "https://moodle.org/user/profile.php?id=2455896"
+        }
+    ],
+    "descriptors": []
+}

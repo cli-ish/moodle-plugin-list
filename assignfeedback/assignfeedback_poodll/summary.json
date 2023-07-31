@@ -1,0 +1,66 @@
+{
+    "id": 714,
+    "index": 191,
+    "name": "Poodll Assignment Feedback - audio and video recording",
+    "frankenstyle": "assignfeedback_poodll",
+    "plugintype": {
+        "type": "assignfeedback",
+        "name": "Assignment / Feedback plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignfeedback_poodll",
+    "shortdescription": "The Poodll Assignment Feedback plugin allows teachers to respond via video and audio recordings, and pictures to assignment submissions.",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 November 2021, 2:12 PM",
+        "reldate": "21 months",
+        "iso8601date": "2021-11-11T14:12:37+08:00"
+    },
+    "aggsites": "966",
+    "aggdownloads": "656",
+    "aggfavs": "19",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/714/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/714/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/714/Poodll%20Assignment%20Feedback%20Audio%20and%20video%20recording%20Banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/714/burntrose_audio.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/714/givingfeedback.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/714/MoodleTile_AssignFeedback.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/714/pfeedback_adminsettings.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

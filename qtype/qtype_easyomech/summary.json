@@ -1,0 +1,53 @@
+{
+    "id": 1046,
+    "index": 1811,
+    "name": "Electron Pushing / Curved Arrow",
+    "frankenstyle": "qtype_easyomech",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_easyomech",
+    "shortdescription": "Curved Arrow / Electron Pushing question can be used to test and strengthen students knowledge of reaction mechanism, resonance and curved arrow notation.  This plugin requires Marvin Applets from Chemaxon. \r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 13 June 2014, 5:17 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-13T05:17:59+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "5",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1046/image.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1046/screenshot1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

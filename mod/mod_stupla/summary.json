@@ -1,0 +1,53 @@
+{
+    "id": 402,
+    "index": 1826,
+    "name": "Studierplatz2000",
+    "frankenstyle": "mod_stupla",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_stupla",
+    "shortdescription": "Adapter to embed Studierplatz learning environments into Moodle.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 January 2016, 5:27 AM",
+        "reldate": "8 years",
+        "iso8601date": "2016-01-26T05:27:35+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "5",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/402/sc01_user_start.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/402/sc02_user_s2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/402/sc03_prot_userlist.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/402/sc04_prot_history.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/402/sc05_prot_exstate.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 255791,
+            "firstname": "R\u00fcdiger",
+            "lastname": "Krau\u00dfe",
+            "url": "https://moodle.org/user/profile.php?id=255791"
+        }
+    ],
+    "descriptors": []
+}

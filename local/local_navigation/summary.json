@@ -1,0 +1,56 @@
+{
+    "id": 1135,
+    "index": 957,
+    "name": "Custom Navigation",
+    "frankenstyle": "local_navigation",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_navigation",
+    "shortdescription": "This plugin allow add new menu items at the end of Navigation Menu in order to customize your options menu even Boost Menu Navigation.",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 May 2018, 4:23 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-17T04:23:21+08:00"
+    },
+    "aggsites": "536",
+    "aggdownloads": "67",
+    "aggfavs": "42",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1135/Captura%20de%20pantalla%202017-03-08%20a%20las%2010.36.31.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1135/Custom1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1135/Custom2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1135/Moodle%203.5%20Configuration%20View.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1135/Moodle%203.5%20Course%20View.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1135/NavigationMoodle32.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 747698,
+            "firstname": "Carlos",
+            "lastname": "Escobedo",
+            "url": "https://moodle.org/user/profile.php?id=747698"
+        }
+    ],
+    "descriptors": []
+}

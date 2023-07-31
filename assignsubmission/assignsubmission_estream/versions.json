@@ -1,0 +1,127 @@
+[
+    {
+        "id": "28845",
+        "name": "6.7.131",
+        "url": "https://moodle.org/plugins/download.php/28845/assignsubmission_estream_moodle31_2020040801.zip"
+    },
+    {
+        "id": "28281",
+        "name": "6.7.12",
+        "url": "https://moodle.org/plugins/download.php/28281/assignsubmission_estream_moodle38_2015050509.zip"
+    },
+    {
+        "id": "27949",
+        "name": "6.7.11",
+        "url": "https://moodle.org/plugins/download.php/27949/assignsubmission_estream_moodle32_2017030218.zip"
+    },
+    {
+        "id": "27895",
+        "name": "6.7.1",
+        "url": "https://moodle.org/plugins/download.php/27895/assignsubmission_estream_moodle37_2016110400.zip"
+    },
+    {
+        "id": "27826",
+        "name": "6.7.0",
+        "url": "https://moodle.org/plugins/download.php/27826/assignsubmission_estream_moodle34_2020121218.zip"
+    },
+    {
+        "id": "27071",
+        "name": "6.6.531",
+        "url": "https://moodle.org/plugins/download.php/27071/assignsubmission_estream_moodle34_2019030206.zip"
+    },
+    {
+        "id": "26573",
+        "name": "6.6.53",
+        "url": "https://moodle.org/plugins/download.php/26573/assignsubmission_estream_moodle37_2019010909.zip"
+    },
+    {
+        "id": "25493",
+        "name": "6.6.52",
+        "url": "https://moodle.org/plugins/download.php/25493/assignsubmission_estream_moodle29_2023020507.zip"
+    },
+    {
+        "id": "25423",
+        "name": "6.6.51",
+        "url": "https://moodle.org/plugins/download.php/25423/assignsubmission_estream_moodle36_2011070306.zip"
+    },
+    {
+        "id": "25184",
+        "name": "6.6.5",
+        "url": "https://moodle.org/plugins/download.php/25184/assignsubmission_estream_moodle39_2021021220.zip"
+    },
+    {
+        "id": "24552",
+        "name": "6.6.4",
+        "url": "https://moodle.org/plugins/download.php/24552/assignsubmission_estream_moodle29_2019110319.zip"
+    },
+    {
+        "id": "24456",
+        "name": "6.6.3",
+        "url": "https://moodle.org/plugins/download.php/24456/assignsubmission_estream_moodle33_2022080219.zip"
+    },
+    {
+        "id": "24072",
+        "name": "6.6.1",
+        "url": "https://moodle.org/plugins/download.php/24072/assignsubmission_estream_moodle25_2019050914.zip"
+    },
+    {
+        "id": "23667",
+        "name": "6.6.0",
+        "url": "https://moodle.org/plugins/download.php/23667/assignsubmission_estream_moodle26_2019060509.zip"
+    },
+    {
+        "id": "23382",
+        "name": "6.5.9",
+        "url": "https://moodle.org/plugins/download.php/23382/assignsubmission_estream_moodle38_2016010607.zip"
+    },
+    {
+        "id": "23178",
+        "name": "6.5.8",
+        "url": "https://moodle.org/plugins/download.php/23178/assignsubmission_estream_moodle26_2015011014.zip"
+    },
+    {
+        "id": "23004",
+        "name": "6.5.7",
+        "url": "https://moodle.org/plugins/download.php/23004/assignsubmission_estream_moodle40_2018040517.zip"
+    },
+    {
+        "id": "22994",
+        "name": "6.5.6",
+        "url": "https://moodle.org/plugins/download.php/22994/assignsubmission_estream_moodle35_2013031001.zip"
+    },
+    {
+        "id": "22906",
+        "name": "6.5.5",
+        "url": "https://moodle.org/plugins/download.php/22906/assignsubmission_estream_moodle25_2010100109.zip"
+    },
+    {
+        "id": "22834",
+        "name": "6.5.3",
+        "url": "https://moodle.org/plugins/download.php/22834/assignsubmission_estream_moodle39_2020040115.zip"
+    },
+    {
+        "id": "22549",
+        "name": "6.5.2",
+        "url": "https://moodle.org/plugins/download.php/22549/assignsubmission_estream_moodle33_2020080414.zip"
+    },
+    {
+        "id": "22542",
+        "name": "6.5.1",
+        "url": "https://moodle.org/plugins/download.php/22542/assignsubmission_estream_moodle35_2022021020.zip"
+    },
+    {
+        "id": "22422",
+        "name": "6.5.0",
+        "url": "https://moodle.org/plugins/download.php/22422/assignsubmission_estream_moodle28_2017030605.zip"
+    },
+    {
+        "id": "13672",
+        "name": "6.35",
+        "url": "https://moodle.org/plugins/download.php/13672/assignsubmission_estream_moodle33_2017060813.zip"
+    },
+    {
+        "id": "13065",
+        "name": "6.23",
+        "url": "https://moodle.org/plugins/download.php/13065/assignsubmission_estream_moodle26_2018080512.zip"
+    }
+]

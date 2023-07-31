@@ -1,0 +1,49 @@
+{
+    "id": 640,
+    "index": 1857,
+    "name": "Leoblue",
+    "frankenstyle": "theme_leoblue",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_leoblue",
+    "shortdescription": "This is a Customised theme in blue with customised icons and menu.\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 18 March 2013, 2:25 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-18T14:25:12+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/640/logo-4jan.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/640/logo-4jan.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/640/Theme-2-Course%20Page.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/640/Theme-1-Home%20Page.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1391700,
+            "firstname": "Pramod",
+            "lastname": "eAbyas",
+            "url": "https://moodle.org/user/profile.php?id=1391700"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

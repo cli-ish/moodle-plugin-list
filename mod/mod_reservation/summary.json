@@ -1,0 +1,49 @@
+{
+    "id": 133,
+    "index": 332,
+    "name": "Reservation",
+    "frankenstyle": "mod_reservation",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_reservation",
+    "shortdescription": "This activity module permits to schedule an event with a defined reservation time.\r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 8 November 2022, 5:10 PM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-08T17:10:34+08:00"
+    },
+    "aggsites": "1045",
+    "aggdownloads": "401",
+    "aggfavs": "89",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/133/Reservation%20icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/133/Reservation%20icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/133/Reservation%20screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1811,
+            "firstname": "Roberto",
+            "lastname": "Pinna",
+            "url": "https://moodle.org/user/profile.php?id=1811"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

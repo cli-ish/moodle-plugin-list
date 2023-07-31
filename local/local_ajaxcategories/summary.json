@@ -1,0 +1,49 @@
+{
+    "id": 1454,
+    "index": 1984,
+    "name": "AJAX Question categories moving",
+    "frankenstyle": "local_ajaxcategories",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_ajaxcategories",
+    "shortdescription": "Moving Moodle question categories one step at a time is a long known problem. With this plugin you can move them anywhere in one swift move.",
+    "timelastreleased": {
+        "absdate": "Monday, 10 August 2015, 6:56 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-08-10T06:56:55+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "2",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1454/ajax_categories1.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1454/ajax_categories2.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 104931,
+            "firstname": "Oleg",
+            "lastname": "Sychev",
+            "url": "https://moodle.org/user/profile.php?id=104931"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

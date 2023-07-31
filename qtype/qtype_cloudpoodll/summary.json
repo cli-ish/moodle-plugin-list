@@ -1,0 +1,53 @@
+{
+    "id": 2335,
+    "index": 642,
+    "name": "Cloud Poodll Question - audio and video assessments",
+    "frankenstyle": "qtype_cloudpoodll",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_cloudpoodll",
+    "shortdescription": "The Cloud Poodll audio video recording question allows students to record audio or video directly into Moodle quizzes. It has no dependencies and recordings are stored in the Poodll cloud. The teacher has a choice of audio and video recorders to use. It supports time limits.",
+    "timelastreleased": {
+        "absdate": "Sunday, 16 April 2023, 1:56 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-16T13:56:33+08:00"
+    },
+    "aggsites": "213",
+    "aggdownloads": "169",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2335/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2335/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2335/Cloud%20Poodli%20Question%20Audio%20and%20video%20assessment.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2335/2019-08-12_17-16-25.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2335/2019-08-12_17-18-35.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2335/2019-08-12_17-19-21.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2335/CloudQuestion_moodleTile.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

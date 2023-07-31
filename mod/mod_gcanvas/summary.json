@@ -1,0 +1,46 @@
+{
+    "id": 2220,
+    "index": 657,
+    "name": "HTML5 canvas sketch game",
+    "frankenstyle": "mod_gcanvas",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_gcanvas",
+    "shortdescription": "a Moodle activity for making html5 canvas sketches.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 February 2023, 6:49 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-02-21T06:49:43+08:00"
+    },
+    "aggsites": "261",
+    "aggdownloads": "163",
+    "aggfavs": "38",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2220/logov2_illustration.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2220/logov2_illustration.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2220/download.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487326,
+            "firstname": "Luuk",
+            "lastname": "Verhoeven",
+            "url": "https://moodle.org/user/profile.php?id=1487326"
+        },
+        {
+            "id": 1575644,
+            "firstname": "Gemma",
+            "lastname": "Lesterhuis",
+            "url": "https://moodle.org/user/profile.php?id=1575644"
+        }
+    ],
+    "descriptors": []
+}

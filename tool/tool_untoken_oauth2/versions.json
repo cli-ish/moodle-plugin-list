@@ -1,0 +1,32 @@
+[
+    {
+        "id": "27093",
+        "name": "v2.0",
+        "url": "https://moodle.org/plugins/download.php/27093/tool_untoken_oauth2_moodle25_2010110518.zip"
+    },
+    {
+        "id": "24711",
+        "name": "v1.4",
+        "url": "https://moodle.org/plugins/download.php/24711/tool_untoken_oauth2_moodle26_2020090908.zip"
+    },
+    {
+        "id": "22970",
+        "name": "v1.3",
+        "url": "https://moodle.org/plugins/download.php/22970/tool_untoken_oauth2_moodle29_2018070110.zip"
+    },
+    {
+        "id": "21867",
+        "name": "v1.2",
+        "url": "https://moodle.org/plugins/download.php/21867/tool_untoken_oauth2_moodle25_2014080816.zip"
+    },
+    {
+        "id": "21256",
+        "name": "v1.0.3",
+        "url": "https://moodle.org/plugins/download.php/21256/tool_untoken_oauth2_moodle28_2014051107.zip"
+    },
+    {
+        "id": "20292",
+        "name": "v1.0.2",
+        "url": "https://moodle.org/plugins/download.php/20292/tool_untoken_oauth2_moodle36_2013060816.zip"
+    }
+]

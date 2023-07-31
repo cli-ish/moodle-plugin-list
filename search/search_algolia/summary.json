@@ -1,0 +1,40 @@
+{
+    "id": 1862,
+    "index": 1863,
+    "name": "Algolia",
+    "frankenstyle": "search_algolia",
+    "plugintype": {
+        "type": "search",
+        "name": "Search engine"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/search_algolia",
+    "shortdescription": "This plugin provides Algolia integration for Moodle's Global Search.\r\n\r\nAlgolia is a hosted Search as a Service provider making it easy for websites to integrate search without any need to install/maintain additional servers.\r\n\r\nIt currently offers a free plan with 10k records and 100k API calls per month. ",
+    "timelastreleased": {
+        "absdate": "Monday, 29 May 2017, 5:30 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-05-29T05:30:27+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "4",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1862/Search%20Algolia%20Screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1565904,
+            "firstname": "Prateek",
+            "lastname": "Sachan",
+            "url": "https://moodle.org/user/profile.php?id=1565904"
+        }
+    ],
+    "descriptors": []
+}

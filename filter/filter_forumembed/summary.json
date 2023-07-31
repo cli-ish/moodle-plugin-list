@@ -1,0 +1,53 @@
+{
+    "id": 3072,
+    "index": 738,
+    "name": "Forum discussion embed",
+    "frankenstyle": "filter_forumembed",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_forumembed",
+    "shortdescription": "Embed forum discussions anywhere with filter tags.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 25 January 2023, 8:52 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-25T08:52:46+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "138",
+    "aggfavs": "12",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3072/filter_forumembed-embed.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3072/filter_forumembed-embed2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3072/filter_forumembed-label.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2822651,
+            "firstname": "Alex",
+            "lastname": "Morris",
+            "url": "https://moodle.org/user/profile.php?id=2822651"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

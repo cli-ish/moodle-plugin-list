@@ -1,0 +1,50 @@
+{
+    "id": 951,
+    "index": 1936,
+    "name": "Regex constructor block",
+    "frankenstyle": "block_regex_constructor",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_regex_constructor",
+    "shortdescription": "Block regex constructor allows you to easily construct regular expression using several tools, that visualise expression you wrote, describe and test it.",
+    "timelastreleased": {
+        "absdate": "Sunday, 3 May 2020, 10:23 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-05-03T22:23:36+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/951/description.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/951/explaining_graph.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/951/syntax_tree.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/951/testing_tool.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 104931,
+            "firstname": "Oleg",
+            "lastname": "Sychev",
+            "url": "https://moodle.org/user/profile.php?id=104931"
+        }
+    ],
+    "descriptors": []
+}

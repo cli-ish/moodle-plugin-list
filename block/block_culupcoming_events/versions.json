@@ -1,0 +1,97 @@
+[
+    {
+        "id": "26905",
+        "name": "4.0.0-build-2022062500",
+        "url": "https://moodle.org/plugins/download.php/26905/block_culupcoming_events_moodle33_2020020515.zip"
+    },
+    {
+        "id": "25208",
+        "name": "3.11.0-build-2021093000",
+        "url": "https://moodle.org/plugins/download.php/25208/block_culupcoming_events_moodle36_2010020700.zip"
+    },
+    {
+        "id": "23129",
+        "name": "3.9.0-build-2020121600",
+        "url": "https://moodle.org/plugins/download.php/23129/block_culupcoming_events_moodle38_2011030915.zip"
+    },
+    {
+        "id": "20285",
+        "name": "3.2.0-build-2018041405",
+        "url": "https://moodle.org/plugins/download.php/20285/block_culupcoming_events_moodle40_2019031212.zip"
+    },
+    {
+        "id": "17964",
+        "name": "3.1.1-build-2018041404",
+        "url": "https://moodle.org/plugins/download.php/17964/block_culupcoming_events_moodle27_2020010507.zip"
+    },
+    {
+        "id": "11635",
+        "name": "2.3.0-build-2016062300",
+        "url": "https://moodle.org/plugins/download.php/11635/block_culupcoming_events_moodle25_2018050304.zip"
+    },
+    {
+        "id": "10481",
+        "name": "2.2.1-build-2016020800",
+        "url": "https://moodle.org/plugins/download.php/10481/block_culupcoming_events_moodle32_2020050818.zip"
+    },
+    {
+        "id": "7781",
+        "name": "2.0.5-build-2015012200",
+        "url": "https://moodle.org/plugins/download.php/7781/block_culupcoming_events_moodle29_2020050309.zip"
+    },
+    {
+        "id": "17259",
+        "name": "3.1.0-build-2018041403",
+        "url": "https://moodle.org/plugins/download.php/17259/block_culupcoming_events_moodle31_2023120601.zip"
+    },
+    {
+        "id": "16886",
+        "name": "3.0.1-build-2018041401",
+        "url": "https://moodle.org/plugins/download.php/16886/block_culupcoming_events_moodle33_2023120407.zip"
+    },
+    {
+        "id": "16452",
+        "name": "3.0.0-build-2018041400",
+        "url": "https://moodle.org/plugins/download.php/16452/block_culupcoming_events_moodle38_2011111013.zip"
+    },
+    {
+        "id": "10480",
+        "name": "2.2.2-build-2016020801",
+        "url": "https://moodle.org/plugins/download.php/10480/block_culupcoming_events_moodle31_2019110701.zip"
+    },
+    {
+        "id": "8066",
+        "name": "2.1.3-build-2015022600",
+        "url": "https://moodle.org/plugins/download.php/8066/block_culupcoming_events_moodle33_2016041115.zip"
+    },
+    {
+        "id": "7782",
+        "name": "2.1.2-build-2015012200",
+        "url": "https://moodle.org/plugins/download.php/7782/block_culupcoming_events_moodle27_2015110215.zip"
+    },
+    {
+        "id": "7555",
+        "name": "2.1.0-build-2014121901",
+        "url": "https://moodle.org/plugins/download.php/7555/block_culupcoming_events_moodle28_2016070220.zip"
+    },
+    {
+        "id": "7554",
+        "name": "2.0.4-build-2014121900",
+        "url": "https://moodle.org/plugins/download.php/7554/block_culupcoming_events_moodle40_2016071017.zip"
+    },
+    {
+        "id": "7407",
+        "name": "2.0.3-build-2014120200",
+        "url": "https://moodle.org/plugins/download.php/7407/block_culupcoming_events_moodle30_2022101110.zip"
+    },
+    {
+        "id": "10479",
+        "name": "2.0.1-build-2014112500",
+        "url": "https://moodle.org/plugins/download.php/10479/block_culupcoming_events_moodle25_2013091019.zip"
+    },
+    {
+        "id": "7311",
+        "name": "1.0.0-build-20140670900",
+        "url": "https://moodle.org/plugins/download.php/7311/block_culupcoming_events_moodle36_2020110206.zip"
+    }
+]

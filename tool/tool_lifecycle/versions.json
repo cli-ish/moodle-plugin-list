@@ -1,0 +1,47 @@
+[
+    {
+        "id": "29389",
+        "name": "v4.2-r1",
+        "url": "https://moodle.org/plugins/download.php/29389/tool_lifecycle_moodle36_2023070518.zip"
+    },
+    {
+        "id": "22872",
+        "name": "v3.10-r1",
+        "url": "https://moodle.org/plugins/download.php/22872/tool_lifecycle_moodle33_2023031006.zip"
+    },
+    {
+        "id": "21858",
+        "name": "v3.9-r1",
+        "url": "https://moodle.org/plugins/download.php/21858/tool_lifecycle_moodle35_2020030303.zip"
+    },
+    {
+        "id": "20231",
+        "name": "v3.7-r1",
+        "url": "https://moodle.org/plugins/download.php/20231/tool_lifecycle_moodle39_2017091015.zip"
+    },
+    {
+        "id": "26283",
+        "name": "v3.11-r2",
+        "url": "https://moodle.org/plugins/download.php/26283/tool_lifecycle_moodle40_2012120318.zip"
+    },
+    {
+        "id": "24191",
+        "name": "v3.11-r1",
+        "url": "https://moodle.org/plugins/download.php/24191/tool_lifecycle_moodle34_2016050800.zip"
+    },
+    {
+        "id": "20972",
+        "name": "v3.8-r2",
+        "url": "https://moodle.org/plugins/download.php/20972/tool_lifecycle_moodle31_2017060811.zip"
+    },
+    {
+        "id": "20734",
+        "name": "v3.8-r1",
+        "url": "https://moodle.org/plugins/download.php/20734/tool_lifecycle_moodle26_2012120707.zip"
+    },
+    {
+        "id": "19526",
+        "name": "v3.6-r1",
+        "url": "https://moodle.org/plugins/download.php/19526/tool_lifecycle_moodle33_2020120910.zip"
+    }
+]

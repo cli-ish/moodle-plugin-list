@@ -1,0 +1,52 @@
+{
+    "id": 3020,
+    "index": 663,
+    "name": "Featured Courses",
+    "frankenstyle": "block_featured_courses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_featured_courses",
+    "shortdescription": "Plugin allowing to put forward some courses and display them as thumbnails.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 4 January 2023, 12:22 PM",
+        "reldate": "7 months",
+        "iso8601date": "2023-01-04T12:22:41+08:00"
+    },
+    "aggsites": "168",
+    "aggdownloads": "161",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3020/image.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 5084745,
+            "firstname": "Martin",
+            "lastname": "Cornu-Mansuy",
+            "url": "https://moodle.org/user/profile.php?id=5084745"
+        },
+        {
+            "id": 2569955,
+            "firstname": "Laurent",
+            "lastname": "David",
+            "url": "https://moodle.org/user/profile.php?id=2569955"
+        },
+        {
+            "id": 4333720,
+            "firstname": "Camille",
+            "lastname": "Carlier",
+            "url": "https://moodle.org/user/profile.php?id=4333720"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,53 @@
+{
+    "id": 1852,
+    "index": 1445,
+    "name": "Inspire",
+    "frankenstyle": "tool_inspire",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_inspire",
+    "shortdescription": "The Inspire plugin implements open source, transparent next-generation learning analytics using machine learning backends that go beyond simple descriptive analytics to provide predictions of learner success, and ultimately diagnosis and prescriptions (advisements) to learners and teachers. From Moodle HQ.",
+    "timelastreleased": {
+        "absdate": "Thursday, 1 June 2017, 6:36 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-06-01T18:36:47+08:00"
+    },
+    "aggsites": "65",
+    "aggdownloads": "13",
+    "aggfavs": "30",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1852/inspire_logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1852/inspire_logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1852/inspire-insights.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1852/inspire-models.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1852/inspire-prediction-details.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 122326,
+            "firstname": "David",
+            "lastname": "Monlla\u00f3",
+            "url": "https://moodle.org/user/profile.php?id=122326"
+        },
+        {
+            "id": 1413178,
+            "firstname": "Elizabeth",
+            "lastname": "Dalton",
+            "url": "https://moodle.org/user/profile.php?id=1413178"
+        }
+    ],
+    "descriptors": []
+}

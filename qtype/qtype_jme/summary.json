@@ -1,0 +1,49 @@
+{
+    "id": 766,
+    "index": 1401,
+    "name": "Java Molecular Editor",
+    "frankenstyle": "qtype_jme",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_jme",
+    "shortdescription": "Question type created by Dan Stowell. \r\n\r\nThe student draw a molecule as a response to a question using the  editor and that response is graded by comparing against various model answers.\r\n\r\nOld version of the JME question type were using a java applet, but this question type now uses a Javascript applet: JSME. JSME  is a free and Open source molecule editor written in JavaScript.",
+    "timelastreleased": {
+        "absdate": "Thursday, 7 May 2015, 4:26 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-05-07T04:26:46+08:00"
+    },
+    "aggsites": "148",
+    "aggdownloads": "14",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/766/jme-qtype.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 8026,
+            "firstname": "Jean-Michel",
+            "lastname": "V\u00e9drine",
+            "url": "https://moodle.org/user/profile.php?id=8026"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

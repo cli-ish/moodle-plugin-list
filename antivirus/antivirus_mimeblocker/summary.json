@@ -1,0 +1,50 @@
+{
+    "id": 2279,
+    "index": 558,
+    "name": "Mime Blocker antivirus",
+    "frankenstyle": "antivirus_mimeblocker",
+    "plugintype": {
+        "type": "antivirus",
+        "name": "Antivirus plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/antivirus_mimeblocker",
+    "shortdescription": "An \"antivirus\" for Moodle that will accurately check the mimetype and allow only specific types of file uploads.",
+    "timelastreleased": {
+        "absdate": "Monday, 20 February 2023, 7:05 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-02-20T19:05:35+08:00"
+    },
+    "aggsites": "153",
+    "aggdownloads": "211",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2279/Error.PNG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2279/Error.PNG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2279/mime%201.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2279/mime%203.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2583080,
+            "firstname": "Azmat",
+            "lastname": "Ullah",
+            "url": "https://moodle.org/user/profile.php?id=2583080"
+        },
+        {
+            "id": 4044685,
+            "firstname": "Eummena",
+            "lastname": "Premium Moodle Partner",
+            "url": "https://moodle.org/user/profile.php?id=4044685"
+        }
+    ],
+    "descriptors": []
+}

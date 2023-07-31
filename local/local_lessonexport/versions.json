@@ -1,0 +1,97 @@
+[
+    {
+        "id": "20236",
+        "name": "3.0-build-2019090900",
+        "url": "https://moodle.org/plugins/download.php/20236/local_lessonexport_moodle27_2012070100.zip"
+    },
+    {
+        "id": "14409",
+        "name": "2.7-build-2017071200",
+        "url": "https://moodle.org/plugins/download.php/14409/local_lessonexport_moodle29_2015100301.zip"
+    },
+    {
+        "id": "19384",
+        "name": "3.0-build-2017071201",
+        "url": "https://moodle.org/plugins/download.php/19384/local_lessonexport_moodle25_2022070914.zip"
+    },
+    {
+        "id": "19383",
+        "name": "3.0-build-2019041700",
+        "url": "https://moodle.org/plugins/download.php/19383/local_lessonexport_moodle32_2018010215.zip"
+    },
+    {
+        "id": "14381",
+        "name": "2.7-build-2017041103",
+        "url": "https://moodle.org/plugins/download.php/14381/local_lessonexport_moodle36_2023120320.zip"
+    },
+    {
+        "id": "13621",
+        "name": "2.7-build-2017041101",
+        "url": "https://moodle.org/plugins/download.php/13621/local_lessonexport_moodle32_2016080600.zip"
+    },
+    {
+        "id": "13619",
+        "name": "2.7-build-2017041100",
+        "url": "https://moodle.org/plugins/download.php/13619/local_lessonexport_moodle34_2022010514.zip"
+    },
+    {
+        "id": "13567",
+        "name": "2.7-build-2017033000",
+        "url": "https://moodle.org/plugins/download.php/13567/local_lessonexport_moodle29_2016030114.zip"
+    },
+    {
+        "id": "13537",
+        "name": "2.7-build-2017032700",
+        "url": "https://moodle.org/plugins/download.php/13537/local_lessonexport_moodle32_2018100711.zip"
+    },
+    {
+        "id": "13490",
+        "name": "2.7-build-2017032000",
+        "url": "https://moodle.org/plugins/download.php/13490/local_lessonexport_moodle28_2017040215.zip"
+    },
+    {
+        "id": "13451",
+        "name": "2.7-build-2017031500",
+        "url": "https://moodle.org/plugins/download.php/13451/local_lessonexport_moodle39_2016031217.zip"
+    },
+    {
+        "id": "13438",
+        "name": "2.7-build-2017031400",
+        "url": "https://moodle.org/plugins/download.php/13438/local_lessonexport_moodle37_2017060903.zip"
+    },
+    {
+        "id": "13347",
+        "name": "2.7-build-2017030100",
+        "url": "https://moodle.org/plugins/download.php/13347/local_lessonexport_moodle39_2012120517.zip"
+    },
+    {
+        "id": "13342",
+        "name": "2.7-build-2017022700",
+        "url": "https://moodle.org/plugins/download.php/13342/local_lessonexport_moodle38_2023050717.zip"
+    },
+    {
+        "id": "13346",
+        "name": "2.7-pdf-only-build-2017022202",
+        "url": "https://moodle.org/plugins/download.php/13346/local_lessonexport_moodle28_2014060617.zip"
+    },
+    {
+        "id": "13341",
+        "name": "2.7-pdf-only-build-2017022201",
+        "url": "https://moodle.org/plugins/download.php/13341/local_lessonexport_moodle37_2016050204.zip"
+    },
+    {
+        "id": "13293",
+        "name": "2.7-pdf-only-build-2017022200",
+        "url": "https://moodle.org/plugins/download.php/13293/local_lessonexport_moodle31_2014070419.zip"
+    },
+    {
+        "id": "13292",
+        "name": "2.7-build-2017022200",
+        "url": "https://moodle.org/plugins/download.php/13292/local_lessonexport_moodle32_2011020819.zip"
+    },
+    {
+        "id": "13274",
+        "name": "2.7-build-2016101700",
+        "url": "https://moodle.org/plugins/download.php/13274/local_lessonexport_moodle34_2022080914.zip"
+    }
+]

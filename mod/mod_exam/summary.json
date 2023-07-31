@@ -1,0 +1,58 @@
+{
+    "id": 1287,
+    "index": 861,
+    "name": "Exam",
+    "frankenstyle": "mod_exam",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_exam",
+    "shortdescription": "Built of people who want to conduct large scale MCQ Quizzes.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 11 August 2015, 5:44 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-08-11T17:44:05+08:00"
+    },
+    "aggsites": "82",
+    "aggdownloads": "110",
+    "aggfavs": "26",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1287/attempt.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1287/result.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1287/setting.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 173685,
+            "firstname": "Jai",
+            "lastname": "Gupta",
+            "url": "https://moodle.org/user/profile.php?id=173685"
+        },
+        {
+            "id": 1143772,
+            "firstname": "Pinky",
+            "lastname": "Sharma",
+            "url": "https://moodle.org/user/profile.php?id=1143772"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

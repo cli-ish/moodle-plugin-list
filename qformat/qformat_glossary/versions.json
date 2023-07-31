@@ -1,0 +1,27 @@
+[
+    {
+        "id": "26290",
+        "name": "1.0.2",
+        "url": "https://moodle.org/plugins/download.php/26290/qformat_glossary_moodle28_2015081106.zip"
+    },
+    {
+        "id": "19763",
+        "name": "1.0.1",
+        "url": "https://moodle.org/plugins/download.php/19763/qformat_glossary_moodle30_2017020107.zip"
+    },
+    {
+        "id": "16464",
+        "name": "1.0-buuild-20160728",
+        "url": "https://moodle.org/plugins/download.php/16464/qformat_glossary_moodle29_2017060415.zip"
+    },
+    {
+        "id": "11865",
+        "name": "1.0-build-20160728",
+        "url": "https://moodle.org/plugins/download.php/11865/qformat_glossary_moodle32_2017010707.zip"
+    },
+    {
+        "id": "11701",
+        "name": "20160705",
+        "url": "https://moodle.org/plugins/download.php/11701/qformat_glossary_moodle36_2012010510.zip"
+    }
+]

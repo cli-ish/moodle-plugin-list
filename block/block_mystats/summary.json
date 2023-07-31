@@ -1,0 +1,62 @@
+{
+    "id": 482,
+    "index": 1502,
+    "name": "My Stats",
+    "frankenstyle": "block_mystats",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mystats",
+    "shortdescription": "A student dashboard for the My Moodle page. Shows statistics about site-wide student activity.",
+    "timelastreleased": {
+        "absdate": "Monday, 26 November 2012, 6:43 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-26T06:43:51+08:00"
+    },
+    "aggsites": "27",
+    "aggdownloads": "11",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/482/myStats_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/482/myStats_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/482/myStats_config.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/482/myStats_docked.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/482/myStats_noCharts.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/482/myStats_settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/482/myStats_twoBlocks.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 860723,
+            "firstname": "Nathan",
+            "lastname": "Robbins",
+            "url": "https://moodle.org/user/profile.php?id=860723"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Analytics"
+        }
+    ]
+}

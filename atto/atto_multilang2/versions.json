@@ -1,0 +1,122 @@
+[
+    {
+        "id": "24580",
+        "name": "v1.12-build-2021063000",
+        "url": "https://moodle.org/plugins/download.php/24580/atto_multilang2_moodle28_2010010816.zip"
+    },
+    {
+        "id": "20699",
+        "name": "1.11.2-build-2019112700",
+        "url": "https://moodle.org/plugins/download.php/20699/atto_multilang2_moodle39_2011080316.zip"
+    },
+    {
+        "id": "15493",
+        "name": "v2.0",
+        "url": "https://moodle.org/plugins/download.php/15493/atto_multilang2_moodle27_2016010410.zip"
+    },
+    {
+        "id": "20680",
+        "name": "master-release-v1.11-build-2019112500-for-moodle-3.6-3.7-and-3.8",
+        "url": "https://moodle.org/plugins/download.php/20680/atto_multilang2_moodle32_2014050402.zip"
+    },
+    {
+        "id": "20538",
+        "name": "release-v1.10-build-2019110600-for-moodle-3.6-and-3.7",
+        "url": "https://moodle.org/plugins/download.php/20538/atto_multilang2_moodle36_2010050920.zip"
+    },
+    {
+        "id": "20535",
+        "name": "master-release-v1.10-build-2019110600-for-moodle-3.6-and-3.7",
+        "url": "https://moodle.org/plugins/download.php/20535/atto_multilang2_moodle26_2014120814.zip"
+    },
+    {
+        "id": "14080",
+        "name": "v3.3.1.7-version-v1.7-for-moodle-3.3-2016121100",
+        "url": "https://moodle.org/plugins/download.php/14080/atto_multilang2_moodle34_2011010105.zip"
+    },
+    {
+        "id": "12835",
+        "name": "v3.2.1.7-version-v1.7-for-moodle-3.2-2016121100",
+        "url": "https://moodle.org/plugins/download.php/12835/atto_multilang2_moodle39_2014120412.zip"
+    },
+    {
+        "id": "11379",
+        "name": "v3.1.1.6-version-1.6-for-moodle-3.1-build-2016052600",
+        "url": "https://moodle.org/plugins/download.php/11379/atto_multilang2_moodle32_2020090711.zip"
+    },
+    {
+        "id": "11378",
+        "name": "v3.0.1.6-version-1.6-for-moodle-3.0-build-2016052600",
+        "url": "https://moodle.org/plugins/download.php/11378/atto_multilang2_moodle37_2015090412.zip"
+    },
+    {
+        "id": "11377",
+        "name": "v2.9.1.6-version-1.6-for-moodle-2.9-build-2016052600",
+        "url": "https://moodle.org/plugins/download.php/11377/atto_multilang2_moodle28_2010060506.zip"
+    },
+    {
+        "id": "11225",
+        "name": "release-v1.5-build-2016050600-for-moodle-3.1-beta-1",
+        "url": "https://moodle.org/plugins/download.php/11225/atto_multilang2_moodle32_2015090616.zip"
+    },
+    {
+        "id": "11163",
+        "name": "v3.0.1.5-version-1.5-for-moodle-3.0-build-2016042800",
+        "url": "https://moodle.org/plugins/download.php/11163/atto_multilang2_moodle36_2014051019.zip"
+    },
+    {
+        "id": "11162",
+        "name": "v2.9.1.5-version-1.5-for-moodle-2.9-build-2016042800",
+        "url": "https://moodle.org/plugins/download.php/11162/atto_multilang2_moodle26_2010040701.zip"
+    },
+    {
+        "id": "11140",
+        "name": "v3.0.1.4-version-1.4-for-moodle-3.0-build-2016042500",
+        "url": "https://moodle.org/plugins/download.php/11140/atto_multilang2_moodle33_2022050609.zip"
+    },
+    {
+        "id": "11139",
+        "name": "v2.9.1.4-version-1.4-for-moodle-2.9-build-2016042500",
+        "url": "https://moodle.org/plugins/download.php/11139/atto_multilang2_moodle29_2010100212.zip"
+    },
+    {
+        "id": "11026",
+        "name": "v3.0.1.3-version-1.3-for-moodle-3.0-build-2016041400",
+        "url": "https://moodle.org/plugins/download.php/11026/atto_multilang2_moodle36_2017060715.zip"
+    },
+    {
+        "id": "11025",
+        "name": "v2.9.1.3-version-1.3-for-moodle-2.9-build-2016041400",
+        "url": "https://moodle.org/plugins/download.php/11025/atto_multilang2_moodle25_2017030219.zip"
+    },
+    {
+        "id": "11021",
+        "name": "v3.0.1.2-version-1.2-for-moodle-3.0-build-2015120503",
+        "url": "https://moodle.org/plugins/download.php/11021/atto_multilang2_moodle40_2013071116.zip"
+    },
+    {
+        "id": "11020",
+        "name": "v2.9.1.2-version-1.2-for-moodle-2.9-build-2015120503",
+        "url": "https://moodle.org/plugins/download.php/11020/atto_multilang2_moodle30_2016051217.zip"
+    },
+    {
+        "id": "10412",
+        "name": "2.9-build-2015120502",
+        "url": "https://moodle.org/plugins/download.php/10412/atto_multilang2_moodle39_2019031212.zip"
+    },
+    {
+        "id": "10411",
+        "name": "3.0-build-2015120502",
+        "url": "https://moodle.org/plugins/download.php/10411/atto_multilang2_moodle33_2015060416.zip"
+    },
+    {
+        "id": "10279",
+        "name": "3.0-build-2015120501",
+        "url": "https://moodle.org/plugins/download.php/10279/atto_multilang2_moodle35_2022080716.zip"
+    },
+    {
+        "id": "10278",
+        "name": "2.9-build-2015120501",
+        "url": "https://moodle.org/plugins/download.php/10278/atto_multilang2_moodle25_2022100704.zip"
+    }
+]

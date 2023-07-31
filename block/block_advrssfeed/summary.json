@@ -1,0 +1,52 @@
+{
+    "id": 859,
+    "index": 1990,
+    "name": "Advanced RSS Feed",
+    "frankenstyle": "block_advrssfeed",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_advrssfeed",
+    "shortdescription": "Block for RSS Feed",
+    "timelastreleased": {
+        "absdate": "Thursday, 10 October 2013, 3:55 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-10-10T15:55:56+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "2",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/859/logo%20advrssfeed.s.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/859/logo%20advrssfeed.s.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/859/ScreenShoot2.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/859/ScreenShoot3.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/859/Screenshot.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1628700,
+            "firstname": "ScrumLab",
+            "lastname": "Agilead Studio",
+            "url": "https://moodle.org/user/profile.php?id=1628700"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

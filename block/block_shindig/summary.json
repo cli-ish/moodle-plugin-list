@@ -1,0 +1,45 @@
+{
+    "id": 69,
+    "index": 1700,
+    "name": "OpenSocial gadget block",
+    "frankenstyle": "block_shindig",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_shindig",
+    "shortdescription": "This is a plugin to add OpenSocial gadgets to the Moodle as blocks. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 September 2011, 11:22 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-09-22T23:22:07+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "7",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/69/moodle-block.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1364802,
+            "firstname": "Evgeny",
+            "lastname": "Bogdanov",
+            "url": "https://moodle.org/user/profile.php?id=1364802"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

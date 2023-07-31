@@ -1,0 +1,71 @@
+{
+    "id": 1962,
+    "index": 357,
+    "name": "Moodleoverflow",
+    "frankenstyle": "mod_moodleoverflow",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_moodleoverflow",
+    "shortdescription": "A non-linear, non-chronological discussion forum. Similar to the forum activity, but focuses on straightforward question-and-answer discussions. Additionally, users rate posts and gain a rating score (\"reputation\") by being rated by other users. Users who have started a discussion can mark an answer as helpful; and teachers can mark a post as a (correct) solution to the posed question.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 July 2023, 12:05 AM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-04T00:05:32+08:00"
+    },
+    "aggsites": "422",
+    "aggdownloads": "357",
+    "aggfavs": "62",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1962/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1962/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1962/moodleqa-post.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1962/attachment.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1962/course_settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1962/moodleqa-course.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1962/post.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 1942711,
+            "firstname": "Jan",
+            "lastname": "Dagef\u00f6rde",
+            "url": "https://moodle.org/user/profile.php?id=1942711"
+        },
+        {
+            "id": 2095586,
+            "firstname": "Nina",
+            "lastname": "Herrmann",
+            "url": "https://moodle.org/user/profile.php?id=2095586"
+        },
+        {
+            "id": 3540996,
+            "firstname": "Justus",
+            "lastname": "Dieckmann",
+            "url": "https://moodle.org/user/profile.php?id=3540996"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 787,
+    "index": 2072,
+    "name": "Config Log Emailer",
+    "frankenstyle": "local_configlogemailer",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_configlogemailer",
+    "shortdescription": "This plugin sends an email to a specified user after it has detected a config setting was changed when running cron. The to and from email addresses can be changed in the settings page.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 August 2013, 12:39 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-22T12:39:38+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "1",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1461149,
+            "firstname": "Alex",
+            "lastname": "Rowe",
+            "url": "https://moodle.org/user/profile.php?id=1461149"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

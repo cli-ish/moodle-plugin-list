@@ -1,0 +1,32 @@
+[
+    {
+        "id": "256",
+        "name": "2.1-20111105",
+        "url": "https://moodle.org/plugins/download.php/256/mod_book_moodle31_2012031220.zip"
+    },
+    {
+        "id": "149",
+        "name": "2.0",
+        "url": "https://moodle.org/plugins/download.php/149/mod_book_moodle26_2020121012.zip"
+    },
+    {
+        "id": "148",
+        "name": "1.9.1",
+        "url": "https://moodle.org/plugins/download.php/148/mod_book_moodle26_2015031203.zip"
+    },
+    {
+        "id": "246",
+        "name": "2.1beta3",
+        "url": "https://moodle.org/plugins/download.php/246/mod_book_moodle26_2022060316.zip"
+    },
+    {
+        "id": "172",
+        "name": "2.1beta2-20111014",
+        "url": "https://moodle.org/plugins/download.php/172/mod_book_moodle38_2013010907.zip"
+    },
+    {
+        "id": "150",
+        "name": "2.1-beta1",
+        "url": "https://moodle.org/plugins/download.php/150/mod_book_moodle32_2017060306.zip"
+    }
+]

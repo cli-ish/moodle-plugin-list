@@ -1,0 +1,46 @@
+{
+    "id": 1844,
+    "index": 219,
+    "name": "Maintenance mode (live check)",
+    "frankenstyle": "local_maintenance_livecheck",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_maintenance_livecheck",
+    "shortdescription": "Moodle plugin which shows the Moodle maintenance announcement even if there is no full page load",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 March 2023, 3:38 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-29T03:38:36+08:00"
+    },
+    "aggsites": "259",
+    "aggdownloads": "568",
+    "aggfavs": "23",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1844/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1844/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1844/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

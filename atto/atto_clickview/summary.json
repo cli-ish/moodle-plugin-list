@@ -1,0 +1,47 @@
+{
+    "id": 2807,
+    "index": 414,
+    "name": "Embed ClickView Video (Atto)",
+    "frankenstyle": "atto_clickview",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_clickview",
+    "shortdescription": "The ClickView atto editor plugin for Moodle enables you to quickly and safely browse through your entire ClickView library, the ClickView exchange and your own personal workspace from within Moodle.",
+    "timelastreleased": {
+        "absdate": "Monday, 22 May 2023, 3:41 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-22T15:41:29+08:00"
+    },
+    "aggsites": "121",
+    "aggdownloads": "295",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2807/Embed-ClickView-Video-Atto-Moodle-Plugin-Thumbnail.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2807/Screenshot%202021-09-28%20204702.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2807/Screenshot%202021-09-28%20204729.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4407584,
+            "firstname": "Shale",
+            "lastname": "Kuzmanovsk",
+            "url": "https://moodle.org/user/profile.php?id=4407584"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id": "27167",
+        "name": "2.9.0-2021-02-22",
+        "url": "https://moodle.org/plugins/download.php/27167/repository_xpert_url_moodle39_2010120314.zip"
+    },
+    {
+        "id": "22387",
+        "name": "2.8.1-2020-07-23",
+        "url": "https://moodle.org/plugins/download.php/22387/repository_xpert_url_moodle32_2023081015.zip"
+    },
+    {
+        "id": "20049",
+        "name": "2.7.4-2019-01-31",
+        "url": "https://moodle.org/plugins/download.php/20049/repository_xpert_url_moodle35_2015041109.zip"
+    },
+    {
+        "id": "15130",
+        "name": "2.7.2-2017-07-03",
+        "url": "https://moodle.org/plugins/download.php/15130/repository_xpert_url_moodle29_2010010308.zip"
+    },
+    {
+        "id": "8074",
+        "name": "2.6",
+        "url": "https://moodle.org/plugins/download.php/8074/repository_xpert_url_moodle34_2016090103.zip"
+    }
+]

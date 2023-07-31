@@ -1,0 +1,50 @@
+{
+    "id": 2325,
+    "index": 1168,
+    "name": "Multiple graders",
+    "frankenstyle": "gradingform_multigraders",
+    "plugintype": {
+        "type": "gradingform",
+        "name": "Advanced grading method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradingform_multigraders",
+    "shortdescription": "Advanced grading form allowing multiple graders for assignments",
+    "timelastreleased": {
+        "absdate": "Wednesday, 19 May 2021, 9:07 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-19T21:07:17+08:00"
+    },
+    "aggsites": "139",
+    "aggdownloads": "29",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2325/Capture1.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2325/Capture2.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2325/Capture3.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2325/last%20previous%20grade.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2376998,
+            "firstname": "Lucian Gabriel",
+            "lastname": "Pricop",
+            "url": "https://moodle.org/user/profile.php?id=2376998"
+        }
+    ],
+    "descriptors": []
+}

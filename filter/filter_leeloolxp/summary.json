@@ -1,0 +1,50 @@
+{
+    "id": 2676,
+    "index": 1679,
+    "name": "Leeloo LXP Content Filter",
+    "frankenstyle": "filter_leeloolxp",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_leeloolxp",
+    "shortdescription": "The Leeloo LXP Content Filter allows you to use shortcodes on a page without a { content \u2013 region } and display any of the Leeloo LXP Content Plugins from the Suite in the { content \u2013 region }.",
+    "timelastreleased": {
+        "absdate": "Friday, 30 April 2021, 2:00 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-04-30T14:00:18+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "7",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2676/Plugin-logo%20%281%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2676/Plugin-logo%20%281%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2676/Summary.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2676/Edit-Summary.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2676/enablefilter.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2676/Moodle.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3565767,
+            "firstname": "Ludovic",
+            "lastname": "LEBLEU",
+            "url": "https://moodle.org/user/profile.php?id=3565767"
+        }
+    ],
+    "descriptors": []
+}

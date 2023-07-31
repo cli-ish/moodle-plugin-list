@@ -1,0 +1,55 @@
+{
+    "id": 1606,
+    "index": 531,
+    "name": "edu-sharing Workspace",
+    "frankenstyle": "block_edusharing_workspace",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_edusharing_workspace",
+    "shortdescription": "A block with a button taking you to the edu-sharing workspace and the edu-sharing search engine. The workspace provides the graphical user interface of the edu-sharing repository that allows users, departments or project groups to manage their content, arrange it in folders or share it with peers. It offers your users the following features:\r\n  - content licenses (creative commons)\r\n  - freely configurable folder structures\r\n  - meta-data editing and inheritance\r\n  - version management",
+    "timelastreleased": {
+        "absdate": "Wednesday, 6 October 2021, 9:54 PM",
+        "reldate": "22 months",
+        "iso8601date": "2021-10-06T21:54:26+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "223",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1606/edu-sharing.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1606/edu-sharing.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1606/block%20with%20button%20for%20edu-sharing%20workspace?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1606/edu-sharing%20workspace.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2685541,
+            "firstname": "Christian",
+            "lastname": "Ernst",
+            "url": "https://moodle.org/user/profile.php?id=2685541"
+        },
+        {
+            "id": 5580377,
+            "firstname": "edu-sharing",
+            "lastname": "Integrations",
+            "url": "https://moodle.org/user/profile.php?id=5580377"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

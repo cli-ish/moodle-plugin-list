@@ -1,0 +1,45 @@
+{
+    "id": 1084,
+    "index": 1965,
+    "name": "Leatherbound",
+    "frankenstyle": "theme_leatherbound",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_leatherbound",
+    "shortdescription": "This theme was part of the Moodle core distribution, but for Moodle 2.7+ has been moved to Moodle Plugins",
+    "timelastreleased": {
+        "absdate": "Monday, 14 April 2014, 1:21 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-14T13:21:17+08:00"
+    },
+    "aggsites": "86",
+    "aggdownloads": "2",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1084/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

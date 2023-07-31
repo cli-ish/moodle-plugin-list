@@ -1,0 +1,46 @@
+{
+    "id": 2180,
+    "index": 613,
+    "name": "User favourites / favorite / bookmark",
+    "frankenstyle": "block_user_favorites",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_user_favorites",
+    "shortdescription": "Marking Moodle pages as user favourites.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 10 May 2023, 3:55 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-10T03:55:24+08:00"
+    },
+    "aggsites": "445",
+    "aggdownloads": "188",
+    "aggfavs": "32",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2180/logov2_illustration.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2180/logov2_illustration.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2180/68747470733a2f2f636f6e74656e742e73637265656e636173742e636f6d2f75736572732f4c75756b566572686f6576656e2f666f6c646572732f536e616769742f6d656469612f30613632623764352d633336392d343533662d396136332d66666635643263323466396.gif?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487326,
+            "firstname": "Luuk",
+            "lastname": "Verhoeven",
+            "url": "https://moodle.org/user/profile.php?id=1487326"
+        },
+        {
+            "id": 1575644,
+            "firstname": "Gemma",
+            "lastname": "Lesterhuis",
+            "url": "https://moodle.org/user/profile.php?id=1575644"
+        }
+    ],
+    "descriptors": []
+}

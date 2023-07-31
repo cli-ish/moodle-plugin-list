@@ -1,0 +1,40 @@
+{
+    "id": 3007,
+    "index": 1487,
+    "name": "Medical Imaging Study Viewer resource manager",
+    "frankenstyle": "atto_medimgviewer",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_medimgviewer",
+    "shortdescription": "Atto editor plugin to make it easier to insert Medical Imaging Study Viewer tags into course content.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 7 February 2023, 10:35 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-07T22:35:59+08:00"
+    },
+    "aggsites": null,
+    "aggdownloads": "12",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3007/screenshot2.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2941632,
+            "firstname": "Sampsa",
+            "lastname": "Lohi",
+            "url": "https://moodle.org/user/profile.php?id=2941632"
+        }
+    ],
+    "descriptors": []
+}

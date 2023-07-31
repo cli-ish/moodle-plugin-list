@@ -1,0 +1,55 @@
+{
+    "id": 821,
+    "index": 1118,
+    "name": "Multi Course Grader report",
+    "frankenstyle": "gradereport_multigrader",
+    "plugintype": {
+        "type": "gradereport",
+        "name": "Gradebook report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradereport_multigrader",
+    "shortdescription": "Site Wide grader reports on one page with the ability to filter by course category / course.  No editing functionality.",
+    "timelastreleased": {
+        "absdate": "Sunday, 25 October 2015, 1:11 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-10-25T01:11:46+08:00"
+    },
+    "aggsites": "191",
+    "aggdownloads": "35",
+    "aggfavs": "28",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/821/Course%20filter.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/821/Multi%20course%20grader%20report.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/821/Multi%20grader%20-%20category%20and%20course%20selection.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/821/Multi%20grader.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 520295,
+            "firstname": "Barry",
+            "lastname": "Oosthuizen",
+            "url": "https://moodle.org/user/profile.php?id=520295"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "id": 1025,
+    "index": 100,
+    "name": "Turnitin",
+    "frankenstyle": "block_turnitin",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_turnitin",
+    "shortdescription": "Turnitin's block allows users to access Turnitin's Class Restoration functionality which is contained within Turnitin's Moodle Direct V2. The block is developed and maintained by Turnitin.",
+    "timelastreleased": {
+        "absdate": "Friday, 21 December 2018, 12:25 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-12-21T00:25:20+08:00"
+    },
+    "aggsites": "490",
+    "aggdownloads": "1k",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1025/turnitin_cmyk_stacked.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1025/turnitin_cmyk_stacked.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1025/block.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1025/class-migration.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5120187,
+            "firstname": "Bryan",
+            "lastname": "Holladay",
+            "url": "https://moodle.org/user/profile.php?id=5120187"
+        },
+        {
+            "id": 496836,
+            "firstname": "Paul",
+            "lastname": "Dawson",
+            "url": "https://moodle.org/user/profile.php?id=496836"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 2201,
+    "index": 935,
+    "name": "Flash apocalypse",
+    "frankenstyle": "report_apocalypse",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_apocalypse",
+    "shortdescription": "This report lists activities, by type, in your site that contain flash-based content.\r\n\r\nSupport for Flash ends in mid-2019 when most browsers will disable Flash player and your content will not display.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 August 2019, 5:22 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-08-02T05:22:40+08:00"
+    },
+    "aggsites": "224",
+    "aggdownloads": "75",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2201/flashapocalypse.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

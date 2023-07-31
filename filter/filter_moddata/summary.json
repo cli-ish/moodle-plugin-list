@@ -1,0 +1,40 @@
+{
+    "id": 3103,
+    "index": 1459,
+    "name": "Database Activity filter",
+    "frankenstyle": "filter_moddata",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_moddata",
+    "shortdescription": "A simple filter allowing the use of the Database activity to use data sets in Moodle. These data sets are mapped to users using course groups.\r\n\r\nThe first intended usage was to provide data sets for questions from Moodle's question engine.",
+    "timelastreleased": {
+        "absdate": "Monday, 27 March 2023, 11:31 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-27T23:31:07+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "13",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3103/Screenshot%202023-03-27%20at%2017.34.40.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": []
+}

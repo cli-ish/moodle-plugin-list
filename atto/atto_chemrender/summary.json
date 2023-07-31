@@ -1,0 +1,55 @@
+{
+    "id": 1656,
+    "index": 1326,
+    "name": "ChemRender",
+    "frankenstyle": "atto_chemrender",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_chemrender",
+    "shortdescription": "Chemical structure editor and molecular data file import plugin for the Atto HTML Editor.",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 June 2016, 3:23 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-06-16T03:23:30+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "18",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1656/ChemRender-atto-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1656/ChemRender-atto-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1656/ChemRender-atto-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1656/ChemRender-atto-4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2076280,
+            "firstname": "Jonathan",
+            "lastname": "Erde",
+            "url": "https://moodle.org/user/profile.php?id=2076280"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

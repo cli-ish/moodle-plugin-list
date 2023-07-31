@@ -1,0 +1,67 @@
+[
+    {
+        "id": "26906",
+        "name": "4.0.0-build-2022062500",
+        "url": "https://moodle.org/plugins/download.php/26906/block_culactivity_stream_moodle38_2015080116.zip"
+    },
+    {
+        "id": "25280",
+        "name": "3.11.0-build-2021100100",
+        "url": "https://moodle.org/plugins/download.php/25280/block_culactivity_stream_moodle35_2023090405.zip"
+    },
+    {
+        "id": "23078",
+        "name": "3.9.0-build-2020121000",
+        "url": "https://moodle.org/plugins/download.php/23078/block_culactivity_stream_moodle31_2013120606.zip"
+    },
+    {
+        "id": "20287",
+        "name": "3.6.0-build-2019031201",
+        "url": "https://moodle.org/plugins/download.php/20287/block_culactivity_stream_moodle28_2015070316.zip"
+    },
+    {
+        "id": "16889",
+        "name": "3.0.3-build-2016110403",
+        "url": "https://moodle.org/plugins/download.php/16889/block_culactivity_stream_moodle32_2015060608.zip"
+    },
+    {
+        "id": "12527",
+        "name": "3.0.0-build-2016110400",
+        "url": "https://moodle.org/plugins/download.php/12527/block_culactivity_stream_moodle30_2014120307.zip"
+    },
+    {
+        "id": "23036",
+        "name": "3.8.0-build-2019031202",
+        "url": "https://moodle.org/plugins/download.php/23036/block_culactivity_stream_moodle27_2010041115.zip"
+    },
+    {
+        "id": "20282",
+        "name": "3.6.0-build-2019031200",
+        "url": "https://moodle.org/plugins/download.php/20282/block_culactivity_stream_moodle29_2012110816.zip"
+    },
+    {
+        "id": "9691",
+        "name": "1.0.5-build-2015110600",
+        "url": "https://moodle.org/plugins/download.php/9691/block_culactivity_stream_moodle34_2021080808.zip"
+    },
+    {
+        "id": "8065",
+        "name": "1.0.4-build-2015022600",
+        "url": "https://moodle.org/plugins/download.php/8065/block_culactivity_stream_moodle39_2021120213.zip"
+    },
+    {
+        "id": "7777",
+        "name": "1.0.3-build-2015011400",
+        "url": "https://moodle.org/plugins/download.php/7777/block_culactivity_stream_moodle30_2023110206.zip"
+    },
+    {
+        "id": "7153",
+        "name": "1.0.1-build-2014110500",
+        "url": "https://moodle.org/plugins/download.php/7153/block_culactivity_stream_moodle31_2013070809.zip"
+    },
+    {
+        "id": "7117",
+        "name": "1.0-build-2014081400",
+        "url": "https://moodle.org/plugins/download.php/7117/block_culactivity_stream_moodle40_2015030919.zip"
+    }
+]

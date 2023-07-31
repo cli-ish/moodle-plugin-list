@@ -1,0 +1,58 @@
+{
+    "id": 292,
+    "index": 193,
+    "name": "Booking",
+    "frankenstyle": "mod_booking",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_booking",
+    "shortdescription": "The module is perfect for managing participants and subscription of online and offline courses and events. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 March 2023, 3:17 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-28T15:17:07+08:00"
+    },
+    "aggsites": "1044",
+    "aggdownloads": "645",
+    "aggfavs": "121",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/292/Wunderbyte-Logosignet-Farbe-neg-HG.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/292/Wunderbyte-Logosignet-Farbe-neg-HG.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/292/booking-cart-integration.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/292/booking-option-settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/292/booking-overview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        },
+        {
+            "id": 4890909,
+            "firstname": "Wunderbyte",
+            "lastname": "GmbH",
+            "url": "https://moodle.org/user/profile.php?id=4890909"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

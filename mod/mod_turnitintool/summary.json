@@ -1,0 +1,64 @@
+{
+    "id": 250,
+    "index": 2092,
+    "name": "Turnitin's Moodle Direct",
+    "frankenstyle": "mod_turnitintool",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_turnitintool",
+    "shortdescription": "This plugin is no longer supported or maintained, please refer to https://help.turnitin.com/feedback-studio/moodle/moodle-home.htm for further information on migrating.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 February 2012, 2:36 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-02-22T02:36:56+08:00"
+    },
+    "aggsites": "210",
+    "aggdownloads": null,
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/250/Turnitin.PNG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/250/Turnitin.PNG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/250/Turnitin.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 496836,
+            "firstname": "Paul",
+            "lastname": "Dawson",
+            "url": "https://moodle.org/user/profile.php?id=496836"
+        },
+        {
+            "id": 1699969,
+            "firstname": "James",
+            "lastname": "Robson",
+            "url": "https://moodle.org/user/profile.php?id=1699969"
+        },
+        {
+            "id": 1533445,
+            "firstname": "John",
+            "lastname": "McGettrick",
+            "url": "https://moodle.org/user/profile.php?id=1533445"
+        },
+        {
+            "id": 1903887,
+            "firstname": "David",
+            "lastname": "Dyke",
+            "url": "https://moodle.org/user/profile.php?id=1903887"
+        },
+        {
+            "id": 1947570,
+            "firstname": "David",
+            "lastname": "Winn",
+            "url": "https://moodle.org/user/profile.php?id=1947570"
+        }
+    ],
+    "descriptors": []
+}

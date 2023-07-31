@@ -1,0 +1,68 @@
+{
+    "id": 1230,
+    "index": 1042,
+    "name": "Computer science editor",
+    "frankenstyle": "atto_computing",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_computing",
+    "shortdescription": "Computer science equation editor plugin for Moodle 2.7, or later, using either the TeX or MathJax filter.\r\n\r\nDesigned for UK A Level (post-16) Computing and Computer Science curriculum, but can be easily customised for other levels or content.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 September 2015, 3:03 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-09-30T03:03:56+08:00"
+    },
+    "aggsites": "209",
+    "aggdownloads": "45",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1230/desktop90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1230/desktop90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1230/Computing1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1230/Computing2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1230/Computing3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1230/Computing4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1230/Computing5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1230/Computing6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1230/Computing7.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 6805,
+            "firstname": "Geoffrey",
+            "lastname": "Rowland",
+            "url": "https://moodle.org/user/profile.php?id=6805"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Computing"
+        }
+    ]
+}

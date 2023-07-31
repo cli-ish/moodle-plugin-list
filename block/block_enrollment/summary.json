@@ -1,0 +1,45 @@
+{
+    "id": 460,
+    "index": 1492,
+    "name": "Quick enrollment",
+    "frankenstyle": "block_enrollment",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_enrollment",
+    "shortdescription": "With this plugin you can quickly enroll users to many courses.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 19 February 2014, 10:39 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-02-19T22:39:06+08:00"
+    },
+    "aggsites": "92",
+    "aggdownloads": "11",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/460/catalog_fastreg_square.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/460/catalog_fastreg_square.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/460/Capture.JPG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1394501,
+            "firstname": "Adrien",
+            "lastname": "Jamot",
+            "url": "https://moodle.org/user/profile.php?id=1394501"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

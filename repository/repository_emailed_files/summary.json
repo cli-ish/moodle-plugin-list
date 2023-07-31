@@ -1,0 +1,45 @@
+{
+    "id": 1177,
+    "index": 1924,
+    "name": "Emailed Files",
+    "frankenstyle": "repository_emailed_files",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_emailed_files",
+    "shortdescription": "Create a Mailbox for your Moodle Instance (e.g. moodle@yourorganization.org / moodleXY@gmail.com).\r\n\r\nUsers can send mails to this mail-Address and import email-attachments from their mails as files.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 December 2014, 11:50 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-31T23:50:33+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "3",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1177/moodle_email_repo_config.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 566,
+    "index": 2129,
+    "name": "Youku Filter",
+    "frankenstyle": "filter_youku",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_youku",
+    "shortdescription": "Looks for links to youku videos and replaces with the appropriate embed code.\r\n\u8fc7\u6ee4\u5668\u4f1a\u67e5\u627e\u4f18\u9177\u89c6\u9891\uff0c\u4ee3\u4e4b\u4ee5\u9002\u5f53\u7684\u5d4c\u5165\u4ee3\u7801\u94fe\u63a5\u3002",
+    "timelastreleased": {
+        "absdate": "Friday, 14 December 2012, 9:10 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-12-14T09:10:49+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 11995,
+            "firstname": "Shane",
+            "lastname": "Elliott",
+            "url": "https://moodle.org/user/profile.php?id=11995"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

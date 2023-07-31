@@ -1,0 +1,65 @@
+{
+    "id": 632,
+    "index": 1767,
+    "name": "Streaming media filter (RTMP)",
+    "frankenstyle": "filter_rtmp",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_rtmp",
+    "shortdescription": "Filters URLs beginning with rtmp:// and creates a Flowplayer player using their streaming plugin.",
+    "timelastreleased": {
+        "absdate": "Monday, 11 January 2016, 9:17 PM",
+        "reldate": "8 years",
+        "iso8601date": "2016-01-11T21:17:40+08:00"
+    },
+    "aggsites": "45",
+    "aggdownloads": "5",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/632/filter_rtmp_link.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/632/playlist.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 268334,
+            "firstname": "Fred",
+            "lastname": "Woolard",
+            "url": "https://moodle.org/user/profile.php?id=268334"
+        },
+        {
+            "id": 286444,
+            "firstname": "Lacey",
+            "lastname": "Vickery",
+            "url": "https://moodle.org/user/profile.php?id=286444"
+        },
+        {
+            "id": 1940200,
+            "firstname": "Michelle",
+            "lastname": "Melton",
+            "url": "https://moodle.org/user/profile.php?id=1940200"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

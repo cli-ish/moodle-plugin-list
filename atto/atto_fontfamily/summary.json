@@ -1,0 +1,51 @@
+{
+    "id": 1420,
+    "index": 85,
+    "name": "Font family",
+    "frankenstyle": "atto_fontfamily",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_fontfamily",
+    "shortdescription": "A plugin for atto to allow the font family to be altered.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 20 May 2015, 10:55 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-05-20T22:55:13+08:00"
+    },
+    "aggsites": "5447",
+    "aggdownloads": "1k",
+    "aggfavs": "72",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1420/icon_90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1420/icon_90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1420/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1018346,
+            "firstname": "Pau",
+            "lastname": "Ferrer Oca\u00f1a",
+            "url": "https://moodle.org/user/profile.php?id=1018346"
+        },
+        {
+            "id": 1394459,
+            "firstname": "Projectes TAC",
+            "lastname": "Dep. Educaci\u00f3 Catalunya",
+            "url": "https://moodle.org/user/profile.php?id=1394459"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

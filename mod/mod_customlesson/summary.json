@@ -1,0 +1,45 @@
+{
+    "id": 663,
+    "index": 1698,
+    "name": "Custom Lesson",
+    "frankenstyle": "mod_customlesson",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_customlesson",
+    "shortdescription": "Customlesson is a variant of the official module lesson, which allows the teacher to have a template lesson, customized for each student. The lesson template is completed by a csv file which provides all the variable fields (columns) for each of the students (rows).",
+    "timelastreleased": {
+        "absdate": "Monday, 6 May 2013, 6:51 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-06T06:51:23+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "7",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/663/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/663/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/663/import-arrow.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 365480,
+            "firstname": "Allegre",
+            "lastname": "Guillaume",
+            "url": "https://moodle.org/user/profile.php?id=365480"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 2964,
+    "index": 747,
+    "name": "EduSynch E-Proctoring",
+    "frankenstyle": "quizaccess_edusynch",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_edusynch",
+    "shortdescription": "The EduSynch E-Proctoring Plugin provides automated supervision for tests taken through Moodle. EduSynch E-Proctoring uses a host of tools available through Google Chrome combined with machine learning to prevent students from going down the path of academic dishonesty before they do.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 September 2022, 1:04 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-02T01:04:59+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "135",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2964/logo-eproctoring-vertical.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2964/logo-eproctoring-vertical.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2964/EduSynch-E-Proctoring%20%281%29.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2964/EduSynch-E-Proctoring.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2964/image.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2964/unnamed%20%28111%29.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2964/unnamed%20%28112%29.jpeg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4856528,
+            "firstname": "Sean",
+            "lastname": "Kilachand",
+            "url": "https://moodle.org/user/profile.php?id=4856528"
+        }
+    ],
+    "descriptors": []
+}

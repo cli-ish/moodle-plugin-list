@@ -1,0 +1,53 @@
+{
+    "id": 1577,
+    "index": 284,
+    "name": "PayPal",
+    "frankenstyle": "availability_paypal",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_paypal",
+    "shortdescription": " An Availability Condition to require a PayPal payment to access activities and resources.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 13 April 2022, 4:49 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-13T04:49:19+08:00"
+    },
+    "aggsites": "851",
+    "aggdownloads": "451",
+    "aggfavs": "70",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1577/Screenshot%20from%202016-11-03%20172911.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1577/Screenshot%20from%202016-11-03%20172937.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1577/Screenshot%20from%202016-11-03%20173244.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1577/Screenshot%20from%202016-11-03%20173303.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1577/Screenshot%20from%202020-06-29%2010-45-52.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": []
+}

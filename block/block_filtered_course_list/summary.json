@@ -1,0 +1,57 @@
+{
+    "id": 1539,
+    "index": 373,
+    "name": "Filtered course list",
+    "frankenstyle": "block_filtered_course_list",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_filtered_course_list",
+    "shortdescription": "The Filtered Course List block displays a configurable list of courses. It is intended as a replacement for the My Courses block, although both may be used. It is maintained by the Collaborative Liberal Arts Moodle Project (CLAMP).",
+    "timelastreleased": {
+        "absdate": "Wednesday, 5 July 2023, 10:39 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-05T22:39:24+08:00"
+    },
+    "aggsites": "686",
+    "aggdownloads": "338",
+    "aggfavs": "54",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1539/Screen%20Shot%202015-11-28%20at%2011.18.19%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 749424,
+            "firstname": "Kevin",
+            "lastname": "Wiliarty",
+            "url": "https://moodle.org/user/profile.php?id=749424"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "29139",
+        "name": "1.2.3",
+        "url": "https://moodle.org/plugins/download.php/29139/mod_discourse_moodle26_2020090806.zip"
+    },
+    {
+        "id": "28146",
+        "name": "1.2.2",
+        "url": "https://moodle.org/plugins/download.php/28146/mod_discourse_moodle37_2019080812.zip"
+    },
+    {
+        "id": "27374",
+        "name": "1.2.0",
+        "url": "https://moodle.org/plugins/download.php/27374/mod_discourse_moodle31_2013121012.zip"
+    },
+    {
+        "id": "25790",
+        "name": "1.1.2",
+        "url": "https://moodle.org/plugins/download.php/25790/mod_discourse_moodle31_2022090517.zip"
+    }
+]

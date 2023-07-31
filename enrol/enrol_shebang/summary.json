@@ -1,0 +1,64 @@
+{
+    "id": 340,
+    "index": 1678,
+    "name": "SHEBanG",
+    "frankenstyle": "enrol_shebang",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_shebang",
+    "shortdescription": "This enrollment plugin provides a way for Moodle to consume Banner&reg; LMB (Luminis Message Broker) messages. This module is not an Ellucian product, and is neither endorsed nor supported by Ellucian. ",
+    "timelastreleased": {
+        "absdate": "Friday, 21 September 2018, 12:56 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-09-21T00:56:09+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "7",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/340/shebang-cfg-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/340/shebang-cfg-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/340/shebang-cfg-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/340/shebang-cfg-4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/340/shebang-cfg-5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/340/shebang-cfg-6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/340/shebang-cfg-7.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 268334,
+            "firstname": "Fred",
+            "lastname": "Woolard",
+            "url": "https://moodle.org/user/profile.php?id=268334"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

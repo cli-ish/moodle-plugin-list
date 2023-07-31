@@ -1,0 +1,68 @@
+{
+    "id": 1668,
+    "index": 476,
+    "name": "Catalogue",
+    "frankenstyle": "block_catalogue",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_catalogue",
+    "shortdescription": "Provides a visual and central place for a teacher to access everything he can use in his course (activities, reports, blocks, \u2026) Frequently used items can be marked as favorites for quick access. Unless the teacher wants to delete or move an activity or block, he rarely needs to switch to editing mode. Students can also use the Catalogue to access the tools they're allowed to.\r\n\r\nNo need, for users, to learn a first method to add an activity, then a different one to add a block, then a third one to use enrolment methods, and so on, searching the four corners of the UI... With Catalogue, it's the same method for all of these tools and they all can be found at the same place.",
+    "timelastreleased": {
+        "absdate": "Saturday, 24 November 2018, 5:33 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-11-24T05:33:03+08:00"
+    },
+    "aggsites": "300",
+    "aggdownloads": "246",
+    "aggfavs": "89",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1668/block_catalogue%20icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1668/block_catalogue%20icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1668/Catalogue35-1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1668/Catalogue35-2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1668/Catalogue35-3.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1668/Catalogue35-4.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1668/Catalogue35-5.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1668/Catalogue35-6.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1668/Catalogue35-7.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2101229,
+            "firstname": "Brice",
+            "lastname": "Errandonea",
+            "url": "https://moodle.org/user/profile.php?id=2101229"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

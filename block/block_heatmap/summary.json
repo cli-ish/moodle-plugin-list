@@ -1,0 +1,52 @@
+{
+    "id": 1578,
+    "index": 990,
+    "name": "Heatmap",
+    "frankenstyle": "block_heatmap",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_heatmap",
+    "shortdescription": "The Heatmap block overlays a heatmap onto a course to highlight activities with more or less activity to help teachers improve their courses.",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 October 2020, 5:03 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-10-29T17:03:25+08:00"
+    },
+    "aggsites": "540",
+    "aggdownloads": "57",
+    "aggfavs": "52",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1578/Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1578/Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1578/01.%20Heatmap%20in%20course.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1578/02.%20Heatmap%20global%20settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1578/03.%20Heatmap%20capabilities.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 381842,
+            "firstname": "Michael",
+            "lastname": "de Raadt",
+            "url": "https://moodle.org/user/profile.php?id=381842"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

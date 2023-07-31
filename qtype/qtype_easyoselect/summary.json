@@ -1,0 +1,53 @@
+{
+    "id": 1056,
+    "index": 1939,
+    "name": "Select Atoms or Molecules",
+    "frankenstyle": "qtype_easyoselect",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_easyoselect",
+    "shortdescription": "Atoms, molecules and reaction selection question type.  Requires Marvin Applets downloadable from www.chemaxon.com.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 April 2014, 11:58 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-09T23:58:21+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1056/select_create.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1056/select_preview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

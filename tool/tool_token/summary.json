@@ -1,0 +1,46 @@
+{
+    "id": 2726,
+    "index": 1289,
+    "name": "Token generator",
+    "frankenstyle": "tool_token",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_token",
+    "shortdescription": "An admin tool provides a web service for generating Moodle web service tokens. It conceptually works the same way as /login/token.php, but via web services.",
+    "timelastreleased": {
+        "absdate": "Monday, 17 May 2021, 8:21 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-17T08:21:31+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "20",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2726/png-clipart-password-security-token-customer-access-and-retrieval-system-password-icon-numerical-digit-mobile-phones.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2726/png-clipart-password-security-token-customer-access-and-retrieval-system-password-icon-numerical-digit-mobile-phones.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2726/Screenshot%20from%202021-05-17%2010-25-36.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1608390,
+            "firstname": "Dmitrii",
+            "lastname": "Metelkin",
+            "url": "https://moodle.org/user/profile.php?id=1608390"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

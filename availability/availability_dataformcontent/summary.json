@@ -1,0 +1,52 @@
+{
+    "id": 1387,
+    "index": 1316,
+    "name": "Restriction by dataform content",
+    "frankenstyle": "availability_dataformcontent",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_dataformcontent",
+    "shortdescription": "The Dataform content availability condition allows teachers to restrict user access to an activity or section based on content of a designated Dataform instance in the course. Requires: mod_dataform plugin.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 February 2018, 2:36 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-02-02T02:36:35+08:00"
+    },
+    "aggsites": "86",
+    "aggdownloads": "18",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1387/df-availability-condition-add-restriction1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1387/df-availability-condition-add-restriction2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1387/df-availability-condition-by-dataform-content-1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 150168,
+            "firstname": "Itamar",
+            "lastname": "Tzadok",
+            "url": "https://moodle.org/user/profile.php?id=150168"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 754,
+    "index": 1236,
+    "name": "GISMO",
+    "frankenstyle": "block_gismo",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_gismo",
+    "shortdescription": "GISMO, a graphical interactive student monitoring and tracking system that extracts tracking data from an online course maintained with Moodle, and generates graphical representations that can be explored by course instructors.",
+    "timelastreleased": {
+        "absdate": "Friday, 19 December 2014, 9:13 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-19T21:13:51+08:00"
+    },
+    "aggsites": "161",
+    "aggdownloads": "23",
+    "aggfavs": "31",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/754/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/754/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/754/activities_assignments.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/754/activities_quizzes.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/754/students_accesses_by_students.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/754/students_accesses_overview_on_resources.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/754/students_accesses_overview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 12329,
+            "firstname": "Christian",
+            "lastname": "Milani",
+            "url": "https://moodle.org/user/profile.php?id=12329"
+        }
+    ],
+    "descriptors": []
+}

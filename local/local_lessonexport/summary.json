@@ -1,0 +1,50 @@
+{
+    "id": 1809,
+    "index": 361,
+    "name": "Lesson PDF Export ",
+    "frankenstyle": "local_lessonexport",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_lessonexport",
+    "shortdescription": "This plugin allows lesson modules to be exported to PDF documents with optional protection.",
+    "timelastreleased": {
+        "absdate": "Monday, 9 September 2019, 9:39 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-09-09T21:39:32+08:00"
+    },
+    "aggsites": "473",
+    "aggdownloads": "354",
+    "aggfavs": "62",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1809/lesson-export-to-pdf.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1809/lesson-export-to-pdf.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1809/lesson-export-to-pdf.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1809/button%20placement.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1809/export%20example.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1809/settings.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2205273,
+            "firstname": "Adam",
+            "lastname": "King",
+            "url": "https://moodle.org/user/profile.php?id=2205273"
+        }
+    ],
+    "descriptors": []
+}

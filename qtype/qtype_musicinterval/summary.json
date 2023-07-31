@@ -1,0 +1,49 @@
+{
+    "id": 474,
+    "index": 1915,
+    "name": "Music Interval",
+    "frankenstyle": "qtype_musicinterval",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_musicinterval",
+    "shortdescription": "This question type deals with music intervals. The respondent is given a note and is prompted to enter a second note at a given interval. Answers are entered in a graphical user interface.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 July 2013, 12:39 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-07-23T00:39:19+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/474/qtype_music_intervals.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1450603,
+            "firstname": "Jay",
+            "lastname": "Huber",
+            "url": "https://moodle.org/user/profile.php?id=1450603"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Music"
+        }
+    ]
+}

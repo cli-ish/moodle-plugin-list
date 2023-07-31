@@ -1,0 +1,127 @@
+[
+    {
+        "id": "21111",
+        "name": "3.8.0",
+        "url": "https://moodle.org/plugins/download.php/21111/enrol_lmb_moodle30_2012060216.zip"
+    },
+    {
+        "id": "16503",
+        "name": "3.4.1",
+        "url": "https://moodle.org/plugins/download.php/16503/enrol_lmb_moodle25_2016080804.zip"
+    },
+    {
+        "id": "14516",
+        "name": "3.1.0-for-moodle-2.8.0-3.1.x",
+        "url": "https://moodle.org/plugins/download.php/14516/enrol_lmb_moodle29_2013050516.zip"
+    },
+    {
+        "id": "11172",
+        "name": "3.0.1",
+        "url": "https://moodle.org/plugins/download.php/11172/enrol_lmb_moodle25_2010060706.zip"
+    },
+    {
+        "id": "9332",
+        "name": "2.9.0",
+        "url": "https://moodle.org/plugins/download.php/9332/enrol_lmb_moodle27_2016080317.zip"
+    },
+    {
+        "id": "7514",
+        "name": "2.7.1",
+        "url": "https://moodle.org/plugins/download.php/7514/enrol_lmb_moodle28_2022010815.zip"
+    },
+    {
+        "id": "5979",
+        "name": "2.7.0",
+        "url": "https://moodle.org/plugins/download.php/5979/enrol_lmb_moodle34_2018051003.zip"
+    },
+    {
+        "id": "1762",
+        "name": "2.1.9",
+        "url": "https://moodle.org/plugins/download.php/1762/enrol_lmb_moodle36_2021050207.zip"
+    },
+    {
+        "id": "15771",
+        "name": "3.4.0",
+        "url": "https://moodle.org/plugins/download.php/15771/enrol_lmb_moodle39_2012030218.zip"
+    },
+    {
+        "id": "14582",
+        "name": "3.3.1",
+        "url": "https://moodle.org/plugins/download.php/14582/enrol_lmb_moodle32_2022070412.zip"
+    },
+    {
+        "id": "14517",
+        "name": "3.3.0",
+        "url": "https://moodle.org/plugins/download.php/14517/enrol_lmb_moodle36_2018031017.zip"
+    },
+    {
+        "id": "10493",
+        "name": "3.0.0",
+        "url": "https://moodle.org/plugins/download.php/10493/enrol_lmb_moodle26_2019101220.zip"
+    },
+    {
+        "id": "5201",
+        "name": "2.6.2",
+        "url": "https://moodle.org/plugins/download.php/5201/enrol_lmb_moodle35_2015070201.zip"
+    },
+    {
+        "id": "5075",
+        "name": "2.6.1",
+        "url": "https://moodle.org/plugins/download.php/5075/enrol_lmb_moodle26_2018110903.zip"
+    },
+    {
+        "id": "4713",
+        "name": "2.6.0",
+        "url": "https://moodle.org/plugins/download.php/4713/enrol_lmb_moodle31_2010091015.zip"
+    },
+    {
+        "id": "4711",
+        "name": "2.5.3",
+        "url": "https://moodle.org/plugins/download.php/4711/enrol_lmb_moodle31_2017030814.zip"
+    },
+    {
+        "id": "4125",
+        "name": "2.5.2",
+        "url": "https://moodle.org/plugins/download.php/4125/enrol_lmb_moodle30_2012050617.zip"
+    },
+    {
+        "id": "3688",
+        "name": "2.5.1",
+        "url": "https://moodle.org/plugins/download.php/3688/enrol_lmb_moodle33_2018090111.zip"
+    },
+    {
+        "id": "2960",
+        "name": "2.5.0",
+        "url": "https://moodle.org/plugins/download.php/2960/enrol_lmb_moodle30_2017070213.zip"
+    },
+    {
+        "id": "1348",
+        "name": "2.1.8",
+        "url": "https://moodle.org/plugins/download.php/1348/enrol_lmb_moodle28_2020020310.zip"
+    },
+    {
+        "id": "881",
+        "name": "2.1.7",
+        "url": "https://moodle.org/plugins/download.php/881/enrol_lmb_moodle29_2011030309.zip"
+    },
+    {
+        "id": "879",
+        "name": "2.1.6",
+        "url": "https://moodle.org/plugins/download.php/879/enrol_lmb_moodle36_2023070412.zip"
+    },
+    {
+        "id": "866",
+        "name": "2.1.5",
+        "url": "https://moodle.org/plugins/download.php/866/enrol_lmb_moodle34_2021040519.zip"
+    },
+    {
+        "id": "794",
+        "name": "2.1.1",
+        "url": "https://moodle.org/plugins/download.php/794/enrol_lmb_moodle37_2010020603.zip"
+    },
+    {
+        "id": "696",
+        "name": "2.1.0",
+        "url": "https://moodle.org/plugins/download.php/696/enrol_lmb_moodle30_2017100505.zip"
+    }
+]

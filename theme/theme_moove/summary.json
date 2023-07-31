@@ -1,0 +1,59 @@
+{
+    "id": 1834,
+    "index": 2,
+    "name": "Moove",
+    "frankenstyle": "theme_moove",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_moove",
+    "shortdescription": "Moove it's a Moodle's theme that makes online environments more clean and intuitive for learners and educators. If you like it, please show some love by clicking \"favourite\" ( \u2665 ) below!",
+    "timelastreleased": {
+        "absdate": "Wednesday, 17 May 2023, 11:58 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-17T23:58:14+08:00"
+    },
+    "aggsites": "24030",
+    "aggdownloads": "12k",
+    "aggfavs": "589",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1834/image0.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1834/image1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1834/image2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1834/image3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1834/image4.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1834/image5.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1834/image6.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 968235,
+            "firstname": "Willian",
+            "lastname": "Mano",
+            "url": "https://moodle.org/user/profile.php?id=968235"
+        }
+    ],
+    "descriptors": []
+}

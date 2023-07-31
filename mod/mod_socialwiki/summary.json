@@ -1,0 +1,55 @@
+{
+    "id": 1456,
+    "index": 1917,
+    "name": "SocialWiki",
+    "frankenstyle": "mod_socialwiki",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_socialwiki",
+    "shortdescription": "This is a social kind of wiki, where many page versions may coexist, and where users can connect ('follow' each other) in a social network.",
+    "timelastreleased": {
+        "absdate": "Monday, 9 January 2017, 6:40 AM",
+        "reldate": "7 years",
+        "iso8601date": "2017-01-09T06:40:20+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": "3",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1456/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1456/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1456/Socialwiki1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1456/Socialwiki2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1456/Socialwiki3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1456/Socialwiki4.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1970063,
+            "firstname": "NMAI",
+            "lastname": "Lab",
+            "url": "https://moodle.org/user/profile.php?id=1970063"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        }
+    ]
+}

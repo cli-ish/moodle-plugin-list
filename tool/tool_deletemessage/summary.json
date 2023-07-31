@@ -1,0 +1,40 @@
+{
+    "id": 3159,
+    "index": 1061,
+    "name": "Delete Messages",
+    "frankenstyle": "tool_deletemessage",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_deletemessage",
+    "shortdescription": "Moodle never delete messages from message table. This plugin create a task that do this to conversations that are already deleted by both users",
+    "timelastreleased": {
+        "absdate": "Wednesday, 28 June 2023, 3:31 AM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-28T03:31:11+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "43",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3159/Captura%20de%20tela%20de%202023-06-21%2017-03-13.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2034002,
+            "firstname": "Esdras Caleb",
+            "lastname": "Oliveira Silva",
+            "url": "https://moodle.org/user/profile.php?id=2034002"
+        }
+    ],
+    "descriptors": []
+}

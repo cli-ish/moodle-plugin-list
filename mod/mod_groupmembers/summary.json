@@ -1,0 +1,59 @@
+{
+    "id": 1848,
+    "index": 583,
+    "name": "Group Members",
+    "frankenstyle": "mod_groupmembers",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_groupmembers",
+    "shortdescription": "This plugin adds a resource module. Teachers can use it to communicate groups and group co-members to participants.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 3 May 2023, 8:17 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-03T20:17:55+08:00"
+    },
+    "aggsites": "300",
+    "aggdownloads": "199",
+    "aggfavs": "32",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1848/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1848/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1848/list-boost.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1848/add-groupmembers.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1848/list-clean.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 1942711,
+            "firstname": "Jan",
+            "lastname": "Dagef\u00f6rde",
+            "url": "https://moodle.org/user/profile.php?id=1942711"
+        },
+        {
+            "id": 2095586,
+            "firstname": "Nina",
+            "lastname": "Herrmann",
+            "url": "https://moodle.org/user/profile.php?id=2095586"
+        }
+    ],
+    "descriptors": []
+}

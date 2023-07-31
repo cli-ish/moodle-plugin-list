@@ -1,0 +1,52 @@
+{
+    "id": 125,
+    "index": 1699,
+    "name": "Cr\u00e9atif",
+    "frankenstyle": "theme_creatif",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_creatif",
+    "shortdescription": "My theme, called cr\u00e9atif, is a mood theme I reckon. The randomised back drops will feature faded photographs (mostly beautiful landscapes), and I\u2019m trying to get a really nice pleasant visual experience happening.",
+    "timelastreleased": {
+        "absdate": "Monday, 31 October 2011, 6:36 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-31T06:36:02+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "7",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/125/creatif-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/125/creatif-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/125/creatif-calendarview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/125/creatif-home.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/125/creatif-weeklyformat.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1173537,
+            "firstname": "Rolley",
+            "lastname": "Tickner",
+            "url": "https://moodle.org/user/profile.php?id=1173537"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

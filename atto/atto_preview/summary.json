@@ -1,0 +1,52 @@
+{
+    "id": 1368,
+    "index": 377,
+    "name": "Toggle preview",
+    "frankenstyle": "atto_preview",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_preview",
+    "shortdescription": "An Atto editor plugin that shows a preview of the filtered editor content.",
+    "timelastreleased": {
+        "absdate": "Monday, 14 November 2022, 7:36 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-14T07:36:10+08:00"
+    },
+    "aggsites": "1160",
+    "aggdownloads": "332",
+    "aggfavs": "41",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1368/preview.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1368/preview.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1368/edit%20text.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1368/show%20preview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1368/with%20print%20headers.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1470073,
+            "firstname": "Daniel",
+            "lastname": "Thies",
+            "url": "https://moodle.org/user/profile.php?id=1470073"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

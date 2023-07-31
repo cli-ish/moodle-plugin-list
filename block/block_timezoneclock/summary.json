@@ -1,0 +1,50 @@
+{
+    "id": 3051,
+    "index": 881,
+    "name": "Timezone Clock",
+    "frankenstyle": "block_timezoneclock",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_timezoneclock",
+    "shortdescription": "Moodle block helpful for multiple timezones sites",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 May 2023, 1:15 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-11T01:15:58+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "104",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3051/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3051/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3051/%23Analogue_clock.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3051/%23Timezones.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3051/Configuration.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3051/Converter.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4888552,
+            "firstname": "Harshil",
+            "lastname": "Patel",
+            "url": "https://moodle.org/user/profile.php?id=4888552"
+        }
+    ],
+    "descriptors": []
+}

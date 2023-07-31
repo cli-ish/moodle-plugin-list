@@ -1,0 +1,65 @@
+{
+    "id": 444,
+    "index": 590,
+    "name": "Menutopic format",
+    "frankenstyle": "format_menutopic",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_menutopic",
+    "shortdescription": "Course format that allows you to display the topics/sections in a menu.",
+    "timelastreleased": {
+        "absdate": "Friday, 14 July 2023, 1:37 PM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-14T13:37:32+08:00"
+    },
+    "aggsites": "665",
+    "aggdownloads": "198",
+    "aggfavs": "33",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/444/temas_menu_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/444/temas_menu_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/444/0-menu.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/444/custom_menu.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/444/darkbootstrap_menu.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/444/edit_menu.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/444/global_menu_style.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/444/menu_childs.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/444/section_summary_template.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/444/sections_navigation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/444/summary_template.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 57210,
+            "firstname": "David",
+            "lastname": "Herney",
+            "url": "https://moodle.org/user/profile.php?id=57210"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 1555,
+    "index": 175,
+    "name": "Kprime(ETH)",
+    "frankenstyle": "qtype_kprime",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_kprime",
+    "shortdescription": "A four option multiple true-false question type for moodle, as introduced by Krebs (1997). Kprime questions consist of an item stem and four corresponding statements or options. ",
+    "timelastreleased": {
+        "absdate": "Sunday, 4 June 2023, 2:30 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-04T14:30:39+08:00"
+    },
+    "aggsites": "909",
+    "aggdownloads": "698",
+    "aggfavs": "41",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1555/main-thumb-t-45446-200-wvjrvywuwlacbuozzcrfzpffyapqfkbd.jpeg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1555/main-thumb-t-45446-200-wvjrvywuwlacbuozzcrfzpffyapqfkbd.jpeg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1555/kPrime_nurFrage.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 91386,
+            "firstname": "ETH",
+            "lastname": "Z\u00fcrich",
+            "url": "https://moodle.org/user/profile.php?id=91386"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": 130,
+    "index": 1586,
+    "name": "MovilQuiz - Lite",
+    "frankenstyle": "mod_movilquizlite",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_movilquizlite",
+    "shortdescription": "This module converts quizzes so they can be sent to cellular or other mobile device. These quizzes can be performed on the cell phone. The results of the quiz can be sent back to Moodle.",
+    "timelastreleased": {
+        "absdate": "Saturday, 26 November 2011, 5:28 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-11-26T05:28:52+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "9",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/130/mlogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/130/mlogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/130/1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/130/attemp.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/130/espa%C3%B1ol.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/130/resume.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/130/review.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/130/s1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/130/s2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/130/s3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/130/s4.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/130/s5.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 481864,
+            "firstname": "rafael",
+            "lastname": "reyna",
+            "url": "https://moodle.org/user/profile.php?id=481864"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

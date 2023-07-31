@@ -1,0 +1,55 @@
+{
+    "id": 32,
+    "index": 1654,
+    "name": "Zebra",
+    "frankenstyle": "theme_zebra",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_zebra",
+    "shortdescription": "A dynamic theme using @media queries to modify the layout on the fly.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 August 2013, 4:12 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-22T16:12:50+08:00"
+    },
+    "aggsites": "61",
+    "aggdownloads": "7",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/32/icon.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/32/icon.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/32/three%20columns.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/32/one%20column.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/32/settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/32/two%20columns.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1039872,
+            "firstname": "Danny",
+            "lastname": "Wahl",
+            "url": "https://moodle.org/user/profile.php?id=1039872"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

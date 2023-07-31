@@ -1,0 +1,53 @@
+{
+    "id": 502,
+    "index": 1086,
+    "name": "oohoo - TabTopics format",
+    "frankenstyle": "format_tabtopics",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_tabtopics",
+    "shortdescription": "This Moodle course format displays each section in a tab",
+    "timelastreleased": {
+        "absdate": "Thursday, 3 April 2014, 5:47 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-03T05:47:59+08:00"
+    },
+    "aggsites": "259",
+    "aggdownloads": "39",
+    "aggfavs": "27",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/502/tab-Moodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/502/tab-Moodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/502/screenshot_tabtopics_01_en.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/502/screenshot_tabtopics_02_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/502/screenshot_tabtopics_03_en.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1413693,
+            "firstname": "Nicolas",
+            "lastname": "Bretin",
+            "url": "https://moodle.org/user/profile.php?id=1413693"
+        },
+        {
+            "id": 106123,
+            "firstname": "Patrick",
+            "lastname": "Thibaudeau",
+            "url": "https://moodle.org/user/profile.php?id=106123"
+        }
+    ],
+    "descriptors": []
+}

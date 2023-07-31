@@ -1,0 +1,73 @@
+{
+    "id": 1239,
+    "index": 1655,
+    "name": "Course Checks Block",
+    "frankenstyle": "block_bcu_course_checks",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_bcu_course_checks",
+    "shortdescription": "This block carries out a number of automated checks on a course, to encourage a minimum standard of course quality, avoid common mistakes and highlight possible areas for improvement. The block also allows for a course to be cleared of empty sections.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 March 2018, 12:36 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-03-22T00:36:10+08:00"
+    },
+    "aggsites": "59",
+    "aggdownloads": "7",
+    "aggfavs": "35",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1239/course-checks-01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1239/course-checks-02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1239/course-checks-03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1239/course-checks-04.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 230467,
+            "firstname": "Jez",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=230467"
+        },
+        {
+            "id": 1837256,
+            "firstname": "Mike",
+            "lastname": "Grant",
+            "url": "https://moodle.org/user/profile.php?id=1837256"
+        },
+        {
+            "id": 2227655,
+            "firstname": "Manoj",
+            "lastname": "Solanki",
+            "url": "https://moodle.org/user/profile.php?id=2227655"
+        },
+        {
+            "id": 2158877,
+            "firstname": "Kevin",
+            "lastname": "Moore",
+            "url": "https://moodle.org/user/profile.php?id=2158877"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

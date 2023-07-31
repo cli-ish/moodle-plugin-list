@@ -1,0 +1,45 @@
+{
+    "id": 122,
+    "index": 1222,
+    "name": "Guided quiz",
+    "frankenstyle": "mod_guidedquiz",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_guidedquiz",
+    "shortdescription": "Quiz module modification to display questions sequentially, there is a number of attempts and an attempt penalization for each question instance. Users can only pass to the next question when they finds the correct answer, skip the question (max penalization applied) or reach the maximum number of attempts per question.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 17 January 2012, 5:12 PM",
+        "reldate": "12 years",
+        "iso8601date": "2012-01-17T17:12:53+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "25",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1622424,
+            "firstname": "Gerard",
+            "lastname": "Cuello Adell",
+            "url": "https://moodle.org/user/profile.php?id=1622424"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

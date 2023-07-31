@@ -1,0 +1,49 @@
+{
+    "id": 741,
+    "index": 1256,
+    "name": "Duplicate User Accounts Report",
+    "frankenstyle": "report_duplicateaccounts",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_duplicateaccounts",
+    "shortdescription": "This is a simple report for displaying users with duplicate accounts based on their first name and last name.",
+    "timelastreleased": {
+        "absdate": "Monday, 20 May 2013, 1:14 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-20T13:14:10+08:00"
+    },
+    "aggsites": "49",
+    "aggdownloads": "22",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/741/Screenshot_1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1370267,
+            "firstname": "Jen",
+            "lastname": "Andes",
+            "url": "https://moodle.org/user/profile.php?id=1370267"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "12456",
+        "name": "2.x-build-2016101700",
+        "url": "https://moodle.org/plugins/download.php/12456/block_mrbs_moodle31_2021110612.zip"
+    },
+    {
+        "id": "6228",
+        "name": "2.x-build-2014060902",
+        "url": "https://moodle.org/plugins/download.php/6228/block_mrbs_moodle28_2021110517.zip"
+    },
+    {
+        "id": "1813",
+        "name": "2.x-build-2012120700",
+        "url": "https://moodle.org/plugins/download.php/1813/block_mrbs_moodle39_2012120418.zip"
+    },
+    {
+        "id": "2049",
+        "name": "2.x-build-2013012300",
+        "url": "https://moodle.org/plugins/download.php/2049/block_mrbs_moodle34_2015110414.zip"
+    },
+    {
+        "id": "1543",
+        "name": "2.x-build-2012102100",
+        "url": "https://moodle.org/plugins/download.php/1543/block_mrbs_moodle38_2020020801.zip"
+    },
+    {
+        "id": "1257",
+        "name": "2.x-build-2012082300",
+        "url": "https://moodle.org/plugins/download.php/1257/block_mrbs_moodle28_2021030112.zip"
+    },
+    {
+        "id": "990",
+        "name": "2.x-build-2012052500",
+        "url": "https://moodle.org/plugins/download.php/990/block_mrbs_moodle26_2019101203.zip"
+    },
+    {
+        "id": "605",
+        "name": "2.x-build-2012030800",
+        "url": "https://moodle.org/plugins/download.php/605/block_mrbs_moodle40_2015110205.zip"
+    },
+    {
+        "id": "559",
+        "name": "2.x-build-2012022000",
+        "url": "https://moodle.org/plugins/download.php/559/block_mrbs_moodle25_2017050520.zip"
+    },
+    {
+        "id": "544",
+        "name": "2.x-build-2012021300",
+        "url": "https://moodle.org/plugins/download.php/544/block_mrbs_moodle28_2010080511.zip"
+    }
+]

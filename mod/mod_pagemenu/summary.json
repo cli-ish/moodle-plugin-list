@@ -1,0 +1,45 @@
+{
+    "id": 995,
+    "index": 1621,
+    "name": "Page menu (format page)",
+    "frankenstyle": "mod_pagemenu",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_pagemenu",
+    "shortdescription": "Here comes the Moodle 2 page menu module for course format \"page\". Provides a flexible and adaptative in-course navigation menu for page formated courses. \r\n\r\nthe Pagemenu module is now maintained at Edunao.com (French Moodle Partner)",
+    "timelastreleased": {
+        "absdate": "Monday, 18 April 2016, 8:43 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-18T20:43:03+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "8",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/995/page_menu_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/995/page_menu_logo.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

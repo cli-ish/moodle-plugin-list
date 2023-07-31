@@ -1,0 +1,49 @@
+{
+    "id": 1397,
+    "index": 2097,
+    "name": "Download Certificates (NOW ARCHIVED - SEE NOTES)",
+    "frankenstyle": "block_report_certificates",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_report_certificates",
+    "shortdescription": "NOW ARCHIVED - PLEASE SEE NOTES. This block displays all the previously issued certificates without having to go into each course to view them. You will also be able to download the certificates directly without having to go into the course themselves. It will also work for courses that needs to be archived but still want students to be able to download the certificate.",
+    "timelastreleased": {
+        "absdate": "Monday, 13 April 2015, 7:52 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-04-13T19:52:01+08:00"
+    },
+    "aggsites": "46",
+    "aggdownloads": null,
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1397/download_certificates_block.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1397/download_certificates_block.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1397/download_certificates_block.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1397/report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1081228,
+            "firstname": "Manieer",
+            "lastname": "Chhettri",
+            "url": "https://moodle.org/user/profile.php?id=1081228"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

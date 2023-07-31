@@ -1,0 +1,45 @@
+{
+    "id": 1558,
+    "index": 484,
+    "name": "CUL Course Visibility Update",
+    "frankenstyle": "local_culcourse_visibility",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_culcourse_visibility",
+    "shortdescription": "Scheduled task to update course visibility based on start and/or end date.",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 June 2022, 11:50 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-25T23:50:51+08:00"
+    },
+    "aggsites": "121",
+    "aggdownloads": "243",
+    "aggfavs": "24",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1558/Screenshot%20from%202017-08-03%20135253.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1062329,
+            "firstname": "Amanda",
+            "lastname": "Doughty",
+            "url": "https://moodle.org/user/profile.php?id=1062329"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

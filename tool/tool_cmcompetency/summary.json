@@ -1,0 +1,40 @@
+{
+    "id": 2604,
+    "index": 1494,
+    "name": "Course module competency rating",
+    "frankenstyle": "tool_cmcompetency",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_cmcompetency",
+    "shortdescription": "The main goal of this plugin is to allow ratings in course module competency.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 September 2022, 2:03 AM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-22T02:03:07+08:00"
+    },
+    "aggsites": "62",
+    "aggdownloads": "11",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2604/tool_cmcompetency.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1911781,
+            "firstname": "Issam",
+            "lastname": "Taboubi",
+            "url": "https://moodle.org/user/profile.php?id=1911781"
+        }
+    ],
+    "descriptors": []
+}

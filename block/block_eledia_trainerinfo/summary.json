@@ -1,0 +1,49 @@
+{
+    "id": 957,
+    "index": 541,
+    "name": "Referee of this Course",
+    "frankenstyle": "block_eledia_trainerinfo",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_eledia_trainerinfo",
+    "shortdescription": "This plugin provides information about users with a chosen role(by default the trainer) in a block in the course.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 September 2022, 7:04 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-02T19:04:23+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "217",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/957/eledia-logo-mu_ohne_raender.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/957/eledia-logo-mu_ohne_raender.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/957/trainer_info_config.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/957/trainer_info_view.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1075745,
+            "firstname": "Benjamin",
+            "lastname": "Wolf",
+            "url": "https://moodle.org/user/profile.php?id=1075745"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "id": 1771,
+    "index": 37,
+    "name": "Fordson",
+    "frankenstyle": "theme_fordson",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_fordson",
+    "shortdescription": "The Fordson theme is focused on students going from login to learning, with features that help teachers build better courses and students engage with content.  Your school is unique and Fordson provides impressive customizations for a professional and modern learning platform.\r\nTry out Fordson and show some love by clicking \"favourite\" ( \u2665 ) !",
+    "timelastreleased": {
+        "absdate": "Wednesday, 21 July 2021, 8:19 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-07-21T20:19:19+08:00"
+    },
+    "aggsites": "8953",
+    "aggdownloads": "2k",
+    "aggfavs": "386",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1771/screenshot.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1771/screenshot.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1771/iLearn%20Moodle%20Courseware%20%20Log%20in%20to%20the%20site.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1771/blocks.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1771/coursepage.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1771/dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1771/editingfeature.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1771/homepage.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1771/jitsi%20in%20Moodle.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1771/teacherdashboard%20in%20course.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1771/topnavbar.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 26675,
+            "firstname": "Chris",
+            "lastname": "Kenniburg",
+            "url": "https://moodle.org/user/profile.php?id=26675"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": 462,
+    "index": 662,
+    "name": "User related debugmode",
+    "frankenstyle": "tool_userdebug",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_userdebug",
+    "shortdescription": "With this plugin you can define the debugmode for only some selected users.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 April 2023, 11:05 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-27T23:05:23+08:00"
+    },
+    "aggsites": "205",
+    "aggdownloads": "161",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/462/userdebug-01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/462/userdebug-02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/462/userdebug-03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/462/userdebug-04.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/462/userdebug-05.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 36220,
+            "firstname": "Andreas",
+            "lastname": "Grabs",
+            "url": "https://moodle.org/user/profile.php?id=36220"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Developer"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "id": 312,
+    "index": 1671,
+    "name": "Etherpad and Moodle Integration",
+    "frankenstyle": "mod_etherpad",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_etherpad",
+    "shortdescription": "Etherpad and Moodle as a course activity.  Allows the teacher to add an Etherpad activity directly from the moodle course.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 3 July 2012, 10:40 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-07-03T22:40:27+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "7",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/312/etherpad_moodle.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/312/etherpad_moodle.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/312/etherpad_install_settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/312/etherpad_moodle.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/312/etherpad.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 26675,
+            "firstname": "Chris",
+            "lastname": "Kenniburg",
+            "url": "https://moodle.org/user/profile.php?id=26675"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        }
+    ]
+}

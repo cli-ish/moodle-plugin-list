@@ -1,0 +1,40 @@
+{
+    "id": 845,
+    "index": 2123,
+    "name": "FN-Tabs Course Format Block (control panel)",
+    "frankenstyle": "block_fn_tabs",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_fn_tabs",
+    "shortdescription": "This block contains the \"control panel\" for Tabs Course Format (FN) version 2.4 located here: \r\n\r\nhttps://moodle.org/plugins/view.php?plugin=format_fntabs   \r\n\r\nNote that version 2.5 does NOT require this block.   ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 3 September 2013, 12:00 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-03T00:00:58+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/845/fn_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/845/fn_logo.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2459954,
+            "firstname": "Fern",
+            "lastname": "Oliveira",
+            "url": "https://moodle.org/user/profile.php?id=2459954"
+        }
+    ],
+    "descriptors": []
+}

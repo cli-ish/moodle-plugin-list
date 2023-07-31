@@ -1,0 +1,59 @@
+{
+    "id": 2186,
+    "index": 464,
+    "name": "PlagiarismCheck.org plugin",
+    "frankenstyle": "plagiarism_pchkorg",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_pchkorg",
+    "shortdescription": "PlagiarismCheck.org is a comprehensive AI-powered Moodle plagiarism checker and AI detector.It makes learning better and more honest by detecting similarities and ChatGPT usage, thus upholding academic integrity.\r\nWe strive to help instructors save time and motivate students to write better papers.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 July 2023, 8:41 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-04T20:41:31+08:00"
+    },
+    "aggsites": "90",
+    "aggdownloads": "254",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2186/logo%20blue%20P%20only.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2186/logo%20blue%20P%20only.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2186/Screenshot%202023-07-28%20at%2012.55.01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2186/plag-screen-1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2186/plag-screen-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2186/plag-screen-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2186/plag-screen-4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2186/Screenshot%202023-07-28%20at%2012.55.10.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2186/Screenshot%202023-07-28%20at%2012.56.41.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2491675,
+            "firstname": "Jane",
+            "lastname": "Adelmann",
+            "url": "https://moodle.org/user/profile.php?id=2491675"
+        }
+    ],
+    "descriptors": []
+}

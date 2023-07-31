@@ -1,0 +1,40 @@
+{
+    "id": 362,
+    "index": 2139,
+    "name": "Ensemble Content",
+    "frankenstyle": "mod_ensemblecontent",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_ensemblecontent",
+    "shortdescription": "This Plugin is outdated. Please utilize our updated Repository plugin and Filter.",
+    "timelastreleased": {
+        "absdate": "Friday, 17 August 2012, 4:14 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-08-17T16:14:55+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1465110,
+            "firstname": "Scott",
+            "lastname": "Nadzan",
+            "url": "https://moodle.org/user/profile.php?id=1465110"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": 80,
+    "index": 1641,
+    "name": "Scratch embed",
+    "frankenstyle": "filter_scratchembed",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_scratchembed",
+    "shortdescription": "A filter plug-in to embed Scratch projects using the Scratch Java applet.",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 September 2011, 4:09 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-09-29T04:09:45+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "8",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/80/wikimedia-cc-by-sa-120px-Scratchcat.svg-2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/80/wikimedia-cc-by-sa-120px-Scratchcat.svg-2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/80/scratchembed-opera-mdl2-sm.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93815,
+            "firstname": "Nick",
+            "lastname": "Freear",
+            "url": "https://moodle.org/user/profile.php?id=93815"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Java"
+        }
+    ]
+}

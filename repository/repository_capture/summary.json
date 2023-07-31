@@ -1,0 +1,70 @@
+{
+    "id": 560,
+    "index": 1450,
+    "name": "oohoo - Capture",
+    "frankenstyle": "repository_capture",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_capture",
+    "shortdescription": "This repository allows users to record video, sound and take a photo WITHOUT a streaming server.\r\nThis works as any other Moodle 2.x repository. It must first be enabled. Once enabled, it will show up in the file picker. Simply click on the \"Capture\" repository and choose if you want to record a sound, a video or have a picture taken from your webcam.\r\n\r\nOnce you are done recording, you can edit your video by trimming the beginning and the end.",
+    "timelastreleased": {
+        "absdate": "Thursday, 3 April 2014, 5:50 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-03T05:50:33+08:00"
+    },
+    "aggsites": "26",
+    "aggdownloads": "13",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/560/Capture-Moodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/560/Capture-Moodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/560/screenshot_capture_01_en.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/560/screenshot_capture_02_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/560/screenshot_capture_03_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/560/screenshot_capture_04_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/560/screenshot_capture_05_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/560/screenshot_capture_06_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/560/screenshot_capture_07_en.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1413693,
+            "firstname": "Nicolas",
+            "lastname": "Bretin",
+            "url": "https://moodle.org/user/profile.php?id=1413693"
+        },
+        {
+            "id": 106123,
+            "firstname": "Patrick",
+            "lastname": "Thibaudeau",
+            "url": "https://moodle.org/user/profile.php?id=106123"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

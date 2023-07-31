@@ -1,0 +1,53 @@
+{
+    "id": 272,
+    "index": 1747,
+    "name": "External Media",
+    "frankenstyle": "mod_media",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_media",
+    "shortdescription": "Resource module that allows you to add external media: YouTube, Dailymotion, Slideshare, etc. Any external site that supports the oembed and/or ogp protocol",
+    "timelastreleased": {
+        "absdate": "Friday, 16 March 2012, 9:03 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-16T21:03:30+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "6",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/272/icon-48.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/272/icon-48.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/272/printscreen1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/272/printscreen2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1311274,
+            "firstname": "Laurent",
+            "lastname": "Opprecht",
+            "url": "https://moodle.org/user/profile.php?id=1311274"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

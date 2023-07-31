@@ -1,0 +1,45 @@
+{
+    "id": 210,
+    "index": 1639,
+    "name": "Aardvark Automenu",
+    "frankenstyle": "theme_aardvark_automenu",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_aardvark_automenu",
+    "shortdescription": "Moodle 1.9 Theme with a dynamic drop-down menu that lists all course categories.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 January 2012, 11:57 AM",
+        "reldate": "12 years",
+        "iso8601date": "2012-01-18T11:57:16+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "8",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/210/pluginlogo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/210/pluginlogo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/210/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": 2943,
+    "index": 778,
+    "name": "Stackviewer",
+    "frankenstyle": "mod_stackview",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_stackview",
+    "shortdescription": "Stackviewer is a course activity plugin which allows teachers to display images as a stack. The\r\nstudent can scroll through the stack of images, similar to using radiological DICOM software to\r\nresearch medical imagery.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 September 2022, 1:56 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-06T13:56:56+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "128",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2943/logo.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2943/logo.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2943/1%20Stackviewer%202022-03-31.jpeg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2943/2%20Stackviewer%202022-03-31.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2943/3%20Stackviewer%202022-03-31.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2943/4%20Stackviewer%202022-03-31.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2943/5%20Stackviewer%202022-03-31.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2943/6%20Stackviewer%202022-03-31.jpeg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4923962,
+            "firstname": "Luuk",
+            "lastname": "Verhoeven (Avetica)",
+            "url": "https://moodle.org/user/profile.php?id=4923962"
+        },
+        {
+            "id": 5046613,
+            "firstname": "Admin",
+            "lastname": "Federatie Medisch Specialisten",
+            "url": "https://moodle.org/user/profile.php?id=5046613"
+        }
+    ],
+    "descriptors": []
+}

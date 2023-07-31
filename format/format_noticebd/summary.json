@@ -1,0 +1,55 @@
+{
+    "id": 514,
+    "index": 1241,
+    "name": "Noticeboard format",
+    "frankenstyle": "format_noticebd",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_noticebd",
+    "shortdescription": "A topic based course format with the latest post in the news forum displayed at the top.",
+    "timelastreleased": {
+        "absdate": "Thursday, 10 March 2016, 1:10 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-03-10T01:10:18+08:00"
+    },
+    "aggsites": "63",
+    "aggdownloads": "23",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/514/nb_logo_sm.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/514/nb_logo_sm.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/514/2014-03-06%2012_00_37-Course_%20Course%20Creation%2C%20Groups%20and%20Enrolment_page.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/514/noticeboard.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        },
+        {
+            "id": 95155,
+            "firstname": "Marty",
+            "lastname": "Jacobs",
+            "url": "https://moodle.org/user/profile.php?id=95155"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

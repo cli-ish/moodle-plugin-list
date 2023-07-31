@@ -1,0 +1,62 @@
+{
+    "id": 2223,
+    "index": 609,
+    "name": "Workplace list course format",
+    "frankenstyle": "format_wplist",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_wplist",
+    "shortdescription": "Course format Workplace list, that used to be part of Moodle Workplace",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 May 2023, 3:47 AM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-31T03:47:58+08:00"
+    },
+    "aggsites": "439",
+    "aggdownloads": "190",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2223/wplist-plugin-image.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2223/Screenshot%20from%202022-07-12%2017-28-14.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        },
+        {
+            "id": 1525875,
+            "firstname": "Emilio",
+            "lastname": "Lozano",
+            "url": "https://moodle.org/user/profile.php?id=1525875"
+        },
+        {
+            "id": 2466157,
+            "firstname": "Rafael",
+            "lastname": "Lechugo",
+            "url": "https://moodle.org/user/profile.php?id=2466157"
+        },
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        }
+    ],
+    "descriptors": []
+}

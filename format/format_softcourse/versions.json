@@ -1,0 +1,52 @@
+[
+    {
+        "id": "28181",
+        "name": "4.01",
+        "url": "https://moodle.org/plugins/download.php/28181/format_softcourse_moodle27_2015050509.zip"
+    },
+    {
+        "id": "24330",
+        "name": "3.11rc1.2",
+        "url": "https://moodle.org/plugins/download.php/24330/format_softcourse_moodle34_2019100920.zip"
+    },
+    {
+        "id": "20871",
+        "name": "1.1",
+        "url": "https://moodle.org/plugins/download.php/20871/format_softcourse_moodle25_2014030217.zip"
+    },
+    {
+        "id": "20870",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/20870/format_softcourse_moodle25_2013040303.zip"
+    },
+    {
+        "id": "26442",
+        "name": "4.00rc1.2",
+        "url": "https://moodle.org/plugins/download.php/26442/format_softcourse_moodle29_2017090807.zip"
+    },
+    {
+        "id": "24307",
+        "name": "3.11rc1",
+        "url": "https://moodle.org/plugins/download.php/24307/format_softcourse_moodle40_2020041120.zip"
+    },
+    {
+        "id": "23428",
+        "name": "v3.10-r2",
+        "url": "https://moodle.org/plugins/download.php/23428/format_softcourse_moodle30_2018040319.zip"
+    },
+    {
+        "id": "22922",
+        "name": "2.1",
+        "url": "https://moodle.org/plugins/download.php/22922/format_softcourse_moodle34_2016050419.zip"
+    },
+    {
+        "id": "21747",
+        "name": "2.0",
+        "url": "https://moodle.org/plugins/download.php/21747/format_softcourse_moodle31_2019040607.zip"
+    },
+    {
+        "id": "20682",
+        "name": "3.0",
+        "url": "https://moodle.org/plugins/download.php/20682/format_softcourse_moodle40_2011040418.zip"
+    }
+]

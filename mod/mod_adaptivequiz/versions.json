@@ -1,0 +1,22 @@
+[
+    {
+        "id": "28405",
+        "name": "2.3.1",
+        "url": "https://moodle.org/plugins/download.php/28405/mod_adaptivequiz_moodle29_2012060202.zip"
+    },
+    {
+        "id": "13033",
+        "name": "1.2.3",
+        "url": "https://moodle.org/plugins/download.php/13033/mod_adaptivequiz_moodle29_2020020706.zip"
+    },
+    {
+        "id": "12724",
+        "name": "1.2.2",
+        "url": "https://moodle.org/plugins/download.php/12724/mod_adaptivequiz_moodle32_2018060904.zip"
+    },
+    {
+        "id": "8744",
+        "name": "1.2.1",
+        "url": "https://moodle.org/plugins/download.php/8744/mod_adaptivequiz_moodle31_2015101011.zip"
+    }
+]

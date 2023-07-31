@@ -1,0 +1,52 @@
+{
+    "id": 3044,
+    "index": 1337,
+    "name": "Group Members",
+    "frankenstyle": "block_group_members",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_group_members",
+    "shortdescription": "A block displaying all the group's participants in the group page.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 April 2023, 9:23 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-28T21:23:24+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "18",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3044/ScreenGroupMember.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 5084745,
+            "firstname": "Martin",
+            "lastname": "Cornu-Mansuy",
+            "url": "https://moodle.org/user/profile.php?id=5084745"
+        },
+        {
+            "id": 2569955,
+            "firstname": "Laurent",
+            "lastname": "David",
+            "url": "https://moodle.org/user/profile.php?id=2569955"
+        },
+        {
+            "id": 4333720,
+            "firstname": "Camille",
+            "lastname": "Carlier",
+            "url": "https://moodle.org/user/profile.php?id=4333720"
+        }
+    ],
+    "descriptors": []
+}

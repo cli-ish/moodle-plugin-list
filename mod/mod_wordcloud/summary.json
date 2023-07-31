@@ -1,0 +1,53 @@
+{
+    "id": 2736,
+    "index": 174,
+    "name": "Wordcloud",
+    "frankenstyle": "mod_wordcloud",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_wordcloud",
+    "shortdescription": "With the wordcloud activity, it is possible to collect terms together with your course participants in a brainstorming process and to display them graphically in order of frequency. This can be used, for example, to capture a picture of the mood or to create a basis for a discussion.",
+    "timelastreleased": {
+        "absdate": "Thursday, 1 June 2023, 12:19 PM",
+        "reldate": "9 weeks",
+        "iso8601date": "2023-06-01T12:19:41+08:00"
+    },
+    "aggsites": "294",
+    "aggdownloads": "699",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2736/icon.PNG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2736/icon.PNG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2736/wordcloud1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2736/wordcloud2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2736/wordcloud3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2736/wordcloud4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2736/wordcloud5.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4266933,
+            "firstname": "e-Learning Team",
+            "lastname": "University of Vienna",
+            "url": "https://moodle.org/user/profile.php?id=4266933"
+        }
+    ],
+    "descriptors": []
+}

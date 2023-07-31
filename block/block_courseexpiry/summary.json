@@ -1,0 +1,46 @@
+{
+    "id": 2747,
+    "index": 1548,
+    "name": "Course Expiry Block",
+    "frankenstyle": "block_courseexpiry",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_courseexpiry",
+    "shortdescription": "Block for use on dashboard that shows if courses are scheduled for deletion by local_courseexpiry",
+    "timelastreleased": {
+        "absdate": "Friday, 6 August 2021, 9:06 PM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-06T21:06:45+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "10",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2747/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2747/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2747/block_warning.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        },
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": []
+}

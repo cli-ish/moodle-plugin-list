@@ -1,0 +1,40 @@
+{
+    "id": 1853,
+    "index": 1269,
+    "name": "Handlebar",
+    "frankenstyle": "theme_handlebar",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_handlebar",
+    "shortdescription": "Theme_Handlebar is a child theme of Moodle's new core theme Boost.\r\nIt is built on Bootstrap4 and Mustache templates.\r\nIt adds a set of admin theme settings, such as presets and colours and also several custom block regions, including popup modal regions which do not appear on the main content of a page (and are only available for course pages).",
+    "timelastreleased": {
+        "absdate": "Sunday, 2 June 2019, 6:39 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-06-02T18:39:28+08:00"
+    },
+    "aggsites": "78",
+    "aggdownloads": "21",
+    "aggfavs": "23",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1853/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1853/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1853/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 480148,
+            "firstname": "Richard",
+            "lastname": "Oelmann",
+            "url": "https://moodle.org/user/profile.php?id=480148"
+        }
+    ],
+    "descriptors": []
+}

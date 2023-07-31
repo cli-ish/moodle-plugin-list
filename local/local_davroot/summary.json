@@ -1,0 +1,45 @@
+{
+    "id": 196,
+    "index": 1804,
+    "name": "DAVRoot",
+    "frankenstyle": "local_davroot",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_davroot",
+    "shortdescription": "Gives access to the virtual file system representing how Moodle organizes your resources.",
+    "timelastreleased": {
+        "absdate": "Monday, 5 November 2012, 3:30 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-05T15:30:38+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1075386,
+            "firstname": "Matteo",
+            "lastname": "Scaramuccia",
+            "url": "https://moodle.org/user/profile.php?id=1075386"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

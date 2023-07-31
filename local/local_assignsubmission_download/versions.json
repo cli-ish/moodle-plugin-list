@@ -1,0 +1,27 @@
+[
+    {
+        "id": "29511",
+        "name": "v4.2.0",
+        "url": "https://moodle.org/plugins/download.php/29511/local_assignsubmission_download_moodle40_2020110203.zip"
+    },
+    {
+        "id": "28184",
+        "name": "v4.1.0",
+        "url": "https://moodle.org/plugins/download.php/28184/local_assignsubmission_download_moodle30_2019030603.zip"
+    },
+    {
+        "id": "27561",
+        "name": "v4.0.1",
+        "url": "https://moodle.org/plugins/download.php/27561/local_assignsubmission_download_moodle30_2020021000.zip"
+    },
+    {
+        "id": "27560",
+        "name": "v3.11.3",
+        "url": "https://moodle.org/plugins/download.php/27560/local_assignsubmission_download_moodle35_2017050314.zip"
+    },
+    {
+        "id": "24428",
+        "name": "v3.10.1",
+        "url": "https://moodle.org/plugins/download.php/24428/local_assignsubmission_download_moodle35_2011050504.zip"
+    }
+]

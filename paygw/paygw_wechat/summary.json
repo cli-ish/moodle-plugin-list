@@ -1,0 +1,50 @@
+{
+    "id": 2729,
+    "index": 1146,
+    "name": "WeChat",
+    "frankenstyle": "paygw_wechat",
+    "plugintype": {
+        "type": "paygw",
+        "name": "Payment gateway"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/paygw_wechat",
+    "shortdescription": "WeChat payment gateway for Moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 21 May 2021, 11:24 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-21T11:24:52+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "32",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2729/img.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2729/img.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2729/wechat-pay.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2729/wechat-qr.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

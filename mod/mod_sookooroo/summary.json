@@ -1,0 +1,49 @@
+{
+    "id": 442,
+    "index": 1958,
+    "name": "Sookooroo",
+    "frankenstyle": "mod_sookooroo",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_sookooroo",
+    "shortdescription": "The Sookooroo module allows a course manager to add a link to a Sookooroo virtual room in a course section. ",
+    "timelastreleased": {
+        "absdate": "Saturday, 22 September 2012, 3:39 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-09-22T03:39:29+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "3",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/442/skrlogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/442/skrlogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/442/skr-modules-and-blocks.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/442/skr-virtual-room.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 150168,
+            "firstname": "Itamar",
+            "lastname": "Tzadok",
+            "url": "https://moodle.org/user/profile.php?id=150168"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

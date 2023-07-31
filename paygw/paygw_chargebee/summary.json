@@ -1,0 +1,50 @@
+{
+    "id": 3000,
+    "index": 1233,
+    "name": "Chargebee",
+    "frankenstyle": "paygw_chargebee",
+    "plugintype": {
+        "type": "paygw",
+        "name": "Payment gateway"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/paygw_chargebee",
+    "shortdescription": "Chargebee payment gateway for Moodle.\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 21 April 2023, 10:56 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-21T10:56:14+08:00"
+    },
+    "aggsites": null,
+    "aggdownloads": "24",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3000/chargebee-0.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3000/chargebee-1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3000/chargebee-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3000/chargebee-3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 390352,
+            "firstname": "Rajneel",
+            "lastname": "Totaram",
+            "url": "https://moodle.org/user/profile.php?id=390352"
+        }
+    ],
+    "descriptors": []
+}

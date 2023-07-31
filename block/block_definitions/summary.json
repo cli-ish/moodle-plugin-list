@@ -1,0 +1,47 @@
+{
+    "id": 2727,
+    "index": 1104,
+    "name": "Dictionary",
+    "frankenstyle": "block_definitions",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_definitions",
+    "shortdescription": "Adds a dictionary and thesaurus block to Moodle powered by the Merriam-Webster API.",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 July 2021, 11:10 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-07-08T23:10:59+08:00"
+    },
+    "aggsites": "48",
+    "aggdownloads": "37",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2727/2021-05-17%2010_58_10-Window.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2727/2021-05-17%2010_58_32-Window.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2727/2021-05-17%2010_58_49-Window.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1372674,
+            "firstname": "Tim",
+            "lastname": "Martinez",
+            "url": "https://moodle.org/user/profile.php?id=1372674"
+        }
+    ],
+    "descriptors": []
+}

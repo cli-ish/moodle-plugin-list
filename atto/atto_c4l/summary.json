@@ -1,0 +1,53 @@
+{
+    "id": 2780,
+    "index": 353,
+    "name": "Components for Learning (C4L)",
+    "frankenstyle": "atto_c4l",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_c4l",
+    "shortdescription": "A collection of visual components designed explicitly for Learning to use in the Atto editor.",
+    "timelastreleased": {
+        "absdate": "Monday, 3 October 2022, 1:55 AM",
+        "reldate": "10 months",
+        "iso8601date": "2022-10-03T01:55:00+08:00"
+    },
+    "aggsites": "743",
+    "aggdownloads": "366",
+    "aggfavs": "37",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2780/favicon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2780/favicon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2780/screenshot-components-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2780/screenshot-components-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2780/screenshot-components-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2780/screenshot-components-5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2780/screenshot-components-6.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2269460,
+            "firstname": "Roger",
+            "lastname": "Seg\u00fa",
+            "url": "https://moodle.org/user/profile.php?id=2269460"
+        }
+    ],
+    "descriptors": []
+}

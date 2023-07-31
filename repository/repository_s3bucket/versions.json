@@ -1,0 +1,42 @@
+[
+    {
+        "id": "27522",
+        "name": "v4.0.3",
+        "url": "https://moodle.org/plugins/download.php/27522/repository_s3bucket_moodle33_2015031107.zip"
+    },
+    {
+        "id": "27519",
+        "name": "v3.9.3",
+        "url": "https://moodle.org/plugins/download.php/27519/repository_s3bucket_moodle26_2014030619.zip"
+    },
+    {
+        "id": "22917",
+        "name": "3.8",
+        "url": "https://moodle.org/plugins/download.php/22917/repository_s3bucket_moodle39_2010081208.zip"
+    },
+    {
+        "id": "27521",
+        "name": "v4.0.2",
+        "url": "https://moodle.org/plugins/download.php/27521/repository_s3bucket_moodle31_2015080717.zip"
+    },
+    {
+        "id": "26526",
+        "name": "v4.0.1",
+        "url": "https://moodle.org/plugins/download.php/26526/repository_s3bucket_moodle40_2017071118.zip"
+    },
+    {
+        "id": "25793",
+        "name": "v3.9.2",
+        "url": "https://moodle.org/plugins/download.php/25793/repository_s3bucket_moodle25_2016111202.zip"
+    },
+    {
+        "id": "25647",
+        "name": "3.9.1",
+        "url": "https://moodle.org/plugins/download.php/25647/repository_s3bucket_moodle38_2020021118.zip"
+    },
+    {
+        "id": "24713",
+        "name": "3.9",
+        "url": "https://moodle.org/plugins/download.php/24713/repository_s3bucket_moodle40_2016060419.zip"
+    }
+]

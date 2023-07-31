@@ -1,0 +1,66 @@
+{
+    "id": 1196,
+    "index": 532,
+    "name": "MEDIAL Video Streaming Activity",
+    "frankenstyle": "mod_helixmedia",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_helixmedia",
+    "shortdescription": "This plugin allows Teachers / Lecturers to upload video or audio files to MEDIAL using a specific MEDIAL Activity which then creates a link to the video or audio file on the course page",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 November 2022, 12:43 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-24T00:43:34+08:00"
+    },
+    "aggsites": "400",
+    "aggdownloads": "222",
+    "aggfavs": "22",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1196/Medial%20Logo%20White_LLL.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1196/Medial%20Logo%20White_LLL.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1196/MEDIAL%20Activity.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1196/MEDIAL%20Activity%20Plugin%20Upload%20Process.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1196/MEDIAL%20Activity%20Plugin%20Upload.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1196/MEDIAL%20Activity%20Plugin%20Video%20Added%20to%20Course%20Page.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1196/MEDIAL%20Activity%20Plugin%20Video%20Added.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1452899,
+            "firstname": "MEDIAL",
+            "lastname": "Streaming",
+            "url": "https://moodle.org/user/profile.php?id=1452899"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

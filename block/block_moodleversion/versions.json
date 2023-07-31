@@ -1,0 +1,22 @@
+[
+    {
+        "id": "11097",
+        "name": "v1.28-2016041900",
+        "url": "https://moodle.org/plugins/download.php/11097/block_moodleversion_moodle28_2015050307.zip"
+    },
+    {
+        "id": "7244",
+        "name": "v1.22-2014111200",
+        "url": "https://moodle.org/plugins/download.php/7244/block_moodleversion_moodle31_2023030412.zip"
+    },
+    {
+        "id": "2324",
+        "name": "v1.2-2013030714",
+        "url": "https://moodle.org/plugins/download.php/2324/block_moodleversion_moodle33_2023090715.zip"
+    },
+    {
+        "id": "2276",
+        "name": "v1.0-2013022818",
+        "url": "https://moodle.org/plugins/download.php/2276/block_moodleversion_moodle36_2012060615.zip"
+    }
+]

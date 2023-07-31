@@ -1,0 +1,68 @@
+{
+    "id": 1560,
+    "index": 82,
+    "name": "Multi-Language Content (v2)",
+    "frankenstyle": "filter_multilang2",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_multilang2",
+    "shortdescription": "This filter is a greatly simplified multi-language filter. It uses very simple non-HTML tags to mark multi-language blocks. Namely {mlang XX} {mlang} pairs, where XX is the Moodle short name for the language pack (i.e., en, fr, eu, es, es_mx, etc.)\r\n\r\n\r\nIt uses the same tags as the filter_multilangsecond plugin (to be compatible with it), but there is one difference between the two. This filter allows standalone {mlang} tags that don't require adjoining alternative language tags. This makes the filter more flexible at the cost of potentially producing empty sets of  tags.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 October 2020, 3:57 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-10-13T15:57:17+08:00"
+    },
+    "aggsites": "3645",
+    "aggdownloads": "1k",
+    "aggfavs": "73",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1560/multilang-example-1-modificado.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1560/multilang-example-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1560/multilang-example-3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 68632,
+            "firstname": "I\u00f1aki",
+            "lastname": "Arenaza",
+            "url": "https://moodle.org/user/profile.php?id=68632"
+        },
+        {
+            "id": 709961,
+            "firstname": "I\u00f1igo",
+            "lastname": "Zendegi Urzelai",
+            "url": "https://moodle.org/user/profile.php?id=709961"
+        },
+        {
+            "id": 2827713,
+            "firstname": "Kepa",
+            "lastname": "Urzelai",
+            "url": "https://moodle.org/user/profile.php?id=2827713"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

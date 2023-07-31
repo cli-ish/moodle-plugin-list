@@ -1,0 +1,66 @@
+{
+    "id": 1694,
+    "index": 1937,
+    "name": "OfficeGrader Project",
+    "frankenstyle": "mod_og",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_og",
+    "shortdescription": "The OfficeGrader Project provides a way for students to use a Moodle site to submit Microsoft Excel/Word/PPT/Access documents for automated grading by the commercial OfficeGrader application suite (www.officegrader.com). The OG Project plugin also retrieves grades from the OfficeGrader grading server and posts them to the Moodle site. NOTE: NOT CURRENTLY BEING SUPPORTED",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 August 2016, 9:15 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-31T09:15:02+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "3",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1694/student_summary_with_grade_and_feedback.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1694/student_summary.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1694/student_upload_new_file.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1694/teacher_edit_grade.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1694/teacher_summary.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1951875,
+            "firstname": "Sarah",
+            "lastname": "Street",
+            "url": "https://moodle.org/user/profile.php?id=1951875"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Office"
+        }
+    ]
+}

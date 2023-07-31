@@ -1,0 +1,40 @@
+{
+    "id": 2689,
+    "index": 758,
+    "name": "Courses links",
+    "frankenstyle": "mod_courselinks",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_courselinks",
+    "shortdescription": "Mod which allows to display links in your course to other courses (to facilitate navigation between courses for example). This mod is displayed in a label.",
+    "timelastreleased": {
+        "absdate": "Monday, 22 August 2022, 4:27 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-08-22T16:27:27+08:00"
+    },
+    "aggsites": "142",
+    "aggdownloads": "132",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2689/courselinks_displays.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2689/courselinks_displays.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2689/courselinks_displays.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1850725,
+            "firstname": "Anthony",
+            "lastname": "Durif",
+            "url": "https://moodle.org/user/profile.php?id=1850725"
+        }
+    ],
+    "descriptors": []
+}

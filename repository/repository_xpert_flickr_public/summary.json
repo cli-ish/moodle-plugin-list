@@ -1,0 +1,64 @@
+{
+    "id": 1358,
+    "index": 1456,
+    "name": "Flickr public (Xpert)",
+    "frankenstyle": "repository_xpert_flickr_public",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_xpert_flickr_public",
+    "shortdescription": "The 'Flickr public (Xpert)' repository allows a user to attribute an image returned via the Flickr API to the copyright holder.  This is restricted to images licensed under the Creative Commons \"Attribution CC BY\" license.\r\n\r\nThis is accomplished by appending the copyright notice below the image itself.",
+    "timelastreleased": {
+        "absdate": "Monday, 25 July 2022, 3:40 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-07-25T15:40:53+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "13",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1358/UoN-UK-C-M.BlueRGB.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1358/UoN-UK-C-M.BlueRGB.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1358/5.%20attributed%20image.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1358/1.%20search.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1358/2.%20search_results.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1358/3.%20Insert_image.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1358/4.%20Select_file.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1805510,
+            "firstname": "The University",
+            "lastname": "of Nottingham",
+            "url": "https://moodle.org/user/profile.php?id=1805510"
+        },
+        {
+            "id": 1457891,
+            "firstname": "Neill",
+            "lastname": "Magill",
+            "url": "https://moodle.org/user/profile.php?id=1457891"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

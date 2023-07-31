@@ -1,0 +1,74 @@
+{
+    "id": 2319,
+    "index": 1619,
+    "name": "Password Validator",
+    "frankenstyle": "tool_passwordvalidator",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_passwordvalidator",
+    "shortdescription": "A tool for enforcing various security standards and guidelines for passwords for Moodle. This plugin aims for compliance with the Australian Information Security Manual (currently May 2019), and above that, the NIST standards from the document 800-63B. Many of the controls are optional and user configurable, with the most safe values set by default, but allow for great customization for any configuration, while enforcing safe, sensible guidelines for passwords.\r\n\r\nThis password checks also include securely testing for potentially compromised passwords using:\r\nhttps://haveibeenpwned.com/",
+    "timelastreleased": {
+        "absdate": "Tuesday, 19 November 2019, 12:53 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-11-19T12:53:48+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "8",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2319/key-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2319/key-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2319/Change%20Password.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2319/Configuration%20Checker%20Good.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2319/Moodle%20Config%20Bad.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2319/password%20no%20acc.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2319/password%20other%20acc.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2319/Preset%20Template.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2319/Settings%20Menu%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2319/Settings%20Menu.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 2685812,
+            "firstname": "Peter",
+            "lastname": "Burnett",
+            "url": "https://moodle.org/user/profile.php?id=2685812"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        }
+    ],
+    "descriptors": []
+}

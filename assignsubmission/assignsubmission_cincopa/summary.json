@@ -1,0 +1,62 @@
+{
+    "id": 1810,
+    "index": 556,
+    "name": "Cincopa Rich Media Assignment Submission",
+    "frankenstyle": "assignsubmission_cincopa",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_cincopa",
+    "shortdescription": "Enhance moodle's standard assignment submission process to include streaming videos, image galleries, audio and large documents without adding any load to your server or being restricted by file size.\r\n\r\nThis plugin allows students and teachers to easily upload and record from webcam/app different types of multimedia including videos, images, and audios. Teachers can view streaming video and listen to audio directly from the site and grade it without the need to download first. \r\n\r\nCincopa Submissions plugin for Moodle is a great solution for teachers who want to interact with students through their educational portal. Teachers can create assignments for students and collect various multimedia materials from students and required to fulfill their work. \r\n\r\nDownload\r\n",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 March 2023, 4:48 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-29T16:48:22+08:00"
+    },
+    "aggsites": "62",
+    "aggdownloads": "212",
+    "aggfavs": "15",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1810/app-256.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1810/app-256.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1810/screenshot-3.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1810/moodle-assignsubmission_cincopa.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1810/moodle-assignsubmission_cincopa2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1810/moodle-assignsubmission_cincopa3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1810/moodle-assignsubmission_cincopa4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1810/screenshot-1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1810/screenshot-2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1810/screenshot-4.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2175969,
+            "firstname": "Oren",
+            "lastname": "Shmulevich",
+            "url": "https://moodle.org/user/profile.php?id=2175969"
+        }
+    ],
+    "descriptors": []
+}

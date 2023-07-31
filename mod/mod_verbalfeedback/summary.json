@@ -1,0 +1,53 @@
+{
+    "id": 2900,
+    "index": 356,
+    "name": "Verbal feedback",
+    "frankenstyle": "mod_verbalfeedback",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_verbalfeedback",
+    "shortdescription": "Verbal feedback allows structured feedback of student's presentations by one or several persons.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 March 2023, 5:55 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-01T17:55:54+08:00"
+    },
+    "aggsites": "78",
+    "aggdownloads": "360",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2900/monologo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2900/monologo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2900/verbalfeedback_01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2900/verbalfeedback_02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2900/verbalfeedback_03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2900/verbalfeedback_04.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2900/verbalfeedback_05.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1350696,
+            "firstname": "Luca",
+            "lastname": "B\u00f6sch",
+            "url": "https://moodle.org/user/profile.php?id=1350696"
+        }
+    ],
+    "descriptors": []
+}

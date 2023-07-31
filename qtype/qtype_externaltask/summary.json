@@ -1,0 +1,53 @@
+{
+    "id": 2299,
+    "index": 1496,
+    "name": "External task",
+    "frankenstyle": "qtype_externaltask",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_externaltask",
+    "shortdescription": "This plugin allows for external tasks to be included in a quiz, followed by manual grading. External tasks are anything that is done outside Moodle - e.g. edit a spreadsheet, compose an email, paint a wall...",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 June 2019, 5:57 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-06-04T17:57:42+08:00"
+    },
+    "aggsites": "48",
+    "aggdownloads": "11",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2299/logo.PNG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2299/logo.PNG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2299/screenshot%201.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2299/screenshot%202.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2299/screenshot%203.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2299/screenshot%204.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2299/screenshot%205.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2574002,
+            "firstname": "Brendon",
+            "lastname": "Hatcher",
+            "url": "https://moodle.org/user/profile.php?id=2574002"
+        }
+    ],
+    "descriptors": []
+}

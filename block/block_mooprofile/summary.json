@@ -1,0 +1,45 @@
+{
+    "id": 62,
+    "index": 1125,
+    "name": "MooProfile",
+    "frankenstyle": "block_mooprofile",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mooprofile",
+    "shortdescription": "Displays user(s) profile in a block",
+    "timelastreleased": {
+        "absdate": "Friday, 28 February 2014, 4:07 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-02-28T04:07:42+08:00"
+    },
+    "aggsites": "41",
+    "aggdownloads": "35",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/62/mooprofile.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/62/mooprofile.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/62/mooprofile.gif?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1062023,
+            "firstname": "mohamed",
+            "lastname": "alsharaf",
+            "url": "https://moodle.org/user/profile.php?id=1062023"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

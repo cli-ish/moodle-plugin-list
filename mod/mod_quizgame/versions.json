@@ -1,0 +1,92 @@
+[
+    {
+        "id": "28449",
+        "name": "v4.1-r1",
+        "url": "https://moodle.org/plugins/download.php/28449/mod_quizgame_moodle38_2022091006.zip"
+    },
+    {
+        "id": "26250",
+        "name": "v4.0-r1",
+        "url": "https://moodle.org/plugins/download.php/26250/mod_quizgame_moodle25_2018030510.zip"
+    },
+    {
+        "id": "24333",
+        "name": "v3.11-r1",
+        "url": "https://moodle.org/plugins/download.php/24333/mod_quizgame_moodle25_2017020904.zip"
+    },
+    {
+        "id": "19549",
+        "name": "v3.7-r1",
+        "url": "https://moodle.org/plugins/download.php/19549/mod_quizgame_moodle31_2018020114.zip"
+    },
+    {
+        "id": "16518",
+        "name": "v3.5-r1",
+        "url": "https://moodle.org/plugins/download.php/16518/mod_quizgame_moodle38_2014110609.zip"
+    },
+    {
+        "id": "10607",
+        "name": "v3.0-r4",
+        "url": "https://moodle.org/plugins/download.php/10607/mod_quizgame_moodle39_2010100107.zip"
+    },
+    {
+        "id": "14002",
+        "name": "v3.3-r1",
+        "url": "https://moodle.org/plugins/download.php/14002/mod_quizgame_moodle38_2019030902.zip"
+    },
+    {
+        "id": "12617",
+        "name": "v3.2-r1",
+        "url": "https://moodle.org/plugins/download.php/12617/mod_quizgame_moodle31_2021050207.zip"
+    },
+    {
+        "id": "11357",
+        "name": "v3.1-r2",
+        "url": "https://moodle.org/plugins/download.php/11357/mod_quizgame_moodle32_2022100907.zip"
+    },
+    {
+        "id": "11297",
+        "name": "v3.1-r1",
+        "url": "https://moodle.org/plugins/download.php/11297/mod_quizgame_moodle40_2015120502.zip"
+    },
+    {
+        "id": "10008",
+        "name": "v3.0-r3",
+        "url": "https://moodle.org/plugins/download.php/10008/mod_quizgame_moodle34_2012061115.zip"
+    },
+    {
+        "id": "10000",
+        "name": "v3.0-r2",
+        "url": "https://moodle.org/plugins/download.php/10000/mod_quizgame_moodle38_2019071114.zip"
+    },
+    {
+        "id": "9643",
+        "name": "v3.0-r1",
+        "url": "https://moodle.org/plugins/download.php/9643/mod_quizgame_moodle39_2016121014.zip"
+    },
+    {
+        "id": "7761",
+        "name": "v2.8-r3",
+        "url": "https://moodle.org/plugins/download.php/7761/mod_quizgame_moodle29_2011020319.zip"
+    },
+    {
+        "id": "7682",
+        "name": "v2.8-r2",
+        "url": "https://moodle.org/plugins/download.php/7682/mod_quizgame_moodle26_2014061220.zip"
+    },
+    {
+        "id": "7326",
+        "name": "v2.8-r1",
+        "url": "https://moodle.org/plugins/download.php/7326/mod_quizgame_moodle36_2014011017.zip"
+    },
+    {
+        "id": "6851",
+        "name": "v2.7-r2",
+        "url": "https://moodle.org/plugins/download.php/6851/mod_quizgame_moodle26_2020040707.zip"
+    },
+    {
+        "id": "6837",
+        "name": "v2.7-r1",
+        "url": "https://moodle.org/plugins/download.php/6837/mod_quizgame_moodle26_2013110318.zip"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "id": "28945",
+        "name": "4.0.0-2023-04-03",
+        "url": "https://moodle.org/plugins/download.php/28945/local_fullscreen_moodle32_2023030819.zip"
+    },
+    {
+        "id": "27168",
+        "name": "3.10.0-2022-03-26",
+        "url": "https://moodle.org/plugins/download.php/27168/local_fullscreen_moodle35_2013100605.zip"
+    },
+    {
+        "id": "23723",
+        "name": "3.9.0-2021-01-26",
+        "url": "https://moodle.org/plugins/download.php/23723/local_fullscreen_moodle29_2014030519.zip"
+    },
+    {
+        "id": "22391",
+        "name": "3.0.0-2020-01-07",
+        "url": "https://moodle.org/plugins/download.php/22391/local_fullscreen_moodle30_2022030814.zip"
+    },
+    {
+        "id": "20054",
+        "name": "2.9.3-2019-07-17",
+        "url": "https://moodle.org/plugins/download.php/20054/local_fullscreen_moodle29_2015050504.zip"
+    },
+    {
+        "id": "17297",
+        "name": "2.8.1-2018-06-20",
+        "url": "https://moodle.org/plugins/download.php/17297/local_fullscreen_moodle35_2015030615.zip"
+    },
+    {
+        "id": "15286",
+        "name": "2.7.0-2017-11-02",
+        "url": "https://moodle.org/plugins/download.php/15286/local_fullscreen_moodle27_2022041107.zip"
+    },
+    {
+        "id": "15285",
+        "name": "2.6.5-2017-11-01",
+        "url": "https://moodle.org/plugins/download.php/15285/local_fullscreen_moodle26_2012070814.zip"
+    },
+    {
+        "id": "12294",
+        "name": "2.6.3",
+        "url": "https://moodle.org/plugins/download.php/12294/local_fullscreen_moodle38_2021121217.zip"
+    },
+    {
+        "id": "12295",
+        "name": "2.6.2",
+        "url": "https://moodle.org/plugins/download.php/12295/local_fullscreen_moodle35_2019101007.zip"
+    },
+    {
+        "id": "18733",
+        "name": "2.9.0-2019-01-08",
+        "url": "https://moodle.org/plugins/download.php/18733/local_fullscreen_moodle31_2017100816.zip"
+    },
+    {
+        "id": "8616",
+        "name": "2.6",
+        "url": "https://moodle.org/plugins/download.php/8616/local_fullscreen_moodle31_2015030402.zip"
+    }
+]

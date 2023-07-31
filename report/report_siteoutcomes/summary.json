@@ -1,0 +1,44 @@
+{
+    "id": 1884,
+    "index": 875,
+    "name": "Site Outcomes report",
+    "frankenstyle": "report_siteoutcomes",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_siteoutcomes",
+    "shortdescription": "Standard outcomes report.",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 May 2018, 10:36 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-17T22:36:15+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "105",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1884/1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1884/2.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 226766,
+            "firstname": "Matthew",
+            "lastname": "Davidson",
+            "url": "https://moodle.org/user/profile.php?id=226766"
+        }
+    ],
+    "descriptors": []
+}

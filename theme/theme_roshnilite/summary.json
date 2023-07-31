@@ -1,0 +1,58 @@
+{
+    "id": 1500,
+    "index": 131,
+    "name": "Roshni Lite ",
+    "frankenstyle": "theme_roshnilite",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_roshnilite",
+    "shortdescription": "Roshni Lite Moodle Theme is a LMS-friendly theme that enhances the user experience. Use this theme to add functionality and aesthetic appeal to your LMS websites. With customizable sections on your front page, you can easily manage your content. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 April 2023, 7:05 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-25T19:05:44+08:00"
+    },
+    "aggsites": "1067",
+    "aggdownloads": "920",
+    "aggfavs": "91",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1500/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1500/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1500/roshni_frnt.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1500/roshnilite%20advanced%20settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1500/roshnilite%20faculty%20settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1500/roshnilite%20fontb%20settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1500/Roshnilite%20general%20settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1832609,
+            "firstname": "DualCube",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1832609"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

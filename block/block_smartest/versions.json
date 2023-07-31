@@ -1,0 +1,32 @@
+[
+    {
+        "id": "27545",
+        "name": "1.0.1-build-2022091401",
+        "url": "https://moodle.org/plugins/download.php/27545/block_smartest_moodle33_2021080207.zip"
+    },
+    {
+        "id": "27400",
+        "name": "1.0.0-build-2022082201",
+        "url": "https://moodle.org/plugins/download.php/27400/block_smartest_moodle33_2010110503.zip"
+    },
+    {
+        "id": "27399",
+        "name": "1.0.0-build-2022082200",
+        "url": "https://moodle.org/plugins/download.php/27399/block_smartest_moodle36_2018020217.zip"
+    },
+    {
+        "id": "27254",
+        "name": "1.0.0-build-2022072600",
+        "url": "https://moodle.org/plugins/download.php/27254/block_smartest_moodle33_2015080110.zip"
+    },
+    {
+        "id": "27165",
+        "name": "1.0.0-build-2022072000",
+        "url": "https://moodle.org/plugins/download.php/27165/block_smartest_moodle26_2017120417.zip"
+    },
+    {
+        "id": "26508",
+        "name": "smartest-block-v1.0.0",
+        "url": "https://moodle.org/plugins/download.php/26508/block_smartest_moodle33_2018070520.zip"
+    }
+]

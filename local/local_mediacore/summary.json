@@ -1,0 +1,51 @@
+{
+    "id": 1156,
+    "index": 2108,
+    "name": "MediaCore Package Configuration",
+    "frankenstyle": "local_mediacore",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_mediacore",
+    "shortdescription": "Provides LTI integration libraries and configuration setup that is used by the other MediaCore plugins.",
+    "timelastreleased": {
+        "absdate": "Friday, 20 June 2014, 3:56 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-20T03:56:50+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": null,
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1156/mediacore_logo_90x90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1156/mediacore_logo_90x90.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1437567,
+            "firstname": "MediaCore",
+            "lastname": "Support",
+            "url": "https://moodle.org/user/profile.php?id=1437567"
+        },
+        {
+            "id": 1572219,
+            "firstname": "Derek",
+            "lastname": "Harnanansingh",
+            "url": "https://moodle.org/user/profile.php?id=1572219"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

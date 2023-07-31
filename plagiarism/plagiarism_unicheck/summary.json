@@ -1,0 +1,78 @@
+{
+    "id": 1926,
+    "index": 533,
+    "name": "Unicheck Plagiarism Checker Plugin",
+    "frankenstyle": "plagiarism_unicheck",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_unicheck",
+    "shortdescription": "Designed based on educators\u2019 feedback, Unicheck is a plagiarism detection engine helping educators spot plagiarism. To start using the app, please register at https://unicheck.com or get in touch with the sales team at sales@unicheck.com. It takes a few minutes to set-up your account and get the ball rolling. This plugin integrates with assignment, forum and workshop activities in Moodle to check user-submitted content for plagiarism.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 15 February 2023, 8:45 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-15T20:45:03+08:00"
+    },
+    "aggsites": "236",
+    "aggdownloads": "222",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1926/logo-svg%20%282%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1926/logo-svg%20%282%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1926/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1926/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1926/3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1926/4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1926/5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1926/6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1926/7.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1989190,
+            "firstname": "Ben",
+            "lastname": "Larson",
+            "url": "https://moodle.org/user/profile.php?id=1989190"
+        },
+        {
+            "id": 2159835,
+            "firstname": "Aleksandr",
+            "lastname": "Kostylev",
+            "url": "https://moodle.org/user/profile.php?id=2159835"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

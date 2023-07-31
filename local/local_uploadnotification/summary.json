@@ -1,0 +1,59 @@
+{
+    "id": 1922,
+    "index": 1535,
+    "name": "Upload notification",
+    "frankenstyle": "local_uploadnotification",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_uploadnotification",
+    "shortdescription": "Students can receive mails for new material and a changelog will be generated for updated documents provided in the course.",
+    "timelastreleased": {
+        "absdate": "Sunday, 6 May 2018, 8:09 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-06T20:09:17+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "10",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1922/uploadnotification_admin_settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1922/uploadnotification_changelog.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1922/uploadnotification_course_settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1922/uploadnotification_email.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1922/uploadnotification_student_settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2289236,
+            "firstname": "Hendrik",
+            "lastname": "W\u00fcrz",
+            "url": "https://moodle.org/user/profile.php?id=2289236"
+        },
+        {
+            "id": 1484403,
+            "firstname": "Guido",
+            "lastname": "Roessling",
+            "url": "https://moodle.org/user/profile.php?id=1484403"
+        }
+    ],
+    "descriptors": []
+}

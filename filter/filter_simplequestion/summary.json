@@ -1,0 +1,40 @@
+{
+    "id": 1953,
+    "index": 1522,
+    "name": "Insert question",
+    "frankenstyle": "filter_simplequestion",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_simplequestion",
+    "shortdescription": "This is a very simple implementation of a question filter. It allows questions to be\r\ninserted anywhere in Moodle editable text either embedded or in a popup.  Note that this plugin has probably been superseded by: https://github.com/moodleou/moodle-filter_embedquestion, developed by the OU team.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 June 2018, 6:48 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-26T18:48:27+08:00"
+    },
+    "aggsites": "71",
+    "aggdownloads": "10",
+    "aggfavs": "19",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1953/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1953/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1953/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 40642,
+            "firstname": "Richard",
+            "lastname": "Jones",
+            "url": "https://moodle.org/user/profile.php?id=40642"
+        }
+    ],
+    "descriptors": []
+}

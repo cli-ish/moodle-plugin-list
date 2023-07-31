@@ -1,0 +1,59 @@
+{
+    "id": 753,
+    "index": 1944,
+    "name": "My Language Portfolio",
+    "frankenstyle": "block_desp",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_desp",
+    "shortdescription": "The digital learning portfolio was developed by gtn solutions for \u00d6SZ (Austrian language center) and is an alternative digital way to work with the (European) language portfolio.\r\n",
+    "timelastreleased": {
+        "absdate": "Wednesday, 4 September 2013, 6:45 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-04T18:45:29+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "3",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/753/delp.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/753/delp.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/753/delp11.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/753/delp14.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/753/delp18.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/753/delp4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Languages"
+        }
+    ]
+}

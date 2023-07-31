@@ -1,0 +1,22 @@
+[
+    {
+        "id": "5949",
+        "name": "2.5.0-build-2013020801",
+        "url": "https://moodle.org/plugins/download.php/5949/block_user_mnet_hosts_moodle40_2012020505.zip"
+    },
+    {
+        "id": "4036",
+        "name": "2.4-build-2013020801",
+        "url": "https://moodle.org/plugins/download.php/4036/block_user_mnet_hosts_moodle29_2021030211.zip"
+    },
+    {
+        "id": "1378",
+        "name": "1.9.0-build-2012062000",
+        "url": "https://moodle.org/plugins/download.php/1378/block_user_mnet_hosts_moodle32_2011070213.zip"
+    },
+    {
+        "id": "1377",
+        "name": "2.2.0-build-2012062000",
+        "url": "https://moodle.org/plugins/download.php/1377/block_user_mnet_hosts_moodle32_2018020108.zip"
+    }
+]

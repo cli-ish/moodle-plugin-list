@@ -1,0 +1,50 @@
+{
+    "id": 1893,
+    "index": 28,
+    "name": "FilterCodes",
+    "frankenstyle": "filter_filtercodes",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_filtercodes",
+    "shortdescription": "The FilterCodes filter enables Moodle content creators to easily customize and personalize the site and course content using over 175 plain-text tags. Most tags are supported from Moodle 2.7 to 4.2.",
+    "timelastreleased": {
+        "absdate": "Monday, 8 May 2023, 3:18 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-08T03:18:25+08:00"
+    },
+    "aggsites": "3924",
+    "aggdownloads": "2k",
+    "aggfavs": "176",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1893/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1893/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1893/category-course-list.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1893/dynamic-context-aware-menus.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1893/moodle-FilterCodes-screenshot-results.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1893/moodle-FilterCodes-screenshot-source.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1615960,
+            "firstname": "Michael",
+            "lastname": "Milette",
+            "url": "https://moodle.org/user/profile.php?id=1615960"
+        }
+    ],
+    "descriptors": []
+}

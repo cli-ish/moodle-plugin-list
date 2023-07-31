@@ -1,0 +1,40 @@
+{
+    "id": 2136,
+    "index": 1026,
+    "name": "Classic",
+    "frankenstyle": "theme_classic",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_classic",
+    "shortdescription": "Theme classic is a simple theme based on the Boost theme. It uses the 3 column grid and the navigation block and settings block.",
+    "timelastreleased": {
+        "absdate": "Monday, 25 February 2019, 6:03 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-02-25T18:03:48+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "51",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2136/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": []
+}

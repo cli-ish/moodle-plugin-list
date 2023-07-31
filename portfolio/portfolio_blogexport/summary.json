@@ -1,0 +1,47 @@
+{
+    "id": 628,
+    "index": 820,
+    "name": "Blog Export Portfolio",
+    "frankenstyle": "portfolio_blogexport",
+    "plugintype": {
+        "type": "portfolio",
+        "name": "Portfolio"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/portfolio_blogexport",
+    "shortdescription": "The Blog Export portfolio plugin allows Moodle users to export certain activities and items to their own Moodle blog. This allows the Moodle blog to act as an internal Portoflio.",
+    "timelastreleased": {
+        "absdate": "Friday, 31 May 2019, 2:35 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-05-31T14:35:57+08:00"
+    },
+    "aggsites": "336",
+    "aggdownloads": "121",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/628/logo.PNG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/628/logo.PNG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/628/Blog%20Export%20Portfolio%20Banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/628/2019-05-31_15-41-36.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/628/MoodleTile_Portfolio.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,62 @@
+{
+    "id": 1937,
+    "index": 62,
+    "name": "Enlightlite",
+    "frankenstyle": "theme_enlightlite",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_enlightlite",
+    "shortdescription": "Enlight Lite is a beautiful and fully responsive Moodle theme well suited for Universities,Schools & Online learning websites.",
+    "timelastreleased": {
+        "absdate": "Friday, 20 January 2023, 9:43 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-20T21:43:40+08:00"
+    },
+    "aggsites": "3398",
+    "aggdownloads": "1k",
+    "aggfavs": "101",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1937/Arabic_homepage.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1937/Course_listing_page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1937/Course_view_page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1937/Home_page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1937/Login_page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1937/Login_signup_page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1937/My_course_Page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1937/Theme_setting_page.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1961886,
+            "firstname": "LMSACE",
+            "lastname": "e-learning experts",
+            "url": "https://moodle.org/user/profile.php?id=1961886"
+        }
+    ],
+    "descriptors": []
+}

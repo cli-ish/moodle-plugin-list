@@ -1,0 +1,47 @@
+{
+    "id": 3089,
+    "index": 908,
+    "name": "Module completion tracker",
+    "frankenstyle": "report_modulecompletion",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_modulecompletion",
+    "shortdescription": "The report_modulecompletion plugin is an essential tool for Moodle users who want to monitor the progress of their students. This plugin is designed to track the progression of students in all of their courses for a given period. The plugin is particularly useful for teachers and other educators who need to keep track of student progress and identify areas where students may be struggling.",
+    "timelastreleased": {
+        "absdate": "Monday, 10 July 2023, 5:43 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-10T17:43:30+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "89",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3089/filters_form.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3089/reports_metadata.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3089/reports_view.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2326395,
+            "firstname": "S\u00e9bastien",
+            "lastname": "Viallemonteil",
+            "url": "https://moodle.org/user/profile.php?id=2326395"
+        }
+    ],
+    "descriptors": []
+}

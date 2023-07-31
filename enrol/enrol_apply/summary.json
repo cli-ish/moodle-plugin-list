@@ -1,0 +1,58 @@
+{
+    "id": 325,
+    "index": 171,
+    "name": "Enrolment upon approval",
+    "frankenstyle": "enrol_apply",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_apply",
+    "shortdescription": "The enrolment plugin \"enrol on approval\" adds an approval step into the course enrolment process. Users will be informed by mail as soon as their course application has been approved/ rejected.\r\n ",
+    "timelastreleased": {
+        "absdate": "Friday, 11 February 2022, 2:05 PM",
+        "reldate": "18 months",
+        "iso8601date": "2022-02-11T14:05:10+08:00"
+    },
+    "aggsites": "1891",
+    "aggdownloads": "705",
+    "aggfavs": "134",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/325/1-7-2013%2012-36-45%20AM.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/325/1-7-2013%2012-36-45%20AM.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/325/enrol_apply1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/325/enrol_apply2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/325/enrol_apply3.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 221571,
+            "firstname": "Flotter",
+            "lastname": "Totte",
+            "url": "https://moodle.org/user/profile.php?id=221571"
+        },
+        {
+            "id": 2341857,
+            "firstname": "emeneo",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=2341857"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

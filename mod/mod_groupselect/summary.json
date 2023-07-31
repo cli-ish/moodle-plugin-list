@@ -1,0 +1,65 @@
+{
+    "id": 104,
+    "index": 203,
+    "name": "Group self-selection",
+    "frankenstyle": "mod_groupselect",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_groupselect",
+    "shortdescription": "Lets students create and select groups.",
+    "timelastreleased": {
+        "absdate": "Friday, 25 November 2022, 6:35 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-25T06:35:49+08:00"
+    },
+    "aggsites": "1376",
+    "aggdownloads": "621",
+    "aggfavs": "51",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/104/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/104/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/104/groupselect_create.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/104/groupselect_edit.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/104/groupselect_manview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/104/groupselect_settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/104/groupselect_studentview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/104/groupselect_teacherview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2084257,
+            "firstname": "Roger",
+            "lastname": "Barras",
+            "url": "https://moodle.org/user/profile.php?id=2084257"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        }
+    ]
+}

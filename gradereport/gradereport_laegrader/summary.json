@@ -1,0 +1,45 @@
+{
+    "id": 764,
+    "index": 1193,
+    "name": "LAE Grader Report",
+    "frankenstyle": "gradereport_laegrader",
+    "plugintype": {
+        "type": "gradereport",
+        "name": "Gradebook report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradereport_laegrader",
+    "shortdescription": "Alternative to Grader report that scrolls vertically and horizontally without losing student columns or grade item header rows.  Lot of additional enhancements.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 8 April 2014, 11:02 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-08T23:02:08+08:00"
+    },
+    "aggsites": "157",
+    "aggdownloads": "27",
+    "aggfavs": "34",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/764/laegraderReport081510.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 5845,
+            "firstname": "Bob",
+            "lastname": "Puffer",
+            "url": "https://moodle.org/user/profile.php?id=5845"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

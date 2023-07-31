@@ -1,0 +1,40 @@
+{
+    "id": 2949,
+    "index": 776,
+    "name": "Duration",
+    "frankenstyle": "customfield_duration",
+    "plugintype": {
+        "type": "customfield",
+        "name": "Custom field"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/customfield_duration",
+    "shortdescription": "A custom field to take a duration",
+    "timelastreleased": {
+        "absdate": "Tuesday, 7 June 2022, 6:36 PM",
+        "reldate": "14 months",
+        "iso8601date": "2022-06-07T18:36:29+08:00"
+    },
+    "aggsites": "56",
+    "aggdownloads": "128",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2949/Screenshot%202022-06-07%20at%2011.37.31.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1396756,
+            "firstname": "Andrew",
+            "lastname": "Hancox",
+            "url": "https://moodle.org/user/profile.php?id=1396756"
+        }
+    ],
+    "descriptors": []
+}

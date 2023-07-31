@@ -1,0 +1,55 @@
+{
+    "id": 94,
+    "index": 1286,
+    "name": "MoodleMobile",
+    "frankenstyle": "block_pageone",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_pageone",
+    "shortdescription": "Text message block for the JanetTxt/PageOne system",
+    "timelastreleased": {
+        "absdate": "Friday, 1 June 2018, 12:01 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-01T00:01:10+08:00"
+    },
+    "aggsites": "38",
+    "aggdownloads": "20",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/94/logo2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/94/logo2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/94/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1875185,
+            "firstname": "ian",
+            "lastname": "hatton",
+            "url": "https://moodle.org/user/profile.php?id=1875185"
+        },
+        {
+            "id": 10165,
+            "firstname": "Tim",
+            "lastname": "Williams",
+            "url": "https://moodle.org/user/profile.php?id=10165"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

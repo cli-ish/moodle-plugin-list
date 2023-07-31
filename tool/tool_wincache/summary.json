@@ -1,0 +1,64 @@
+{
+    "id": 706,
+    "index": 1991,
+    "name": "WinCache info",
+    "frankenstyle": "tool_wincache",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_wincache",
+    "shortdescription": "Plugin to provide phpinfo() style statistics about WinCache usage from within the Site Administration menu.",
+    "timelastreleased": {
+        "absdate": "Friday, 19 April 2013, 9:25 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-19T21:25:02+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "2",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/706/wincache_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/706/wincache_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/706/tool_wincache_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/706/tool_wincache_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/706/tool_wincache_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/706/tool_wincache_4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/706/tool_wincache_5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/706/tool_wincache_6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/706/tool_wincache_7.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1587334,
+            "firstname": "Ryan",
+            "lastname": "Panning",
+            "url": "https://moodle.org/user/profile.php?id=1587334"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

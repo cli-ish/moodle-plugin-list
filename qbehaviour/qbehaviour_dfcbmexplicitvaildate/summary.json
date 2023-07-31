@@ -1,0 +1,46 @@
+{
+    "id": 381,
+    "index": 145,
+    "name": "Deferred feedback with CBM and explicit validation",
+    "frankenstyle": "qbehaviour_dfcbmexplicitvaildate",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_dfcbmexplicitvaildate",
+    "shortdescription": "A question behaviour designed for use by qtype_stack.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 September 2022, 5:20 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-22T17:20:31+08:00"
+    },
+    "aggsites": "2202",
+    "aggdownloads": "835",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 20620,
+            "firstname": "Christopher",
+            "lastname": "Sangwin",
+            "url": "https://moodle.org/user/profile.php?id=20620"
+        }
+    ],
+    "descriptors": []
+}

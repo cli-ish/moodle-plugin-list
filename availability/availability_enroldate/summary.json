@@ -1,0 +1,47 @@
+{
+    "id": 2651,
+    "index": 1117,
+    "name": "Restriction by Enrolment date",
+    "frankenstyle": "availability_enroldate",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_enroldate",
+    "shortdescription": "This is an availability plugin to restrict the access of activity based on the\r\nuser enrolment date",
+    "timelastreleased": {
+        "absdate": "Sunday, 14 March 2021, 2:14 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-14T02:14:36+08:00"
+    },
+    "aggsites": "289",
+    "aggdownloads": "35",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2651/enroldate_screenshot_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2651/enroldate_screenshot_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2651/enroldate_screenshot_3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2563270,
+            "firstname": "Sooraj",
+            "lastname": "Singh",
+            "url": "https://moodle.org/user/profile.php?id=2563270"
+        }
+    ],
+    "descriptors": []
+}

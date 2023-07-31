@@ -1,0 +1,53 @@
+{
+    "id": 837,
+    "index": 2138,
+    "name": "eCampus",
+    "frankenstyle": "block_ecampus_tbird",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_ecampus_tbird",
+    "shortdescription": "This block provides a simple single-sign-on method between Moodle and the eCampus online bookstore site.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 April 2014, 12:32 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-30T00:32:06+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/837/ecampus-button-with-books.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/837/ecampus-button.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1139933,
+            "firstname": "Johan",
+            "lastname": "Reinalda",
+            "url": "https://moodle.org/user/profile.php?id=1139933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

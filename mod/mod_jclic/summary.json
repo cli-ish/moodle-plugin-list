@@ -1,0 +1,68 @@
+{
+    "id": 305,
+    "index": 515,
+    "name": "JClic",
+    "frankenstyle": "mod_jclic",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_jclic",
+    "shortdescription": "This module allows the incorporation of JClic activities in Moodle and save its state.",
+    "timelastreleased": {
+        "absdate": "Monday, 21 June 2021, 5:21 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-21T05:21:34+08:00"
+    },
+    "aggsites": "1218",
+    "aggdownloads": "227",
+    "aggfavs": "20",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/305/jclicmoodle_logo.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/305/jclicmoodle_logo.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/305/jclic1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/305/jclic2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/305/jclic3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1394459,
+            "firstname": "Projectes TAC",
+            "lastname": "Dep. Educaci\u00f3 Catalunya",
+            "url": "https://moodle.org/user/profile.php?id=1394459"
+        },
+        {
+            "id": 119927,
+            "firstname": "Sara",
+            "lastname": "Arjona T\u00e9llez",
+            "url": "https://moodle.org/user/profile.php?id=119927"
+        },
+        {
+            "id": 1018346,
+            "firstname": "Pau",
+            "lastname": "Ferrer Oca\u00f1a",
+            "url": "https://moodle.org/user/profile.php?id=1018346"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

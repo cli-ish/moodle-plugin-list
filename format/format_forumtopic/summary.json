@@ -1,0 +1,40 @@
+{
+    "id": 88,
+    "index": 1466,
+    "name": "Topic Forums course format",
+    "frankenstyle": "format_forumtopic",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_forumtopic",
+    "shortdescription": "Topic Forums course format adds forums below the topic sections of the Onetopic course format. Each topic has its own discussion forum.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 October 2011, 6:03 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-06T06:03:12+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "13",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/88/TopicForums.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/88/TopicForums.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/88/TopicForums.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1374276,
+            "firstname": "ca2si",
+            "lastname": "Etan",
+            "url": "https://moodle.org/user/profile.php?id=1374276"
+        }
+    ],
+    "descriptors": []
+}

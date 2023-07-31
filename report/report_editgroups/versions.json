@@ -1,0 +1,47 @@
+[
+    {
+        "id": "26930",
+        "name": "2.7-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/26930/report_editgroups_moodle35_2019120603.zip"
+    },
+    {
+        "id": "18312",
+        "name": "2.6-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/18312/report_editgroups_moodle36_2017100811.zip"
+    },
+    {
+        "id": "8507",
+        "name": "2.4-for-moodle-2.8",
+        "url": "https://moodle.org/plugins/download.php/8507/report_editgroups_moodle37_2013081200.zip"
+    },
+    {
+        "id": "7240",
+        "name": "2.3-for-moodle-2.7",
+        "url": "https://moodle.org/plugins/download.php/7240/report_editgroups_moodle27_2014080707.zip"
+    },
+    {
+        "id": "5232",
+        "name": "2.2-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/5232/report_editgroups_moodle25_2010070118.zip"
+    },
+    {
+        "id": "4016",
+        "name": "2.1-for-moodle-2.2-2.4",
+        "url": "https://moodle.org/plugins/download.php/4016/report_editgroups_moodle29_2015040518.zip"
+    },
+    {
+        "id": "17617",
+        "name": "2.5-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/17617/report_editgroups_moodle30_2018120112.zip"
+    },
+    {
+        "id": "3762",
+        "name": "2.1-for-moodle-2.2",
+        "url": "https://moodle.org/plugins/download.php/3762/report_editgroups_moodle27_2010070702.zip"
+    },
+    {
+        "id": "814",
+        "name": "2011051801",
+        "url": "https://moodle.org/plugins/download.php/814/report_editgroups_moodle37_2023010818.zip"
+    }
+]

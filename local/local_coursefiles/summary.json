@@ -1,0 +1,40 @@
+{
+    "id": 2986,
+    "index": 466,
+    "name": "Course files",
+    "frankenstyle": "local_coursefiles",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_coursefiles",
+    "shortdescription": "A simple Moodle local plugin that allows students and other course participants to view, filter and download the course files that are available to them.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 24 August 2022, 7:12 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-08-24T07:12:42+08:00"
+    },
+    "aggsites": "67",
+    "aggdownloads": "252",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2986/preview.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4915190,
+            "firstname": "Kacper",
+            "lastname": "Rokicki",
+            "url": "https://moodle.org/user/profile.php?id=4915190"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": 3030,
+    "index": 848,
+    "name": "Roles Category Sitemap",
+    "frankenstyle": "report_rolessitemap",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_rolessitemap",
+    "shortdescription": "Report that shows all coursecategories in an moodle instance and the roles that are used in context coursecatergories.",
+    "timelastreleased": {
+        "absdate": "Friday, 17 March 2023, 1:48 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-17T01:48:07+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "114",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3030/rolessitemap_websitesettings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3030/rolessitemap2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1028581,
+            "firstname": "Andreas",
+            "lastname": "Schenkel",
+            "url": "https://moodle.org/user/profile.php?id=1028581"
+        }
+    ],
+    "descriptors": []
+}

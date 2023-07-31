@@ -1,0 +1,55 @@
+{
+    "id": 1502,
+    "index": 1395,
+    "name": "tele-TASK",
+    "frankenstyle": "mod_teletask",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_teletask",
+    "shortdescription": "This module allows video playback of single and dual stream lecture videos in a moodle course. It offers direct integration of the tele-TASK recording system and supports mp4 videos playback from different sources.",
+    "timelastreleased": {
+        "absdate": "Friday, 4 March 2016, 9:45 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-03-04T21:45:16+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "15",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1502/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1502/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1502/teletask_moodle%20screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1991704,
+            "firstname": "Martin",
+            "lastname": "Malchow",
+            "url": "https://moodle.org/user/profile.php?id=1991704"
+        },
+        {
+            "id": 2005025,
+            "firstname": "Matthias",
+            "lastname": "Bauer",
+            "url": "https://moodle.org/user/profile.php?id=2005025"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

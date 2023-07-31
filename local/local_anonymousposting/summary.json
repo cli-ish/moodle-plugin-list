@@ -1,0 +1,49 @@
+{
+    "id": 203,
+    "index": 1406,
+    "name": "Anonymous posting in forums",
+    "frankenstyle": "local_anonymousposting",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_anonymousposting",
+    "shortdescription": "Local plugin for allowing anonymous posting in forums. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 1 December 2016, 4:56 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-01T04:56:51+08:00"
+    },
+    "aggsites": "79",
+    "aggdownloads": "14",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/203/Captura%20de%20pantalla%202016-11-30%20a%20las%2020.53.05.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/203/Captura%20de%20pantalla%202016-11-30%20a%20las%2020.53.16.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

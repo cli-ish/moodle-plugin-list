@@ -1,0 +1,50 @@
+{
+    "id": 1710,
+    "index": 369,
+    "name": "SAML2 SSO Auth",
+    "frankenstyle": "auth_saml2sso",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_saml2sso",
+    "shortdescription": "Authentication using exists SimpleSAMLphp Service Provider",
+    "timelastreleased": {
+        "absdate": "Friday, 14 July 2023, 4:36 PM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-14T16:36:11+08:00"
+    },
+    "aggsites": "149",
+    "aggdownloads": "346",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1710/moodle-auth_saml2sso_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1710/moodle-auth_saml2sso_2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1618958,
+            "firstname": "Daniel",
+            "lastname": "Miranda",
+            "url": "https://moodle.org/user/profile.php?id=1618958"
+        },
+        {
+            "id": 158438,
+            "firstname": "AulaWeb",
+            "lastname": "Universit\u00e0 di Genova",
+            "url": "https://moodle.org/user/profile.php?id=158438"
+        }
+    ],
+    "descriptors": []
+}

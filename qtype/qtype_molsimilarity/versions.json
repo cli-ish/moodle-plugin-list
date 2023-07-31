@@ -1,0 +1,32 @@
+[
+    {
+        "id": "28891",
+        "name": "1.3.1",
+        "url": "https://moodle.org/plugins/download.php/28891/qtype_molsimilarity_moodle26_2014090606.zip"
+    },
+    {
+        "id": "28552",
+        "name": "1.2.3",
+        "url": "https://moodle.org/plugins/download.php/28552/qtype_molsimilarity_moodle31_2013110703.zip"
+    },
+    {
+        "id": "27950",
+        "name": "1.2.2",
+        "url": "https://moodle.org/plugins/download.php/27950/qtype_molsimilarity_moodle30_2022090303.zip"
+    },
+    {
+        "id": "27579",
+        "name": "1.2",
+        "url": "https://moodle.org/plugins/download.php/27579/qtype_molsimilarity_moodle39_2015100609.zip"
+    },
+    {
+        "id": "26762",
+        "name": "1.1",
+        "url": "https://moodle.org/plugins/download.php/26762/qtype_molsimilarity_moodle39_2017030703.zip"
+    },
+    {
+        "id": "26149",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/26149/qtype_molsimilarity_moodle32_2012070113.zip"
+    }
+]

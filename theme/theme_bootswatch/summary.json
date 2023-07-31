@@ -1,0 +1,58 @@
+{
+    "id": 1265,
+    "index": 1479,
+    "name": "Bootswatch",
+    "frankenstyle": "theme_bootswatch",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_bootswatch",
+    "shortdescription": "This is a child theme for Bootstrap3, it allows site administrators to select a Bootswatch. A Bootswatch is a sub-theme for Bootstrap based themes. The bootswatches used on this theme are created by Tomas Park, see http://bootswatch.com/. \r\nA Bootswatch contains the variables en settings for styling Bootstrap themes, they are easy to create and maintain.",
+    "timelastreleased": {
+        "absdate": "Friday, 30 October 2015, 9:11 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-10-30T21:11:17+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "12",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1265/dark.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1265/lumen.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1265/readable.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1265/sandstone.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1265/spacelab.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

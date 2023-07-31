@@ -1,0 +1,45 @@
+{
+    "id": 684,
+    "index": 1630,
+    "name": "Pluto",
+    "frankenstyle": "theme_pluto",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_pluto",
+    "shortdescription": "Pluto is a fluid-width 2 column theme based on Binarius, for Moodle 2.4. It is part of a series of ten 'Planet' themes intended to provide a choice of visually accessible and/or fun colour schemes.\r\n\r\nPluto is designed to provide a high contrast interface with a dark background and yellow text. It also includes a 2.4 compatible version of the MoodleBar developed by Lewis Carr, and uses the autohide functionality for course editing buttons outlined by Frankie Kam.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 May 2013, 10:08 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-21T22:08:34+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "8",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/684/pluto.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/684/pluto.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/684/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1039666,
+            "firstname": "Gordon",
+            "lastname": "McLeod",
+            "url": "https://moodle.org/user/profile.php?id=1039666"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

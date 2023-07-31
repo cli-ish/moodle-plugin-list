@@ -1,0 +1,56 @@
+{
+    "id": 3057,
+    "index": 714,
+    "name": "Tutoom",
+    "frankenstyle": "mod_tutoom",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_tutoom",
+    "shortdescription": "Moodle Plugin for Tutoom Virtual Classroom",
+    "timelastreleased": {
+        "absdate": "Friday, 10 March 2023, 5:25 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-10T05:25:58+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "143",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3057/symbol-square-negative.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3057/symbol-square-negative.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3057/Desktop%20-%20Main.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3057/Desktop%20-%20Presentation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3057/Mobile%20-%20Main.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3057/Mobile%20-%20Presentation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3057/Tablet%20-%20Main.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3057/Tablet%20-%20Presentation.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4995049,
+            "firstname": "Tutoom",
+            "lastname": "Developer",
+            "url": "https://moodle.org/user/profile.php?id=4995049"
+        }
+    ],
+    "descriptors": []
+}

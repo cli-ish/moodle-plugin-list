@@ -1,0 +1,71 @@
+{
+    "id": 1582,
+    "index": 1651,
+    "name": "QR Links",
+    "frankenstyle": "local_qrlinks",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_qrlinks",
+    "shortdescription": "QR code generator that provides a direct link to the page specified. When someone scans the generated QR code it will try to log them in via guest access to the specified link.",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 August 2016, 8:37 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-18T20:37:55+08:00"
+    },
+    "aggsites": "87",
+    "aggdownloads": "7",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1582/Selection_192.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1582/Selection_192.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1582/qr1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1582/qr2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1582/qr3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1582/qr4%20print%20preview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1582/qr5%20manage.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 2054097,
+            "firstname": "Nicholas",
+            "lastname": "Hoobin",
+            "url": "https://moodle.org/user/profile.php?id=2054097"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        },
+        {
+            "id": 1608390,
+            "firstname": "Dmitrii",
+            "lastname": "Metelkin",
+            "url": "https://moodle.org/user/profile.php?id=1608390"
+        }
+    ],
+    "descriptors": []
+}

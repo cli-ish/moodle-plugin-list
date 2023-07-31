@@ -1,0 +1,56 @@
+{
+    "id": 2357,
+    "index": 683,
+    "name": "Oauth2 token unlink event",
+    "frankenstyle": "tool_untoken_oauth2",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_untoken_oauth2",
+    "shortdescription": "The following plugin allows you to remove emails from linking accounts in moodle with oauth2 services, useful in cases where the linking message was never delivered and the entry is blocked with the user's account, allowing administrator this linking process to be performed again.",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 July 2022, 10:58 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-14T22:58:50+08:00"
+    },
+    "aggsites": "53",
+    "aggdownloads": "153",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2357/IMG-20200409-WA0036.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2357/IMG-20200409-WA0036.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2357/shot1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2357/shot2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2357/shot3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2357/shot4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2357/shot5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2357/shot6.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2122358,
+            "firstname": "Jonathan",
+            "lastname": "Lopez",
+            "url": "https://moodle.org/user/profile.php?id=2122358"
+        }
+    ],
+    "descriptors": []
+}

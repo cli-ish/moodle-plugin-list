@@ -1,0 +1,52 @@
+{
+    "id": 2739,
+    "index": 349,
+    "name": "Learning Analytics Log",
+    "frankenstyle": "logstore_lanalytics",
+    "plugintype": {
+        "type": "logstore",
+        "name": "Log store manager / Log store"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/logstore_lanalytics",
+    "shortdescription": "Privacy-friendly logstore for the Learning Analytics plugin",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 August 2022, 5:26 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-08-18T17:26:15+08:00"
+    },
+    "aggsites": "751",
+    "aggdownloads": "378",
+    "aggfavs": "18",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2739/rwth-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2739/rwth-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2739/log01.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2078083,
+            "firstname": "Thomas",
+            "lastname": "Dondorf",
+            "url": "https://moodle.org/user/profile.php?id=2078083"
+        },
+        {
+            "id": 2493803,
+            "firstname": "Bernd",
+            "lastname": "Decker",
+            "url": "https://moodle.org/user/profile.php?id=2493803"
+        },
+        {
+            "id": 5027022,
+            "firstname": "Sebastian",
+            "lastname": "Schilling",
+            "url": "https://moodle.org/user/profile.php?id=5027022"
+        }
+    ],
+    "descriptors": []
+}

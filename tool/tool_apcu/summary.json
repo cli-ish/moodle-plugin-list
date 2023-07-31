@@ -1,0 +1,46 @@
+{
+    "id": 2467,
+    "index": 271,
+    "name": "APCu management",
+    "frankenstyle": "tool_apcu",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_apcu",
+    "shortdescription": "Moodle plugin which adds a PHP APCu management GUI to Moodle site administration.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 March 2023, 4:25 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-21T04:25:36+08:00"
+    },
+    "aggsites": "168",
+    "aggdownloads": "472",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2467/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2467/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2467/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

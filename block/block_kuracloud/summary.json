@@ -1,0 +1,59 @@
+{
+    "id": 1908,
+    "index": 1457,
+    "name": "kuraCloud",
+    "frankenstyle": "block_kuracloud",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_kuracloud",
+    "shortdescription": "Connect Moodle with your kuraCloud instance. (Requires a paid kuraCloud subscription)\r\nThis block allows a Moodle course to be mapped to a kuraCloud course. Student accounts are synchronised from Moodle to kuraCloud and grades are synchronised back from kuraCloud to Moodle.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 8 February 2022, 10:00 AM",
+        "reldate": "18 months",
+        "iso8601date": "2022-02-08T10:00:41+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "13",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1908/kuraCloud.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1908/kuraCloud.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1908/api.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1908/courseBlock.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1908/grades.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1908/students.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2272848,
+            "firstname": "kuraCloud",
+            "lastname": "kuraCloud",
+            "url": "https://moodle.org/user/profile.php?id=2272848"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

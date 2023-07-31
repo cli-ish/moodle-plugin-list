@@ -1,0 +1,59 @@
+{
+    "id": 1769,
+    "index": 598,
+    "name": "Cincopa Video, Audio and Images Filter",
+    "frankenstyle": "filter_cincopa",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_cincopa",
+    "shortdescription": "Add HTML5 videos, photo galleries, music, podcasts and playlists to any section of your moodle site. Supported formats mp4, mp3, jpg, wmv and many others. \r\nEnjoy more than 100 designed templates for slideshows, video players, video portal, Lightbox and many more. Cincopa is fully hosted and seamlessly integrated with a CDN which makes sure it will work fast and smooth without any load on your moodle server.\r\n\r\n\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 19 August 2022, 4:55 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-08-19T16:55:20+08:00"
+    },
+    "aggsites": "284",
+    "aggdownloads": "195",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1769/app-256.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1769/app-256.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1769/1-videoplayer.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1769/2-videogallery.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1769/3-imagegalery.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1769/4-imagelistpreview.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1769/5-audiomobile.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1769/6-audioplaylist.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1769/7-lightbox.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2175969,
+            "firstname": "Oren",
+            "lastname": "Shmulevich",
+            "url": "https://moodle.org/user/profile.php?id=2175969"
+        }
+    ],
+    "descriptors": []
+}

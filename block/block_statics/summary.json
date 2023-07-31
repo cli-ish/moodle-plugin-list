@@ -1,0 +1,44 @@
+{
+    "id": 2177,
+    "index": 1624,
+    "name": "Statics block",
+    "frankenstyle": "block_statics",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_statics",
+    "shortdescription": "Statics is a Moodle block that provides for teachers and managers a quick view of the files contained in a course.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 23 January 2019, 5:11 PM",
+        "reldate": "5 years",
+        "iso8601date": "2019-01-23T17:11:04+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "8",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2177/screenshot1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2177/screenshot2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1433450,
+            "firstname": "Angel Luis",
+            "lastname": "Fraile",
+            "url": "https://moodle.org/user/profile.php?id=1433450"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,58 @@
+{
+    "id": 1021,
+    "index": 767,
+    "name": "WebEx Meeting",
+    "frankenstyle": "mod_webexactivity",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_webexactivity",
+    "shortdescription": "A Moodle activity module for Cisco WebEx.",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 July 2020, 1:56 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-07-25T01:56:58+08:00"
+    },
+    "aggsites": "993",
+    "aggdownloads": "129",
+    "aggfavs": "36",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1021/WebExLogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1021/WebExLogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1021/1%20Selector.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1021/2%20Adding.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1021/3%20Launched.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1021/4%20Recordings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1021/5%20Settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 139623,
+            "firstname": "Eric",
+            "lastname": "Merrill",
+            "url": "https://moodle.org/user/profile.php?id=139623"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

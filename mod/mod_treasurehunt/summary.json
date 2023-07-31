@@ -1,0 +1,68 @@
+{
+    "id": 1865,
+    "index": 290,
+    "name": "Treasure Hunt",
+    "frankenstyle": "mod_treasurehunt",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_treasurehunt",
+    "shortdescription": "Outdoor, indoor and virtual-map treasure-chases with geolocation and QR codes. This module for Moodle allows to organize outdoor-serious-games with your students. TreasureHunt supports Moodle Mobile App and also implements a browser-based play application (no need to install any native app) and a geographical editor for encoding the stages of the game. The game can be configured with a range of options that make the module to be very flexible and useful in many situations: individual/team, moving/desktop-marking, scoring from time, position, completion, etc.\r\nLanguages: Chinese, English, German, Greek, Portuguese, Russian, Spanish, more to come...",
+    "timelastreleased": {
+        "absdate": "Friday, 24 March 2023, 12:19 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-24T00:19:26+08:00"
+    },
+    "aggsites": "448",
+    "aggdownloads": "444",
+    "aggfavs": "79",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1865/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1865/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1865/tools.gif?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1865/check-progress.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1865/create-stage.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1865/DSC_1061.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1865/follow-clues.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1865/m3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1865/mapa1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1865/treasure2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1865/treasure3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1865/treasure5.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 478486,
+            "firstname": "Juan Pablo",
+            "lastname": "de Castro",
+            "url": "https://moodle.org/user/profile.php?id=478486"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,52 @@
+{
+    "id": 752,
+    "index": 1957,
+    "name": "Embedded files",
+    "frankenstyle": "repository_areafiles",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_areafiles",
+    "shortdescription": "\"Embedded files\" (repository_areafiles) plugin allows to re-use the files embedded in the current text area. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 June 2013, 12:43 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-06-12T12:43:39+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/752/Attachment.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/752/Attachment.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/752/areafilessshot1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/752/areafilessshot2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/752/areafilessshot3_22.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "id": 2544,
+    "index": 917,
+    "name": "Restriction by single quiz question",
+    "frankenstyle": "availability_quizquestion",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_quizquestion",
+    "shortdescription": "This is a Moodle conditional availability rule, which makes it possible\r\nto show or hide another resource, based on the state of one particular question\r\nin one quiz.",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 March 2021, 8:24 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-18T20:24:21+08:00"
+    },
+    "aggsites": "427",
+    "aggdownloads": "84",
+    "aggfavs": "27",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2544/Quiz%20question%20rule%20settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2544/Quiz%20question%20rule%20on%20course%20page.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 723655,
+            "firstname": "Shamim",
+            "lastname": "Rezaie",
+            "url": "https://moodle.org/user/profile.php?id=723655"
+        },
+        {
+            "id": 2618013,
+            "firstname": "Benjamin",
+            "lastname": "Schr\u00f6der",
+            "url": "https://moodle.org/user/profile.php?id=2618013"
+        },
+        {
+            "id": 2671637,
+            "firstname": "Martin",
+            "lastname": "Hanusch",
+            "url": "https://moodle.org/user/profile.php?id=2671637"
+        }
+    ],
+    "descriptors": []
+}

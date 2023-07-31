@@ -1,0 +1,49 @@
+{
+    "id": 989,
+    "index": 2147,
+    "name": "Blur Names",
+    "frankenstyle": "block_blurnames",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_blurnames",
+    "shortdescription": "The presence of this block on gradebook and some other pages will blur the names, email addresses, and images of students - e.g., in both the Grader and User Reports; and it will do the same for names in Moodle core's Forum, and in the Choice module, as well. This protection of student privacy allows for more FERPA-friendly sharing among faculty. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 11 February 2014, 7:11 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-02-11T07:11:54+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": null,
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/989/blurnames-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/989/blurnames-2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1611963,
+            "firstname": "Brendan",
+            "lastname": "Lalor",
+            "url": "https://moodle.org/user/profile.php?id=1611963"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

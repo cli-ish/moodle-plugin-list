@@ -1,0 +1,49 @@
+{
+    "id": 570,
+    "index": 425,
+    "name": "Enhanced multilang",
+    "frankenstyle": "filter_multilangenhanced",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_multilangenhanced",
+    "shortdescription": "An alternate multilang filter that supports content with nested span.",
+    "timelastreleased": {
+        "absdate": "Thursday, 15 June 2023, 2:52 AM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-15T02:52:15+08:00"
+    },
+    "aggsites": "46",
+    "aggdownloads": "287",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Languages"
+        }
+    ]
+}

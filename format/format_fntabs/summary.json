@@ -1,0 +1,52 @@
+{
+    "id": 789,
+    "index": 1088,
+    "name": "NED - Tabs Course Format",
+    "frankenstyle": "format_fntabs",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_fntabs",
+    "shortdescription": "Tabs Course Format (with Activity Tracking)",
+    "timelastreleased": {
+        "absdate": "Friday, 13 January 2017, 11:36 PM",
+        "reldate": "7 years",
+        "iso8601date": "2017-01-13T23:36:58+08:00"
+    },
+    "aggsites": "197",
+    "aggdownloads": "39",
+    "aggfavs": "34",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/789/n_230.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/789/n_230.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/789/tabs_3.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/789/tabs2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/789/tabs4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2459954,
+            "firstname": "Fern",
+            "lastname": "Oliveira",
+            "url": "https://moodle.org/user/profile.php?id=2459954"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

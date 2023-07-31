@@ -1,0 +1,76 @@
+{
+    "id": 1491,
+    "index": 1245,
+    "name": "UNPLAG Plagiarism Checker Plugin",
+    "frankenstyle": "plagiarism_unplag",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_unplag",
+    "shortdescription": "Designed based on educators\u2019 feedback, Unplag is a plagiarism detection engine helping educators spot plagiarism. To start using the app, please register at https://unicheck.com or get in touch with the sales team at sales@unicheck.com. It takes a few minutes to set-up your account and get the ball rolling. This plugin integrates with assignment, forum and workshop activities in Moodle to check user-submitted content for plagiarism.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 15 August 2018, 9:05 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-15T21:05:16+08:00"
+    },
+    "aggsites": "31",
+    "aggdownloads": "23",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1491/unplag_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1491/unplag_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1491/3.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1491/1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1491/4.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1491/5.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1491/6.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1989190,
+            "firstname": "Ben",
+            "lastname": "Larson",
+            "url": "https://moodle.org/user/profile.php?id=1989190"
+        },
+        {
+            "id": 2159835,
+            "firstname": "Aleksandr",
+            "lastname": "Kostylev",
+            "url": "https://moodle.org/user/profile.php?id=2159835"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

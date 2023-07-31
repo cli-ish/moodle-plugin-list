@@ -1,0 +1,47 @@
+{
+    "id": 2424,
+    "index": 202,
+    "name": "Notes and annotations on PDF, TextBook, Video, YouTube",
+    "frankenstyle": "filter_amanote",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_amanote",
+    "shortdescription": "Turn course materials (slides, textbook, video, YouTube, Vimeo etc.) to content that allows your learners to reach their full potential: note-taking, highlighting, class survey, learning analytics, oral comments, peer support, and much more...",
+    "timelastreleased": {
+        "absdate": "Wednesday, 21 June 2023, 1:49 AM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-21T01:49:29+08:00"
+    },
+    "aggsites": "428",
+    "aggdownloads": "623",
+    "aggfavs": "40",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2424/Amanote%20Avatar.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2424/Amanote%20Avatar.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2424/Amanote%20in%20Moodle%20Mock.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2424/Learning%20Experience%20Moodle%20Feedback%20Amanote.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2424/Moodle%20-%20PDF%20Annotation.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2531537,
+            "firstname": "Adrien",
+            "lastname": "Fery",
+            "url": "https://moodle.org/user/profile.php?id=2531537"
+        }
+    ],
+    "descriptors": []
+}

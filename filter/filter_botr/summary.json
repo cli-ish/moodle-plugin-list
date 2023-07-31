@@ -1,0 +1,56 @@
+{
+    "id": 587,
+    "index": 1945,
+    "name": "jwplayer filter CDN Video Filter",
+    "frankenstyle": "filter_botr",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_botr",
+    "shortdescription": "Put  videos from Jwplayer.com into your moodle text.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 October 2019, 8:10 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-10-30T20:10:12+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "3",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/587/iconmonstr-video-5-icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/587/iconmonstr-video-5-icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/587/activate_filter.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/587/botr_settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/587/manage_filter.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 304467,
+            "firstname": "Guido",
+            "lastname": "Hornig",
+            "url": "https://moodle.org/user/profile.php?id=304467"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

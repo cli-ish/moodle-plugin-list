@@ -1,0 +1,47 @@
+{
+    "id": 2421,
+    "index": 691,
+    "name": "YuJa Media Chooser",
+    "frankenstyle": "local_yuja",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_yuja",
+    "shortdescription": "Enables Moodle users to embed YuJa Enterprise Video Platform-hosted media content within Moodle",
+    "timelastreleased": {
+        "absdate": "Saturday, 22 April 2023, 12:31 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-22T00:31:35+08:00"
+    },
+    "aggsites": "33",
+    "aggdownloads": "151",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2421/yuja-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2421/yuja-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2421/Video-Playback.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2421/Video-Quiz.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2421/YuJa-Media-Chooser-for-Moodle.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2897713,
+            "firstname": "Yuja",
+            "lastname": "Corp",
+            "url": "https://moodle.org/user/profile.php?id=2897713"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": 969,
+    "index": 1709,
+    "name": "Map",
+    "frankenstyle": "local_map",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_map",
+    "shortdescription": "API for geographical maps, to be used in other modules. Provides a simple PHP interface to add maps, markers, different tile sets, and enable users to add a marker (including reverse geocoding).",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 December 2013, 6:12 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-12-05T18:12:38+08:00"
+    },
+    "aggsites": "51",
+    "aggdownloads": "6",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/969/map-nq8.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 33910,
+            "firstname": "Dave",
+            "lastname": "Balch",
+            "url": "https://moodle.org/user/profile.php?id=33910"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Geography"
+        }
+    ]
+}

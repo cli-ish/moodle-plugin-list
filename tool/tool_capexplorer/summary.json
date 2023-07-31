@@ -1,0 +1,49 @@
+{
+    "id": 1259,
+    "index": 1526,
+    "name": "Capability explorer",
+    "frankenstyle": "tool_capexplorer",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_capexplorer",
+    "shortdescription": "An admin tool designed to help Moodle administrators understand how Moodle's capability system works.",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 August 2016, 3:24 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-11T15:24:40+08:00"
+    },
+    "aggsites": "56",
+    "aggdownloads": "10",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1259/capexplorer-form.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1259/capexplorer-results-full.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 927745,
+            "firstname": "Simon",
+            "lastname": "Coggins",
+            "url": "https://moodle.org/user/profile.php?id=927745"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

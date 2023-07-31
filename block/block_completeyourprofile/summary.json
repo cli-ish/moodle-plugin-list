@@ -1,0 +1,52 @@
+{
+    "id": 1597,
+    "index": 1356,
+    "name": "Complete your profile block",
+    "frankenstyle": "block_completeyourprofile",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_completeyourprofile",
+    "shortdescription": "A simple block that encourages users to complete their profile",
+    "timelastreleased": {
+        "absdate": "Thursday, 7 July 2016, 11:07 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-07-07T23:07:24+08:00"
+    },
+    "aggsites": "102",
+    "aggdownloads": "16",
+    "aggfavs": "22",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1597/tela_botanica_moodle_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1597/tela_botanica_moodle_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1597/completeyourprofile_edit_settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1597/completeyourprofile_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1597/completeyourprofile_fr.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2059083,
+            "firstname": "Mathias",
+            "lastname": "Chouet",
+            "url": "https://moodle.org/user/profile.php?id=2059083"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

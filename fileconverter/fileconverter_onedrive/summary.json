@@ -1,0 +1,50 @@
+{
+    "id": 2102,
+    "index": 460,
+    "name": "Microsoft OneDrive document converter",
+    "frankenstyle": "fileconverter_onedrive",
+    "plugintype": {
+        "type": "fileconverter",
+        "name": "Document converter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/fileconverter_onedrive",
+    "shortdescription": "Converts files to pdf using Microsoft OneDrive.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 June 2022, 4:56 PM",
+        "reldate": "14 months",
+        "iso8601date": "2022-06-01T16:56:16+08:00"
+    },
+    "aggsites": "650",
+    "aggdownloads": "257",
+    "aggfavs": "12",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2102/manage-document-converters.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2102/plugin-settings.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1457891,
+            "firstname": "Neill",
+            "lastname": "Magill",
+            "url": "https://moodle.org/user/profile.php?id=1457891"
+        },
+        {
+            "id": 1805510,
+            "firstname": "The University",
+            "lastname": "of Nottingham",
+            "url": "https://moodle.org/user/profile.php?id=1805510"
+        }
+    ],
+    "descriptors": []
+}

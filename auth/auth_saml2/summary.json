@@ -1,0 +1,65 @@
+{
+    "id": 1534,
+    "index": 9,
+    "name": "SAML2 Single sign on",
+    "frankenstyle": "auth_saml2",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_saml2",
+    "shortdescription": "SAML done 100% in moodle, fast, simple, secure",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 April 2023, 11:41 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-04T11:41:05+08:00"
+    },
+    "aggsites": "3121",
+    "aggdownloads": "4k",
+    "aggfavs": "84",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1534/login.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1534/login.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1534/Vanilla%20Administration%20Plugins%20Authentication%20SAML2%20-%20Google%20Chrome_744.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        },
+        {
+            "id": 2188238,
+            "firstname": "Rossco",
+            "lastname": "Hellmans",
+            "url": "https://moodle.org/user/profile.php?id=2188238"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

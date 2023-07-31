@@ -1,0 +1,49 @@
+{
+    "id": 774,
+    "index": 1498,
+    "name": "XLS with Groups and Dates",
+    "frankenstyle": "gradeexport_xlsgd",
+    "plugintype": {
+        "type": "gradeexport",
+        "name": "Grade export method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradeexport_xlsgd",
+    "shortdescription": "Grade export derived from XLS file.  Adds Groups and Dates columns",
+    "timelastreleased": {
+        "absdate": "Friday, 13 September 2013, 2:37 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-13T02:37:25+08:00"
+    },
+    "aggsites": "37",
+    "aggdownloads": "11",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 298052,
+            "firstname": "Carina",
+            "lastname": "Martinez",
+            "url": "https://moodle.org/user/profile.php?id=298052"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

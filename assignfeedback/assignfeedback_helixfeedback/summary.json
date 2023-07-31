@@ -1,0 +1,40 @@
+{
+    "id": 1872,
+    "index": 526,
+    "name": "MEDIAL Video Feedback Plugin",
+    "frankenstyle": "assignfeedback_helixfeedback",
+    "plugintype": {
+        "type": "assignfeedback",
+        "name": "Assignment / Feedback plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignfeedback_helixfeedback",
+    "shortdescription": "This plugin allows Teachers / Lecturers to give video or audio feedback to assignments that have been submitted using the MEDIAL Video Assignment Plugin",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 November 2022, 12:48 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-24T00:48:07+08:00"
+    },
+    "aggsites": "108",
+    "aggdownloads": "225",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1872/moodle_add_media.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1452899,
+            "firstname": "MEDIAL",
+            "lastname": "Streaming",
+            "url": "https://moodle.org/user/profile.php?id=1452899"
+        }
+    ],
+    "descriptors": []
+}

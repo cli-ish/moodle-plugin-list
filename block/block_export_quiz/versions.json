@@ -1,0 +1,17 @@
+[
+    {
+        "id": "19617",
+        "name": "1.0.2-build-2019050500",
+        "url": "https://moodle.org/plugins/download.php/19617/block_export_quiz_moodle30_2015061102.zip"
+    },
+    {
+        "id": "19366",
+        "name": "1.0.1-build-2019041300",
+        "url": "https://moodle.org/plugins/download.php/19366/block_export_quiz_moodle31_2018040605.zip"
+    },
+    {
+        "id": "19200",
+        "name": "1.0.0-build-2019032000",
+        "url": "https://moodle.org/plugins/download.php/19200/block_export_quiz_moodle30_2014020114.zip"
+    }
+]

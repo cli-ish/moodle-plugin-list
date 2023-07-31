@@ -1,0 +1,49 @@
+{
+    "id": 1354,
+    "index": 1340,
+    "name": "Question bank unused questions",
+    "frankenstyle": "local_unusedquestions",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_unusedquestions",
+    "shortdescription": "Extends the Moodle question bank to find questions which are / are not used in a quiz.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 11 February 2015, 3:01 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-02-11T03:01:02+08:00"
+    },
+    "aggsites": "90",
+    "aggdownloads": "17",
+    "aggfavs": "19",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1354/usedunusedqb.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1354/usedunusedquiz.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1468589,
+            "firstname": "Ray",
+            "lastname": "Morris",
+            "url": "https://moodle.org/user/profile.php?id=1468589"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

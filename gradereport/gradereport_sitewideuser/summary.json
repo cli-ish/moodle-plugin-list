@@ -1,0 +1,49 @@
+{
+    "id": 820,
+    "index": 1314,
+    "name": "Sitewide User report",
+    "frankenstyle": "gradereport_sitewideuser",
+    "plugintype": {
+        "type": "gradereport",
+        "name": "Gradebook report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradereport_sitewideuser",
+    "shortdescription": "Site wide user report which can be filtered by course category or course",
+    "timelastreleased": {
+        "absdate": "Sunday, 25 October 2015, 1:03 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-10-25T01:03:20+08:00"
+    },
+    "aggsites": "100",
+    "aggdownloads": "18",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/820/Site%20Wide%20User%20report%20-%20category%20and%20course%20selection.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/820/Site%20Wide%20User%20report.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 520295,
+            "firstname": "Barry",
+            "lastname": "Oosthuizen",
+            "url": "https://moodle.org/user/profile.php?id=520295"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

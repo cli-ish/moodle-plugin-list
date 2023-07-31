@@ -1,0 +1,56 @@
+{
+    "id": 1549,
+    "index": 1648,
+    "name": "Theme tester",
+    "frankenstyle": "tool_themetester",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_themetester",
+    "shortdescription": "A Moodle Theme Testing tool, with a focus on Bootstrap 4 based themes.\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 September 2018, 5:29 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-09-20T05:29:28+08:00"
+    },
+    "aggsites": "92",
+    "aggdownloads": "7",
+    "aggfavs": "24",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1549/Bootstrap3.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1549/Darkly.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1549/Paper.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1549/Slate.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1549/Snap.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1549/Superhero.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3152,
+            "firstname": "David",
+            "lastname": "Scotson",
+            "url": "https://moodle.org/user/profile.php?id=3152"
+        }
+    ],
+    "descriptors": []
+}

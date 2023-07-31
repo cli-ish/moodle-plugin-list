@@ -1,0 +1,44 @@
+{
+    "id": 1802,
+    "index": 1490,
+    "name": "Video chat",
+    "frankenstyle": "block_videochat",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_videochat",
+    "shortdescription": "The Video chat block allows users in the same course to have video chat using WebRTC. It supports openandtalk.com and other video chat service.",
+    "timelastreleased": {
+        "absdate": "Sunday, 2 April 2017, 9:53 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-04-02T21:53:37+08:00"
+    },
+    "aggsites": "123",
+    "aggdownloads": "11",
+    "aggfavs": "24",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1802/vc1new.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1802/vc2new.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 761305,
+            "firstname": "kien",
+            "lastname": "Vu",
+            "url": "https://moodle.org/user/profile.php?id=761305"
+        }
+    ],
+    "descriptors": []
+}

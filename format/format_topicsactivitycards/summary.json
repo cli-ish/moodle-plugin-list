@@ -1,0 +1,40 @@
+{
+    "id": 2567,
+    "index": 420,
+    "name": "Topics activity cards format",
+    "frankenstyle": "format_topicsactivitycards",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_topicsactivitycards",
+    "shortdescription": "Course format which overrides the topics format to display activities as cards with various opportunities for customisation.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 11 July 2023, 6:48 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-11T18:48:49+08:00"
+    },
+    "aggsites": "158",
+    "aggdownloads": "291",
+    "aggfavs": "22",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2567/Screenshot%202023-05-15%20at%2016.02.06.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1396756,
+            "firstname": "Andrew",
+            "lastname": "Hancox",
+            "url": "https://moodle.org/user/profile.php?id=1396756"
+        }
+    ],
+    "descriptors": []
+}

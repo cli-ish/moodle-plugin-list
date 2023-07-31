@@ -1,0 +1,45 @@
+{
+    "id": 135,
+    "index": 1283,
+    "name": "Web service template",
+    "frankenstyle": "local_wstemplate",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_wstemplate",
+    "shortdescription": "Template for creating new web services",
+    "timelastreleased": {
+        "absdate": "Monday, 9 January 2012, 3:35 PM",
+        "reldate": "12 years",
+        "iso8601date": "2012-01-09T15:35:11+08:00"
+    },
+    "aggsites": "77",
+    "aggdownloads": "20",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1471412,
+            "firstname": "john",
+            "lastname": "saylor",
+            "url": "https://moodle.org/user/profile.php?id=1471412"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

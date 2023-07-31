@@ -1,0 +1,45 @@
+{
+    "id": 1095,
+    "index": 1519,
+    "name": "Dataform entry access",
+    "frankenstyle": "block_dataformaccessentry",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_dataformaccessentry",
+    "shortdescription": "The Dataform entry access block provides context and settings for Dataform activity entry access rules.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 February 2018, 2:37 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-02-02T02:37:22+08:00"
+    },
+    "aggsites": "105",
+    "aggdownloads": "10",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 150168,
+            "firstname": "Itamar",
+            "lastname": "Tzadok",
+            "url": "https://moodle.org/user/profile.php?id=150168"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

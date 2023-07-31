@@ -1,0 +1,55 @@
+{
+    "id": 428,
+    "index": 1373,
+    "name": "Pedagogic Achievements",
+    "frankenstyle": "block_achievement",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_achievement",
+    "shortdescription": "This plugin automatically awards pedagogic achievements to each user as they reach milestones along their way. Example : \"10th login\" medal. This plugin was developed by Andil as a part of their e-learning R&D program.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 September 2012, 11:06 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-09-06T23:06:18+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "16",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/428/icon-andil.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/428/icon-andil.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/428/andil-moodle-plugin-achievements.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/428/block.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/428/Global-achievement-full-list.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/428/My-achievement-full-list.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1488406,
+            "firstname": "Andil",
+            "lastname": "Technologies de l'information et de la formation",
+            "url": "https://moodle.org/user/profile.php?id=1488406"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

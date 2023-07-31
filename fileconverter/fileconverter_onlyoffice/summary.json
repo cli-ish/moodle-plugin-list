@@ -1,0 +1,46 @@
+{
+    "id": 2404,
+    "index": 525,
+    "name": "ONLYOFFICE document converter",
+    "frankenstyle": "fileconverter_onlyoffice",
+    "plugintype": {
+        "type": "fileconverter",
+        "name": "Document converter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/fileconverter_onlyoffice",
+    "shortdescription": "This is a tool that enables Moodle to use an ONLYOFFICE server for converting documents. For example, this is useful in assignment submissions. In combination with an ONLYOFFICE server, submitted text documents, spreadsheets, and presentations are automatically converted to PDF to simplify the grading workflow.",
+    "timelastreleased": {
+        "absdate": "Monday, 23 December 2019, 1:45 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-12-23T01:45:30+08:00"
+    },
+    "aggsites": "130",
+    "aggdownloads": "225",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2404/EKYkLibXUAEzQHW.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 1942711,
+            "firstname": "Jan",
+            "lastname": "Dagef\u00f6rde",
+            "url": "https://moodle.org/user/profile.php?id=1942711"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,53 @@
+{
+    "id": 2757,
+    "index": 1105,
+    "name": "Flex Quiz",
+    "frankenstyle": "mod_flexquiz",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_flexquiz",
+    "shortdescription": "Create quizzes where the number of questions and repetitions adapt to student performances. Standard quizzes can be taken to define the initial question pool.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 9 August 2022, 6:49 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-08-09T18:49:37+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "37",
+    "aggfavs": "15",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2757/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2757/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2757/1%20-%20activity.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2757/2%20-%20teacher%20-%20AQ%20creation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2757/3%20-%20teacher%20-%20course%20-%20later.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2757/4%20-%20teacher%20-%20activity%20view%20-%20general.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2757/5%20-%20teacher%20-%20activity%20view%20-%20performance%20-%20later.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4318211,
+            "firstname": "Andreas",
+            "lastname": "Roschal",
+            "url": "https://moodle.org/user/profile.php?id=4318211"
+        }
+    ],
+    "descriptors": []
+}

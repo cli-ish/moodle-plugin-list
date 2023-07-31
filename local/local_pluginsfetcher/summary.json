@@ -1,0 +1,58 @@
+{
+    "id": 2370,
+    "index": 1715,
+    "name": "Plugins fetcher",
+    "frankenstyle": "local_pluginsfetcher",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_pluginsfetcher",
+    "shortdescription": "This plugin retrieves information about installed plugins.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 26 May 2021, 2:40 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-26T02:40:07+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "6",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2370/result-json.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2177440,
+            "firstname": "Adrian",
+            "lastname": "Perez Rodriguez",
+            "url": "https://moodle.org/user/profile.php?id=2177440"
+        },
+        {
+            "id": 2706871,
+            "firstname": "FFHS",
+            "lastname": "(Fernfachhochschule Schweiz)",
+            "url": "https://moodle.org/user/profile.php?id=2706871"
+        },
+        {
+            "id": 2373066,
+            "firstname": "Sascha",
+            "lastname": "Vogel",
+            "url": "https://moodle.org/user/profile.php?id=2373066"
+        },
+        {
+            "id": 2624996,
+            "firstname": "Christoph",
+            "lastname": "Karlen",
+            "url": "https://moodle.org/user/profile.php?id=2624996"
+        }
+    ],
+    "descriptors": []
+}

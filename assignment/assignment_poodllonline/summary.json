@@ -1,0 +1,56 @@
+{
+    "id": 310,
+    "index": 1139,
+    "name": "PoodLL Online (old)",
+    "frankenstyle": "assignment_poodllonline",
+    "plugintype": {
+        "type": "assignment",
+        "name": "Assignment / Legacy plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignment_poodllonline",
+    "shortdescription": "An audio/video recording assignment type for Moodle 2.x  It either uses a \"cloud\" based recording server, or a standalone MP3 recorder. There is also a \"Draw a picture\" submission option. It requires the PoodLL filter to be installed and enabled.",
+    "timelastreleased": {
+        "absdate": "Saturday, 21 December 2013, 12:40 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-12-21T00:40:35+08:00"
+    },
+    "aggsites": "198",
+    "aggdownloads": "32",
+    "aggfavs": "15",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/310/dogavatar.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/310/dogavatar.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/310/newmp3rec.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/310/newwhiteboard.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/310/videorecorder.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

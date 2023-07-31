@@ -1,0 +1,46 @@
+{
+    "id": 1866,
+    "index": 227,
+    "name": "Navbar Plus",
+    "frankenstyle": "local_navbarplus",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_navbarplus",
+    "shortdescription": "Moodle plugin which enhances the functionality of Moodle's page header navbar.",
+    "timelastreleased": {
+        "absdate": "Friday, 10 March 2023, 3:59 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-10T03:59:31+08:00"
+    },
+    "aggsites": "596",
+    "aggdownloads": "552",
+    "aggfavs": "46",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1866/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1866/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1866/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

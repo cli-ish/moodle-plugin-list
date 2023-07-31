@@ -1,0 +1,55 @@
+{
+    "id": 700,
+    "index": 1733,
+    "name": "WinCache cache",
+    "frankenstyle": "cachestore_wincache",
+    "plugintype": {
+        "type": "cachestore",
+        "name": "Cache store"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/cachestore_wincache",
+    "shortdescription": "Plugin to enable MUC access to the WinCache PHP extension available on Windows platforms.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 April 2013, 9:06 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-30T21:06:12+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "6",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/700/wincache_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/700/wincache_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/700/cachestore_wincache_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/700/cachestore_wincache_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/700/cachestore_wincache_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/700/cachestore_wincache_4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1587334,
+            "firstname": "Ryan",
+            "lastname": "Panning",
+            "url": "https://moodle.org/user/profile.php?id=1587334"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

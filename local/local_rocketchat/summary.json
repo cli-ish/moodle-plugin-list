@@ -1,0 +1,47 @@
+{
+    "id": 2658,
+    "index": 542,
+    "name": "Rocket.Chat Integration (Local)",
+    "frankenstyle": "local_rocketchat",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_rocketchat",
+    "shortdescription": "Handles integration between Moodle and Rocket.Chat",
+    "timelastreleased": {
+        "absdate": "Saturday, 30 April 2022, 5:31 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-04-30T17:31:12+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "217",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2658/02-03-_2021_18-38-31.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2658/02-03-_2021_18-38-54.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2658/02-03-_2021_18-39-09.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2177440,
+            "firstname": "Adrian",
+            "lastname": "Perez Rodriguez",
+            "url": "https://moodle.org/user/profile.php?id=2177440"
+        }
+    ],
+    "descriptors": []
+}

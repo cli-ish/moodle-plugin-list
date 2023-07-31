@@ -1,0 +1,47 @@
+{
+    "id": 2850,
+    "index": 637,
+    "name": "Static text",
+    "frankenstyle": "profilefield_statictext",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_statictext",
+    "shortdescription": "This plugins allows to add static text to user profiles.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 13 April 2022, 3:29 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-13T03:29:24+08:00"
+    },
+    "aggsites": "76",
+    "aggdownloads": "171",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2850/Screenshot%20from%202021-12-07%2016-26-08.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2850/Screenshot%20from%202021-12-07%2016-25-07.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2850/Screenshot%20from%202021-12-07%2016-25-49.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": []
+}

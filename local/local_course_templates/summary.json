@@ -1,0 +1,52 @@
+{
+    "id": 1894,
+    "index": 154,
+    "name": "Course templates",
+    "frankenstyle": "local_course_templates",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_course_templates",
+    "shortdescription": "With this plugin you can easily create courses based on course templates. The plugin also can be used to easily duplicate courses",
+    "timelastreleased": {
+        "absdate": "Wednesday, 17 May 2023, 9:52 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-17T21:52:40+08:00"
+    },
+    "aggsites": "1566",
+    "aggdownloads": "785",
+    "aggfavs": "120",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1894/course%20templates.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1894/course%20templates.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1894/course_templates.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 221571,
+            "firstname": "Flotter",
+            "lastname": "Totte",
+            "url": "https://moodle.org/user/profile.php?id=221571"
+        },
+        {
+            "id": 2263508,
+            "firstname": "Sunny",
+            "lastname": "Teacher",
+            "url": "https://moodle.org/user/profile.php?id=2263508"
+        },
+        {
+            "id": 2341857,
+            "firstname": "emeneo",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=2341857"
+        }
+    ],
+    "descriptors": []
+}

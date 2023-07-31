@@ -1,0 +1,12 @@
+[
+    {
+        "id": "8872",
+        "name": "version-for-moodle-2.x",
+        "url": "https://moodle.org/plugins/download.php/8872/block_unanswered_discussions_moodle27_2017041007.zip"
+    },
+    {
+        "id": "4",
+        "name": "version-for-moodle-1.9",
+        "url": "https://moodle.org/plugins/download.php/4/block_unanswered_discussions_moodle27_2015020410.zip"
+    }
+]

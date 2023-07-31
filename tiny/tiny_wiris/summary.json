@@ -1,0 +1,44 @@
+{
+    "id": 3110,
+    "index": 727,
+    "name": "MathType for TinyMCE 6 by WIRIS",
+    "frankenstyle": "tiny_wiris",
+    "plugintype": {
+        "type": "tiny",
+        "name": "TinyMCE editor / tiny"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tiny_wiris",
+    "shortdescription": "Type and handwrite mathematical notation in Moodle with MathType.",
+    "timelastreleased": {
+        "absdate": "Monday, 12 June 2023, 10:38 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-12T22:38:33+08:00"
+    },
+    "aggsites": "23",
+    "aggdownloads": "140",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3110/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3110/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3110/a%20MathType%20for%20TinyMCE%206%20by%20WIRIS.html.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3110/MathType%20filter%20settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1343738,
+            "firstname": "WIRIS",
+            "lastname": "team",
+            "url": "https://moodle.org/user/profile.php?id=1343738"
+        }
+    ],
+    "descriptors": []
+}

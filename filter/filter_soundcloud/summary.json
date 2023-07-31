@@ -1,0 +1,53 @@
+{
+    "id": 30,
+    "index": 2068,
+    "name": "Soundcloud",
+    "frankenstyle": "filter_soundcloud",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_soundcloud",
+    "shortdescription": "Replace SoundCloud URLs with the default wave player.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 17 December 2013, 11:00 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-12-17T11:00:36+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "1",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/30/soundcloud.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/30/soundcloud.jpg?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 19649,
+            "firstname": "Troy",
+            "lastname": "Williams",
+            "url": "https://moodle.org/user/profile.php?id=19649"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Flash"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "20709",
+        "name": "2.4-build-2019011281",
+        "url": "https://moodle.org/plugins/download.php/20709/block_openbiblio_moodle35_2018081117.zip"
+    },
+    {
+        "id": "10338",
+        "name": "2.4-build-2016012002",
+        "url": "https://moodle.org/plugins/download.php/10338/block_openbiblio_moodle35_2016020818.zip"
+    },
+    {
+        "id": "10337",
+        "name": "2.4-build-2016012001",
+        "url": "https://moodle.org/plugins/download.php/10337/block_openbiblio_moodle35_2012041103.zip"
+    },
+    {
+        "id": "4330",
+        "name": "2.2-build-2013092801",
+        "url": "https://moodle.org/plugins/download.php/4330/block_openbiblio_moodle26_2015020718.zip"
+    },
+    {
+        "id": "797",
+        "name": "2.1-build-2012050701",
+        "url": "https://moodle.org/plugins/download.php/797/block_openbiblio_moodle25_2022100407.zip"
+    },
+    {
+        "id": "10268",
+        "name": "2.3-build-2016011302",
+        "url": "https://moodle.org/plugins/download.php/10268/block_openbiblio_moodle36_2020071101.zip"
+    },
+    {
+        "id": "10264",
+        "name": "2.3-build-2016011301",
+        "url": "https://moodle.org/plugins/download.php/10264/block_openbiblio_moodle26_2022061206.zip"
+    },
+    {
+        "id": "10183",
+        "name": "2.3-build-2015123000",
+        "url": "https://moodle.org/plugins/download.php/10183/block_openbiblio_moodle40_2012110407.zip"
+    },
+    {
+        "id": "5333",
+        "name": "2.3-build-2014103001",
+        "url": "https://moodle.org/plugins/download.php/5333/block_openbiblio_moodle37_2018091203.zip"
+    },
+    {
+        "id": "785",
+        "name": "2.0-build-2012050201",
+        "url": "https://moodle.org/plugins/download.php/785/block_openbiblio_moodle26_2013100219.zip"
+    }
+]

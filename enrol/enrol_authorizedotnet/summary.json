@@ -1,0 +1,55 @@
+{
+    "id": 1436,
+    "index": 648,
+    "name": "Authorize.net",
+    "frankenstyle": "enrol_authorizedotnet",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_authorizedotnet",
+    "shortdescription": "Authorize.net makes online course purchases easier by allowing you to assign prices within a specific course section. Apart from that you can easily configure the cost and associated currency of course enrollments. One of the primary benefits of this payment method is its high level of security that keeps your transactions safe and secure. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 April 2023, 7:14 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-25T19:14:56+08:00"
+    },
+    "aggsites": "168",
+    "aggdownloads": "167",
+    "aggfavs": "40",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1436/DualCube_LOGO.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1436/DualCube_LOGO.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1436/auth.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1436/auth-course-setting.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1436/auth-setting1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1436/auth-setting2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1832609,
+            "firstname": "DualCube",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1832609"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

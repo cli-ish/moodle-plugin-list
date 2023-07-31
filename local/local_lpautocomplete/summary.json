@@ -1,0 +1,40 @@
+{
+    "id": 2666,
+    "index": 392,
+    "name": "Learning Plan Auto-complete",
+    "frankenstyle": "local_lpautocomplete",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_lpautocomplete",
+    "shortdescription": "With this plugin installed, all learning plans will be marked as complete when all their competencies are completed by the user.",
+    "timelastreleased": {
+        "absdate": "Monday, 15 March 2021, 8:41 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-15T20:41:12+08:00"
+    },
+    "aggsites": "74",
+    "aggdownloads": "317",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2666/Screenshot%20from%202021-03-15%2009-44-07.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": []
+}

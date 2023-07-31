@@ -1,0 +1,59 @@
+{
+    "id": 268,
+    "index": 73,
+    "name": "Course dedication",
+    "frankenstyle": "block_dedication",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_dedication",
+    "shortdescription": "This block allows to calculate estimated dedication time of participants within a course.",
+    "timelastreleased": {
+        "absdate": "Monday, 3 July 2023, 7:58 AM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-03T07:58:42+08:00"
+    },
+    "aggsites": "6494",
+    "aggdownloads": "1k",
+    "aggfavs": "194",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/268/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/268/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/268/instant%C3%A1nea43.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/268/instant%C3%A1nea44.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/268/instant%C3%A1nea45.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/268/instant%C3%A1nea46.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/268/instant%C3%A1nea47.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

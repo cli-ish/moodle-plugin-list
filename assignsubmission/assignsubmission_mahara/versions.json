@@ -1,0 +1,62 @@
+[
+    {
+        "id": "18744",
+        "name": "1.3",
+        "url": "https://moodle.org/plugins/download.php/18744/assignsubmission_mahara_moodle34_2017070908.zip"
+    },
+    {
+        "id": "16992",
+        "name": "1.2.3",
+        "url": "https://moodle.org/plugins/download.php/16992/assignsubmission_mahara_moodle34_2015031009.zip"
+    },
+    {
+        "id": "15049",
+        "name": "1.2.2-mdl2.7",
+        "url": "https://moodle.org/plugins/download.php/15049/assignsubmission_mahara_moodle40_2016070612.zip"
+    },
+    {
+        "id": "8412",
+        "name": "1.1-mdl2.6",
+        "url": "https://moodle.org/plugins/download.php/8412/assignsubmission_mahara_moodle33_2013040316.zip"
+    },
+    {
+        "id": "3467",
+        "name": "2013061200",
+        "url": "https://moodle.org/plugins/download.php/3467/assignsubmission_mahara_moodle29_2011081012.zip"
+    },
+    {
+        "id": "11537",
+        "name": "1.2.1-mdl2.7",
+        "url": "https://moodle.org/plugins/download.php/11537/assignsubmission_mahara_moodle32_2014010810.zip"
+    },
+    {
+        "id": "9707",
+        "name": "1.2-mdl2.7",
+        "url": "https://moodle.org/plugins/download.php/9707/assignsubmission_mahara_moodle29_2011010519.zip"
+    },
+    {
+        "id": "8410",
+        "name": "1.1-mdl2.8",
+        "url": "https://moodle.org/plugins/download.php/8410/assignsubmission_mahara_moodle39_2023011003.zip"
+    },
+    {
+        "id": "7924",
+        "name": "1.0-mdl2.8",
+        "url": "https://moodle.org/plugins/download.php/7924/assignsubmission_mahara_moodle38_2020100819.zip"
+    },
+    {
+        "id": "8411",
+        "name": "1.1-mdl2.7",
+        "url": "https://moodle.org/plugins/download.php/8411/assignsubmission_mahara_moodle26_2016090805.zip"
+    },
+    {
+        "id": "7923",
+        "name": "1.0-mdl2.7",
+        "url": "https://moodle.org/plugins/download.php/7923/assignsubmission_mahara_moodle28_2018060807.zip"
+    },
+    {
+        "id": "7922",
+        "name": "1.0-mdl2.6",
+        "url": "https://moodle.org/plugins/download.php/7922/assignsubmission_mahara_moodle25_2021041113.zip"
+    }
+]

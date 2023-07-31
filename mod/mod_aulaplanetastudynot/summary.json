@@ -1,0 +1,50 @@
+{
+    "id": 2843,
+    "index": 2091,
+    "name": "AulaPlaneta - Learning Notebook",
+    "frankenstyle": "mod_aulaplanetastudynot",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_aulaplanetastudynot",
+    "shortdescription": "This module allows the teacher to add aulaPlaneta student notebooks within Moodle for students to use.",
+    "timelastreleased": {
+        "absdate": "Monday, 29 November 2021, 7:42 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-29T19:42:24+08:00"
+    },
+    "aggsites": "332",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2843/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2843/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2843/3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2843/4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4645364,
+            "firstname": "Grupo Planeta",
+            "lastname": "Equipo de desarrollo",
+            "url": "https://moodle.org/user/profile.php?id=4645364"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,37 @@
+[
+    {
+        "id": "18375",
+        "name": "v3.6.0",
+        "url": "https://moodle.org/plugins/download.php/18375/tool_hidecourses_moodle30_2011020905.zip"
+    },
+    {
+        "id": "17181",
+        "name": "v3.4.2",
+        "url": "https://moodle.org/plugins/download.php/17181/tool_hidecourses_moodle28_2012060106.zip"
+    },
+    {
+        "id": "17182",
+        "name": "v3.3.1",
+        "url": "https://moodle.org/plugins/download.php/17182/tool_hidecourses_moodle29_2016070309.zip"
+    },
+    {
+        "id": "13835",
+        "name": "v1.0.0",
+        "url": "https://moodle.org/plugins/download.php/13835/tool_hidecourses_moodle35_2023020701.zip"
+    },
+    {
+        "id": "17176",
+        "name": "v3.4.1",
+        "url": "https://moodle.org/plugins/download.php/17176/tool_hidecourses_moodle37_2016030916.zip"
+    },
+    {
+        "id": "16701",
+        "name": "v3.4.0",
+        "url": "https://moodle.org/plugins/download.php/16701/tool_hidecourses_moodle34_2019040406.zip"
+    },
+    {
+        "id": "16702",
+        "name": "v3.3.0",
+        "url": "https://moodle.org/plugins/download.php/16702/tool_hidecourses_moodle39_2018100616.zip"
+    }
+]

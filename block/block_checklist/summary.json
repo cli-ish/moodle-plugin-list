@@ -1,0 +1,45 @@
+{
+    "id": 159,
+    "index": 80,
+    "name": "Checklist",
+    "frankenstyle": "block_checklist",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_checklist",
+    "shortdescription": "This is a block which works with the checklist module and displays progress bars for a single checklist.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 April 2023, 7:00 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-18T19:00:53+08:00"
+    },
+    "aggsites": "2623",
+    "aggdownloads": "1k",
+    "aggfavs": "70",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/159/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/159/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/159/Screenshot_20161118_194723.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 201866,
+            "firstname": "Davo",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=201866"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

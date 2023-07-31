@@ -1,0 +1,45 @@
+{
+    "id": 51,
+    "index": 751,
+    "name": "Export Glossary to Quiz",
+    "frankenstyle": "block_glossary_export_to_quiz",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_glossary_export_to_quiz",
+    "shortdescription": "A block to export a Glossary's entries to the Quiz Questions bank. ",
+    "timelastreleased": {
+        "absdate": "Sunday, 17 April 2022, 10:53 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-04-17T22:53:11+08:00"
+    },
+    "aggsites": "243",
+    "aggdownloads": "133",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/51/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/51/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/51/20-01-2011%2018-51-14.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 20216,
+            "firstname": "Joseph",
+            "lastname": "R\u00e9zeau",
+            "url": "https://moodle.org/user/profile.php?id=20216"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

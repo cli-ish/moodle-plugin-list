@@ -1,0 +1,52 @@
+{
+    "id": 794,
+    "index": 710,
+    "name": "Contemporary",
+    "frankenstyle": "theme_contemporary",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_contemporary",
+    "shortdescription": " A bright and responsive theme especially designed for academic and corporate use.",
+    "timelastreleased": {
+        "absdate": "Friday, 25 August 2017, 7:49 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-08-25T19:49:47+08:00"
+    },
+    "aggsites": "548",
+    "aggdownloads": "145",
+    "aggfavs": "178",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/794/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/794/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/794/Capture.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/794/Screenshot_2014-04-10-19-22-37.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/794/Screenshot_2014-04-10-19-38-37.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1624279,
+            "firstname": "3i Logic",
+            "lastname": "LMS",
+            "url": "https://moodle.org/user/profile.php?id=1624279"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

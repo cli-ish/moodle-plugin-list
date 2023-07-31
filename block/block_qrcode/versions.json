@@ -1,0 +1,42 @@
+[
+    {
+        "id": "29207",
+        "name": "v4.2-r1",
+        "url": "https://moodle.org/plugins/download.php/29207/block_qrcode_moodle31_2011090410.zip"
+    },
+    {
+        "id": "22878",
+        "name": "v3.10-r1",
+        "url": "https://moodle.org/plugins/download.php/22878/block_qrcode_moodle32_2010031204.zip"
+    },
+    {
+        "id": "20732",
+        "name": "v3.8-r1",
+        "url": "https://moodle.org/plugins/download.php/20732/block_qrcode_moodle30_2023051209.zip"
+    },
+    {
+        "id": "26496",
+        "name": "v4.0-r1",
+        "url": "https://moodle.org/plugins/download.php/26496/block_qrcode_moodle35_2013120517.zip"
+    },
+    {
+        "id": "18300",
+        "name": "v3.6-r1",
+        "url": "https://moodle.org/plugins/download.php/18300/block_qrcode_moodle39_2018100408.zip"
+    },
+    {
+        "id": "16641",
+        "name": "v3.5-r1",
+        "url": "https://moodle.org/plugins/download.php/16641/block_qrcode_moodle40_2020121200.zip"
+    },
+    {
+        "id": "15389",
+        "name": "v3.4-r2",
+        "url": "https://moodle.org/plugins/download.php/15389/block_qrcode_moodle38_2023120510.zip"
+    },
+    {
+        "id": "15124",
+        "name": "v3.4-r1",
+        "url": "https://moodle.org/plugins/download.php/15124/block_qrcode_moodle37_2017120414.zip"
+    }
+]

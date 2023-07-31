@@ -1,0 +1,40 @@
+{
+    "id": 2082,
+    "index": 215,
+    "name": "Justify align",
+    "frankenstyle": "atto_justify",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_justify",
+    "shortdescription": "Moodle Module for adding text functions in the Atto editor.",
+    "timelastreleased": {
+        "absdate": "Thursday, 21 June 2018, 4:25 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-21T04:25:28+08:00"
+    },
+    "aggsites": "2199",
+    "aggdownloads": "589",
+    "aggfavs": "28",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2082/img-01.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2426113,
+            "firstname": "CTE/ZL",
+            "lastname": "IFRN",
+            "url": "https://moodle.org/user/profile.php?id=2426113"
+        }
+    ],
+    "descriptors": []
+}

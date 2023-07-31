@@ -1,0 +1,45 @@
+{
+    "id": 435,
+    "index": 1201,
+    "name": "Editable HTML Block",
+    "frankenstyle": "block_editablecontenthtml",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_editablecontenthtml",
+    "shortdescription": "This very simple block behaves just as HTML block unless it allows some third party to edit content even if not having access to full course edition. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 8 May 2013, 6:26 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-08T18:26:53+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "27",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/435/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/435/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/435/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

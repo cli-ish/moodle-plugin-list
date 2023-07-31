@@ -1,0 +1,56 @@
+{
+    "id": 713,
+    "index": 1324,
+    "name": "YouTube Anywhere",
+    "frankenstyle": "tinymce_youtube",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_youtube",
+    "shortdescription": "YouTube Anywhere enables direct recording and uploading into YouTube from the TinyMCE HTML editor.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 24 September 2014, 1:15 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-09-24T13:15:25+08:00"
+    },
+    "aggsites": "45",
+    "aggdownloads": "18",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/713/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/713/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/713/browsingVideos.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/713/webcam.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/713/YTAnywhereOnEditor.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

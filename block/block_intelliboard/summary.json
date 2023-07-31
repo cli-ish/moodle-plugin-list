@@ -1,0 +1,53 @@
+{
+    "id": 1885,
+    "index": 1067,
+    "name": "IntelliBoard",
+    "frankenstyle": "block_intelliboard",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_intelliboard",
+    "shortdescription": "Designed as a Moodle block, the IntelliBoard Block provides immediate course and/or activity data to a Moodle user.  Depending on preferred configuration, Moodle users can see course and activity completion, visits, time spent, grades and more.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 July 2017, 9:57 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-07-04T09:57:40+08:00"
+    },
+    "aggsites": "126",
+    "aggdownloads": "42",
+    "aggfavs": "18",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1885/logo_2016.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1885/logo_2016.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1885/ActivityProgress.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1885/CourseLiveStream.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1885/CourseProgress.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1885/CourseSummary.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1885/GradePerformance.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 23304,
+            "firstname": "Anatoliy",
+            "lastname": "Kochnev",
+            "url": "https://moodle.org/user/profile.php?id=23304"
+        }
+    ],
+    "descriptors": []
+}

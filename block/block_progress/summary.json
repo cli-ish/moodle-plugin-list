@@ -1,0 +1,64 @@
+{
+    "id": 4,
+    "index": 346,
+    "name": "Progress Bar",
+    "frankenstyle": "block_progress",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_progress",
+    "shortdescription": "A time management tool for you and your students",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 August 2016, 7:17 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-18T19:17:21+08:00"
+    },
+    "aggsites": "3583",
+    "aggdownloads": "380",
+    "aggfavs": "189",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/4/Bar%20in%20block%20-%20no%20details.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/4/Bar%20in%20block%20-%20no%20details.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/4/Bar%20in%20block%20-%20no%20details.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/4/Bar%20in%20block%20-%20teacher%20view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/4/Bar%20in%20block%20-%20with%20details.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/4/Bar%20with%20cross%20and%20tick%20icons.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/4/Block%20on%20Dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/4/Configuring%20a%20Progress%20Bar%20block.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/4/Overview%20of%20students%20with%20messaging.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 381842,
+            "firstname": "Michael",
+            "lastname": "de Raadt",
+            "url": "https://moodle.org/user/profile.php?id=381842"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

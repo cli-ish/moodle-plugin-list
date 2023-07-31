@@ -1,0 +1,53 @@
+{
+    "id": 2824,
+    "index": 824,
+    "name": "User upsert",
+    "frankenstyle": "tool_userupsert",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_userupsert",
+    "shortdescription": "An admin tool provides a web service for inserting/updating/deleting users using just one API endpoint.",
+    "timelastreleased": {
+        "absdate": "Thursday, 4 August 2022, 6:51 AM",
+        "reldate": "12 months",
+        "iso8601date": "2022-08-04T06:51:42+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "121",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2824/screen1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2824/screen2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2824/screen3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 1608390,
+            "firstname": "Dmitrii",
+            "lastname": "Metelkin",
+            "url": "https://moodle.org/user/profile.php?id=1608390"
+        }
+    ],
+    "descriptors": []
+}

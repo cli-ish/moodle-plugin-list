@@ -1,0 +1,50 @@
+{
+    "id": 1134,
+    "index": 1972,
+    "name": "UpgradeDB",
+    "frankenstyle": "local_upgradedb",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_upgradedb",
+    "shortdescription": "This plugin allow install new tables into DB using xmldb files under developer control.\r\nYou can choose which install.xml table want to install in place to install all tables and \r\nupgrade tables whenever you want.\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 May 2018, 4:25 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-17T04:25:45+08:00"
+    },
+    "aggsites": "21",
+    "aggdownloads": "2",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1134/UpgraDBMoodle32_2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1134/UpgraDBMoodle32.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1134/UpgradedbMoodle31_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1134/UpgradedbMoodle31.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 747698,
+            "firstname": "Carlos",
+            "lastname": "Escobedo",
+            "url": "https://moodle.org/user/profile.php?id=747698"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,46 @@
+{
+    "id": 1712,
+    "index": 828,
+    "name": "Via recordings",
+    "frankenstyle": "block_via",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_via",
+    "shortdescription": "The Via Block can only be used if you have the Via activity module.\r\nThis block creates shortcuts to the Via activitiy recordings that have been shared within the course.",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 June 2022, 11:54 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-16T23:54:58+08:00"
+    },
+    "aggsites": "34",
+    "aggdownloads": "120",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1712/Via%20-%20RGB%2072dpi.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1712/Via%20-%20RGB%2072dpi.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1712/Capture.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1299369,
+            "firstname": "SVI",
+            "lastname": "eSolutions",
+            "url": "https://moodle.org/user/profile.php?id=1299369"
+        },
+        {
+            "id": 2205877,
+            "firstname": "Thomas",
+            "lastname": "Fauquignon",
+            "url": "https://moodle.org/user/profile.php?id=2205877"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,53 @@
+{
+    "id": 2389,
+    "index": 1251,
+    "name": "Speed Test",
+    "frankenstyle": "tool_speedtest",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_speedtest",
+    "shortdescription": "This is a network speed tester for embedding directly inside your moodle.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 10 December 2019, 7:50 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-12-10T19:50:16+08:00"
+    },
+    "aggsites": "367",
+    "aggdownloads": "22",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2389/1%20Start%20a%20test.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2389/2%20Running%20test.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2389/3%20Test%20finished.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,68 @@
+{
+    "id": 1496,
+    "index": 969,
+    "name": "NED - Mentor Manager",
+    "frankenstyle": "block_fn_mentor",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_fn_mentor",
+    "shortdescription": "With this block, the admin (or designated user) can assign mentors to students.  Mentors can then access easy-to-read \u201cprogress reports\u201d for their mentees.  The admin (or designated users) can also create automated notifications that are sent to teachers, mentors or students based on pre-selected criteria (example: notification is emailed to mentor and student if student has not logged in for 7 days). \r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 5 September 2017, 10:46 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-09-05T22:46:22+08:00"
+    },
+    "aggsites": "297",
+    "aggdownloads": "63",
+    "aggfavs": "79",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1496/n_230.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1496/n_230.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1496/3.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1496/1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1496/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1496/4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1496/5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1496/7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1496/8.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2459954,
+            "firstname": "Fern",
+            "lastname": "Oliveira",
+            "url": "https://moodle.org/user/profile.php?id=2459954"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Mentor"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 1172,
+    "index": 1810,
+    "name": "mojeID",
+    "frankenstyle": "auth_mojeid",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_mojeid",
+    "shortdescription": "This is the authentication plugin for LMS Moodle which allows users to login/create account into the Moodle using the authority mojeID. (https://www.mojeid.cz/)",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 January 2018, 10:50 PM",
+        "reldate": "6 years",
+        "iso8601date": "2018-01-30T22:50:30+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "5",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1172/logo.PNG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1172/logo.PNG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1172/administration.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1172/loginpage.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1810116,
+            "firstname": "Libor",
+            "lastname": "So\u0161ka",
+            "url": "https://moodle.org/user/profile.php?id=1810116"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

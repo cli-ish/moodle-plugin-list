@@ -1,0 +1,45 @@
+{
+    "id": 1248,
+    "index": 1527,
+    "name": "Shoehorn",
+    "frankenstyle": "theme_shoehorn",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_shoehorn",
+    "shortdescription": "A clean, professional and innovative Bootstrap version 3 based theme.",
+    "timelastreleased": {
+        "absdate": "Saturday, 3 December 2016, 6:28 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-03T06:28:08+08:00"
+    },
+    "aggsites": "50",
+    "aggdownloads": "10",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1248/Shoehorn_logo_sm.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1248/Shoehorn_logo_sm.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1248/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

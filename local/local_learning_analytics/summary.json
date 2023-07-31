@@ -1,0 +1,74 @@
+{
+    "id": 2738,
+    "index": 280,
+    "name": "Learning Analytics",
+    "frankenstyle": "local_learning_analytics",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_learning_analytics",
+    "shortdescription": "Privacy-friendly Learning Analytics for Moodle",
+    "timelastreleased": {
+        "absdate": "Tuesday, 2 August 2022, 9:15 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-08-02T21:15:38+08:00"
+    },
+    "aggsites": "702",
+    "aggdownloads": "461",
+    "aggfavs": "46",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2738/rwth-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2738/rwth-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2738/00-full.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2738/01-dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2738/02-learners.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2738/03-heatmap.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2738/04-quizzes.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2738/05-activities.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2738/06-help.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2738/07-tour.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2078083,
+            "firstname": "Thomas",
+            "lastname": "Dondorf",
+            "url": "https://moodle.org/user/profile.php?id=2078083"
+        },
+        {
+            "id": 2493803,
+            "firstname": "Bernd",
+            "lastname": "Decker",
+            "url": "https://moodle.org/user/profile.php?id=2493803"
+        },
+        {
+            "id": 5027022,
+            "firstname": "Sebastian",
+            "lastname": "Schilling",
+            "url": "https://moodle.org/user/profile.php?id=5027022"
+        }
+    ],
+    "descriptors": []
+}

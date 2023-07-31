@@ -1,0 +1,47 @@
+{
+    "id": 1756,
+    "index": 1912,
+    "name": "Graylog Logstore",
+    "frankenstyle": "logstore_graylog",
+    "plugintype": {
+        "type": "logstore",
+        "name": "Log store manager / Log store"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/logstore_graylog",
+    "shortdescription": "Logstore plugin for moodle to ship logs to graylog or other log backends which supports the GELF format. This plugin requires that you have a working Graylog/GELF compatible log management node. Graylog can be downloaded for free from graylog2.org. Transport protocols TCP and UDP are supported.",
+    "timelastreleased": {
+        "absdate": "Friday, 16 December 2016, 7:50 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-16T19:50:22+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "3",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1756/Graylog%20Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1756/Graylog%20Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1756/Graylog%20JSON%20Extract%20other.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1756/Graylog.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1756/Plugin%20Settings.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1551320,
+            "firstname": "Binoj",
+            "lastname": "D",
+            "url": "https://moodle.org/user/profile.php?id=1551320"
+        }
+    ],
+    "descriptors": []
+}

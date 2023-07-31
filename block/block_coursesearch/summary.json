@@ -1,0 +1,40 @@
+{
+    "id": 1887,
+    "index": 322,
+    "name": "Basic course search",
+    "frankenstyle": "block_coursesearch",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_coursesearch",
+    "shortdescription": "This plugin simply displays Moodle's course search form in a block. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 December 2022, 5:45 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-12-08T17:45:16+08:00"
+    },
+    "aggsites": "425",
+    "aggdownloads": "415",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1887/block_coursesearch.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1602637,
+            "firstname": "Mark",
+            "lastname": "Sharp",
+            "url": "https://moodle.org/user/profile.php?id=1602637"
+        }
+    ],
+    "descriptors": []
+}

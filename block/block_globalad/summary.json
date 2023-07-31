@@ -1,0 +1,47 @@
+{
+    "id": 2202,
+    "index": 1967,
+    "name": "Globalad",
+    "frankenstyle": "block_globalad",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_globalad",
+    "shortdescription": "Globalad is a Moodle block that allows you to create the same personalized ad for all courses and users dashboard.\r\n\r\nGlobalad es un bloque para Moodle que permite crear el mismo anuncio personalizado para todos los cursos y \u00e1rea personal de usuarios.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 May 2019, 4:58 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-05-22T16:58:28+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "2",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2202/screenshot1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2202/screenshot2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2202/screenshot3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1433450,
+            "firstname": "Angel Luis",
+            "lastname": "Fraile",
+            "url": "https://moodle.org/user/profile.php?id=1433450"
+        }
+    ],
+    "descriptors": []
+}

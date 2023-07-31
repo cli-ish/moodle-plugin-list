@@ -1,0 +1,58 @@
+{
+    "id": 1513,
+    "index": 21,
+    "name": "Eguru",
+    "frankenstyle": "theme_eguru",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_eguru",
+    "shortdescription": "The Guru of moodle themes e-Guru - ultra responsive moodle theme with multi color pattern is free now in moodle plugin directory.It has stunning features that will be a suitable choice for your educational establishments and coming out with powerful admin theme setting options.",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 January 2023, 9:59 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-19T21:59:54+08:00"
+    },
+    "aggsites": "6943",
+    "aggdownloads": "3k",
+    "aggfavs": "296",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1513/eguru-thumb.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1513/eguru-thumb.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1513/eguru-course-view.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1513/eguru-course.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1513/eguru-homepage.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1513/eguru-login.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1513/eguru-settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1961886,
+            "firstname": "LMSACE",
+            "lastname": "e-learning experts",
+            "url": "https://moodle.org/user/profile.php?id=1961886"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

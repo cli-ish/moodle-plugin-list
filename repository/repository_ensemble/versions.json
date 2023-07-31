@@ -1,0 +1,152 @@
+[
+    {
+        "id": "22215",
+        "name": "3.9-build-2020081200",
+        "url": "https://moodle.org/plugins/download.php/22215/repository_ensemble_moodle38_2010031011.zip"
+    },
+    {
+        "id": "21559",
+        "name": "3.8-build-2020052000",
+        "url": "https://moodle.org/plugins/download.php/21559/repository_ensemble_moodle34_2021050619.zip"
+    },
+    {
+        "id": "20029",
+        "name": "3.7-build-2019073100",
+        "url": "https://moodle.org/plugins/download.php/20029/repository_ensemble_moodle32_2013041001.zip"
+    },
+    {
+        "id": "20027",
+        "name": "3.6-build-2018121701",
+        "url": "https://moodle.org/plugins/download.php/20027/repository_ensemble_moodle38_2015021013.zip"
+    },
+    {
+        "id": "20026",
+        "name": "3.5-build-2018060603",
+        "url": "https://moodle.org/plugins/download.php/20026/repository_ensemble_moodle25_2016010801.zip"
+    },
+    {
+        "id": "15843",
+        "name": "3.4-build-2018012200",
+        "url": "https://moodle.org/plugins/download.php/15843/repository_ensemble_moodle27_2012070706.zip"
+    },
+    {
+        "id": "16035",
+        "name": "3.3-build-2017052302",
+        "url": "https://moodle.org/plugins/download.php/16035/repository_ensemble_moodle31_2012120616.zip"
+    },
+    {
+        "id": "16034",
+        "name": "3.2-build-2017030201",
+        "url": "https://moodle.org/plugins/download.php/16034/repository_ensemble_moodle38_2018090420.zip"
+    },
+    {
+        "id": "16033",
+        "name": "3.1-build-2016082301",
+        "url": "https://moodle.org/plugins/download.php/16033/repository_ensemble_moodle33_2022121105.zip"
+    },
+    {
+        "id": "11168",
+        "name": "3.0-build-2016042800",
+        "url": "https://moodle.org/plugins/download.php/11168/repository_ensemble_moodle38_2014090100.zip"
+    },
+    {
+        "id": "9654",
+        "name": "2.9-build-2015060502",
+        "url": "https://moodle.org/plugins/download.php/9654/repository_ensemble_moodle33_2022091116.zip"
+    },
+    {
+        "id": "9299",
+        "name": "2.8-build-2015060401",
+        "url": "https://moodle.org/plugins/download.php/9299/repository_ensemble_moodle39_2013110614.zip"
+    },
+    {
+        "id": "6165",
+        "name": "2.7-build-2014052900",
+        "url": "https://moodle.org/plugins/download.php/6165/repository_ensemble_moodle36_2018040408.zip"
+    },
+    {
+        "id": "6243",
+        "name": "2.6-build-2014050702",
+        "url": "https://moodle.org/plugins/download.php/6243/repository_ensemble_moodle38_2018040803.zip"
+    },
+    {
+        "id": "5984",
+        "name": "2.5-build-2013082802",
+        "url": "https://moodle.org/plugins/download.php/5984/repository_ensemble_moodle34_2018020110.zip"
+    },
+    {
+        "id": "5983",
+        "name": "2.4-build-2013082702",
+        "url": "https://moodle.org/plugins/download.php/5983/repository_ensemble_moodle36_2018081110.zip"
+    },
+    {
+        "id": "3886",
+        "name": "2013082700",
+        "url": "https://moodle.org/plugins/download.php/3886/repository_ensemble_moodle39_2012040310.zip"
+    },
+    {
+        "id": "18561",
+        "name": "3.6-build-2018121700",
+        "url": "https://moodle.org/plugins/download.php/18561/repository_ensemble_moodle38_2014071013.zip"
+    },
+    {
+        "id": "18466",
+        "name": "3.5-build-2018060602",
+        "url": "https://moodle.org/plugins/download.php/18466/repository_ensemble_moodle38_2011071212.zip"
+    },
+    {
+        "id": "18272",
+        "name": "3.5-build-2018060601",
+        "url": "https://moodle.org/plugins/download.php/18272/repository_ensemble_moodle25_2011121115.zip"
+    },
+    {
+        "id": "17047",
+        "name": "3.5-build-2018060600",
+        "url": "https://moodle.org/plugins/download.php/17047/repository_ensemble_moodle40_2020050315.zip"
+    },
+    {
+        "id": "15082",
+        "name": "3.3-build-2017052301",
+        "url": "https://moodle.org/plugins/download.php/15082/repository_ensemble_moodle27_2023100812.zip"
+    },
+    {
+        "id": "14071",
+        "name": "3.3-build-2017052300",
+        "url": "https://moodle.org/plugins/download.php/14071/repository_ensemble_moodle32_2020100203.zip"
+    },
+    {
+        "id": "14070",
+        "name": "3.2-build-2017030200",
+        "url": "https://moodle.org/plugins/download.php/14070/repository_ensemble_moodle38_2016070620.zip"
+    },
+    {
+        "id": "12055",
+        "name": "3.1-build-2016082300",
+        "url": "https://moodle.org/plugins/download.php/12055/repository_ensemble_moodle35_2019071220.zip"
+    },
+    {
+        "id": "9300",
+        "name": "2.9-build-2015060501",
+        "url": "https://moodle.org/plugins/download.php/9300/repository_ensemble_moodle38_2021050720.zip"
+    },
+    {
+        "id": "8728",
+        "name": "2.9-build-2015060500",
+        "url": "https://moodle.org/plugins/download.php/8728/repository_ensemble_moodle25_2023090614.zip"
+    },
+    {
+        "id": "8726",
+        "name": "2.8-build-2015060400",
+        "url": "https://moodle.org/plugins/download.php/8726/repository_ensemble_moodle33_2016050704.zip"
+    },
+    {
+        "id": "5985",
+        "name": "2.6-build-2014050701",
+        "url": "https://moodle.org/plugins/download.php/5985/repository_ensemble_moodle35_2019050804.zip"
+    },
+    {
+        "id": "3890",
+        "name": "2013082800",
+        "url": "https://moodle.org/plugins/download.php/3890/repository_ensemble_moodle26_2019050819.zip"
+    }
+]

@@ -1,0 +1,55 @@
+{
+    "id": 394,
+    "index": 1902,
+    "name": "User bookmarks",
+    "frankenstyle": "block_user_bookmarks",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_user_bookmarks",
+    "shortdescription": " User Bookmarks allows users to bookmark any moodle page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 15 October 2013, 5:19 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-10-15T17:19:52+08:00"
+    },
+    "aggsites": "58",
+    "aggdownloads": "3",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/394/block_user_bookmarks.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1450836,
+            "firstname": "Gurvinder",
+            "lastname": "Singh",
+            "url": "https://moodle.org/user/profile.php?id=1450836"
+        },
+        {
+            "id": 1462553,
+            "firstname": "Jonas",
+            "lastname": "R\u00fcegge",
+            "url": "https://moodle.org/user/profile.php?id=1462553"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        }
+    ]
+}

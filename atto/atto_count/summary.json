@@ -1,0 +1,45 @@
+{
+    "id": 1168,
+    "index": 664,
+    "name": "Word count",
+    "frankenstyle": "atto_count",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_count",
+    "shortdescription": "Simple count words plugin for Atto.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 27 June 2018, 11:08 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-27T11:08:48+08:00"
+    },
+    "aggsites": "956",
+    "aggdownloads": "160",
+    "aggfavs": "28",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1168/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1168/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1168/atto_count.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1337843,
+            "firstname": "Damyon",
+            "lastname": "Wiese",
+            "url": "https://moodle.org/user/profile.php?id=1337843"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

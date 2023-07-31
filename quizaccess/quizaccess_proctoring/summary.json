@@ -1,0 +1,68 @@
+{
+    "id": 2557,
+    "index": 60,
+    "name": "Moodle Proctoring",
+    "frankenstyle": "quizaccess_proctoring",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_proctoring",
+    "shortdescription": "Moodle proctoring is a quizaccess plugin to capture the user's picture via webcam to identify who is attempting the Moodle Quiz. It will capture the picture automatically every 30 seconds and store it as a PNG image.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 April 2023, 6:05 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-06T18:05:02+08:00"
+    },
+    "aggsites": "1513",
+    "aggdownloads": "1k",
+    "aggfavs": "82",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2557/1.%20Proctoring%20allow.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2557/2.%20Attempt%20Quiz.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2557/3.%20Quiz.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2557/4.%20Proctoring%20settings.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2557/5.%20Proctoring%20summary.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2557/6.%20Proctoring%20individual%20report.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2557/8.%20Proctoring%20report.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2557/Face%20match%20scheduler%20settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2557/Face%20validation%20modal.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2557/Users-List.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3524295,
+            "firstname": "Brain",
+            "lastname": "Station 23",
+            "url": "https://moodle.org/user/profile.php?id=3524295"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,51 @@
+{
+    "id": 556,
+    "index": 810,
+    "name": "POAS abstract question",
+    "frankenstyle": "qtype_poasquestion",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_poasquestion",
+    "shortdescription": "Abstract question type used in questions developed by POAS department of Volgograd State Technical University. Contains some generally useful question type code.",
+    "timelastreleased": {
+        "absdate": "Sunday, 3 May 2020, 10:17 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-05-03T22:17:39+08:00"
+    },
+    "aggsites": "228",
+    "aggdownloads": "122",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/556/poasquestion.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 104931,
+            "firstname": "Oleg",
+            "lastname": "Sychev",
+            "url": "https://moodle.org/user/profile.php?id=104931"
+        },
+        {
+            "id": 1396380,
+            "firstname": "Valeriy",
+            "lastname": "Streltsov",
+            "url": "https://moodle.org/user/profile.php?id=1396380"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

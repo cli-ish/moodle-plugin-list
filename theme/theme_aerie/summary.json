@@ -1,0 +1,49 @@
+{
+    "id": 288,
+    "index": 1806,
+    "name": "Aerie",
+    "frankenstyle": "theme_aerie",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_aerie",
+    "shortdescription": "Fluid-width three column theme with a settings page and six extra block positions.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 October 2012, 7:23 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-31T07:23:07+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "5",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/288/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/288/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/288/screenshot_text.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/288/screenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 764775,
+            "firstname": "Miriam",
+            "lastname": "Laidlaw",
+            "url": "https://moodle.org/user/profile.php?id=764775"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

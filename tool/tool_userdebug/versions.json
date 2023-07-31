@@ -1,0 +1,27 @@
+[
+    {
+        "id": "29063",
+        "name": "v4.2-2023042700",
+        "url": "https://moodle.org/plugins/download.php/29063/tool_userdebug_moodle40_2018040404.zip"
+    },
+    {
+        "id": "28102",
+        "name": "v4.1-2022120100",
+        "url": "https://moodle.org/plugins/download.php/28102/tool_userdebug_moodle25_2022080407.zip"
+    },
+    {
+        "id": "22257",
+        "name": "3.9-2020081601",
+        "url": "https://moodle.org/plugins/download.php/22257/tool_userdebug_moodle31_2017100902.zip"
+    },
+    {
+        "id": "22248",
+        "name": "3.9-2020081600",
+        "url": "https://moodle.org/plugins/download.php/22248/tool_userdebug_moodle27_2011090200.zip"
+    },
+    {
+        "id": "22148",
+        "name": "3.9-2020080100",
+        "url": "https://moodle.org/plugins/download.php/22148/tool_userdebug_moodle33_2018121105.zip"
+    }
+]

@@ -1,0 +1,58 @@
+{
+    "id": 1465,
+    "index": 30,
+    "name": "Snap",
+    "frankenstyle": "theme_snap",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_snap",
+    "shortdescription": "Snap\u2019s user-friendly and responsive design removes barriers to online learning, enabling you to create the modern, engaging experience user's expect on the web today. Its intuitive layout is optimised for online learning, focusing on the things that matter - your learning activities and content.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 2:14 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T02:14:36+08:00"
+    },
+    "aggsites": "2636",
+    "aggdownloads": "2k",
+    "aggfavs": "288",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1465/snap-frontpage.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1465/snap%20user%20profile.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1465/snap-course.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1465/snap-personalmenu.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1465/snap-signin.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

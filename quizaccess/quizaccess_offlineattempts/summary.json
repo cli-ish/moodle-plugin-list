@@ -1,0 +1,53 @@
+{
+    "id": 1634,
+    "index": 1247,
+    "name": "Offline attempts access rule",
+    "frankenstyle": "quizaccess_offlineattempts",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_offlineattempts",
+    "shortdescription": "This plugin adds a new access rule to allow the quiz to be downloaded for offline usage in the Moodle Mobile app.\r\nIt requires the \"Moodle Mobile additional features\" (local_mobile) plugin installed.",
+    "timelastreleased": {
+        "absdate": "Friday, 13 May 2016, 10:49 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-05-13T22:49:51+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "23",
+    "aggfavs": "25",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1634/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1634/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1634/600px-31MobileOfflineQuiz.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Offline"
+        }
+    ]
+}

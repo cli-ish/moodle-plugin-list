@@ -1,0 +1,50 @@
+{
+    "id": 421,
+    "index": 1431,
+    "name": "Navigation Web",
+    "frankenstyle": "block_semantic_web",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_semantic_web",
+    "shortdescription": "Navigation within and between courses by the use of an interactive concept map.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 May 2013, 3:50 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-22T03:50:47+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "14",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/421/concept_map.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/421/fig_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/421/fig_4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/421/semantic_web_block_dozent.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1128596,
+            "firstname": "Andre",
+            "lastname": "Scherl",
+            "url": "https://moodle.org/user/profile.php?id=1128596"
+        }
+    ],
+    "descriptors": []
+}

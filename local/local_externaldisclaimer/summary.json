@@ -1,0 +1,44 @@
+{
+    "id": 1835,
+    "index": 2062,
+    "name": "External disclaimer",
+    "frankenstyle": "local_externaldisclaimer",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_externaldisclaimer",
+    "shortdescription": "A Moodle plugin to add a disclaimer popup when users click on an external link on your site.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 April 2017, 6:57 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-04-12T18:57:29+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "1",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1835/MoodleExternalDisclaimer-admin.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1835/MoodleExternalDisclaimer-user.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1974081,
+            "firstname": "Simon",
+            "lastname": "Champion",
+            "url": "https://moodle.org/user/profile.php?id=1974081"
+        }
+    ],
+    "descriptors": []
+}

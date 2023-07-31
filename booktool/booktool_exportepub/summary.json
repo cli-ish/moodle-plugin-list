@@ -1,0 +1,53 @@
+{
+    "id": 1139,
+    "index": 896,
+    "name": "Lucimoo EPUB export",
+    "frankenstyle": "booktool_exportepub",
+    "plugintype": {
+        "type": "booktool",
+        "name": "Book / Book tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/booktool_exportepub",
+    "shortdescription": "Lucimoo EPUB import/export add-ons for the Moodle book module.\r\n\r\nLucimoo consists of two add-ons for the Moodle book module:\r\n\r\n* The \"exportepub\" add-on provides functionality to export\r\nbook module books as EPUB ebooks.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 17 August 2016, 2:59 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-17T14:59:26+08:00"
+    },
+    "aggsites": "137",
+    "aggdownloads": "99",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1139/Lucimoo_ebook_export_download_as_ebook.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1139/Lucimoo_ebook_export_to_Lucifox_ebook_reader_addon_in_Firefox.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1347683,
+            "firstname": "Haakon",
+            "lastname": "Meland Eriksen",
+            "url": "https://moodle.org/user/profile.php?id=1347683"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Offline"
+        }
+    ]
+}

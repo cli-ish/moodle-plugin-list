@@ -1,0 +1,40 @@
+{
+    "id": 2330,
+    "index": 2056,
+    "name": "Viewier dxf",
+    "frankenstyle": "filter_dxf",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_dxf",
+    "shortdescription": "Dxf Viewer is a simple filter wich allows to create a very basic viewer by replacing a dxf (moodle) url in an editor by a viewer of this dxf file.",
+    "timelastreleased": {
+        "absdate": "Friday, 10 January 2020, 10:41 PM",
+        "reldate": "4 years",
+        "iso8601date": "2020-01-10T22:41:41+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "1",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2330/dxf.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2697852,
+            "firstname": "Florent",
+            "lastname": "Paccalet",
+            "url": "https://moodle.org/user/profile.php?id=2697852"
+        }
+    ],
+    "descriptors": []
+}

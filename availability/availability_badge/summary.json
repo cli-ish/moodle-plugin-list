@@ -1,0 +1,55 @@
+{
+    "id": 1638,
+    "index": 840,
+    "name": "Restriction by badge",
+    "frankenstyle": "availability_badge",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_badge",
+    "shortdescription": "Activities in a course can be restricted by a badge",
+    "timelastreleased": {
+        "absdate": "Friday, 20 May 2016, 5:55 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-05-20T05:55:27+08:00"
+    },
+    "aggsites": "355",
+    "aggdownloads": "114",
+    "aggfavs": "27",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1638/Screenshot_2016-06-15_13-03-00.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1638/Screenshot_2016-06-15_12-57-15.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1638/Screenshot_2016-06-15_12-58-56.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1638/Screenshot_2016-06-15_13-01-21.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 639753,
+            "firstname": "Tim",
+            "lastname": "Lock",
+            "url": "https://moodle.org/user/profile.php?id=639753"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": 1910,
+    "index": 166,
+    "name": "Quiz Analytics",
+    "frankenstyle": "gradereport_quizanalytics",
+    "plugintype": {
+        "type": "gradereport",
+        "name": "Gradebook report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradereport_quizanalytics",
+    "shortdescription": "This plugin gives an analytical report of the quiz and the questions within it to promote student growth. A learner\u2019s growth pattern is ascertained after carefully examining their quiz attempt. The user's current position is then displayed on a graph following each successful attempt.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 2 May 2023, 9:08 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-02T21:08:05+08:00"
+    },
+    "aggsites": "1485",
+    "aggdownloads": "727",
+    "aggfavs": "94",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1910/DualCube_LOGO.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1910/DualCube_LOGO.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1910/Grades-%20View%20%289%29.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1910/dualcube-%20Administration-%20Grades-%20Report%20settings-%20Quiz%20Analytics.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1910/Grades-%20View%20%2811%29.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1910/Grades-%20View%20%2812%29.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1910/Grades-%20View%20%2813%29.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1910/Grades-%20View%20%2815%29.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1910/Grades-%20View%20%283%29.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1910/Grades-%20View%20%284%29.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1910/Grades-%20View%20%285%29.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1910/Grades-%20View%20%288%29.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1832609,
+            "firstname": "DualCube",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1832609"
+        }
+    ],
+    "descriptors": []
+}

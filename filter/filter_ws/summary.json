@@ -1,0 +1,47 @@
+{
+    "id": 2229,
+    "index": 1798,
+    "name": "WebService Filter for Moodle Mobile app",
+    "frankenstyle": "filter_ws",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_ws",
+    "shortdescription": "With the WebService filter plugin you can choose if some content should be visible only in web (browser) or only in a WebService client like the Moodle apps (mobile and desktop). The main purpose of this plugin is to be able to display/hide some content only for the Moodle app.",
+    "timelastreleased": {
+        "absdate": "Monday, 21 January 2019, 5:18 PM",
+        "reldate": "5 years",
+        "iso8601date": "2019-01-21T17:18:17+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "5",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2229/01_filterws_editor.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2229/02_filterws_web.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2229/03_filterws_app.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1889394,
+            "firstname": "Dani",
+            "lastname": "Palou",
+            "url": "https://moodle.org/user/profile.php?id=1889394"
+        }
+    ],
+    "descriptors": []
+}

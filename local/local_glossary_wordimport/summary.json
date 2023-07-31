@@ -1,0 +1,40 @@
+{
+    "id": 2531,
+    "index": 676,
+    "name": "Microsoft Word file Import/Export (Glossary)",
+    "frankenstyle": "local_glossary_wordimport",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_glossary_wordimport",
+    "shortdescription": "Import the contents of a Microsoft Word file (in '.docx' format) into a glossary, splitting it into terms based on the heading styles. The file can be from either Microsoft Word or LibreOffice. Also supports exporting glossaries to Word format, for round-trip editing.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 31 August 2021, 9:29 PM",
+        "reldate": "23 months",
+        "iso8601date": "2021-08-31T21:29:45+08:00"
+    },
+    "aggsites": "329",
+    "aggdownloads": "155",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2531/logo.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2531/logo.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2531/glossary_wordimport.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 726938,
+            "firstname": "Eoin",
+            "lastname": "Campbell",
+            "url": "https://moodle.org/user/profile.php?id=726938"
+        }
+    ],
+    "descriptors": []
+}

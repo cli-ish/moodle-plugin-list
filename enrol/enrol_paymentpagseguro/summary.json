@@ -1,0 +1,47 @@
+{
+    "id": 2012,
+    "index": 945,
+    "name": "Matr\u00edcula paga pelo Pagseguro",
+    "frankenstyle": "enrol_paymentpagseguro",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_paymentpagseguro",
+    "shortdescription": "Plugin que permite a inscri\u00e7\u00e3o de estudantes por pagamento direto ou por assinatura mensal usando o PagSeguro.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 26 May 2021, 4:30 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-26T04:30:37+08:00"
+    },
+    "aggsites": "110",
+    "aggdownloads": "71",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2012/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2012/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2012/Captura%20de%20Tela%202018-02-15%20a%CC%80s%2004.47.07.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2012/Captura%20de%20Tela%202018-02-15%20a%CC%80s%2004.47.21.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2012/Captura%20de%20Tela%202018-02-15%20a%CC%80s%2004.47.29.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1428341,
+            "firstname": "Eduardo",
+            "lastname": "Kraus",
+            "url": "https://moodle.org/user/profile.php?id=1428341"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,56 @@
+{
+    "id": 2574,
+    "index": 1099,
+    "name": "Dynamic Dropdown menu",
+    "frankenstyle": "customfield_dynamic",
+    "plugintype": {
+        "type": "customfield",
+        "name": "Custom field"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/customfield_dynamic",
+    "shortdescription": "This plugin is Course custom field Plugin and provides a new dynamic select/multi-select type custom field that takes input as SQL query and makes the select field based on the output of SQL query.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 February 2021, 3:09 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-16T03:09:03+08:00"
+    },
+    "aggsites": "116",
+    "aggdownloads": "38",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2574/screenshot-one.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2574/screenshot-five.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2574/screenshot-four.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2574/screenshot-six.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2574/screenshot-three.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2574/screenshot-two.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2563270,
+            "firstname": "Sooraj",
+            "lastname": "Singh",
+            "url": "https://moodle.org/user/profile.php?id=2563270"
+        }
+    ],
+    "descriptors": []
+}

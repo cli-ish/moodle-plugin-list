@@ -1,0 +1,67 @@
+{
+    "id": 1188,
+    "index": 2022,
+    "name": "CQU MyMoodle",
+    "frankenstyle": "block_cqumymoodle",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_cqumymoodle",
+    "shortdescription": "Allows staff and students to see enrolments they have in external systems (or other Moodle's). This was predominately created to allow links between archived and separated instances of  Moodle, but keep the separation hidden to the users. Handy if you also have single-sign on between the systems, as it allows them to jump to external courses without having to login again.",
+    "timelastreleased": {
+        "absdate": "Friday, 18 March 2016, 1:24 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-03-18T13:24:50+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "2",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1188/multiblock.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1188/multiblocksettings1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 1408973,
+            "firstname": "Marcus",
+            "lastname": "Boon",
+            "url": "https://moodle.org/user/profile.php?id=1408973"
+        },
+        {
+            "id": 772531,
+            "firstname": "David",
+            "lastname": "Binney",
+            "url": "https://moodle.org/user/profile.php?id=772531"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

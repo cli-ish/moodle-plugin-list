@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1270",
+        "name": "2.x-build-2012082300",
+        "url": "https://moodle.org/plugins/download.php/1270/block_course_overview_plus_moodle25_2015030207.zip"
+    },
+    {
+        "id": "1106",
+        "name": "2.x-build-2012072200",
+        "url": "https://moodle.org/plugins/download.php/1106/block_course_overview_plus_moodle28_2015100911.zip"
+    },
+    {
+        "id": "1042",
+        "name": "2.x-build-2012070900",
+        "url": "https://moodle.org/plugins/download.php/1042/block_course_overview_plus_moodle28_2019031101.zip"
+    },
+    {
+        "id": "1035",
+        "name": "2.x-build-2012070700",
+        "url": "https://moodle.org/plugins/download.php/1035/block_course_overview_plus_moodle37_2023100320.zip"
+    },
+    {
+        "id": "942",
+        "name": "2.x-build-2012062600",
+        "url": "https://moodle.org/plugins/download.php/942/block_course_overview_plus_moodle25_2020010717.zip"
+    },
+    {
+        "id": "936",
+        "name": "2.x-build-2012062501",
+        "url": "https://moodle.org/plugins/download.php/936/block_course_overview_plus_moodle40_2014121102.zip"
+    },
+    {
+        "id": "935",
+        "name": "2.x-build-2012062500",
+        "url": "https://moodle.org/plugins/download.php/935/block_course_overview_plus_moodle27_2020030314.zip"
+    },
+    {
+        "id": "645",
+        "name": "2.x-build-2012021800",
+        "url": "https://moodle.org/plugins/download.php/645/block_course_overview_plus_moodle36_2023030303.zip"
+    },
+    {
+        "id": "394",
+        "name": "2.x-build-2012010401",
+        "url": "https://moodle.org/plugins/download.php/394/block_course_overview_plus_moodle27_2016050805.zip"
+    },
+    {
+        "id": "322",
+        "name": "2011120801",
+        "url": "https://moodle.org/plugins/download.php/322/block_course_overview_plus_moodle36_2014091120.zip"
+    },
+    {
+        "id": "321",
+        "name": "2011120701",
+        "url": "https://moodle.org/plugins/download.php/321/block_course_overview_plus_moodle34_2023081205.zip"
+    }
+]

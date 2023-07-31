@@ -1,0 +1,49 @@
+{
+    "id": 524,
+    "index": 1661,
+    "name": "My mentees",
+    "frankenstyle": "block_mymentees",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mymentees",
+    "shortdescription": "This block is a feature-rich version of the core Mentees block.",
+    "timelastreleased": {
+        "absdate": "Monday, 26 November 2012, 6:45 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-26T06:45:34+08:00"
+    },
+    "aggsites": "43",
+    "aggdownloads": "7",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/524/mymentees.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/524/mymentees.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/524/mymentees_grades.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/524/mymentees.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 860723,
+            "firstname": "Nathan",
+            "lastname": "Robbins",
+            "url": "https://moodle.org/user/profile.php?id=860723"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Mentor"
+        }
+    ]
+}

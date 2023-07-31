@@ -1,0 +1,53 @@
+{
+    "id": 1378,
+    "index": 78,
+    "name": "Student folder",
+    "frankenstyle": "mod_publication",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_publication",
+    "shortdescription": "With the module student folder (mod/publication) students can upload documents which can be made visible by teachers.",
+    "timelastreleased": {
+        "absdate": "Sunday, 2 July 2023, 6:54 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-02T18:54:48+08:00"
+    },
+    "aggsites": "2112",
+    "aggdownloads": "1k",
+    "aggfavs": "101",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1378/publication.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1378/publication.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1378/student_folder_1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1378/student_folder_2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        }
+    ]
+}

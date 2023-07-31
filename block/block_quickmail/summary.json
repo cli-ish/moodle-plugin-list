@@ -1,0 +1,61 @@
+{
+    "id": 52,
+    "index": 221,
+    "name": "Quickmail",
+    "frankenstyle": "block_quickmail",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quickmail",
+    "shortdescription": "A block that provides selective, bulk emailing within courses. Developed by LSU.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 July 2023, 9:59 PM",
+        "reldate": "3 days",
+        "iso8601date": "2023-07-28T21:59:12+08:00"
+    },
+    "aggsites": "3405",
+    "aggdownloads": "566",
+    "aggfavs": "111",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/52/block.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/52/block.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/52/block.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/52/config.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/52/email.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/52/signature.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 141420,
+            "firstname": "Robert",
+            "lastname": "Russo",
+            "url": "https://moodle.org/user/profile.php?id=141420"
+        },
+        {
+            "id": 1519296,
+            "firstname": "David",
+            "lastname": "Lowe",
+            "url": "https://moodle.org/user/profile.php?id=1519296"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

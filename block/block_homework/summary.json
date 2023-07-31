@@ -1,0 +1,52 @@
+{
+    "id": 1636,
+    "index": 1234,
+    "name": "Homework",
+    "frankenstyle": "block_homework",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_homework",
+    "shortdescription": "The Homework Block streamlines the process of managing homework activities by simplifying the way teachers set, track and mark their student\u2019s homework. Homework Block not only provides benefits to teachers but also the students, school and parents too. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 1 June 2017, 10:05 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-06-01T22:05:57+08:00"
+    },
+    "aggsites": "253",
+    "aggdownloads": "23",
+    "aggfavs": "44",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1636/overnetdata-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1636/overnetdata-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1636/block.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1636/marking-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1636/reports.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2085955,
+            "firstname": "Overnet",
+            "lastname": "Data",
+            "url": "https://moodle.org/user/profile.php?id=2085955"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

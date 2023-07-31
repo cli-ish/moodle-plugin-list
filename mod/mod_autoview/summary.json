@@ -1,0 +1,45 @@
+{
+    "id": 67,
+    "index": 1134,
+    "name": "AutoView Presenter",
+    "frankenstyle": "mod_autoview",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_autoview",
+    "shortdescription": "Lecture capture system, supporting synchronised slides and subtitles with a web editing interface.",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 August 2018, 8:27 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-16T20:27:11+08:00"
+    },
+    "aggsites": "43",
+    "aggdownloads": "33",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/67/autoview-3.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 10165,
+            "firstname": "Tim",
+            "lastname": "Williams",
+            "url": "https://moodle.org/user/profile.php?id=10165"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

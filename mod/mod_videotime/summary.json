@@ -1,0 +1,74 @@
+{
+    "id": 2142,
+    "index": 104,
+    "name": "Video Time",
+    "frankenstyle": "mod_videotime",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_videotime",
+    "shortdescription": "Embed videos from Vimeo and Youtube easily in your course, use activity completion to track videos and much more!",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 May 2023, 8:16 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-11T20:16:50+08:00"
+    },
+    "aggsites": "1994",
+    "aggdownloads": "1k",
+    "aggfavs": "56",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2142/bdlogo2022.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2142/bdlogo2022.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2142/Video-Time-by-bdecent.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2142/Video%20Time%20Business%20by%20bdecent%20%E2%80%94%20Create%20activity.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2142/Video%20Time%20Business%20by%20bdecent%20%E2%80%94%20Interactive%20transcript.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2142/Video%20Time%20Business%20by%20bdecent%20%E2%80%94%20Preview%20mode.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2142/Video%20Time%20by%20bdecent%20%E2%80%94%20Embed%20options%20%28Youtube%29.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2142/Video%20Time%20by%20bdecent%20%E2%80%94%20Label%20Mode.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2142/Video%20Time%20by%20bdecent%20%E2%80%94%20Video%20in%20Popups.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2142/Video%20Time%20by%20bdecent%20%E2%80%94%20Youtube%20Video.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2142/Video%20Time%20Pro%20by%20bdecent%20%E2%80%94%20Activity%20completion.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2142/Video%20Time%20Pro%20by%20bdecent%20%E2%80%94%20Report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1553381,
+            "firstname": "Stefan",
+            "lastname": "Scholz",
+            "url": "https://moodle.org/user/profile.php?id=1553381"
+        },
+        {
+            "id": 5033676,
+            "firstname": "bdecent",
+            "lastname": "gmbh",
+            "url": "https://moodle.org/user/profile.php?id=5033676"
+        }
+    ],
+    "descriptors": []
+}

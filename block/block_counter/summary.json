@@ -1,0 +1,47 @@
+{
+    "id": 1877,
+    "index": 1023,
+    "name": "Visitor Counter",
+    "frankenstyle": "block_counter",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_counter",
+    "shortdescription": "It displays a visitor counter in a block.",
+    "timelastreleased": {
+        "absdate": "Monday, 28 December 2020, 4:14 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-12-28T16:14:47+08:00"
+    },
+    "aggsites": "199",
+    "aggdownloads": "51",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1877/Logo_Visitor_Counter_200.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1877/Logo_Visitor_Counter_200.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1877/config.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1877/view1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1877/view2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 57210,
+            "firstname": "David",
+            "lastname": "Herney",
+            "url": "https://moodle.org/user/profile.php?id=57210"
+        }
+    ],
+    "descriptors": []
+}

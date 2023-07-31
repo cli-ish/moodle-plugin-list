@@ -1,0 +1,45 @@
+{
+    "id": 1162,
+    "index": 2014,
+    "name": "ZiLink - Teacher Enrolment",
+    "frankenstyle": "enrol_zilink",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_zilink",
+    "shortdescription": "The ZiLink plugins work together - please ensure you download and install the full set of ZiLink plugins. The extent of integration depends on the data being available within the school MIS. Data integration is supplied by ZiNET Connect - 30-day trial, ZiLink Community Programme or Premier Support is available. ",
+    "timelastreleased": {
+        "absdate": "Friday, 23 December 2016, 8:31 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-23T08:31:05+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "2",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1162/SchoolsICT%20Limited.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1162/SchoolsICT%20Limited.jpg?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1806648,
+            "firstname": "SchoolsICT",
+            "lastname": "Support",
+            "url": "https://moodle.org/user/profile.php?id=1806648"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

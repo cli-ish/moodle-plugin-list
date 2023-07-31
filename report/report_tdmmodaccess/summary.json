@@ -1,0 +1,49 @@
+{
+    "id": 1011,
+    "index": 1867,
+    "name": "Course module access (section level participation)",
+    "frankenstyle": "report_tdmmodaccess",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_tdmmodaccess",
+    "shortdescription": "Participation report tailored to sections as opposed to activities.",
+    "timelastreleased": {
+        "absdate": "Saturday, 7 June 2014, 2:00 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-07T02:00:54+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "4",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1011/Navigation.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1011/Report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1394209,
+            "firstname": "Luke",
+            "lastname": "Carrier",
+            "url": "https://moodle.org/user/profile.php?id=1394209"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

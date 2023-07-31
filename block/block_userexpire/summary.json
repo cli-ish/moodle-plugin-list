@@ -1,0 +1,49 @@
+{
+    "id": 219,
+    "index": 1446,
+    "name": "User Expire block",
+    "frankenstyle": "block_userexpire",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_userexpire",
+    "shortdescription": "This block intends to give the user a notification about the expiration of his or her enrollment.  Tested only on 2.0.  Should work above that as well.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 August 2016, 2:47 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-30T02:47:22+08:00"
+    },
+    "aggsites": "49",
+    "aggdownloads": "13",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/219/Capture.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 366889,
+            "firstname": "Jeff",
+            "lastname": "Rader",
+            "url": "https://moodle.org/user/profile.php?id=366889"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        }
+    ]
+}

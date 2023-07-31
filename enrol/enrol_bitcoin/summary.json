@@ -1,0 +1,44 @@
+{
+    "id": 1476,
+    "index": 781,
+    "name": "Bitcoin",
+    "frankenstyle": "enrol_bitcoin",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_bitcoin",
+    "shortdescription": "Enrolment in Moodle using Bitcoin payment gateway for paid courses\r\n\r\nThis plugin helps admins and webmasters use Bitcoin as the payment gateway. Bitcoin is one of the popular payment gateways and offers considerable number of features unsupported by other payment gateways like Paypal. This plugin has all the settings for development as well as for production usage. Its easy to install, set up and effective.",
+    "timelastreleased": {
+        "absdate": "Friday, 6 May 2022, 7:47 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-05-06T19:47:01+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "127",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1476/DualCube_LOGO.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1476/DualCube_LOGO.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1476/payment-form.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1476/settings-moodle.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1832609,
+            "firstname": "DualCube",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1832609"
+        }
+    ],
+    "descriptors": []
+}

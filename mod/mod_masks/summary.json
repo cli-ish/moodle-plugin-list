@@ -1,0 +1,68 @@
+{
+    "id": 1734,
+    "index": 577,
+    "name": "Mask",
+    "frankenstyle": "mod_masks",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_masks",
+    "shortdescription": "Transform PDF documents into interactive activities in a snap",
+    "timelastreleased": {
+        "absdate": "Thursday, 11 May 2017, 9:12 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-05-11T09:12:28+08:00"
+    },
+    "aggsites": "72",
+    "aggdownloads": "202",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1734/edunao_moodle_logo_mask.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1734/edunao_moodle_logo_mask.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1734/official_screenshot_03.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1734/official_screenshot_01.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1734/official_screenshot_04.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1734/official_screenshot_05.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2091217,
+            "firstname": "Daniel",
+            "lastname": "Miller",
+            "url": "https://moodle.org/user/profile.php?id=2091217"
+        },
+        {
+            "id": 2178698,
+            "firstname": "C\u00e9line",
+            "lastname": "Hernandez",
+            "url": "https://moodle.org/user/profile.php?id=2178698"
+        },
+        {
+            "id": 1394501,
+            "firstname": "Adrien",
+            "lastname": "Jamot",
+            "url": "https://moodle.org/user/profile.php?id=1394501"
+        },
+        {
+            "id": 3657165,
+            "firstname": "Mounir",
+            "lastname": "Ganem",
+            "url": "https://moodle.org/user/profile.php?id=3657165"
+        }
+    ],
+    "descriptors": []
+}

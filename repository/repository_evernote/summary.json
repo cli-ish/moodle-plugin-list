@@ -1,0 +1,49 @@
+{
+    "id": 455,
+    "index": 1435,
+    "name": "Evernote",
+    "frankenstyle": "repository_evernote",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_evernote",
+    "shortdescription": "Repository to access the content of your notes from your Evernote account.",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 November 2013, 5:44 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-11-14T17:44:43+08:00"
+    },
+    "aggsites": "106",
+    "aggdownloads": "13",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/455/evernote_140x140.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/455/evernote_140x140.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/455/Screenshot%20from%202012-09-28%20152925.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

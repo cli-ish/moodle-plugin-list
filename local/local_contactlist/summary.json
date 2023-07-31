@@ -1,0 +1,44 @@
+{
+    "id": 2737,
+    "index": 548,
+    "name": "Contactlist",
+    "frankenstyle": "local_contactlist",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_contactlist",
+    "shortdescription": "The contactlist plugin allows students to decide if they want to share their contact information with their fellow students in accordance with the GDPR for each course they are registered in.",
+    "timelastreleased": {
+        "absdate": "Monday, 8 May 2023, 7:58 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-08T19:58:05+08:00"
+    },
+    "aggsites": "27",
+    "aggdownloads": "215",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2737/contactlist_courseview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2737/contactlist_privacysettings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4266933,
+            "firstname": "e-Learning Team",
+            "lastname": "University of Vienna",
+            "url": "https://moodle.org/user/profile.php?id=4266933"
+        }
+    ],
+    "descriptors": []
+}

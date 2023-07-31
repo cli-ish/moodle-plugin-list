@@ -1,0 +1,85 @@
+{
+    "id": 1039,
+    "index": 137,
+    "name": "Analytics for Moodle with IntelliBoard ",
+    "frankenstyle": "local_intelliboard",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_intelliboard",
+    "shortdescription": "IntelliBoard is the #1 Moodle analytics and reporting plugin. Meet a powerful learning analytics platform with predictive modeling that will help you achieve your retention, engagement, and compliance goals. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 15 June 2023, 3:45 AM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-15T03:45:25+08:00"
+    },
+    "aggsites": "2115",
+    "aggdownloads": "864",
+    "aggfavs": "157",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1039/Version%202.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1039/Version%202.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1039/07%20At-Risk%20By%20Rule.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1039/01%20Integrate%20Seamlessly%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1039/02%20Build%20%20Share.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1039/03%20Predict%20%20Improve.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1039/04%20Notify%20When%20Needed.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1039/05%20Intervene%20.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1039/06%20InForm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1039/08%20Builder.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1039/09%20Favorites.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1039/10%20Org%20Roles.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 23304,
+            "firstname": "Anatoliy",
+            "lastname": "Kochnev",
+            "url": "https://moodle.org/user/profile.php?id=23304"
+        },
+        {
+            "id": 1568521,
+            "firstname": "Taras",
+            "lastname": "Leshko",
+            "url": "https://moodle.org/user/profile.php?id=1568521"
+        },
+        {
+            "id": 5594699,
+            "firstname": "Zvi",
+            "lastname": "Moshkoviz",
+            "url": "https://moodle.org/user/profile.php?id=5594699"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

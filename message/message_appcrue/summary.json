@@ -1,0 +1,56 @@
+{
+    "id": 2758,
+    "index": 708,
+    "name": "Push notifications via TwinPush (for Appcrue)",
+    "frankenstyle": "message_appcrue",
+    "plugintype": {
+        "type": "message",
+        "name": "Notification plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/message_appcrue",
+    "shortdescription": "Enable Moodle to send messages through the notification service of AppCrue application using TwinPush API.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 June 2023, 12:00 AM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-14T00:00:43+08:00"
+    },
+    "aggsites": "51",
+    "aggdownloads": "146",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2758/messageAppCrueIcon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2758/messageAppCrueIcon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2758/Screenshot%20-%2012_07_2021%20%2C%2013_35_00.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2758/Screenshot%20-%2012_07_2021%20%2C%2013_36_36.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2758/Screenshot%20-%2012_07_2021%20%2C%2013_38_15.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2758/Screenshot%20-%2012_07_2021%20%2C%2013_40_06.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2758/Screenshot%20-%2012_07_2021%20%2C%2013_41_07.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2758/Screenshot%20-%2012_07_2021%20%2C%2013_45_06.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 478486,
+            "firstname": "Juan Pablo",
+            "lastname": "de Castro",
+            "url": "https://moodle.org/user/profile.php?id=478486"
+        }
+    ],
+    "descriptors": []
+}

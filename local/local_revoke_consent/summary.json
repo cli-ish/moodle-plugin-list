@@ -1,0 +1,40 @@
+{
+    "id": 2125,
+    "index": 2076,
+    "name": "Revoke consent",
+    "frankenstyle": "local_revoke_consent",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_revoke_consent",
+    "shortdescription": "The plugin adds the missing feature to revoke the consent of the privacy policy in moodle.",
+    "timelastreleased": {
+        "absdate": "Sunday, 22 July 2018, 5:39 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-07-22T05:39:24+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "1",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2125/revoke_consent.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 36220,
+            "firstname": "Andreas",
+            "lastname": "Grabs",
+            "url": "https://moodle.org/user/profile.php?id=36220"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,59 @@
+{
+    "id": 745,
+    "index": 2084,
+    "name": "MySmark EDU",
+    "frankenstyle": "block_smartblock",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_smartblock",
+    "shortdescription": "MySmark EDU is a platform for the analysis of student satisfaction through emotional tagging.\r\nIt allows students to leave feedbacks on Moodle events using MySmark's emotional tags (www,mysmark.com).",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 May 2013, 11:21 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-29T23:21:39+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "1",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/745/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/745/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/745/block.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/745/emotional-feedback.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/745/parametric-feedback.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/745/report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1578958,
+            "firstname": "Fabio",
+            "lastname": "Alessandrelli",
+            "url": "https://moodle.org/user/profile.php?id=1578958"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Analytics"
+        }
+    ]
+}

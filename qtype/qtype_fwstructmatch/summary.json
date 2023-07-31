@@ -1,0 +1,49 @@
+{
+    "id": 986,
+    "index": 1781,
+    "name": "Structure match with editor",
+    "frankenstyle": "qtype_fwstructmatch",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_fwstructmatch",
+    "shortdescription": "A question type that is answered by drawing a structure in the ChemDoodle Web Sketcher. The drawing is converted to InChI and compared to the given answer(s).\r\nThe teacher can give multiple correct or semi-correct answers.\r\nRequires OpenBabel to be installed (in /usr/local/bin/obabel or else the code needs amending in question.php). ",
+    "timelastreleased": {
+        "absdate": "Monday, 10 November 2014, 6:18 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-11-10T18:18:22+08:00"
+    },
+    "aggsites": "27",
+    "aggdownloads": "5",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1740404,
+            "firstname": "Fredrik",
+            "lastname": "Wallner",
+            "url": "https://moodle.org/user/profile.php?id=1740404"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

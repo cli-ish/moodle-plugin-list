@@ -1,0 +1,40 @@
+{
+    "id": 2681,
+    "index": 646,
+    "name": "Microsoft Word File Import/Export",
+    "frankenstyle": "local_wordimport",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_wordimport",
+    "shortdescription": "This plugin is a shell plugin that has dependencies on all Microsoft Word File Import/Export set plugins. Installing this plugin forces installation of the set.\r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 31 August 2021, 9:31 PM",
+        "reldate": "23 months",
+        "iso8601date": "2021-08-31T21:31:39+08:00"
+    },
+    "aggsites": "226",
+    "aggdownloads": "167",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2681/yawclogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2681/yawclogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2681/MicrosoftFileImportSet.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 726938,
+            "firstname": "Eoin",
+            "lastname": "Campbell",
+            "url": "https://moodle.org/user/profile.php?id=726938"
+        }
+    ],
+    "descriptors": []
+}

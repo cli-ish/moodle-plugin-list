@@ -1,0 +1,57 @@
+{
+    "id": 1365,
+    "index": 830,
+    "name": "Heartbeat check (eg Nagios / Icinga)",
+    "frankenstyle": "tool_heartbeat",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_heartbeat",
+    "shortdescription": "A load balancer heartbeat / health checker url, and also a configurable nagios compliant cron health checker.\r\n\r\nThis should work out of the box with most load balancers, eg Amazon ELB, F5, HA proxy etc as most of these simply check the http status for 200 or non-200 response codes.",
+    "timelastreleased": {
+        "absdate": "Thursday, 15 February 2018, 7:10 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-02-15T07:10:31+08:00"
+    },
+    "aggsites": "749",
+    "aggdownloads": "117",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1365/heartbeat.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1365/heartbeat.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1365/CLI%20examples.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        },
+        {
+            "id": 2132462,
+            "firstname": "Daniel",
+            "lastname": "Thee Roperto",
+            "url": "https://moodle.org/user/profile.php?id=2132462"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

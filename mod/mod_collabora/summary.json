@@ -1,0 +1,68 @@
+{
+    "id": 2283,
+    "index": 111,
+    "name": "Collabora - Collaborative document editing",
+    "frankenstyle": "mod_collabora",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_collabora",
+    "shortdescription": "This activity module provides a document editor for real-time collaboration. Changes to a document are immediately reflected for other users who are accessing the same document. Moodle users can collaborate on simple text files, word, spreadsheet and presentation documents or upload a document.\r\nThe plugin requires a self-hosted Collabora Online Server (CODE) that is accessed using the so-called WOPI protocol.",
+    "timelastreleased": {
+        "absdate": "Friday, 23 June 2023, 5:43 PM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-23T17:43:12+08:00"
+    },
+    "aggsites": "603",
+    "aggdownloads": "1k",
+    "aggfavs": "43",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2283/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2283/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2283/Activity%20chooser.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2283/format_file_upload.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2283/moodle_course_overview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2283/picture_presentation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2283/picture_spreadsheet.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2283/picture_wordprocessor.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 1942711,
+            "firstname": "Jan",
+            "lastname": "Dagef\u00f6rde",
+            "url": "https://moodle.org/user/profile.php?id=1942711"
+        },
+        {
+            "id": 36220,
+            "firstname": "Andreas",
+            "lastname": "Grabs",
+            "url": "https://moodle.org/user/profile.php?id=36220"
+        }
+    ],
+    "descriptors": []
+}

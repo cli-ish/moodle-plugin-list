@@ -1,0 +1,59 @@
+{
+    "id": 1166,
+    "index": 862,
+    "name": "VeriCite",
+    "frankenstyle": "plagiarism_vericite",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_vericite",
+    "shortdescription": "VERICITE IS A SIMPLE AND COST-EFFECTIVE WAY TO DETECT PLAGIARISM.  WITH VERICITE, INSTRUCTORS CAN TACKLE PLAGIARISM WITHOUT MAKING IT A PRIMARY FOCUS OF THEIR COURSE.  ",
+    "timelastreleased": {
+        "absdate": "Saturday, 6 January 2018, 1:58 AM",
+        "reldate": "6 years",
+        "iso8601date": "2018-01-06T01:58:49+08:00"
+    },
+    "aggsites": "68",
+    "aggdownloads": "110",
+    "aggfavs": "20",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1166/VeriCite_reg_Logo_4C_trans_2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1166/VeriCite_reg_Logo_4C_trans_2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1166/Screen%20Shot%202017-07-06%20at%2010.17.45%20AM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1166/Screen%20Shot%202014-06-23%20at%2010.38.26%20AM.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1166/Screen%20Shot%202017-07-06%20at%2010.17.12%20AM.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1166/Screen%20Shot%202017-07-06%20at%2010.21.53%20AM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1806662,
+            "firstname": "Bryan",
+            "lastname": "Holladay",
+            "url": "https://moodle.org/user/profile.php?id=1806662"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

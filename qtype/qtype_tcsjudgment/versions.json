@@ -1,0 +1,17 @@
+[
+    {
+        "id": "28824",
+        "name": "1.0.2-build-2023032700",
+        "url": "https://moodle.org/plugins/download.php/28824/qtype_tcsjudgment_moodle37_2016090415.zip"
+    },
+    {
+        "id": "27584",
+        "name": "1.0.1-build-2021110900",
+        "url": "https://moodle.org/plugins/download.php/27584/qtype_tcsjudgment_moodle38_2018060411.zip"
+    },
+    {
+        "id": "23927",
+        "name": "1.0.0-build-2020110400",
+        "url": "https://moodle.org/plugins/download.php/23927/qtype_tcsjudgment_moodle31_2020040714.zip"
+    }
+]

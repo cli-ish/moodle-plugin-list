@@ -1,0 +1,47 @@
+{
+    "id": 2302,
+    "index": 341,
+    "name": "MUMIE Task",
+    "frankenstyle": "mod_mumie",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_mumie",
+    "shortdescription": "This plugin allows teachers to add exercises from the e-learning Platform MUMIE as activity modules in their Moodle courses. MUMIE Task is not meant to be used as a standalone but in combination with MUMIE Single Sign On. Together, these two plugins allow the integration of MUMIE content into your Moodle courses.",
+    "timelastreleased": {
+        "absdate": "Monday, 15 May 2023, 8:34 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-15T20:34:25+08:00"
+    },
+    "aggsites": "59",
+    "aggdownloads": "394",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2302/embeddedView.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2302/ActivityForm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2302/integrationOverview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2676756,
+            "firstname": "Integral",
+            "lastname": "Learning",
+            "url": "https://moodle.org/user/profile.php?id=2676756"
+        }
+    ],
+    "descriptors": []
+}

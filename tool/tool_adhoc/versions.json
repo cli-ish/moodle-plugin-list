@@ -1,0 +1,22 @@
+[
+    {
+        "id": "11375",
+        "name": "3.1-build-2016052500",
+        "url": "https://moodle.org/plugins/download.php/11375/tool_adhoc_moodle32_2019050508.zip"
+    },
+    {
+        "id": "11105",
+        "name": "2.2-build-2016042000",
+        "url": "https://moodle.org/plugins/download.php/11105/tool_adhoc_moodle31_2015041101.zip"
+    },
+    {
+        "id": "11095",
+        "name": "2.0-build-2016041800",
+        "url": "https://moodle.org/plugins/download.php/11095/tool_adhoc_moodle28_2010071008.zip"
+    },
+    {
+        "id": "9133",
+        "name": "1.1-build-2015081200",
+        "url": "https://moodle.org/plugins/download.php/9133/tool_adhoc_moodle36_2011070800.zip"
+    }
+]

@@ -1,0 +1,46 @@
+{
+    "id": 1903,
+    "index": 99,
+    "name": "Opcache management",
+    "frankenstyle": "tool_opcache",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_opcache",
+    "shortdescription": "Moodle plugin which adds a PHP Opcache management GUI to Moodle site administration, a CLI tool to reset PHP Opcache and a Nagios check for PHP Opcache.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 26 April 2023, 4:22 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-26T04:22:26+08:00"
+    },
+    "aggsites": "2135",
+    "aggdownloads": "1k",
+    "aggfavs": "55",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1903/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1903/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1903/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

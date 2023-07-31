@@ -1,0 +1,55 @@
+{
+    "id": 1680,
+    "index": 213,
+    "name": "LDAP syncing scripts",
+    "frankenstyle": "local_ldap",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_ldap",
+    "shortdescription": "This plugin synchronizes Moodle cohorts against an LDAP directory using either group memberships or attribute values.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 April 2023, 10:25 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-06T22:25:48+08:00"
+    },
+    "aggsites": "704",
+    "aggdownloads": "590",
+    "aggfavs": "31",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1680/local_ldap-settings.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

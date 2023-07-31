@@ -1,0 +1,50 @@
+{
+    "id": 3088,
+    "index": 1353,
+    "name": "Profiles",
+    "frankenstyle": "gradeexport_profiles",
+    "plugintype": {
+        "type": "gradeexport",
+        "name": "Grade export method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradeexport_profiles",
+    "shortdescription": "Export grades in different formats (ods, excel, csv) from the same page, and manage profiles to store selections and options. Especially useful for courses with a large number of activities.",
+    "timelastreleased": {
+        "absdate": "Thursday, 23 February 2023, 2:12 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-02-23T02:12:13+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "17",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3088/logoprofiles.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3088/logoprofiles.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3088/another_profile.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3088/enter_a_new_profile_name.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3088/location_in_menu.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3088/new_item.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1886960,
+            "firstname": "Edgardo",
+            "lastname": "Palazzo",
+            "url": "https://moodle.org/user/profile.php?id=1886960"
+        }
+    ],
+    "descriptors": []
+}

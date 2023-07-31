@@ -1,0 +1,62 @@
+{
+    "id": 1299,
+    "index": 868,
+    "name": "Bootstrap Elements",
+    "frankenstyle": "mod_bootstrapelements",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_bootstrapelements",
+    "shortdescription": "Bootstrap Elements gives you the ability to add modal and toggles to your courses, helping to improve the layout of courses.",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 February 2019, 12:29 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-02-14T00:29:20+08:00"
+    },
+    "aggsites": "765",
+    "aggdownloads": "107",
+    "aggfavs": "88",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1299/Bootstrap-icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1299/Bootstrap-icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1299/icon-picker.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1299/labels.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1299/modal.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1299/toggle.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 230467,
+            "firstname": "Jez",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=230467"
+        },
+        {
+            "id": 1837256,
+            "firstname": "Mike",
+            "lastname": "Grant",
+            "url": "https://moodle.org/user/profile.php?id=1837256"
+        },
+        {
+            "id": 2227655,
+            "firstname": "Manoj",
+            "lastname": "Solanki",
+            "url": "https://moodle.org/user/profile.php?id=2227655"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2233,
+    "index": 2070,
+    "name": "MMBR.IO",
+    "frankenstyle": "enrol_mmbrio",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_mmbrio",
+    "shortdescription": "A secure payment gateway specifically designed for Moodle\u2122. This enrolment plugin, lets you accept one-time or recurring payments in CAD or USD for paid courses.",
+    "timelastreleased": {
+        "absdate": "Friday, 8 February 2019, 5:19 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-02-08T05:19:10+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "1",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2233/MMBR.io%20Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2233/MMBR.io%20Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2233/mmbr.io.enrolment.plugin.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2499597,
+            "firstname": "Sean",
+            "lastname": "Fournier",
+            "url": "https://moodle.org/user/profile.php?id=2499597"
+        }
+    ],
+    "descriptors": []
+}

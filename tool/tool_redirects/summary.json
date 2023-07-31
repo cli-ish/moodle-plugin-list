@@ -1,0 +1,40 @@
+{
+    "id": 3124,
+    "index": 816,
+    "name": "Redirects",
+    "frankenstyle": "tool_redirects",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_redirects",
+    "shortdescription": "A very simple plugin which allows admin to set redirects based on url. Redirects can be from existing Moodle pages like from one course to another, or they can be 'vanity' urls from non existing urls into a page inside Moodle.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 May 2023, 11:02 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-16T11:02:19+08:00"
+    },
+    "aggsites": "41",
+    "aggdownloads": "122",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3124/2023-05-16_13-04.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

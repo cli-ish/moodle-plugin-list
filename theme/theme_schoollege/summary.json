@@ -1,0 +1,53 @@
+{
+    "id": 2634,
+    "index": 668,
+    "name": "Schoollege",
+    "frankenstyle": "theme_schoollege",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_schoollege",
+    "shortdescription": "Introducing a new theme for Moodle 3.9 and 3.10 that draws on some of the best user ehancements of the Fordson and Rebel Moodle themes!  Schoollege is refined, elegant, and modern.  Built using Boost, Schoollege adds custom header images, header textures, smart editing buttons, a full-screen Course Dashboard, a custom login page, and other features that enhance Moodle.",
+    "timelastreleased": {
+        "absdate": "Monday, 26 April 2021, 9:12 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-04-26T21:12:31+08:00"
+    },
+    "aggsites": "332",
+    "aggdownloads": "157",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2634/screenshot.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2634/screenshot.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2634/Dashboard.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2634/Course-Small-Course-Generator.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2634/fullscreen%20course%20dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2634/Let-s-get-to-know-each-other.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2634/Small-Course-Generator-Assignment-6.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 26675,
+            "firstname": "Chris",
+            "lastname": "Kenniburg",
+            "url": "https://moodle.org/user/profile.php?id=26675"
+        }
+    ],
+    "descriptors": []
+}

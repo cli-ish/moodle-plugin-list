@@ -1,0 +1,45 @@
+{
+    "id": 1269,
+    "index": 1205,
+    "name": "Canvas",
+    "frankenstyle": "qformat_canvas",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_canvas",
+    "shortdescription": "Question import format to import questions saved as an XML file from the Canvas LMS into Moodle.",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 November 2014, 3:50 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-11-13T15:50:33+08:00"
+    },
+    "aggsites": "103",
+    "aggdownloads": "26",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 8026,
+            "firstname": "Jean-Michel",
+            "lastname": "V\u00e9drine",
+            "url": "https://moodle.org/user/profile.php?id=8026"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

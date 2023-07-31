@@ -1,0 +1,56 @@
+{
+    "id": 2701,
+    "index": 1543,
+    "name": "Leeloo LXP Sliding Teachers",
+    "frankenstyle": "block_tb_teachers",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_tb_teachers",
+    "shortdescription": "Highlight your most important instructors!",
+    "timelastreleased": {
+        "absdate": "Monday, 4 October 2021, 2:52 PM",
+        "reldate": "22 months",
+        "iso8601date": "2021-10-04T14:52:05+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "10",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2701/Plugin-logo%20%281%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2701/Plugin-logo%20%281%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2701/teachers.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2701/teachers_addblock.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2701/teachers_lbackend.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2701/teachers_license.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2701/teachers_mbackend.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2701/teachers_shortcode.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3565767,
+            "firstname": "Ludovic",
+            "lastname": "LEBLEU",
+            "url": "https://moodle.org/user/profile.php?id=3565767"
+        }
+    ],
+    "descriptors": []
+}

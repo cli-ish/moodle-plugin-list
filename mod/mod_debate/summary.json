@@ -1,0 +1,50 @@
+{
+    "id": 2621,
+    "index": 251,
+    "name": "Debate",
+    "frankenstyle": "mod_debate",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_debate",
+    "shortdescription": "Debate is a moodle activity which allows students to debate in a given topic inside moodle.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 31 January 2023, 12:05 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-31T12:05:42+08:00"
+    },
+    "aggsites": "557",
+    "aggdownloads": "508",
+    "aggfavs": "40",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2621/debate.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2621/debate.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2621/Debate001.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2621/Debate002.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2621/debate004.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2621/Debate005.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3375956,
+            "firstname": "A K M SAFAT",
+            "lastname": "SHAHIN",
+            "url": "https://moodle.org/user/profile.php?id=3375956"
+        }
+    ],
+    "descriptors": []
+}

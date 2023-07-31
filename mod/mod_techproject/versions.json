@@ -1,0 +1,57 @@
+[
+    {
+        "id": "29123",
+        "name": "3.9.0-build-2017040200",
+        "url": "https://moodle.org/plugins/download.php/29123/mod_techproject_moodle28_2014020500.zip"
+    },
+    {
+        "id": "11521",
+        "name": "3.1.0-build-2015101300",
+        "url": "https://moodle.org/plugins/download.php/11521/mod_techproject_moodle40_2020050507.zip"
+    },
+    {
+        "id": "11520",
+        "name": "3.0.0-build-2015101300",
+        "url": "https://moodle.org/plugins/download.php/11520/mod_techproject_moodle34_2017101020.zip"
+    },
+    {
+        "id": "11518",
+        "name": "2.9.0-build-2015101300",
+        "url": "https://moodle.org/plugins/download.php/11518/mod_techproject_moodle32_2015020816.zip"
+    },
+    {
+        "id": "11517",
+        "name": "2.8.0-build-2015101300",
+        "url": "https://moodle.org/plugins/download.php/11517/mod_techproject_moodle37_2012100107.zip"
+    },
+    {
+        "id": "11516",
+        "name": "2.7.0-build-2015101300",
+        "url": "https://moodle.org/plugins/download.php/11516/mod_techproject_moodle25_2013050420.zip"
+    },
+    {
+        "id": "6557",
+        "name": "2.6.0-build-2014010600",
+        "url": "https://moodle.org/plugins/download.php/6557/mod_techproject_moodle25_2018050915.zip"
+    },
+    {
+        "id": "6509",
+        "name": "2.5.0-build-2013050900",
+        "url": "https://moodle.org/plugins/download.php/6509/mod_techproject_moodle32_2022031101.zip"
+    },
+    {
+        "id": "1580",
+        "name": "2.3.0-build-2012090801",
+        "url": "https://moodle.org/plugins/download.php/1580/mod_techproject_moodle27_2014010201.zip"
+    },
+    {
+        "id": "1579",
+        "name": "2.2.0-build-2012090800",
+        "url": "https://moodle.org/plugins/download.php/1579/mod_techproject_moodle38_2020050411.zip"
+    },
+    {
+        "id": "1290",
+        "name": "1.9.0-build-2011122300",
+        "url": "https://moodle.org/plugins/download.php/1290/mod_techproject_moodle28_2022071206.zip"
+    }
+]

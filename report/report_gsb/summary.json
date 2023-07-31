@@ -1,0 +1,49 @@
+{
+    "id": 357,
+    "index": 2107,
+    "name": "Gold, Silver, and Bronze (GSB) Medals",
+    "frankenstyle": "report_gsb",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_gsb",
+    "shortdescription": "**PLUGIN NO LONGER MAINTAINED**\r\n\r\nThe GSB set allows automatic medal awards for Moodle courses based upon a defined benchmark criteria of activities and resources. \r\n\r\nThe set consists of a report which allows the criteria to be benchmarked and a block to publicise the award to the teacher(s). \r\n",
+    "timelastreleased": {
+        "absdate": "Sunday, 24 June 2012, 3:12 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-24T03:12:57+08:00"
+    },
+    "aggsites": "23",
+    "aggdownloads": null,
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/357/gold.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/357/gold.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/357/examplereport.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/357/report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1341597,
+            "firstname": "R",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=1341597"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

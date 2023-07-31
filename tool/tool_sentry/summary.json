@@ -1,0 +1,40 @@
+{
+    "id": 3069,
+    "index": 1308,
+    "name": "Sentry report tool",
+    "frankenstyle": "tool_sentry",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_sentry",
+    "shortdescription": "A simple plugin to provide sentry with the errors from your moodle site. ",
+    "timelastreleased": {
+        "absdate": "Monday, 26 June 2023, 8:30 AM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-26T08:30:04+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "19",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3069/sentry.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2034002,
+            "firstname": "Esdras Caleb",
+            "lastname": "Oliveira Silva",
+            "url": "https://moodle.org/user/profile.php?id=2034002"
+        }
+    ],
+    "descriptors": []
+}

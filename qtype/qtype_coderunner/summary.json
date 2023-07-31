@@ -1,0 +1,71 @@
+{
+    "id": 1787,
+    "index": 48,
+    "name": "CodeRunner",
+    "frankenstyle": "qtype_coderunner",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_coderunner",
+    "shortdescription": "A question type that allows question authors to set programming questions in which the student answer is code in some programming language, which is graded by running it. More generally it can handle any question to which the answer is text that can be graded by a computer program written by the question author.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 November 2022, 3:30 PM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-09T15:30:14+08:00"
+    },
+    "aggsites": "2861",
+    "aggdownloads": "1k",
+    "aggfavs": "117",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1787/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1787/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1787/A.%20a%20simple%20sqr%20function.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1787/B.%20Prechecking%20an%20answer.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1787/C.%20custom%20grader%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1787/D.%20custom%20grader%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1787/E.%20custom%20grader%203.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1787/F.%20highlighting%20differences.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1787/G.%20authoring%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1787/H.%20authoring%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1787/I.%20authoring%203.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 402334,
+            "firstname": "Richard",
+            "lastname": "Lobb",
+            "url": "https://moodle.org/user/profile.php?id=402334"
+        },
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        }
+    ],
+    "descriptors": []
+}

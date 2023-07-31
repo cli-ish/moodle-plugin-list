@@ -1,0 +1,53 @@
+{
+    "id": 1219,
+    "index": 1309,
+    "name": "Geogebra materials",
+    "frankenstyle": "repository_geogebratube",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_geogebratube",
+    "shortdescription": "Enables usage of filepicker to add links to GeoGebra Materials. Also used in GeoGebra question type and assignment for choosing the URL of the material.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 27 September 2016, 6:03 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-27T18:03:29+08:00"
+    },
+    "aggsites": "236",
+    "aggdownloads": "18",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1219/geogebra.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1219/geogebra.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1219/Punkt%20im%20Koordinatensystem%20finden5.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1219/UmkreisDreieck1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1877004,
+            "firstname": "International",
+            "lastname": "GeoGebra Institute",
+            "url": "https://moodle.org/user/profile.php?id=1877004"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Geography"
+        }
+    ]
+}

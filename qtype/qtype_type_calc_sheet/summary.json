@@ -1,0 +1,59 @@
+{
+    "id": 707,
+    "index": 1188,
+    "name": "Spreadsheet",
+    "frankenstyle": "qtype_type_calc_sheet",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_type_calc_sheet",
+    "shortdescription": "An improvement of the short answer that integrates a spreadsheet interface with an answer helper to limit to minimum input errors.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 June 2013, 8:58 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-06-18T08:58:37+08:00"
+    },
+    "aggsites": "396",
+    "aggdownloads": "27",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/707/spreadsheet_logo.PNG?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/707/spreadsheet_logo.PNG?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/707/pantalla%20form.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/707/Screenshot_1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/707/Screenshot_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/707/sheet1.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1594525,
+            "firstname": "leo",
+            "lastname": "zav",
+            "url": "https://moodle.org/user/profile.php?id=1594525"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

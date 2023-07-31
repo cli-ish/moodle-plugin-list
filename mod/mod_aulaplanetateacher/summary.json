@@ -1,0 +1,53 @@
+{
+    "id": 2842,
+    "index": 2041,
+    "name": "AulaPlaneta - Didactic Sequence",
+    "frankenstyle": "mod_aulaplanetateacher",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_aulaplanetateacher",
+    "shortdescription": "This module allows the teacher to add aulaPlaneta teacher notebooks within Moodle for the teacher to use. A student will not see these elements",
+    "timelastreleased": {
+        "absdate": "Monday, 29 November 2021, 7:29 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-29T19:29:53+08:00"
+    },
+    "aggsites": "320",
+    "aggdownloads": "1",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2842/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2842/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2842/3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2842/4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2842/5.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4645364,
+            "firstname": "Grupo Planeta",
+            "lastname": "Equipo de desarrollo",
+            "url": "https://moodle.org/user/profile.php?id=4645364"
+        }
+    ],
+    "descriptors": []
+}

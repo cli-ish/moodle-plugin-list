@@ -1,0 +1,62 @@
+{
+    "id": 3101,
+    "index": 628,
+    "name": "Report",
+    "frankenstyle": "block_rbreport",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_rbreport",
+    "shortdescription": "Display custom reports created with the 'Report Builder' anywhere in Moodle to enhance learning management.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 May 2023, 12:04 AM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-30T00:04:30+08:00"
+    },
+    "aggsites": "457",
+    "aggdownloads": "177",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3101/report-block-plugin-image.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3101/report-block-screeenshot-1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3101/report-block-screeenshot-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3101/report-block-screeenshot-3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        },
+        {
+            "id": 1525875,
+            "firstname": "Emilio",
+            "lastname": "Lozano",
+            "url": "https://moodle.org/user/profile.php?id=1525875"
+        },
+        {
+            "id": 2466157,
+            "firstname": "Rafael",
+            "lastname": "Lechugo",
+            "url": "https://moodle.org/user/profile.php?id=2466157"
+        }
+    ],
+    "descriptors": []
+}

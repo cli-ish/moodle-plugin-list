@@ -1,0 +1,40 @@
+{
+    "id": 2024,
+    "index": 1977,
+    "name": "Azure Search",
+    "frankenstyle": "search_azure",
+    "plugintype": {
+        "type": "search",
+        "name": "Search engine"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/search_azure",
+    "shortdescription": "This plugin allows Moodle to use Microsoft Azure Search as the search engine for Moodle's Global Search.",
+    "timelastreleased": {
+        "absdate": "Monday, 18 June 2018, 2:04 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-18T14:04:10+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "2",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2024/Azure-Search.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2024/Azure-Search.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2024/search_1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

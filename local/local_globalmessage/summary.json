@@ -1,0 +1,45 @@
+{
+    "id": 39,
+    "index": 920,
+    "name": "Global Message",
+    "frankenstyle": "local_globalmessage",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_globalmessage",
+    "shortdescription": "Enables a Moodle administrator to create automatic pop-up messages",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 April 2015, 3:52 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-04-01T03:52:28+08:00"
+    },
+    "aggsites": "38",
+    "aggdownloads": "84",
+    "aggfavs": "22",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/39/message.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/39/message.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/39/message.gif?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1062023,
+            "firstname": "mohamed",
+            "lastname": "alsharaf",
+            "url": "https://moodle.org/user/profile.php?id=1062023"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2048,
+    "index": 1853,
+    "name": "LiveUsers - Block Plugin",
+    "frankenstyle": "block_bbliveusers",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_bbliveusers",
+    "shortdescription": "LiveUsers is a block plugin for the Moodle Platform that displays the exact number of online users per course in realtime, even if they spend hours watching a single video, for example, without ever refreshing a single page.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 September 2018, 8:19 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-09-24T20:19:00+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "4",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2048/liveusers.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2048/liveusers.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2048/Screen%20Shot%202018-04-12%20at%204.37.14%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2420533,
+            "firstname": "BlackBean",
+            "lastname": "Technologies Ltd.",
+            "url": "https://moodle.org/user/profile.php?id=2420533"
+        }
+    ],
+    "descriptors": []
+}

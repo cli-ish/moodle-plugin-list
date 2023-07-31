@@ -1,0 +1,49 @@
+{
+    "id": 1575,
+    "index": 1799,
+    "name": "WordPress Feed",
+    "frankenstyle": "block_wpfeed",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_wpfeed",
+    "shortdescription": "Plugin allows to show last posts from external WordPress website via WordPress REST API v1/v2. A lot of settings and skins support.",
+    "timelastreleased": {
+        "absdate": "Friday, 22 April 2016, 4:44 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-22T16:44:45+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "5",
+    "aggfavs": "15",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1575/logo_small_png.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1575/logo_small_png.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1575/wpfeed_screenshot_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1575/wpfeed_screenshot_2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1738291,
+            "firstname": "Igor",
+            "lastname": "Sazonov",
+            "url": "https://moodle.org/user/profile.php?id=1738291"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

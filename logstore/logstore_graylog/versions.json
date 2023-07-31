@@ -1,0 +1,22 @@
+[
+    {
+        "id": "12875",
+        "name": "0.4-build-2016121600",
+        "url": "https://moodle.org/plugins/download.php/12875/logstore_graylog_moodle38_2014051012.zip"
+    },
+    {
+        "id": "12729",
+        "name": "0.3-build-2016113001",
+        "url": "https://moodle.org/plugins/download.php/12729/logstore_graylog_moodle30_2010071005.zip"
+    },
+    {
+        "id": "12728",
+        "name": "0.2-build-2016113000",
+        "url": "https://moodle.org/plugins/download.php/12728/logstore_graylog_moodle35_2015030209.zip"
+    },
+    {
+        "id": "12719",
+        "name": "0.1-build-2016112900",
+        "url": "https://moodle.org/plugins/download.php/12719/logstore_graylog_moodle32_2023010915.zip"
+    }
+]

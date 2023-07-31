@@ -1,0 +1,49 @@
+{
+    "id": 633,
+    "index": 1066,
+    "name": "Educator",
+    "frankenstyle": "theme_educator",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_educator",
+    "shortdescription": "Educator is a simple, clean, modern, well designed, three column layout theme. which can be easily customized for specific branding needs. Most of its customization can be done directly by theme settings without any HTML/CSS/Coding knowledge. It has variety of modification on traditional look of Moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 14 June 2013, 2:02 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-06-14T14:02:47+08:00"
+    },
+    "aggsites": "127",
+    "aggdownloads": "42",
+    "aggfavs": "39",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/633/educator_inner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/633/educator_login.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1343717,
+            "firstname": "Nitin",
+            "lastname": "Jain",
+            "url": "https://moodle.org/user/profile.php?id=1343717"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

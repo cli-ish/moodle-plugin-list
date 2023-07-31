@@ -1,0 +1,32 @@
+[
+    {
+        "id": "29030",
+        "name": "2.6.3-build-2023042500",
+        "url": "https://moodle.org/plugins/download.php/29030/enrol_authorizedotnet_moodle39_2022120503.zip"
+    },
+    {
+        "id": "22077",
+        "name": "2.5-build-20150610",
+        "url": "https://moodle.org/plugins/download.php/22077/enrol_authorizedotnet_moodle31_2019110513.zip"
+    },
+    {
+        "id": "28713",
+        "name": "2.6.2-build-2023031100",
+        "url": "https://moodle.org/plugins/download.php/28713/enrol_authorizedotnet_moodle32_2014061014.zip"
+    },
+    {
+        "id": "26628",
+        "name": "2.6.2-build-2022050601",
+        "url": "https://moodle.org/plugins/download.php/26628/enrol_authorizedotnet_moodle38_2020120914.zip"
+    },
+    {
+        "id": "26293",
+        "name": "2.6.1-build-2022032401",
+        "url": "https://moodle.org/plugins/download.php/26293/enrol_authorizedotnet_moodle37_2017060416.zip"
+    },
+    {
+        "id": "19538",
+        "name": "3.0-build-20190516",
+        "url": "https://moodle.org/plugins/download.php/19538/enrol_authorizedotnet_moodle37_2011040401.zip"
+    }
+]

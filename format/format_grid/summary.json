@@ -1,0 +1,50 @@
+{
+    "id": 126,
+    "index": 15,
+    "name": "Grid Format",
+    "frankenstyle": "format_grid",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_grid",
+    "shortdescription": "A modular and visual course format. Hides all topics and creates a grid of icons (one for each topic) with short titles. Clicking on an icon brings up the content from the corresponding topic.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 19 July 2023, 3:07 AM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-19T03:07:12+08:00"
+    },
+    "aggsites": "7633",
+    "aggdownloads": "3k",
+    "aggfavs": "177",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/126/grid_logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/126/grid_logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/126/gd_sl_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/126/2014-11-12%2014_45_30-Course_%20Course%20Creation%2C%20Groups%20and%20Enrolment%20Grid.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/126/2014-11-12%2014_47_15-Course_%20Course%20Creation%2C%20Groups%20and%20Enrolment%20Grid.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/126/gd_sl_2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        }
+    ],
+    "descriptors": []
+}

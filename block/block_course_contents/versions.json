@@ -1,0 +1,92 @@
+[
+    {
+        "id": "23456",
+        "name": "6.0.0",
+        "url": "https://moodle.org/plugins/download.php/23456/block_course_contents_moodle30_2011010212.zip"
+    },
+    {
+        "id": "15950",
+        "name": "5.2.0",
+        "url": "https://moodle.org/plugins/download.php/15950/block_course_contents_moodle29_2016021107.zip"
+    },
+    {
+        "id": "11876",
+        "name": "5.0",
+        "url": "https://moodle.org/plugins/download.php/11876/block_course_contents_moodle25_2016110609.zip"
+    },
+    {
+        "id": "11874",
+        "name": "4.0",
+        "url": "https://moodle.org/plugins/download.php/11874/block_course_contents_moodle27_2011101113.zip"
+    },
+    {
+        "id": "6811",
+        "name": "2.6.1",
+        "url": "https://moodle.org/plugins/download.php/6811/block_course_contents_moodle38_2012030205.zip"
+    },
+    {
+        "id": "3068",
+        "name": "2.5.0",
+        "url": "https://moodle.org/plugins/download.php/3068/block_course_contents_moodle28_2022121201.zip"
+    },
+    {
+        "id": "2072",
+        "name": "2.4.1",
+        "url": "https://moodle.org/plugins/download.php/2072/block_course_contents_moodle39_2022080505.zip"
+    },
+    {
+        "id": "929",
+        "name": "2.3.0",
+        "url": "https://moodle.org/plugins/download.php/929/block_course_contents_moodle31_2017080204.zip"
+    },
+    {
+        "id": "930",
+        "name": "2.2.1",
+        "url": "https://moodle.org/plugins/download.php/930/block_course_contents_moodle37_2023070518.zip"
+    },
+    {
+        "id": "299",
+        "name": "1.9.1",
+        "url": "https://moodle.org/plugins/download.php/299/block_course_contents_moodle39_2010050601.zip"
+    },
+    {
+        "id": "301",
+        "name": "2.0.1",
+        "url": "https://moodle.org/plugins/download.php/301/block_course_contents_moodle27_2018071008.zip"
+    },
+    {
+        "id": "300",
+        "name": "2.1.2",
+        "url": "https://moodle.org/plugins/download.php/300/block_course_contents_moodle25_2019050516.zip"
+    },
+    {
+        "id": "15322",
+        "name": "5.1.1",
+        "url": "https://moodle.org/plugins/download.php/15322/block_course_contents_moodle37_2016090606.zip"
+    },
+    {
+        "id": "14134",
+        "name": "5.1",
+        "url": "https://moodle.org/plugins/download.php/14134/block_course_contents_moodle26_2010040409.zip"
+    },
+    {
+        "id": "8100",
+        "name": "3.0",
+        "url": "https://moodle.org/plugins/download.php/8100/block_course_contents_moodle40_2022121000.zip"
+    },
+    {
+        "id": "6812",
+        "name": "2.7.0",
+        "url": "https://moodle.org/plugins/download.php/6812/block_course_contents_moodle37_2012070814.zip"
+    },
+    {
+        "id": "5614",
+        "name": "2.6.0",
+        "url": "https://moodle.org/plugins/download.php/5614/block_course_contents_moodle39_2017050116.zip"
+    },
+    {
+        "id": "1826",
+        "name": "2.4.0",
+        "url": "https://moodle.org/plugins/download.php/1826/block_course_contents_moodle34_2013100602.zip"
+    }
+]

@@ -1,0 +1,62 @@
+{
+    "id": 1803,
+    "index": 687,
+    "name": "Cincopa Atto Plugin",
+    "frankenstyle": "atto_cincopa",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_cincopa",
+    "shortdescription": "Cincopa Atto Editor plugin adds button to your text editor which allows you to insert Cincopa media gallery. It can be used on any post or page on your site.\r\n\r\nIn order to use this plugin you will need to install Cincopa Media Filter plugin and register at https://cincopa.com",
+    "timelastreleased": {
+        "absdate": "Wednesday, 21 December 2022, 2:42 PM",
+        "reldate": "7 months",
+        "iso8601date": "2022-12-21T14:42:07+08:00"
+    },
+    "aggsites": "53",
+    "aggdownloads": "152",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1803/app-256.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1803/app-256.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1803/1-editoratto.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1803/2-videoplayer.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1803/3-videogallery.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1803/4-imagegallery.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1803/5-imagelistpreview.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1803/6-audiomobile.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1803/7-audioplaylist.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1803/8-lightbox.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2175969,
+            "firstname": "Oren",
+            "lastname": "Shmulevich",
+            "url": "https://moodle.org/user/profile.php?id=2175969"
+        }
+    ],
+    "descriptors": []
+}

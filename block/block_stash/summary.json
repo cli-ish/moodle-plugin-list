@@ -1,0 +1,70 @@
+{
+    "id": 1665,
+    "index": 101,
+    "name": "Stash",
+    "frankenstyle": "block_stash",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_stash",
+    "shortdescription": "Add an inventory of items to your course and let your students find items by exploring the activities. #game #gamification",
+    "timelastreleased": {
+        "absdate": "Monday, 12 June 2023, 10:58 AM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-12T10:58:28+08:00"
+    },
+    "aggsites": "1376",
+    "aggdownloads": "1k",
+    "aggfavs": "100",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1665/1_popup.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1665/2_stash.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1665/3_pickup.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1665/4_setup.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1665/5_report.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1665/6_course.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1665/blacksmith-trade.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1391647,
+            "firstname": "Adrian",
+            "lastname": "Greeve",
+            "url": "https://moodle.org/user/profile.php?id=1391647"
+        },
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

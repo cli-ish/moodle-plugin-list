@@ -1,0 +1,56 @@
+{
+    "id": 2643,
+    "index": 995,
+    "name": "Label Collapsed",
+    "frankenstyle": "mod_labelcollapsed",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_labelcollapsed",
+    "shortdescription": "Mod label collapsed - toggle label content. ",
+    "timelastreleased": {
+        "absdate": "Friday, 1 October 2021, 12:48 AM",
+        "reldate": "22 months",
+        "iso8601date": "2021-10-01T00:48:32+08:00"
+    },
+    "aggsites": "362",
+    "aggdownloads": "56",
+    "aggfavs": "20",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2643/1-a.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2643/1-b.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2643/1-c.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2643/1-d.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2643/1-e.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2643/1-f.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2698288,
+            "firstname": "Phil",
+            "lastname": "Devine",
+            "url": "https://moodle.org/user/profile.php?id=2698288"
+        }
+    ],
+    "descriptors": []
+}

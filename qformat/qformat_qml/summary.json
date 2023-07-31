@@ -1,0 +1,61 @@
+{
+    "id": 1418,
+    "index": 1660,
+    "name": "Questionmark QML Importer (Alpha)",
+    "frankenstyle": "qformat_qml",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_qml",
+    "shortdescription": "Import Questionmark QML files into the Moodle question bank",
+    "timelastreleased": {
+        "absdate": "Wednesday, 16 September 2015, 9:43 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-09-16T21:43:42+08:00"
+    },
+    "aggsites": "45",
+    "aggdownloads": "7",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1418/qml_screenshot_1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1418/qml_screenshot_2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1952823,
+            "firstname": "Tom",
+            "lastname": "McCracken",
+            "url": "https://moodle.org/user/profile.php?id=1952823"
+        },
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        },
+        {
+            "id": 41888,
+            "firstname": "Tony",
+            "lastname": "Butler",
+            "url": "https://moodle.org/user/profile.php?id=41888"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

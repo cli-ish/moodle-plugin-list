@@ -1,0 +1,57 @@
+{
+    "id": 985,
+    "index": 713,
+    "name": "CodePen",
+    "frankenstyle": "filter_codepen",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_codepen",
+    "shortdescription": "A filter to embed Pens from their URL on codepen.io",
+    "timelastreleased": {
+        "absdate": "Friday, 5 May 2023, 6:36 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-05T18:36:43+08:00"
+    },
+    "aggsites": "64",
+    "aggdownloads": "144",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/985/codepen.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/985/codepen.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/985/2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/985/3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1973579,
+            "firstname": "Arnaud",
+            "lastname": "Trouv\u00e9",
+            "url": "https://moodle.org/user/profile.php?id=1973579"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Programming"
+        }
+    ]
+}

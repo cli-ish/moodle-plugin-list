@@ -1,0 +1,44 @@
+{
+    "id": 2363,
+    "index": 850,
+    "name": "Differentiator",
+    "frankenstyle": "local_differentiator",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_differentiator",
+    "shortdescription": "A tool to efficiently formulate and save learning goals based on the Differentiator by Ian Byrd.\r\nLearning goals are persisted for every user in your Moodle installation.",
+    "timelastreleased": {
+        "absdate": "Sunday, 8 January 2023, 5:18 AM",
+        "reldate": "7 months",
+        "iso8601date": "2023-01-08T05:18:51+08:00"
+    },
+    "aggsites": "79",
+    "aggdownloads": "113",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2363/local_differentiator_screenshot_01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2363/local_differentiator_screenshot_02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1350696,
+            "firstname": "Luca",
+            "lastname": "B\u00f6sch",
+            "url": "https://moodle.org/user/profile.php?id=1350696"
+        }
+    ],
+    "descriptors": []
+}

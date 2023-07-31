@@ -1,0 +1,52 @@
+{
+    "id": 585,
+    "index": 769,
+    "name": "Theme selector",
+    "frankenstyle": "block_theme_selector",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_theme_selector",
+    "shortdescription": "Provides a quick way of changing themes or clearing the theme cache.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 10 November 2020, 6:38 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-11-10T06:38:50+08:00"
+    },
+    "aggsites": "227",
+    "aggdownloads": "129",
+    "aggfavs": "23",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/585/2016-03-04%2012_28_29-Moodle%20Test.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/585/2016-03-04%2012_28_48-Moodle%20Test.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/585/2016-03-04%2012_29_42-MooTest_%20Administration_%20Plugins_%20Blocks_%20Theme%20selector.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

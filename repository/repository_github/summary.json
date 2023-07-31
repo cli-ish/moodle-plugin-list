@@ -1,0 +1,45 @@
+{
+    "id": 622,
+    "index": 1299,
+    "name": "GitHub",
+    "frankenstyle": "repository_github",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_github",
+    "shortdescription": "The github repository allows zip archives for your git repositories to be downloaded through any tag and branch.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 27 November 2018, 12:02 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-11-27T00:02:41+08:00"
+    },
+    "aggsites": "55",
+    "aggdownloads": "19",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/622/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/622/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/622/Screenshot%20from%202018-11-26%2016-05-26.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 104159,
+            "firstname": "Dan",
+            "lastname": "Poltawski",
+            "url": "https://moodle.org/user/profile.php?id=104159"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Developer"
+        }
+    ]
+}

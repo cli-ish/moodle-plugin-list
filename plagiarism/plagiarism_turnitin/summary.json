@@ -1,0 +1,65 @@
+{
+    "id": 169,
+    "index": 42,
+    "name": "Turnitin plagiarism plugin",
+    "frankenstyle": "plagiarism_turnitin",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_turnitin",
+    "shortdescription": "Turnitin is an academic integrity solution, designed to integrate seamlessly with existing Moodle Assignments, forums, and workshops. A Turnitin license is required for use. ",
+    "timelastreleased": {
+        "absdate": "Friday, 31 March 2023, 10:35 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-31T22:35:59+08:00"
+    },
+    "aggsites": "2442",
+    "aggdownloads": "1k",
+    "aggfavs": "90",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/169/Turnitin-Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/169/Turnitin-Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/169/Assignment-inbox.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/169/DV.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5120187,
+            "firstname": "Bryan",
+            "lastname": "Holladay",
+            "url": "https://moodle.org/user/profile.php?id=5120187"
+        },
+        {
+            "id": 496836,
+            "firstname": "Paul",
+            "lastname": "Dawson",
+            "url": "https://moodle.org/user/profile.php?id=496836"
+        },
+        {
+            "id": 5528616,
+            "firstname": "Isaac",
+            "lastname": "Xiong",
+            "url": "https://moodle.org/user/profile.php?id=5528616"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

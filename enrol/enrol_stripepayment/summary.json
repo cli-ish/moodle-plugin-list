@@ -1,0 +1,59 @@
+{
+    "id": 1542,
+    "index": 255,
+    "name": "Stripe Payment with SCA and Coupon",
+    "frankenstyle": "enrol_stripepayment",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_stripepayment",
+    "shortdescription": "Add a price to your courses and check out quickly with Stripe Payment. Stripe is a user-friendly payment solution that allows for secure transactions. This plugin includes a number of payment processing services, including the ability to accept credit card payments. You can also offer various discounts to learners looking to purchase your courses. \r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 2 June 2023, 4:57 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-02T16:57:14+08:00"
+    },
+    "aggsites": "1333",
+    "aggdownloads": "503",
+    "aggfavs": "67",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1542/DualCube_LOGO.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1542/DualCube_LOGO.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1542/sreipe-payment.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1542/stripe-coupon.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1542/stripe-coupon2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1542/stripe-course.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1542/stripe-homepage.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1542/stripe-setting%20.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1542/stripe-settins2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1832609,
+            "firstname": "DualCube",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1832609"
+        }
+    ],
+    "descriptors": []
+}

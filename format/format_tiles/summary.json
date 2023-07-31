@@ -1,0 +1,65 @@
+{
+    "id": 2150,
+    "index": 6,
+    "name": "Tiles format",
+    "frankenstyle": "format_tiles",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_tiles",
+    "shortdescription": "A course format which displays course topics as \"Tiles\", in a grid rather than as a list.  When clicked, tile content is displayed under the tile with an animated transition.  The layout adapts to different screen sizes and orientations.  Within each tile, activities can also be set to display as \"sub-tiles\".  For each tile, the teacher can pick an icon from a predefined set, or upload a background photo.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 June 2023, 8:53 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-02T20:53:43+08:00"
+    },
+    "aggsites": "16085",
+    "aggdownloads": "6k",
+    "aggfavs": "360",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2150/photo_tiles_boost_theme.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2150/no_photos_tiles.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2150/photo_tiles_moove_theme.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2150/tiles_open_section_list_form.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2150/tiles_open_section_subtile_form.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2150/tiles_pdf_embed.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2150/tiles_responsive.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2150/tiles_settings_course.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2150/tiles_video2.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2515958,
+            "firstname": "David",
+            "lastname": "Watson",
+            "url": "https://moodle.org/user/profile.php?id=2515958"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": 757,
+    "index": 1738,
+    "name": "MyTube",
+    "frankenstyle": "repository_mytube",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_mytube",
+    "shortdescription": " The MyTube repository allows users to record or upload video directly into YouTube, and to select videos directly from the users account for insertion into Moodle.",
+    "timelastreleased": {
+        "absdate": "Saturday, 15 June 2013, 5:45 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-06-15T05:45:43+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "6",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/757/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/757/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/757/2017-03-22_08-14-29.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

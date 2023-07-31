@@ -1,0 +1,61 @@
+{
+    "id": 1497,
+    "index": 450,
+    "name": "ReadAloud by Poodll",
+    "frankenstyle": "mod_readaloud",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_readaloud",
+    "shortdescription": "ReadAloud measures reading speed and accuracy without creating extra work for teachers. AI auto-grading and robust HTML5 recording allows teachers to collect reading fluency data quickly and easily.",
+    "timelastreleased": {
+        "absdate": "Monday, 19 June 2023, 10:19 AM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-19T10:19:56+08:00"
+    },
+    "aggsites": "352",
+    "aggdownloads": "266",
+    "aggfavs": "48",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1497/ReadAloudicon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1497/ReadAloudicon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1497/ReadAloud%20Banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1497/MoodleTile_MoodleTile_ReadAloud2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1497/popover_transcript.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1497/ready_to_record.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1497/Screen%20Shot%202019-10-19%20at%2014.52.31.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1497/testing_mic.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

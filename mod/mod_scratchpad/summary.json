@@ -1,0 +1,68 @@
+{
+    "id": 2934,
+    "index": 799,
+    "name": "Scratchpad",
+    "frankenstyle": "mod_scratchpad",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_scratchpad",
+    "shortdescription": "Scratchpad module",
+    "timelastreleased": {
+        "absdate": "Monday, 7 November 2022, 9:08 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-07T09:08:25+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "124",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2934/pukunui_lrg_v_ma.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2934/pukunui_lrg_v_ma.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2934/q1edit.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2934/q1prev.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2934/q1view.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2934/q2edit.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2934/q2prev.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2934/q2view.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4136132,
+            "firstname": "Tengku Alauddin",
+            "lastname": "Tengku Amir Hamzah",
+            "url": "https://moodle.org/user/profile.php?id=4136132"
+        },
+        {
+            "id": 121167,
+            "firstname": "Vinny",
+            "lastname": "Stocker",
+            "url": "https://moodle.org/user/profile.php?id=121167"
+        },
+        {
+            "id": 11995,
+            "firstname": "Shane",
+            "lastname": "Elliott",
+            "url": "https://moodle.org/user/profile.php?id=11995"
+        }
+    ],
+    "descriptors": []
+}

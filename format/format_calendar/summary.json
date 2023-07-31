@@ -1,0 +1,56 @@
+{
+    "id": 499,
+    "index": 1103,
+    "name": "oohoo - Calendar format",
+    "frankenstyle": "format_calendar",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_calendar",
+    "shortdescription": "This course format displays a course in a calendar format.",
+    "timelastreleased": {
+        "absdate": "Thursday, 3 April 2014, 7:17 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-03T07:17:18+08:00"
+    },
+    "aggsites": "78",
+    "aggdownloads": "37",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/499/format-calendar-Moodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/499/format-calendar-Moodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/499/screenshot_calendar_01_en.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/499/screenshot_calendar_02_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/499/screenshot_calendar_03_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/499/screenshot_calendar_04_en.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1413693,
+            "firstname": "Nicolas",
+            "lastname": "Bretin",
+            "url": "https://moodle.org/user/profile.php?id=1413693"
+        },
+        {
+            "id": 106123,
+            "firstname": "Patrick",
+            "lastname": "Thibaudeau",
+            "url": "https://moodle.org/user/profile.php?id=106123"
+        }
+    ],
+    "descriptors": []
+}

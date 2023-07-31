@@ -1,0 +1,52 @@
+{
+    "id": 186,
+    "index": 1900,
+    "name": "Upload Metacourse links",
+    "frankenstyle": "block_metalink",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_metalink",
+    "shortdescription": "This block allows linking of metacourses and child courses by upload of CSV flatfiles.\r\nImports can be done by ad-hoc upload, or by a regular cron job.",
+    "timelastreleased": {
+        "absdate": "Friday, 8 August 2014, 4:35 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-08-08T16:35:52+08:00"
+    },
+    "aggsites": "77",
+    "aggdownloads": "3",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/186/metalink1.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/186/metalink1.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/186/metalink1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/186/metalink2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/186/metalink3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 858318,
+            "firstname": "Mark",
+            "lastname": "Johnson",
+            "url": "https://moodle.org/user/profile.php?id=858318"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

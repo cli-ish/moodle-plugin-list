@@ -1,0 +1,40 @@
+{
+    "id": 597,
+    "index": 559,
+    "name": "ILP Integration",
+    "frankenstyle": "block_intelligent_learning",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_intelligent_learning",
+    "shortdescription": "The Ellucian ILP Integration package enables the exchange of data between Moodle and Ellucian applications: Banner, Colleague, Ellucian Experience, Ellucian Mobile, Ellucian Portal and Ellucian Advise.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 June 2023, 9:26 AM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-13T09:26:42+08:00"
+    },
+    "aggsites": "71",
+    "aggdownloads": "211",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/597/IlpIntegrationSettings.JPG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1461424,
+            "firstname": "Ellucian",
+            "lastname": "Inc",
+            "url": "https://moodle.org/user/profile.php?id=1461424"
+        }
+    ],
+    "descriptors": []
+}

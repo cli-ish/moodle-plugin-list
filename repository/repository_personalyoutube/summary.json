@@ -1,0 +1,40 @@
+{
+    "id": 1792,
+    "index": 722,
+    "name": "Personal YouTube",
+    "frankenstyle": "repository_personalyoutube",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_personalyoutube",
+    "shortdescription": "Moodle repository plugin used to browse personal YouTube channels in order to publish public, unlisted and private videos.",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 April 2022, 4:14 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-14T16:14:59+08:00"
+    },
+    "aggsites": "248",
+    "aggdownloads": "141",
+    "aggfavs": "30",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1792/Filepicker.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1811,
+            "firstname": "Roberto",
+            "lastname": "Pinna",
+            "url": "https://moodle.org/user/profile.php?id=1811"
+        }
+    ],
+    "descriptors": []
+}

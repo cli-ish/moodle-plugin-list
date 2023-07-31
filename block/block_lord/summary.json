@@ -1,0 +1,50 @@
+{
+    "id": 2583,
+    "index": 1975,
+    "name": "Learning Object Relation Discovery (LORD)",
+    "frankenstyle": "block_lord",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_lord",
+    "shortdescription": "This plugin determines the similarity between all the learning activities in a course and uses the similarity to configure a network graph of the activities.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 7 March 2023, 5:14 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-07T05:14:50+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "2",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2583/Screenshot_2020-11-06%20Course%20Physics%20200%20Introductory%20Physics%20I%20%28Rev%20C7%29.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2583/Screenshot_2020-11-06%20Learning%20Object%20Relation%20Discovery%20%28LORD%29.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2597469,
+            "firstname": "Ted",
+            "lastname": "Krahn",
+            "url": "https://moodle.org/user/profile.php?id=2597469"
+        },
+        {
+            "id": 4353258,
+            "firstname": "Maiga",
+            "lastname": "Chang",
+            "url": "https://moodle.org/user/profile.php?id=4353258"
+        }
+    ],
+    "descriptors": []
+}

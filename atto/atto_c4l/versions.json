@@ -1,0 +1,27 @@
+[
+    {
+        "id": "27652",
+        "name": "1.2",
+        "url": "https://moodle.org/plugins/download.php/27652/atto_c4l_moodle36_2020081201.zip"
+    },
+    {
+        "id": "25039",
+        "name": "1.1",
+        "url": "https://moodle.org/plugins/download.php/25039/atto_c4l_moodle36_2020100207.zip"
+    },
+    {
+        "id": "25034",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/25034/atto_c4l_moodle28_2016061011.zip"
+    },
+    {
+        "id": "24930",
+        "name": "1.1.1-build-2018041000",
+        "url": "https://moodle.org/plugins/download.php/24930/atto_c4l_moodle31_2020060720.zip"
+    },
+    {
+        "id": "24926",
+        "name": "1.1.0-build-2018041000",
+        "url": "https://moodle.org/plugins/download.php/24926/atto_c4l_moodle40_2021021104.zip"
+    }
+]

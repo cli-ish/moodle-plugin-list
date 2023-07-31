@@ -1,0 +1,44 @@
+{
+    "id": 2130,
+    "index": 1691,
+    "name": "Vulnerable Password",
+    "frankenstyle": "auth_vulnerablepassword",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_vulnerablepassword",
+    "shortdescription": "This Moodle plugin attempts to check HIBP's list of exposed passwords. Enabling your learners to be informed if their password has ever been involved in a data breach.",
+    "timelastreleased": {
+        "absdate": "Friday, 3 August 2018, 12:50 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-03T00:50:13+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "7",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2130/Screen%20Shot%202018-08-02%20at%2017.55.40.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2130/Screen%20Shot%202018-08-02%20at%2017.55.40.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2130/adminscreenshot-min.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2130/learnerscreenshot-min.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1816836,
+            "firstname": "Josh",
+            "lastname": "Willcock",
+            "url": "https://moodle.org/user/profile.php?id=1816836"
+        }
+    ],
+    "descriptors": []
+}

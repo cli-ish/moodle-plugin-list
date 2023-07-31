@@ -1,0 +1,59 @@
+{
+    "id": 1616,
+    "index": 335,
+    "name": "Block concurrent sessions quiz access rule",
+    "frankenstyle": "quizaccess_onesession",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_onesession",
+    "shortdescription": "This plugin allows students to continue quiz attempt only in the same browser session. Any attempts to open same quiz attampt using another computer, device or browser will be blocked",
+    "timelastreleased": {
+        "absdate": "Sunday, 6 February 2022, 12:50 PM",
+        "reldate": "18 months",
+        "iso8601date": "2022-02-06T12:50:41+08:00"
+    },
+    "aggsites": "1158",
+    "aggdownloads": "399",
+    "aggfavs": "36",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1616/01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1616/02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1616/03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1616/04.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 585006,
+            "firstname": "Vadim",
+            "lastname": "Dvorovenko",
+            "url": "https://moodle.org/user/profile.php?id=585006"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

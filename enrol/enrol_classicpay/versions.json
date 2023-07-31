@@ -1,0 +1,42 @@
+[
+    {
+        "id": "26448",
+        "name": "3.8-build-2022041300",
+        "url": "https://moodle.org/plugins/download.php/26448/enrol_classicpay_moodle32_2023121100.zip"
+    },
+    {
+        "id": "26043",
+        "name": "3.7.7.1-build-2022022300",
+        "url": "https://moodle.org/plugins/download.php/26043/enrol_classicpay_moodle29_2010110405.zip"
+    },
+    {
+        "id": "26040",
+        "name": "3.7.7-build-2022022201",
+        "url": "https://moodle.org/plugins/download.php/26040/enrol_classicpay_moodle40_2018020816.zip"
+    },
+    {
+        "id": "25415",
+        "name": "3.7.5-build-2021110500",
+        "url": "https://moodle.org/plugins/download.php/25415/enrol_classicpay_moodle32_2010020903.zip"
+    },
+    {
+        "id": "25325",
+        "name": "3.7.4-build-2021102000",
+        "url": "https://moodle.org/plugins/download.php/25325/enrol_classicpay_moodle39_2021090503.zip"
+    },
+    {
+        "id": "23446",
+        "name": "3.7.1-build-2021020101",
+        "url": "https://moodle.org/plugins/download.php/23446/enrol_classicpay_moodle27_2012070204.zip"
+    },
+    {
+        "id": "23445",
+        "name": "3.7.0-build-2021020100",
+        "url": "https://moodle.org/plugins/download.php/23445/enrol_classicpay_moodle34_2022020206.zip"
+    },
+    {
+        "id": "19076",
+        "name": "3.6.0-build-2019022600",
+        "url": "https://moodle.org/plugins/download.php/19076/enrol_classicpay_moodle29_2018020519.zip"
+    }
+]

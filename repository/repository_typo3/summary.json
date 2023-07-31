@@ -1,0 +1,53 @@
+{
+    "id": 636,
+    "index": 2028,
+    "name": "TYPO3 Dam Repository",
+    "frankenstyle": "repository_typo3",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_typo3",
+    "shortdescription": "This is an alpha-state plugin which allow moodle course-admins to use files-references from a typo3-cms.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 February 2013, 6:24 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-02-26T18:24:26+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "2",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/636/DHBW_d_MOS_rgb_WEB2_150dpi.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/636/DHBW_d_MOS_rgb_WEB2_150dpi.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/636/repository_typo3-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/636/repository_typo3-2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1566654,
+            "firstname": "Jan Kristoffer",
+            "lastname": "Roth",
+            "url": "https://moodle.org/user/profile.php?id=1566654"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

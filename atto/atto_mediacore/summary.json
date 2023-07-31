@@ -1,0 +1,62 @@
+{
+    "id": 1187,
+    "index": 2120,
+    "name": "MediaCore Atto Editor Chooser",
+    "frankenstyle": "atto_mediacore",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_mediacore",
+    "shortdescription": "The MediaCore Moodle plugin gives your Moodle users one-click access to the MediaCore Chooser \u2014 allowing them to easily upload and embed media to any Moodle page, straight from inside Moodle.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 July 2014, 5:38 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-07-30T05:38:58+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1187/mediacore_logo_90x90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1187/mediacore_logo_90x90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1187/Screen_Shot_2014-06-24_at_9.40.01_AM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1187/atto-toolbar.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1187/Screen_Shot_2014-06-24_at_9.40.59_AM%20%281%29.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1437567,
+            "firstname": "MediaCore",
+            "lastname": "Support",
+            "url": "https://moodle.org/user/profile.php?id=1437567"
+        },
+        {
+            "id": 1572219,
+            "firstname": "Derek",
+            "lastname": "Harnanansingh",
+            "url": "https://moodle.org/user/profile.php?id=1572219"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

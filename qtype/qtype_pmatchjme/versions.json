@@ -1,0 +1,82 @@
+[
+    {
+        "id": "27690",
+        "name": "2.3-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/27690/qtype_pmatchjme_moodle39_2011120405.zip"
+    },
+    {
+        "id": "22439",
+        "name": "2.2-for-moodle-3.8",
+        "url": "https://moodle.org/plugins/download.php/22439/qtype_pmatchjme_moodle37_2023061015.zip"
+    },
+    {
+        "id": "20529",
+        "name": "2.1-for-moodle-3.5",
+        "url": "https://moodle.org/plugins/download.php/20529/qtype_pmatchjme_moodle32_2014030305.zip"
+    },
+    {
+        "id": "18289",
+        "name": "1.9-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/18289/qtype_pmatchjme_moodle38_2010060518.zip"
+    },
+    {
+        "id": "11909",
+        "name": "1.7-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/11909/qtype_pmatchjme_moodle37_2015030719.zip"
+    },
+    {
+        "id": "8514",
+        "name": "1.6-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/8514/qtype_pmatchjme_moodle40_2021060803.zip"
+    },
+    {
+        "id": "6581",
+        "name": "1.4-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/6581/qtype_pmatchjme_moodle35_2015031105.zip"
+    },
+    {
+        "id": "2170",
+        "name": "1.2-for-moodle-2.3",
+        "url": "https://moodle.org/plugins/download.php/2170/qtype_pmatchjme_moodle35_2012040712.zip"
+    },
+    {
+        "id": "1209",
+        "name": "1.1-for-moodle-2.2",
+        "url": "https://moodle.org/plugins/download.php/1209/qtype_pmatchjme_moodle33_2011040102.zip"
+    },
+    {
+        "id": "1208",
+        "name": "1.1-for-moodle-2.1",
+        "url": "https://moodle.org/plugins/download.php/1208/qtype_pmatchjme_moodle35_2010110618.zip"
+    },
+    {
+        "id": "20119",
+        "name": "2.0-for-moodle-3.5",
+        "url": "https://moodle.org/plugins/download.php/20119/qtype_pmatchjme_moodle35_2014060815.zip"
+    },
+    {
+        "id": "17583",
+        "name": "1.8-for-moodle-3.4",
+        "url": "https://moodle.org/plugins/download.php/17583/qtype_pmatchjme_moodle37_2012110313.zip"
+    },
+    {
+        "id": "7221",
+        "name": "1.5-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/7221/qtype_pmatchjme_moodle26_2018041002.zip"
+    },
+    {
+        "id": "3298",
+        "name": "1.3-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/3298/qtype_pmatchjme_moodle26_2023020913.zip"
+    },
+    {
+        "id": "1210",
+        "name": "1.1-for-moodle-2.3",
+        "url": "https://moodle.org/plugins/download.php/1210/qtype_pmatchjme_moodle30_2020020803.zip"
+    },
+    {
+        "id": "521",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/521/qtype_pmatchjme_moodle32_2012010217.zip"
+    }
+]

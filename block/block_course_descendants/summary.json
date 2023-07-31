@@ -1,0 +1,49 @@
+{
+    "id": 594,
+    "index": 1922,
+    "name": "Descendants courses",
+    "frankenstyle": "block_course_descendants",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_descendants",
+    "shortdescription": "Works oppositely to block Course Ascendants as giving shortlinks to descendant courses (Supercourses)",
+    "timelastreleased": {
+        "absdate": "Wednesday, 30 April 2014, 8:32 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-30T20:32:58+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "3",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/594/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/594/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/594/block_sample.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

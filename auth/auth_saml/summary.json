@@ -1,0 +1,50 @@
+{
+    "id": 100,
+    "index": 1047,
+    "name": "SAML Authentication (simpleSAMLphp required)",
+    "frankenstyle": "auth_saml",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_saml",
+    "shortdescription": "SAML Authentication plugin based on the simplesamlphp software.\r\n(Also install the SAML Enrolment plugin if you want auto-enrol based on SAML) ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 July 2019, 11:21 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-07-16T23:21:03+08:00"
+    },
+    "aggsites": "503",
+    "aggdownloads": "44",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/100/uniquid.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/100/uniquid.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/100/step1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/100/step2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/100/step3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/100/step4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1385613,
+            "firstname": "Sixto",
+            "lastname": "Martin Garcia",
+            "url": "https://moodle.org/user/profile.php?id=1385613"
+        }
+    ],
+    "descriptors": []
+}

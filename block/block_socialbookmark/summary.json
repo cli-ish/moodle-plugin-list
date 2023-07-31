@@ -1,0 +1,53 @@
+{
+    "id": 1055,
+    "index": 1569,
+    "name": "Social Bookmark",
+    "frankenstyle": "block_socialbookmark",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_socialbookmark",
+    "shortdescription": "Social Bookmarking block for Moodle. Allows students to add and rate bookmarks.",
+    "timelastreleased": {
+        "absdate": "Monday, 16 June 2014, 11:13 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-16T23:13:12+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "9",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1055/1397158461_bookmark-new.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1055/1397158461_bookmark-new.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1055/Screen%20Shot%202014-04-01%20at%2014.02.50.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1055/Screen%20Shot%202014-04-01%20at%2014.03.06.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1055/Screen%20Shot%202014-04-10%20at%2015.37.32.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1181300,
+            "firstname": "Kyle",
+            "lastname": "Goslin",
+            "url": "https://moodle.org/user/profile.php?id=1181300"
+        },
+        {
+            "id": 250242,
+            "firstname": "Daniel",
+            "lastname": "Mc Sweeney",
+            "url": "https://moodle.org/user/profile.php?id=250242"
+        }
+    ],
+    "descriptors": []
+}

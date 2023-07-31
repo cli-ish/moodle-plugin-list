@@ -1,0 +1,27 @@
+[
+    {
+        "id": "29494",
+        "name": "4.8.2",
+        "url": "https://moodle.org/plugins/download.php/29494/qtype_shortanswerwiris_moodle38_2021050515.zip"
+    },
+    {
+        "id": "29168",
+        "name": "4.8.1",
+        "url": "https://moodle.org/plugins/download.php/29168/qtype_shortanswerwiris_moodle32_2023050510.zip"
+    },
+    {
+        "id": "29109",
+        "name": "4.8.0",
+        "url": "https://moodle.org/plugins/download.php/29109/qtype_shortanswerwiris_moodle31_2023101214.zip"
+    },
+    {
+        "id": "28684",
+        "name": "4.7.1",
+        "url": "https://moodle.org/plugins/download.php/28684/qtype_shortanswerwiris_moodle40_2017080808.zip"
+    },
+    {
+        "id": "28535",
+        "name": "4.7.0",
+        "url": "https://moodle.org/plugins/download.php/28535/qtype_shortanswerwiris_moodle31_2015080710.zip"
+    }
+]

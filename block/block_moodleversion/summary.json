@@ -1,0 +1,58 @@
+{
+    "id": 639,
+    "index": 1409,
+    "name": "Moodle Version Block",
+    "frankenstyle": "block_moodleversion",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_moodleversion",
+    "shortdescription": "This simple block for view a version of Moodle, PHP, MySQL, PHP Extensions and PHP Settings. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 19 April 2016, 8:02 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-19T20:02:57+08:00"
+    },
+    "aggsites": "62",
+    "aggdownloads": "14",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/639/moodleversion-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/639/moodleversion-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/639/moodleversion_01.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/639/moodleversion_02.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/639/moodleversion_03.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 629382,
+            "firstname": "Luciano",
+            "lastname": "Oliveira Borges",
+            "url": "https://moodle.org/user/profile.php?id=629382"
+        },
+        {
+            "id": 1752530,
+            "firstname": "iAutomate",
+            "lastname": "Integra\u00e7\u00e3o de Sistemas",
+            "url": "https://moodle.org/user/profile.php?id=1752530"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

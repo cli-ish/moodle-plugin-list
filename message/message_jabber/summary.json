@@ -1,0 +1,47 @@
+{
+    "id": 2915,
+    "index": 1115,
+    "name": "Jabber",
+    "frankenstyle": "message_jabber",
+    "plugintype": {
+        "type": "message",
+        "name": "Notification plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/message_jabber",
+    "shortdescription": "Jabber is the original name of the Extensible Messaging and Presence Protocol (XMPP), an open standard instant messaging protocol. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 March 2022, 10:32 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-24T22:32:18+08:00"
+    },
+    "aggsites": "910",
+    "aggdownloads": "35",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2915/500px-NotificationPlugins.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2915/Jabber_configuration.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2915/jabber_user_account.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1455465,
+            "firstname": "Moodle",
+            "lastname": "HQ",
+            "url": "https://moodle.org/user/profile.php?id=1455465"
+        }
+    ],
+    "descriptors": []
+}

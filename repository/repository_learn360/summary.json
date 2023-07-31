@@ -1,0 +1,53 @@
+{
+    "id": 2181,
+    "index": 1816,
+    "name": "Learn360",
+    "frankenstyle": "repository_learn360",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_learn360",
+    "shortdescription": "The Moodle plugin provides a rich integration between Learn360 and your Moodle courses.  Users of Moodle will now be able to embed Learn360 resources directly inside their courses, without having to leave the LMS.  Videos, images, printables and audio files are among the types of supported resources.",
+    "timelastreleased": {
+        "absdate": "Friday, 24 May 2019, 12:40 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-05-24T00:40:00+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "5",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2181/Google_L360Icon_128x128_Trans.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2181/Google_L360Icon_128x128_Trans.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2181/embedded-interactive-learn360.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2181/interactives-tab.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2181/playing-video.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2181/search-results.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2181/video-embed-sizes.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2507809,
+            "firstname": "Chris",
+            "lastname": "Plapp",
+            "url": "https://moodle.org/user/profile.php?id=2507809"
+        }
+    ],
+    "descriptors": []
+}

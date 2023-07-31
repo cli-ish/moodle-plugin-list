@@ -1,0 +1,40 @@
+{
+    "id": 1747,
+    "index": 262,
+    "name": "Wiris Quizzes Commons question type",
+    "frankenstyle": "qtype_wq",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_wq",
+    "shortdescription": "Wiris Quizzes  Commons question type is the engine needed for each WIRIS question type to work properly. It is a necessary component for all Wiris Quizzes question types. ",
+    "timelastreleased": {
+        "absdate": "Friday, 23 June 2023, 5:04 PM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-23T17:04:11+08:00"
+    },
+    "aggsites": "2426",
+    "aggdownloads": "495",
+    "aggfavs": "35",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1747/qtype_wq.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1747/qtype_wq.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1747/wiris_quizzes_general.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1343738,
+            "firstname": "WIRIS",
+            "lastname": "team",
+            "url": "https://moodle.org/user/profile.php?id=1343738"
+        }
+    ],
+    "descriptors": []
+}

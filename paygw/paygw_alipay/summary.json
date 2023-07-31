@@ -1,0 +1,53 @@
+{
+    "id": 2670,
+    "index": 1210,
+    "name": "Alipay ",
+    "frankenstyle": "paygw_alipay",
+    "plugintype": {
+        "type": "paygw",
+        "name": "Payment gateway"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/paygw_alipay",
+    "shortdescription": "Alipay payment gateway for Moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 21 May 2021, 11:26 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-21T11:26:32+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "26",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2670/T1MqViXdBfXXXXXXXX.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2670/T1MqViXdBfXXXXXXXX.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2670/alipay-select-payment3.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2670/alipay-select-payment1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2670/alipay-select-payment2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

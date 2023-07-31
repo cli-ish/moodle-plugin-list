@@ -1,0 +1,40 @@
+{
+    "id": 2225,
+    "index": 914,
+    "name": "Old quiz and question attempts deletion",
+    "frankenstyle": "local_deleteoldquizattempts",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_deleteoldquizattempts",
+    "shortdescription": "Deletes old quiz and question attempts by scheduler task or by CLI command.",
+    "timelastreleased": {
+        "absdate": "Sunday, 2 January 2022, 3:36 PM",
+        "reldate": "19 months",
+        "iso8601date": "2022-01-02T15:36:26+08:00"
+    },
+    "aggsites": "212",
+    "aggdownloads": "85",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2225/01.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 585006,
+            "firstname": "Vadim",
+            "lastname": "Dvorovenko",
+            "url": "https://moodle.org/user/profile.php?id=585006"
+        }
+    ],
+    "descriptors": []
+}

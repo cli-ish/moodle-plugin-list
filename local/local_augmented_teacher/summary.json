@@ -1,0 +1,74 @@
+{
+    "id": 1946,
+    "index": 1592,
+    "name": "The augmented teacher",
+    "frankenstyle": "local_augmented_teacher",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_augmented_teacher",
+    "shortdescription": "The augmented teacher is a plugin that provides bulk e-mailing within courses using short codes such as users' first name, last name and course name.",
+    "timelastreleased": {
+        "absdate": "Thursday, 31 January 2019, 8:20 PM",
+        "reldate": "5 years",
+        "iso8601date": "2019-01-31T20:20:03+08:00"
+    },
+    "aggsites": "91",
+    "aggdownloads": "8",
+    "aggfavs": "19",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1946/1-step.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1946/10-step.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1946/2-step.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1946/3-step.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1946/4-step.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1946/5-step.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1946/6-step.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1946/7-step.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1946/8-step.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1946/9-step.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1898472,
+            "firstname": "Tue Bjerl",
+            "lastname": "Nielsen",
+            "url": "https://moodle.org/user/profile.php?id=1898472"
+        },
+        {
+            "id": 1579219,
+            "firstname": "Michael",
+            "lastname": "Gardener",
+            "url": "https://moodle.org/user/profile.php?id=1579219"
+        }
+    ],
+    "descriptors": []
+}

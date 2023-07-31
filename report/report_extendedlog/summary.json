@@ -1,0 +1,52 @@
+{
+    "id": 1643,
+    "index": 176,
+    "name": "Extended log search",
+    "frankenstyle": "report_extendedlog",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_extendedlog",
+    "shortdescription": "This report is intended to be used by the site administrator for investigation in number of cases, when standard log report does not allow to find the desired events.",
+    "timelastreleased": {
+        "absdate": "Monday, 20 February 2023, 11:17 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-02-20T11:17:25+08:00"
+    },
+    "aggsites": "820",
+    "aggdownloads": "695",
+    "aggfavs": "36",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1643/01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1643/02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1643/03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 585006,
+            "firstname": "Vadim",
+            "lastname": "Dvorovenko",
+            "url": "https://moodle.org/user/profile.php?id=585006"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "id": 1407,
+    "index": 1736,
+    "name": "DM e-Learning",
+    "frankenstyle": "mod_dmelearn",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_dmelearn",
+    "shortdescription": "This is a Moodle Plugin to access/use Digital Media e-Learning course content as a Moodle Activity rather than users accessing the \"DM e-learning\" website directly.\r\nThis plugin is only useful for Moodle Managers that have been granted ELMO API access to \"Digital Media e-Learning\" courses with valid application settings. ",
+    "timelastreleased": {
+        "absdate": "Friday, 4 March 2022, 4:03 PM",
+        "reldate": "17 months",
+        "iso8601date": "2022-03-04T16:03:24+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "6",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1407/dmlogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1407/dmlogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1407/dmelearn_adding_activity.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1407/dmelearn_course.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1939693,
+            "firstname": "Chris",
+            "lastname": "Faulkner",
+            "url": "https://moodle.org/user/profile.php?id=1939693"
+        },
+        {
+            "id": 1950530,
+            "firstname": "AJ",
+            "lastname": "Dunn",
+            "url": "https://moodle.org/user/profile.php?id=1950530"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

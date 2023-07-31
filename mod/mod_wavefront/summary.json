@@ -1,0 +1,53 @@
+{
+    "id": 1811,
+    "index": 674,
+    "name": "Wavefront Renderer",
+    "frankenstyle": "mod_wavefront",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_wavefront",
+    "shortdescription": "A Moodle activity that allows learners to upload and view 3D models in a gallery, as well as viewing individual models in augmented reality on supported devices. Supports both Wavefront .OBJ format models, together with .MTL material textures, and COLLADA .DAE digital asset exchange files. Models can also be displayed anywhere in Moodle that supports filtering by installing the filter_wavefront plugin (available separately).",
+    "timelastreleased": {
+        "absdate": "Saturday, 2 July 2022, 8:28 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-02T20:28:54+08:00"
+    },
+    "aggsites": "123",
+    "aggdownloads": "156",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1811/icon_small.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1811/icon_small.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1811/wavefront.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1811/screenshot1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1811/Screenshot3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1811/skeleton_AR.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1811/stormtrooper_AR.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 325899,
+            "firstname": "Ian",
+            "lastname": "Wild",
+            "url": "https://moodle.org/user/profile.php?id=325899"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": 1823,
+    "index": 1190,
+    "name": "Initials Profile Pics",
+    "frankenstyle": "local_ciabinitialsprofilepics",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_ciabinitialsprofilepics",
+    "shortdescription": "A local plugin for Moodle which automatically creates profile pictures for users based on their initials.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 23 October 2019, 5:47 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-10-23T05:47:58+08:00"
+    },
+    "aggsites": "217",
+    "aggdownloads": "27",
+    "aggfavs": "22",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1823/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1823/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1823/ciabinitialsprofilepics_example.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1823/ciabinitialsprofilepics_example2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 266725,
+            "firstname": "Paul",
+            "lastname": "Vaughan",
+            "url": "https://moodle.org/user/profile.php?id=266725"
+        }
+    ],
+    "descriptors": []
+}

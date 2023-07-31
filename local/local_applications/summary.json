@@ -1,0 +1,52 @@
+{
+    "id": 671,
+    "index": 1824,
+    "name": "Applications",
+    "frankenstyle": "local_applications",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_applications",
+    "shortdescription": "This local plugin introduces the application concept into Moodle, allowing users to add, edit, remove, or access external applications without leaving Moodle.",
+    "timelastreleased": {
+        "absdate": "Thursday, 4 April 2013, 8:55 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-04T08:55:33+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "5",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/671/Screen%20Shot%202013-03-30%20at%2016.26.53%20.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/671/Screen%20Shot%202013-03-30%20at%2016.27.37%20.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/671/Screen%20Shot%202013-03-30%20at%2016.29.03%20.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1461377,
+            "firstname": "Bruno",
+            "lastname": "Sampaio",
+            "url": "https://moodle.org/user/profile.php?id=1461377"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

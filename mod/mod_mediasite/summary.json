@@ -1,0 +1,71 @@
+{
+    "id": 41,
+    "index": 1169,
+    "name": "Mediasite Content Module for Moodle",
+    "frankenstyle": "mod_mediasite",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_mediasite",
+    "shortdescription": "Integrate Mediasite content in a Moodle course.",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 October 2020, 1:25 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-10-08T01:25:39+08:00"
+    },
+    "aggsites": "130",
+    "aggdownloads": "29",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/41/Mediasite%20by%20Sonic%20Foundry.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/41/Mediasite%20by%20Sonic%20Foundry.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/41/7.x%20MultiView%20on%20Laptop_Business.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/41/Moodle%20w.%20Embedded%20Catalog.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1609060,
+            "firstname": "David",
+            "lastname": "Kalsbeek",
+            "url": "https://moodle.org/user/profile.php?id=1609060"
+        },
+        {
+            "id": 745118,
+            "firstname": "LaShunda",
+            "lastname": "Manly",
+            "url": "https://moodle.org/user/profile.php?id=745118"
+        },
+        {
+            "id": 2785323,
+            "firstname": "David",
+            "lastname": "Ward",
+            "url": "https://moodle.org/user/profile.php?id=2785323"
+        },
+        {
+            "id": 2664431,
+            "firstname": "Qingzhi",
+            "lastname": "Wang",
+            "url": "https://moodle.org/user/profile.php?id=2664431"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": 496,
+    "index": 416,
+    "name": "Learning Analytics Enriched Rubric",
+    "frankenstyle": "gradingform_erubric",
+    "plugintype": {
+        "type": "gradingform",
+        "name": "Advanced grading method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradingform_erubric",
+    "shortdescription": "The Learning Analytics Enriched Rubric (LA e-Rubric) is an advanced grading method used for criteria-based assessment. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 December 2018, 5:55 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-12-04T05:55:13+08:00"
+    },
+    "aggsites": "377",
+    "aggdownloads": "294",
+    "aggfavs": "48",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/496/gradingfrom-learning-analytics-e-rubric-evaluation-results.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/496/gradingfrom-learning-analytics-e-rubric-evaluation-results.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/496/gradingfrom-learning-analytics-e-rubric-preview.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/496/gradingfrom-learning-analytics-e-rubric-preview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1401689,
+            "firstname": "John",
+            "lastname": "Dimopoulos",
+            "url": "https://moodle.org/user/profile.php?id=1401689"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

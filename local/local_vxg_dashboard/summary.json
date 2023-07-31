@@ -1,0 +1,56 @@
+{
+    "id": 2525,
+    "index": 1196,
+    "name": "Unique Dashboard \ud83e\udd84",
+    "frankenstyle": "local_vxg_dashboard",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_vxg_dashboard",
+    "shortdescription": "Create customized dashboard with multi columns or tiled look for all employees or different ones for each departments!",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 August 2020, 4:32 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-20T16:32:10+08:00"
+    },
+    "aggsites": "81",
+    "aggdownloads": "27",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2525/screen0.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2525/screen1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2525/screen2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2525/screen3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2525/screen4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2525/screen5.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3409208,
+            "firstname": "Veloxnet",
+            "lastname": "Ltd.",
+            "url": "https://moodle.org/user/profile.php?id=3409208"
+        }
+    ],
+    "descriptors": []
+}

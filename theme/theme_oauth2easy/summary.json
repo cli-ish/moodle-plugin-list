@@ -1,0 +1,45 @@
+{
+    "id": 854,
+    "index": 2126,
+    "name": "Oauth2 Easy",
+    "frankenstyle": "theme_oauth2easy",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_oauth2easy",
+    "shortdescription": "Obsolote: this theme is not used anymore as the Oauth2 auth plugin now display the buttons.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 10 September 2013, 1:46 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-10T13:46:07+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 542994,
+            "firstname": "J\u00e9r\u00f4me",
+            "lastname": "Mouneyrac",
+            "url": "https://moodle.org/user/profile.php?id=542994"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

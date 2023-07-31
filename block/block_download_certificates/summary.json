@@ -1,0 +1,50 @@
+{
+    "id": 1702,
+    "index": 831,
+    "name": "Download Certificates",
+    "frankenstyle": "block_download_certificates",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_download_certificates",
+    "shortdescription": "This block displays all the previously issued certificates without having to go into each course to view them. You will also be able to download the certificates directly from the block report. It will also work for courses that needs to be archived but still want students to be able to download the certificate. You will need to make sure you change the course visibility 'Enrolled users only' and hide all other resources except the certificates.\r\n\r\nNew Feature:\r\nAll previously issued certificates can be downloaded as Zipped file. Contributed by Neeraj KP (kpneeraj).",
+    "timelastreleased": {
+        "absdate": "Monday, 8 October 2018, 9:59 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-10-08T21:59:11+08:00"
+    },
+    "aggsites": "404",
+    "aggdownloads": "117",
+    "aggfavs": "35",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1702/download_certificate_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1702/download_certificate_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1702/1%20plugin.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1702/2%20report.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1702/3%20certificate-setting.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1702/4%20Download%20as%20Zip.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1081228,
+            "firstname": "Manieer",
+            "lastname": "Chhettri",
+            "url": "https://moodle.org/user/profile.php?id=1081228"
+        }
+    ],
+    "descriptors": []
+}

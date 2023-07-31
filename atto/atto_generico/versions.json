@@ -1,0 +1,52 @@
+[
+    {
+        "id": "17763",
+        "name": "1.1.1-build-2018090300",
+        "url": "https://moodle.org/plugins/download.php/17763/atto_generico_moodle38_2013061108.zip"
+    },
+    {
+        "id": "12713",
+        "name": "1.0.9-build-2016112701",
+        "url": "https://moodle.org/plugins/download.php/12713/atto_generico_moodle29_2023040211.zip"
+    },
+    {
+        "id": "9957",
+        "name": "1.0.3-build-2015111901",
+        "url": "https://moodle.org/plugins/download.php/9957/atto_generico_moodle34_2011011108.zip"
+    },
+    {
+        "id": "8091",
+        "name": "1.0.2-build-2015011500",
+        "url": "https://moodle.org/plugins/download.php/8091/atto_generico_moodle34_2021010709.zip"
+    },
+    {
+        "id": "16727",
+        "name": "1.0.10-build-2018041000",
+        "url": "https://moodle.org/plugins/download.php/16727/atto_generico_moodle31_2013070304.zip"
+    },
+    {
+        "id": "11531",
+        "name": "1.0.8-build-2016061200",
+        "url": "https://moodle.org/plugins/download.php/11531/atto_generico_moodle32_2019100201.zip"
+    },
+    {
+        "id": "10762",
+        "name": "1.0.7-build-2016030900",
+        "url": "https://moodle.org/plugins/download.php/10762/atto_generico_moodle39_2017061114.zip"
+    },
+    {
+        "id": "10377",
+        "name": "1.0.6-build-2016011801",
+        "url": "https://moodle.org/plugins/download.php/10377/atto_generico_moodle39_2022010616.zip"
+    },
+    {
+        "id": "10373",
+        "name": "1.0.5-build-2016011800",
+        "url": "https://moodle.org/plugins/download.php/10373/atto_generico_moodle34_2020090903.zip"
+    },
+    {
+        "id": "10274",
+        "name": "1.0.4-build-2016011100",
+        "url": "https://moodle.org/plugins/download.php/10274/atto_generico_moodle28_2021051102.zip"
+    }
+]

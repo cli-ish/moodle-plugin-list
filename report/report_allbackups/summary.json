@@ -1,0 +1,46 @@
+{
+    "id": 2570,
+    "index": 126,
+    "name": "All backups",
+    "frankenstyle": "report_allbackups",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_allbackups",
+    "shortdescription": "This report allows access to all backups on a site - including those stored in the users private files area and the site admin can download/restore or delete the backup files.",
+    "timelastreleased": {
+        "absdate": "Friday, 18 March 2022, 4:20 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-18T04:20:57+08:00"
+    },
+    "aggsites": "1887",
+    "aggdownloads": "949",
+    "aggfavs": "56",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2570/allbackups-report.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 871,
+    "index": 1711,
+    "name": "Assignment files",
+    "frankenstyle": "report_assignment_files",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_assignment_files",
+    "shortdescription": "List all assignment files for all courses and / or user",
+    "timelastreleased": {
+        "absdate": "Sunday, 6 October 2013, 6:29 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-10-06T06:29:23+08:00"
+    },
+    "aggsites": "46",
+    "aggdownloads": "6",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/871/Screenshot%20from%202013-10-05%20225038.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1243750,
+            "firstname": "Russell",
+            "lastname": "England",
+            "url": "https://moodle.org/user/profile.php?id=1243750"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 1437,
+    "index": 324,
+    "name": "CAS server (SSO) with user-attribute release",
+    "frankenstyle": "auth_casattras",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_casattras",
+    "shortdescription": "A CAS (SSO) authentication module for Moodle that uses released attributes rather than LDAP for user information.",
+    "timelastreleased": {
+        "absdate": "Friday, 7 April 2023, 1:54 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-07T01:54:26+08:00"
+    },
+    "aggsites": "200",
+    "aggdownloads": "415",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1437/sample-admin-page.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 32879,
+            "firstname": "Adam",
+            "lastname": "Franco",
+            "url": "https://moodle.org/user/profile.php?id=32879"
+        }
+    ],
+    "descriptors": []
+}

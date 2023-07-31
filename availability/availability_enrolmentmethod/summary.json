@@ -1,0 +1,44 @@
+{
+    "id": 2987,
+    "index": 974,
+    "name": "Restriction by enrolment method",
+    "frankenstyle": "availability_enrolmentmethod",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_enrolmentmethod",
+    "shortdescription": "Moodle availability plugin which lets users restrict resources, activities and sections based on enrolment methods",
+    "timelastreleased": {
+        "absdate": "Saturday, 24 June 2023, 5:57 PM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-24T17:57:24+08:00"
+    },
+    "aggsites": "33",
+    "aggdownloads": "63",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2987/Screenshot_11.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2987/Screenshot_2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2402871,
+            "firstname": "Jorge",
+            "lastname": "C.",
+            "url": "https://moodle.org/user/profile.php?id=2402871"
+        }
+    ],
+    "descriptors": []
+}

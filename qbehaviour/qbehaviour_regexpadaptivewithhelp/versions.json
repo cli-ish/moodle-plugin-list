@@ -1,0 +1,87 @@
+[
+    {
+        "id": "26475",
+        "name": "4.0-for-moodle-4.0",
+        "url": "https://moodle.org/plugins/download.php/26475/qbehaviour_regexpadaptivewithhelp_moodle30_2011061119.zip"
+    },
+    {
+        "id": "24494",
+        "name": "3.11.0-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/24494/qbehaviour_regexpadaptivewithhelp_moodle32_2022041220.zip"
+    },
+    {
+        "id": "16920",
+        "name": "3.5.1-for-moodle-2.9-3.5",
+        "url": "https://moodle.org/plugins/download.php/16920/qbehaviour_regexpadaptivewithhelp_moodle39_2015061106.zip"
+    },
+    {
+        "id": "11726",
+        "name": "2.9.0-for-moodle-2.7-2.9",
+        "url": "https://moodle.org/plugins/download.php/11726/qbehaviour_regexpadaptivewithhelp_moodle31_2023061006.zip"
+    },
+    {
+        "id": "4857",
+        "name": "2.6.0-for-moodle-2.6",
+        "url": "https://moodle.org/plugins/download.php/4857/qbehaviour_regexpadaptivewithhelp_moodle40_2023010611.zip"
+    },
+    {
+        "id": "3201",
+        "name": "2.5.0-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/3201/qbehaviour_regexpadaptivewithhelp_moodle25_2018030309.zip"
+    },
+    {
+        "id": "1666",
+        "name": "2.3.0-for-moodle-2.3-amp-2.4",
+        "url": "https://moodle.org/plugins/download.php/1666/qbehaviour_regexpadaptivewithhelp_moodle34_2021050509.zip"
+    },
+    {
+        "id": "208",
+        "name": "version-for-moodle-2.1.2",
+        "url": "https://moodle.org/plugins/download.php/208/qbehaviour_regexpadaptivewithhelp_moodle33_2010050820.zip"
+    },
+    {
+        "id": "23104",
+        "name": "3.10.1-for-moodle-3.10",
+        "url": "https://moodle.org/plugins/download.php/23104/qbehaviour_regexpadaptivewithhelp_moodle40_2018040318.zip"
+    },
+    {
+        "id": "20654",
+        "name": "3.8.0-for-moodle-3.1-3.9",
+        "url": "https://moodle.org/plugins/download.php/20654/qbehaviour_regexpadaptivewithhelp_moodle38_2017100812.zip"
+    },
+    {
+        "id": "19670",
+        "name": "3.7.0-for-moodle-3.1-3.7",
+        "url": "https://moodle.org/plugins/download.php/19670/qbehaviour_regexpadaptivewithhelp_moodle37_2023060214.zip"
+    },
+    {
+        "id": "18750",
+        "name": "3.6.1-for-moodle-3.1-3.6",
+        "url": "https://moodle.org/plugins/download.php/18750/qbehaviour_regexpadaptivewithhelp_moodle34_2018120808.zip"
+    },
+    {
+        "id": "16592",
+        "name": "3.5.0-for-moodle-2.9-3.5",
+        "url": "https://moodle.org/plugins/download.php/16592/qbehaviour_regexpadaptivewithhelp_moodle38_2010100308.zip"
+    },
+    {
+        "id": "13919",
+        "name": "3.3.0-for-moodle-2.9-3.3",
+        "url": "https://moodle.org/plugins/download.php/13919/qbehaviour_regexpadaptivewithhelp_moodle35_2015040617.zip"
+    },
+    {
+        "id": "12733",
+        "name": "3.2.0-for-moodle-2.9-3.2",
+        "url": "https://moodle.org/plugins/download.php/12733/qbehaviour_regexpadaptivewithhelp_moodle36_2020030219.zip"
+    },
+    {
+        "id": "11727",
+        "name": "3.1.0-for-moodle-2.9-3.1",
+        "url": "https://moodle.org/plugins/download.php/11727/qbehaviour_regexpadaptivewithhelp_moodle35_2016110814.zip"
+    },
+    {
+        "id": "6590",
+        "name": "2.7.0-for-moodle-2.7",
+        "url": "https://moodle.org/plugins/download.php/6590/qbehaviour_regexpadaptivewithhelp_moodle27_2022101210.zip"
+    }
+]

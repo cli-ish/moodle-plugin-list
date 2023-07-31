@@ -1,0 +1,50 @@
+{
+    "id": 3079,
+    "index": 1005,
+    "name": "GuestQuiz",
+    "frankenstyle": "mod_guestquiz",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_guestquiz",
+    "shortdescription": "Guest Quiz is a Moodle activity that allow guest students to make simple and light quiz. The quiz is created from a subset of GIFT format. And Nothing from student activity in quiz is recorded.\r\nIt's nothing more than old-style questions book where the answers are at the bottom of the page upside down.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 9 May 2023, 8:31 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-09T20:31:08+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "55",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3079/monologov3.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3079/monologov3.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3079/img2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3079/img3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3079/img4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3079/img5.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2419605,
+            "firstname": "Dominique",
+            "lastname": "Palumbo",
+            "url": "https://moodle.org/user/profile.php?id=2419605"
+        }
+    ],
+    "descriptors": []
+}

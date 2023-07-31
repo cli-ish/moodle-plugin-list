@@ -1,0 +1,152 @@
+[
+    {
+        "id": "29691",
+        "name": "v4.2-r5-2023-07-27",
+        "url": "https://moodle.org/plugins/download.php/29691/mod_etherpadlite_moodle26_2013030312.zip"
+    },
+    {
+        "id": "29191",
+        "name": "v3.11-r8-2023-05-10",
+        "url": "https://moodle.org/plugins/download.php/29191/mod_etherpadlite_moodle37_2013071101.zip"
+    },
+    {
+        "id": "24832",
+        "name": "2021073000",
+        "url": "https://moodle.org/plugins/download.php/24832/mod_etherpadlite_moodle28_2020050903.zip"
+    },
+    {
+        "id": "8710",
+        "name": "2.7.0-build-2015060301",
+        "url": "https://moodle.org/plugins/download.php/8710/mod_etherpadlite_moodle30_2018080111.zip"
+    },
+    {
+        "id": "6039",
+        "name": "2.5.0-build-2014051300",
+        "url": "https://moodle.org/plugins/download.php/6039/mod_etherpadlite_moodle37_2016081204.zip"
+    },
+    {
+        "id": "5966",
+        "name": "2.4.0",
+        "url": "https://moodle.org/plugins/download.php/5966/mod_etherpadlite_moodle39_2017020700.zip"
+    },
+    {
+        "id": "29420",
+        "name": "v4.2-r4-2023-06-12",
+        "url": "https://moodle.org/plugins/download.php/29420/mod_etherpadlite_moodle31_2012080912.zip"
+    },
+    {
+        "id": "29192",
+        "name": "v4.2-r3-2023-05-10",
+        "url": "https://moodle.org/plugins/download.php/29192/mod_etherpadlite_moodle34_2022070709.zip"
+    },
+    {
+        "id": "29190",
+        "name": "v4.2-r2-2023-05-10",
+        "url": "https://moodle.org/plugins/download.php/29190/mod_etherpadlite_moodle29_2018121102.zip"
+    },
+    {
+        "id": "29073",
+        "name": "v4.2-r1-2023-04-27",
+        "url": "https://moodle.org/plugins/download.php/29073/mod_etherpadlite_moodle34_2015030503.zip"
+    },
+    {
+        "id": "28193",
+        "name": "v4.0-r7-2022-12-15",
+        "url": "https://moodle.org/plugins/download.php/28193/mod_etherpadlite_moodle30_2015070204.zip"
+    },
+    {
+        "id": "27942",
+        "name": "v4.0-r6-2022-11-16",
+        "url": "https://moodle.org/plugins/download.php/27942/mod_etherpadlite_moodle26_2012051017.zip"
+    },
+    {
+        "id": "27921",
+        "name": "v4.0-r5-2022-11-14",
+        "url": "https://moodle.org/plugins/download.php/27921/mod_etherpadlite_moodle35_2016021117.zip"
+    },
+    {
+        "id": "27835",
+        "name": "v4.0-r4-2022-11-03",
+        "url": "https://moodle.org/plugins/download.php/27835/mod_etherpadlite_moodle31_2016010402.zip"
+    },
+    {
+        "id": "27458",
+        "name": "v4.0-r3-2022-08-31",
+        "url": "https://moodle.org/plugins/download.php/27458/mod_etherpadlite_moodle25_2022050612.zip"
+    },
+    {
+        "id": "26789",
+        "name": "v4.0-r2-2022-06-08",
+        "url": "https://moodle.org/plugins/download.php/26789/mod_etherpadlite_moodle36_2021010913.zip"
+    },
+    {
+        "id": "26683",
+        "name": "v4.0-r1-2022-05-14",
+        "url": "https://moodle.org/plugins/download.php/26683/mod_etherpadlite_moodle30_2016051019.zip"
+    },
+    {
+        "id": "26460",
+        "name": "v4.0-beta2-2022-04-14",
+        "url": "https://moodle.org/plugins/download.php/26460/mod_etherpadlite_moodle38_2014060813.zip"
+    },
+    {
+        "id": "26126",
+        "name": "v4.0-beta1-2022-03-14",
+        "url": "https://moodle.org/plugins/download.php/26126/mod_etherpadlite_moodle29_2013060610.zip"
+    },
+    {
+        "id": "29189",
+        "name": "v3.11-r7-2023-05-10",
+        "url": "https://moodle.org/plugins/download.php/29189/mod_etherpadlite_moodle33_2018031013.zip"
+    },
+    {
+        "id": "28192",
+        "name": "v3.11-r6-2022-12-15",
+        "url": "https://moodle.org/plugins/download.php/28192/mod_etherpadlite_moodle25_2017100703.zip"
+    },
+    {
+        "id": "27922",
+        "name": "v3.11-r5-2022-11-14",
+        "url": "https://moodle.org/plugins/download.php/27922/mod_etherpadlite_moodle38_2023070719.zip"
+    },
+    {
+        "id": "27457",
+        "name": "v3.11-r4-2022-08-31",
+        "url": "https://moodle.org/plugins/download.php/27457/mod_etherpadlite_moodle39_2021030308.zip"
+    },
+    {
+        "id": "26682",
+        "name": "v3.11-r3-2022-05-14",
+        "url": "https://moodle.org/plugins/download.php/26682/mod_etherpadlite_moodle25_2022090908.zip"
+    },
+    {
+        "id": "26459",
+        "name": "v3.11-r2-2022-04-14",
+        "url": "https://moodle.org/plugins/download.php/26459/mod_etherpadlite_moodle28_2010050102.zip"
+    },
+    {
+        "id": "26125",
+        "name": "v3.11-r1-2022-03-13",
+        "url": "https://moodle.org/plugins/download.php/26125/mod_etherpadlite_moodle28_2023071214.zip"
+    },
+    {
+        "id": "26070",
+        "name": "2022022500",
+        "url": "https://moodle.org/plugins/download.php/26070/mod_etherpadlite_moodle36_2015050405.zip"
+    },
+    {
+        "id": "19560",
+        "name": "2019013100",
+        "url": "https://moodle.org/plugins/download.php/19560/mod_etherpadlite_moodle25_2012090210.zip"
+    },
+    {
+        "id": "18764",
+        "name": "3.5.0-build-2018112500",
+        "url": "https://moodle.org/plugins/download.php/18764/mod_etherpadlite_moodle28_2015090717.zip"
+    },
+    {
+        "id": "8051",
+        "name": "2.7.0-build-2015021100",
+        "url": "https://moodle.org/plugins/download.php/8051/mod_etherpadlite_moodle36_2012070603.zip"
+    }
+]

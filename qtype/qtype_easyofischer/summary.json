@@ -1,0 +1,53 @@
+{
+    "id": 1099,
+    "index": 1721,
+    "name": "Fischer Projections",
+    "frankenstyle": "qtype_easyofischer",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_easyofischer",
+    "shortdescription": "Student must construct Fischer projections by drag and drop of groups onto a predefined template.\r\n\r\nYou can ask questions like;\r\n\r\nDraw L-alanine?\r\nConvert the following structure into a Fischer projection?\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 April 2014, 10:36 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-17T10:36:05+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "6",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1099/create.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1099/preview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

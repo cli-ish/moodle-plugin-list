@@ -1,0 +1,61 @@
+{
+    "id": 1399,
+    "index": 247,
+    "name": "Auto Group",
+    "frankenstyle": "local_autogroup",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_autogroup",
+    "shortdescription": "A local plugin which automatically assigns enrolled users on a course into groups\r\ndependant upon information within their user profile. (Now with custom profile field support - called User Info Field in settings.)\r\n\r\nThis plugin will create, update, and delete groups automatically\r\nto match the users on your course. All behaviour is event-driven\r\nand so will occur within page loads.\r\n\r\nThe system can also monitor manual group setting changes and\r\nmoderate them to ensure that groups are kept neat and tidy.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 April 2023, 5:12 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-06T17:12:46+08:00"
+    },
+    "aggsites": "963",
+    "aggdownloads": "513",
+    "aggfavs": "73",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1399/Screen%20Shot%202018-01-12%20at%2012.08.38%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1399/Screen%20Shot%202018-01-12%20at%2012.09.04%20PM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 489101,
+            "firstname": "Mark",
+            "lastname": "Ward",
+            "url": "https://moodle.org/user/profile.php?id=489101"
+        },
+        {
+            "id": 719311,
+            "firstname": "Emma",
+            "lastname": "Richardson",
+            "url": "https://moodle.org/user/profile.php?id=719311"
+        },
+        {
+            "id": 1973579,
+            "firstname": "Arnaud",
+            "lastname": "Trouv\u00e9",
+            "url": "https://moodle.org/user/profile.php?id=1973579"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

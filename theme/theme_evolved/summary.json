@@ -1,0 +1,70 @@
+{
+    "id": 1200,
+    "index": 496,
+    "name": "evolve-D",
+    "frankenstyle": "theme_evolved",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_evolved",
+    "shortdescription": "evolve-D(earborn) is a Moodle theme focused on simplicity and style.  Turn on the custom frontpage and your site will sport an impressive and beautiful login page.  Once logged in you have complete control over the custom homepage complete with a navigation bar with icons, search, text, slideshow, and more.  ",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 September 2015, 1:32 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-09-24T01:32:10+08:00"
+    },
+    "aggsites": "358",
+    "aggdownloads": "236",
+    "aggfavs": "242",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1200/screenshot.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1200/screenshot.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1200/Logged%20Out%20Custom%20Frontpage.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1200/Block%20icons.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1200/Calendar.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1200/Course%20%20iBlog%20Training.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1200/customhomepage.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1200/edit%20button.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1200/evolve%20D%20%20Frontpage%20Options.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1200/Icons%20on%20Homepage.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1200/My%20Courses%20Dropdown.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 26675,
+            "firstname": "Chris",
+            "lastname": "Kenniburg",
+            "url": "https://moodle.org/user/profile.php?id=26675"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

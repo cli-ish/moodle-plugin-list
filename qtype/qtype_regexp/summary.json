@@ -1,0 +1,55 @@
+{
+    "id": 120,
+    "index": 257,
+    "name": "Regular expression short answer",
+    "frankenstyle": "qtype_regexp",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_regexp",
+    "shortdescription": "This question type (for the Moodle quiz module) aims at a more advanced system of student's response analysis, through the use of regular expresssions. This question type is an extension of the SHORTANSWER type. It can be used on its own and can also be incorporated into the existing Cloze (embedded) question type.",
+    "timelastreleased": {
+        "absdate": "Saturday, 13 May 2023, 9:24 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-13T21:24:38+08:00"
+    },
+    "aggsites": "989",
+    "aggdownloads": "502",
+    "aggfavs": "39",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/120/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/120/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/120/2019-01-16_22-53-42.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/120/2019-01-16_22-42-45.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 20216,
+            "firstname": "Joseph",
+            "lastname": "R\u00e9zeau",
+            "url": "https://moodle.org/user/profile.php?id=20216"
+        },
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

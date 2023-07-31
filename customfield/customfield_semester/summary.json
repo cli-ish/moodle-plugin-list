@@ -1,0 +1,56 @@
+{
+    "id": 3033,
+    "index": 1260,
+    "name": "Semesterfield",
+    "frankenstyle": "customfield_semester",
+    "plugintype": {
+        "type": "customfield",
+        "name": "Custom field"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/customfield_semester",
+    "shortdescription": "Courses have an additional field, saving the semester.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 November 2022, 1:43 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-09T01:43:40+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "22",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3033/Screenshot%20from%202022-11-08%2018-47-47.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3033/Screenshot%20from%202022-11-08%2018-49-03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 2095586,
+            "firstname": "Nina",
+            "lastname": "Herrmann",
+            "url": "https://moodle.org/user/profile.php?id=2095586"
+        },
+        {
+            "id": 3540996,
+            "firstname": "Justus",
+            "lastname": "Dieckmann",
+            "url": "https://moodle.org/user/profile.php?id=3540996"
+        }
+    ],
+    "descriptors": []
+}

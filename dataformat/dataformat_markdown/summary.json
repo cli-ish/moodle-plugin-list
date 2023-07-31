@@ -1,0 +1,55 @@
+{
+    "id": 1646,
+    "index": 835,
+    "name": "Markdown dataformat",
+    "frankenstyle": "dataformat_markdown",
+    "plugintype": {
+        "type": "dataformat",
+        "name": "Data format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/dataformat_markdown",
+    "shortdescription": "This plugin makes Markdown tables available as a dataformat export option.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 June 2020, 2:25 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-16T02:25:35+08:00"
+    },
+    "aggsites": "65",
+    "aggdownloads": "116",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1646/dataformat_markdown-installed.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1646/example-output.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

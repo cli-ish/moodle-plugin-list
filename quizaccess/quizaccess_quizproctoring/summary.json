@@ -1,0 +1,46 @@
+{
+    "id": 2766,
+    "index": 568,
+    "name": "Proctoring quiz access rule",
+    "frankenstyle": "quizaccess_quizproctoring",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_quizproctoring",
+    "shortdescription": "Proctoring quiz access rule plugin offers quiz surveillance through the proctoring interface. It helps in a candidate\u2019s identity verification and proves fruitful in generating warnings for unfair participation.\r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 April 2023, 7:48 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-18T19:48:48+08:00"
+    },
+    "aggsites": "23",
+    "aggdownloads": "208",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2766/q%201.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2766/q%201.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2766/fotor_2023-4-25_21_52_12.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4321471,
+            "firstname": "Take2",
+            "lastname": "Technologies",
+            "url": "https://moodle.org/user/profile.php?id=4321471"
+        },
+        {
+            "id": 4026232,
+            "firstname": "Asha",
+            "lastname": "Yadav",
+            "url": "https://moodle.org/user/profile.php?id=4026232"
+        }
+    ],
+    "descriptors": []
+}

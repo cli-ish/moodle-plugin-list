@@ -1,0 +1,53 @@
+{
+    "id": 2899,
+    "index": 798,
+    "name": "Blocks Manager",
+    "frankenstyle": "tool_blocksmanager",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_blocksmanager",
+    "shortdescription": "An admin tool that allows you to control a block layout across units.\r\n",
+    "timelastreleased": {
+        "absdate": "Saturday, 6 May 2023, 11:05 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-06T11:05:29+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "124",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2899/block1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2899/block2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2899/block3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 1608390,
+            "firstname": "Dmitrii",
+            "lastname": "Metelkin",
+            "url": "https://moodle.org/user/profile.php?id=1608390"
+        }
+    ],
+    "descriptors": []
+}

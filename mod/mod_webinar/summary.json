@@ -1,0 +1,60 @@
+{
+    "id": 404,
+    "index": 1094,
+    "name": "Webinar",
+    "frankenstyle": "mod_webinar",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_webinar",
+    "shortdescription": "Enables web conferencing between Moodle and Adobe Connect to be added as an activity to any course.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 May 2014, 10:57 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-22T22:57:09+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "39",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/404/webinar-demo-1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/404/webinar-demo-2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/404/webinar-demo-3.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1473423,
+            "firstname": "Joe",
+            "lastname": "Barber",
+            "url": "https://moodle.org/user/profile.php?id=1473423"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

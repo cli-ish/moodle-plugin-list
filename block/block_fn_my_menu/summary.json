@@ -1,0 +1,44 @@
+{
+    "id": 533,
+    "index": 1680,
+    "name": "FN - My Menu (Simple Navigation Block)",
+    "frankenstyle": "block_fn_my_menu",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_fn_my_menu",
+    "shortdescription": "A simple navigation block for use as an alternative to default navigation block. After install, don't forget to hide the default Navigation block from students (but not teachers/course admins)",
+    "timelastreleased": {
+        "absdate": "Thursday, 3 October 2013, 11:32 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-10-03T11:32:35+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "7",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/533/fn_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/533/fn_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/533/screenshot1.gif?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/533/screenshot2.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2459954,
+            "firstname": "Fern",
+            "lastname": "Oliveira",
+            "url": "https://moodle.org/user/profile.php?id=2459954"
+        }
+    ],
+    "descriptors": []
+}

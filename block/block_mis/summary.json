@@ -1,0 +1,61 @@
+{
+    "id": 244,
+    "index": 1579,
+    "name": "Parental Portal",
+    "frankenstyle": "block_mis",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mis",
+    "shortdescription": "Supports Moodle 2.3 - 2.6, using YUI2in3. This plugin is a fork of the original MIS plugin for Moodle 1.9 by Guy Thomas / Alan Hardy.\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 9 May 2013, 8:33 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-09T20:33:42+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "9",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/244/misscreenshot.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/244/misscreenshot2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/244/misscreenshot3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/244/misscreenshot4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 861594,
+            "firstname": "Marc",
+            "lastname": "Coyles",
+            "url": "https://moodle.org/user/profile.php?id=861594"
+        },
+        {
+            "id": 579088,
+            "firstname": "Tim",
+            "lastname": "Bateson",
+            "url": "https://moodle.org/user/profile.php?id=579088"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Mentor"
+        }
+    ]
+}

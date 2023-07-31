@@ -1,0 +1,45 @@
+{
+    "id": 561,
+    "index": 309,
+    "name": "Course element",
+    "frankenstyle": "mod_customlabel",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_customlabel",
+    "shortdescription": "Course elements is a content strategy to improve course writing quality and editorial stability by providing preshaped pedagogic elements. The integrator or administrator (through custom CSS rules) can take over the styling of the elements. Some elements can have local dynamic behaviour, or have an internal logic strategy based on other data of Moodle.\r\n\r\nThis plugin is supported by ActiveProLearn SAS.",
+    "timelastreleased": {
+        "absdate": "Friday, 9 June 2023, 3:02 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-09T15:02:05+08:00"
+    },
+    "aggsites": "156",
+    "aggdownloads": "428",
+    "aggfavs": "38",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/561/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/561/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/561/course_elements_teaser.jog.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

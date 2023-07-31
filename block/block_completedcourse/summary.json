@@ -1,0 +1,52 @@
+{
+    "id": 3012,
+    "index": 1499,
+    "name": "Completed Course",
+    "frankenstyle": "block_completedcourse",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_completedcourse",
+    "shortdescription": "A block plugin for Moodle to display completed courses by each user.",
+    "timelastreleased": {
+        "absdate": "Friday, 4 November 2022, 3:05 PM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-04T15:05:46+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "11",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3012/pukunui_lrg_v_ma.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3012/pukunui_lrg_v_ma.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3012/112.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4136132,
+            "firstname": "Tengku Alauddin",
+            "lastname": "Tengku Amir Hamzah",
+            "url": "https://moodle.org/user/profile.php?id=4136132"
+        },
+        {
+            "id": 121167,
+            "firstname": "Vinny",
+            "lastname": "Stocker",
+            "url": "https://moodle.org/user/profile.php?id=121167"
+        },
+        {
+            "id": 11995,
+            "firstname": "Shane",
+            "lastname": "Elliott",
+            "url": "https://moodle.org/user/profile.php?id=11995"
+        }
+    ],
+    "descriptors": []
+}

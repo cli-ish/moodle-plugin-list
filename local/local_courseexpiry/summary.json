@@ -1,0 +1,52 @@
+{
+    "id": 2746,
+    "index": 2060,
+    "name": "Course Expiry",
+    "frankenstyle": "local_courseexpiry",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_courseexpiry",
+    "shortdescription": "This moodle plugin monitors all courses and schedules expired courses (identified by courses enddate) for deletion.\r\n\r\nEditingteachers of courses are notified about the scheduled deletion and can postpone the deletion.",
+    "timelastreleased": {
+        "absdate": "Saturday, 7 August 2021, 6:09 AM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-07T06:09:07+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "1",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2746/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2746/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2746/expired-courses.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        },
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        },
+        {
+            "id": 2827819,
+            "firstname": "Zentrum f\u00fcr",
+            "lastname": "Lernmanagement",
+            "url": "https://moodle.org/user/profile.php?id=2827819"
+        }
+    ],
+    "descriptors": []
+}

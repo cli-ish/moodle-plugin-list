@@ -1,0 +1,51 @@
+{
+    "id": 168,
+    "index": 308,
+    "name": "Facetoface",
+    "frankenstyle": "mod_facetoface",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_facetoface",
+    "shortdescription": "Face-to-face activities are used to keep track of in-person (e.g. classroom) trainings which require advance booking.\r\n\r\nEach activity is offered in one or more identical sessions. These sessions can be given over multiple days.\r\n\r\nReminder messages are sent to users and their managers a few days before the session is scheduled to start. Confirmation messages are sent when users sign-up for a session or cancel.\r\n\r\nThis module may be of interest to administrators looking for a way to provide event management support for blended learning environments.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 November 2021, 12:38 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-30T12:38:02+08:00"
+    },
+    "aggsites": "1339",
+    "aggdownloads": "428",
+    "aggfavs": "91",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/168/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/168/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/168/facetofacecoursepage.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 369,
+    "index": 1072,
+    "name": "Flexpage format",
+    "frankenstyle": "format_flexpage",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_flexpage",
+    "shortdescription": "Moodlerooms is proud to release Flexpage, a course format that provides a teacher with complete control over how educational materials and assessments are presented to a student. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 July 2017, 10:18 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-07-18T22:18:45+08:00"
+    },
+    "aggsites": "54",
+    "aggdownloads": "41",
+    "aggfavs": "19",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/369/flexpage_format.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,47 @@
+{
+    "id": 2243,
+    "index": 462,
+    "name": "Backup and Restore Command-Line Interface",
+    "frankenstyle": "tool_brcli",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_brcli",
+    "shortdescription": "BrCLI (Backup & Restore Command-Line Interface) is a plug-in integrated in Moodle that allows administrators to backup and restore courses via a command line interface.",
+    "timelastreleased": {
+        "absdate": "Friday, 15 March 2019, 7:09 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-03-15T19:09:02+08:00"
+    },
+    "aggsites": "1062",
+    "aggdownloads": "256",
+    "aggfavs": "27",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2243/Captura%20de%20tela%20de%202019-02-18%2015-44-55.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2243/Captura%20de%20tela%20de%202019-02-18%2015-45-20.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2243/Captura%20de%20tela%20de%202019-02-18%2015-46-13.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2249730,
+            "firstname": "Paulo",
+            "lastname": "J\u00fanior",
+            "url": "https://moodle.org/user/profile.php?id=2249730"
+        }
+    ],
+    "descriptors": []
+}

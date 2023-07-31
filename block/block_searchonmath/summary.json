@@ -1,0 +1,59 @@
+{
+    "id": 1339,
+    "index": 2077,
+    "name": "Search On Math",
+    "frankenstyle": "block_searchonmath",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_searchonmath",
+    "shortdescription": "Just move your mouse over the desired formula, and a button for this search will pop up. More info at searchonmath.com/extensions.",
+    "timelastreleased": {
+        "absdate": "Thursday, 12 February 2015, 3:20 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-02-12T03:20:19+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "1",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1339/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1339/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1339/moodle.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1339/SearchOnMath.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1901121,
+            "firstname": "SearchOnMath",
+            "lastname": "Company",
+            "url": "https://moodle.org/user/profile.php?id=1901121"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

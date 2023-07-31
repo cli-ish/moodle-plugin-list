@@ -1,0 +1,59 @@
+{
+    "id": 3009,
+    "index": 749,
+    "name": "Temporary access",
+    "frankenstyle": "enrol_temporaryaccess",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_temporaryaccess",
+    "shortdescription": "An enrolment method that features:\r\n- temporary access to a course without real enrolment,\r\n- giving a defined role for a temporary period (like guest access),\r\n- can be limited to users with some specified capabilities.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 June 2023, 10:48 PM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-20T22:48:16+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "134",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3009/enrolicon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3009/enrolicon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3009/customiconsetting.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3009/editform.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3009/form_nocapability.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3009/form_password.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3009/returntoenrol.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3009/swapback.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3009/tempswap.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

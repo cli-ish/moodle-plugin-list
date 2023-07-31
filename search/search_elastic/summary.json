@@ -1,0 +1,40 @@
+{
+    "id": 1801,
+    "index": 457,
+    "name": "Elastic",
+    "frankenstyle": "search_elastic",
+    "plugintype": {
+        "type": "search",
+        "name": "Search engine"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/search_elastic",
+    "shortdescription": "This plugin allows Moodle to use Elasticsearch as the search engine for Moodle's Global Search.\r\nThe following features are provided by this plugin:  Multiple versions of Elasticsearch,  File indexing,  Request signing, compatible with Amazon Web Services (AWS),  Respects Moodle Proxy settings, Image recognition and webservices.\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 6 February 2023, 8:15 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-06T08:15:13+08:00"
+    },
+    "aggsites": "165",
+    "aggdownloads": "259",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1801/8E709C7D-AC2F-4000-A3F6-CEE968167E23-2912-000004B9E98CC29C_tmp.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1801/8E709C7D-AC2F-4000-A3F6-CEE968167E23-2912-000004B9E98CC29C_tmp.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1801/search_1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

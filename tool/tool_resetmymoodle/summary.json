@@ -1,0 +1,44 @@
+{
+    "id": 1133,
+    "index": 1708,
+    "name": "Reset MyMoodle",
+    "frankenstyle": "tool_resetmymoodle",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_resetmymoodle",
+    "shortdescription": "This tool allows reset all MyMoodle Users except main admin. Is for admins.",
+    "timelastreleased": {
+        "absdate": "Friday, 26 February 2016, 3:25 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-02-26T15:25:55+08:00"
+    },
+    "aggsites": "51",
+    "aggdownloads": "6",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1133/Reset1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1133/Reset2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 747698,
+            "firstname": "Carlos",
+            "lastname": "Escobedo",
+            "url": "https://moodle.org/user/profile.php?id=747698"
+        }
+    ],
+    "descriptors": []
+}

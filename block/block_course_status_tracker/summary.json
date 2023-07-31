@@ -1,0 +1,52 @@
+{
+    "id": 800,
+    "index": 1192,
+    "name": "Course Status Tracker",
+    "frankenstyle": "block_course_status_tracker",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_status_tracker",
+    "shortdescription": "A plugin to track the status of enrolled & completed course of student.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 7 June 2017, 3:03 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-06-07T15:03:49+08:00"
+    },
+    "aggsites": "184",
+    "aggdownloads": "27",
+    "aggfavs": "34",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/800/1.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/800/1.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/800/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/800/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/800/3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1624279,
+            "firstname": "3i Logic",
+            "lastname": "LMS",
+            "url": "https://moodle.org/user/profile.php?id=1624279"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

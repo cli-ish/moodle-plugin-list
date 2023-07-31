@@ -1,0 +1,45 @@
+{
+    "id": 129,
+    "index": 278,
+    "name": "Flash Card Set",
+    "frankenstyle": "mod_flashcard",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_flashcard",
+    "shortdescription": "Flashcards",
+    "timelastreleased": {
+        "absdate": "Friday, 9 June 2023, 4:58 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-09T16:58:28+08:00"
+    },
+    "aggsites": "704",
+    "aggdownloads": "463",
+    "aggfavs": "41",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/129/check_sets_en.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

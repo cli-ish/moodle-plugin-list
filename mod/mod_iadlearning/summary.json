@@ -1,0 +1,59 @@
+{
+    "id": 1800,
+    "index": 1735,
+    "name": "IADLearning",
+    "frankenstyle": "mod_iadlearning",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_iadlearning",
+    "shortdescription": "This plugin grants access to adaptive learning content created with IADLearning.\r\nTraining content is browsed using a concept map showing the course structure as well as the relationships between the different course sections. Students get personalized content recommendations based on their profile and on the cumulative experience of other students that already went through the same materials.\r\nTeachers and institutions get access to a set of predictive analytics that allow for a proactive action on ongoing learning processes.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 January 2018, 11:35 PM",
+        "reldate": "6 years",
+        "iso8601date": "2018-01-23T23:35:36+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "6",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1800/IADLearning%20logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1800/IADLearning%20logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1800/Concept%20Map.%20Semantics%20II.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1800/Concept-map-1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1800/Recommended%20Content.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1800/Recommended%20Pathway.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1800/Z_Analytics%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1800/Z_Analytics%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1800/Z_Analytics%203.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1805839,
+            "firstname": "Jos\u00e9 Antonio",
+            "lastname": "Omedes Capdevila",
+            "url": "https://moodle.org/user/profile.php?id=1805839"
+        }
+    ],
+    "descriptors": []
+}

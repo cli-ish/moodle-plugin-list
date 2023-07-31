@@ -1,0 +1,46 @@
+{
+    "id": 1851,
+    "index": 125,
+    "name": "Profile field based cohort membership",
+    "frankenstyle": "local_profilecohort",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_profilecohort",
+    "shortdescription": "Moodle plugin which lets admins manage cohort memberships based on users' custom profile fields",
+    "timelastreleased": {
+        "absdate": "Monday, 1 May 2023, 4:12 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-01T04:12:35+08:00"
+    },
+    "aggsites": "1766",
+    "aggdownloads": "953",
+    "aggfavs": "92",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1851/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1851/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1851/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

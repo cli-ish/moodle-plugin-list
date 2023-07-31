@@ -1,0 +1,40 @@
+{
+    "id": 2617,
+    "index": 1595,
+    "name": "Notify Cohorts",
+    "frankenstyle": "local_notifycohorts",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_notifycohorts",
+    "shortdescription": "Send custom notifications to members of selected cohorts",
+    "timelastreleased": {
+        "absdate": "Tuesday, 22 June 2021, 11:10 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-22T23:10:03+08:00"
+    },
+    "aggsites": "73",
+    "aggdownloads": "8",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2617/Screenshot%20from%202021-01-14%2010-37-44.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": []
+}

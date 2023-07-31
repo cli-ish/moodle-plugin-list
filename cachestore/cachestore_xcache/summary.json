@@ -1,0 +1,45 @@
+{
+    "id": 542,
+    "index": 1743,
+    "name": "XCache",
+    "frankenstyle": "cachestore_xcache",
+    "plugintype": {
+        "type": "cachestore",
+        "name": "Cache store"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/cachestore_xcache",
+    "shortdescription": "XCache is a PHP opcode cacher designed to accelerate the performance of PHP execution. One of the features it provides is a variable data store that can be used within PHP code to persist variables between requests.\r\nThis plugin is an XCache cache store designed to utilise that variable data store and allow Moodle to make better use of XCache.",
+    "timelastreleased": {
+        "absdate": "Friday, 12 April 2013, 7:24 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-12T07:24:39+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "6",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 865279,
+            "firstname": "Sam",
+            "lastname": "Hemelryk",
+            "url": "https://moodle.org/user/profile.php?id=865279"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

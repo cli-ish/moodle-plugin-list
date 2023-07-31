@@ -1,0 +1,67 @@
+[
+    {
+        "id": "24505",
+        "name": "1.3.0-for-moodle-2.7-3.11-build-2021062100",
+        "url": "https://moodle.org/plugins/download.php/24505/atto_morefontcolors_moodle36_2022100709.zip"
+    },
+    {
+        "id": "17254",
+        "name": "1.2.9-for-moodle-2.7-3.5-build-2018050202",
+        "url": "https://moodle.org/plugins/download.php/17254/atto_morefontcolors_moodle29_2012061015.zip"
+    },
+    {
+        "id": "16927",
+        "name": "1.2.8-for-moodle-2.7-3.5-build-2018050201",
+        "url": "https://moodle.org/plugins/download.php/16927/atto_morefontcolors_moodle35_2012011020.zip"
+    },
+    {
+        "id": "16535",
+        "name": "1.2.7-for-moodle-2.7-3.5-build-2018050200",
+        "url": "https://moodle.org/plugins/download.php/16535/atto_morefontcolors_moodle35_2018030511.zip"
+    },
+    {
+        "id": "16052",
+        "name": "1.2.6-for-moodle-2.7-3.4-build-2018021500",
+        "url": "https://moodle.org/plugins/download.php/16052/atto_morefontcolors_moodle31_2011090410.zip"
+    },
+    {
+        "id": "13911",
+        "name": "1.2.5-for-moodle-2.7-3.3-build-2017050100",
+        "url": "https://moodle.org/plugins/download.php/13911/atto_morefontcolors_moodle33_2021061215.zip"
+    },
+    {
+        "id": "12737",
+        "name": "1.2.4-for-moodle-2.7-3.2-build-2016113000",
+        "url": "https://moodle.org/plugins/download.php/12737/atto_morefontcolors_moodle38_2016080911.zip"
+    },
+    {
+        "id": "11735",
+        "name": "1.2.3-for-moodle-2.7-3.1-build-2016070100",
+        "url": "https://moodle.org/plugins/download.php/11735/atto_morefontcolors_moodle30_2019100306.zip"
+    },
+    {
+        "id": "10220",
+        "name": "1.2.2-for-moodle-2.7-3.0-build-2016010600",
+        "url": "https://moodle.org/plugins/download.php/10220/atto_morefontcolors_moodle32_2021080817.zip"
+    },
+    {
+        "id": "9860",
+        "name": "1.2.1-for-moodle-2.7-2.9",
+        "url": "https://moodle.org/plugins/download.php/9860/atto_morefontcolors_moodle34_2017090202.zip"
+    },
+    {
+        "id": "9494",
+        "name": "1.2-for-moodle-2.7-2.9",
+        "url": "https://moodle.org/plugins/download.php/9494/atto_morefontcolors_moodle33_2013120517.zip"
+    },
+    {
+        "id": "7700",
+        "name": "1.0-for-moodle-2.7-2.8",
+        "url": "https://moodle.org/plugins/download.php/7700/atto_morefontcolors_moodle27_2014010106.zip"
+    },
+    {
+        "id": "7024",
+        "name": "1.0-rc",
+        "url": "https://moodle.org/plugins/download.php/7024/atto_morefontcolors_moodle35_2012030100.zip"
+    }
+]

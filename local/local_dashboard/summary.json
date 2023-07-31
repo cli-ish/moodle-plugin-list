@@ -1,0 +1,40 @@
+{
+    "id": 1444,
+    "index": 1645,
+    "name": "KT Dashboard",
+    "frankenstyle": "local_dashboard",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_dashboard",
+    "shortdescription": "A simple dashboard plugin which  creates a new dashboard for Moodle to access the various blocks present in an easy way.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 27 April 2016, 3:05 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-27T03:05:35+08:00"
+    },
+    "aggsites": "409",
+    "aggdownloads": "7",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1444/KTree_Dashboard_Home.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1965047,
+            "firstname": "KT",
+            "lastname": "Learning",
+            "url": "https://moodle.org/user/profile.php?id=1965047"
+        }
+    ],
+    "descriptors": []
+}

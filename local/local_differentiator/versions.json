@@ -1,0 +1,72 @@
+[
+    {
+        "id": "28298",
+        "name": "v4.1-r1",
+        "url": "https://moodle.org/plugins/download.php/28298/local_differentiator_moodle32_2011040806.zip"
+    },
+    {
+        "id": "24938",
+        "name": "v3.11-r1",
+        "url": "https://moodle.org/plugins/download.php/24938/local_differentiator_moodle25_2021021112.zip"
+    },
+    {
+        "id": "21681",
+        "name": "1.4.3",
+        "url": "https://moodle.org/plugins/download.php/21681/local_differentiator_moodle35_2022120213.zip"
+    },
+    {
+        "id": "21620",
+        "name": "1.4.2",
+        "url": "https://moodle.org/plugins/download.php/21620/local_differentiator_moodle38_2017020502.zip"
+    },
+    {
+        "id": "21287",
+        "name": "1.4.1",
+        "url": "https://moodle.org/plugins/download.php/21287/local_differentiator_moodle28_2015040713.zip"
+    },
+    {
+        "id": "20981",
+        "name": "1.4.0",
+        "url": "https://moodle.org/plugins/download.php/20981/local_differentiator_moodle26_2016060211.zip"
+    },
+    {
+        "id": "20849",
+        "name": "1.3.0",
+        "url": "https://moodle.org/plugins/download.php/20849/local_differentiator_moodle32_2018070420.zip"
+    },
+    {
+        "id": "20847",
+        "name": "1.2.3",
+        "url": "https://moodle.org/plugins/download.php/20847/local_differentiator_moodle32_2018090118.zip"
+    },
+    {
+        "id": "20846",
+        "name": "1.2.2",
+        "url": "https://moodle.org/plugins/download.php/20846/local_differentiator_moodle38_2011111214.zip"
+    },
+    {
+        "id": "20843",
+        "name": "1.2.1",
+        "url": "https://moodle.org/plugins/download.php/20843/local_differentiator_moodle34_2011100416.zip"
+    },
+    {
+        "id": "20842",
+        "name": "1.2.0",
+        "url": "https://moodle.org/plugins/download.php/20842/local_differentiator_moodle34_2021060115.zip"
+    },
+    {
+        "id": "20839",
+        "name": "1.1.1",
+        "url": "https://moodle.org/plugins/download.php/20839/local_differentiator_moodle29_2021120110.zip"
+    },
+    {
+        "id": "20837",
+        "name": "1.1.0",
+        "url": "https://moodle.org/plugins/download.php/20837/local_differentiator_moodle28_2010030408.zip"
+    },
+    {
+        "id": "20359",
+        "name": "1.0.0",
+        "url": "https://moodle.org/plugins/download.php/20359/local_differentiator_moodle27_2019030909.zip"
+    }
+]

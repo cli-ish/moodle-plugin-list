@@ -1,0 +1,61 @@
+{
+    "id": 1422,
+    "index": 1772,
+    "name": "Allocation form",
+    "frankenstyle": "mod_allocationform",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_allocationform",
+    "shortdescription": "The Allocation form module is designed to allow instructors of a course to create slots that the students can sign themselves up to.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 May 2021, 4:39 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-27T16:39:35+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "5",
+    "aggfavs": "18",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1422/logo?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1422/logo?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1422/1624387404-Allocation%20form%20update.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1422/Allocationform_1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1422/Allocationform_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1422/allocationform_amending.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1805510,
+            "firstname": "The University",
+            "lastname": "of Nottingham",
+            "url": "https://moodle.org/user/profile.php?id=1805510"
+        },
+        {
+            "id": 1457891,
+            "firstname": "Neill",
+            "lastname": "Magill",
+            "url": "https://moodle.org/user/profile.php?id=1457891"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

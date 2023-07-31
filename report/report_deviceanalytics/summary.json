@@ -1,0 +1,55 @@
+{
+    "id": 1621,
+    "index": 1151,
+    "name": "Device Analytics",
+    "frankenstyle": "report_deviceanalytics",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_deviceanalytics",
+    "shortdescription": "The device analytics plugin provides the administrator a quick overview of the users used devices. It stores various data of the devices, every time a user logged in.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 May 2016, 4:53 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-05-18T16:53:45+08:00"
+    },
+    "aggsites": "129",
+    "aggdownloads": "31",
+    "aggfavs": "23",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1621/da_screen_1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1621/da_screen_2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1621/da_screen_3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1621/da_screen_4.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2031915,
+            "firstname": "Mark",
+            "lastname": "Heumueller",
+            "url": "https://moodle.org/user/profile.php?id=2031915"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

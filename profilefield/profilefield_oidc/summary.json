@@ -1,0 +1,58 @@
+{
+    "id": 1336,
+    "index": 1383,
+    "name": "OpenIDConnect Management",
+    "frankenstyle": "profilefield_oidc",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_oidc",
+    "shortdescription": "This plugin provides a link in users' profiles to access OpenID Connect management functions.  **This plugin has been replaced by the Microsoft Block**",
+    "timelastreleased": {
+        "absdate": "Wednesday, 3 June 2015, 12:04 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-06-03T00:04:42+08:00"
+    },
+    "aggsites": "75",
+    "aggdownloads": "15",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1336/msscreenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1540471,
+            "firstname": "Enovation",
+            "lastname": "Dev Team",
+            "url": "https://moodle.org/user/profile.php?id=1540471"
+        },
+        {
+            "id": 1835508,
+            "firstname": "James",
+            "lastname": "McQuillan",
+            "url": "https://moodle.org/user/profile.php?id=1835508"
+        },
+        {
+            "id": 1977124,
+            "firstname": "Zion",
+            "lastname": "Brewer",
+            "url": "https://moodle.org/user/profile.php?id=1977124"
+        },
+        {
+            "id": 1937202,
+            "firstname": "Nima",
+            "lastname": "Mojgani",
+            "url": "https://moodle.org/user/profile.php?id=1937202"
+        }
+    ],
+    "descriptors": []
+}

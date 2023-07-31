@@ -1,0 +1,40 @@
+{
+    "id": 2732,
+    "index": 1668,
+    "name": "Good Habits Activity",
+    "frankenstyle": "mod_goodhabits",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_goodhabits",
+    "shortdescription": "The intention of this plugin is to help track habits over time. Within an e-learning context this may help cultivate behaviours that improve learning outcomes.",
+    "timelastreleased": {
+        "absdate": "Saturday, 4 September 2021, 1:51 AM",
+        "reldate": "23 months",
+        "iso8601date": "2021-09-04T01:51:35+08:00"
+    },
+    "aggsites": "33",
+    "aggdownloads": "7",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2732/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2732/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2732/Capture%20good%20habits%202.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1290591,
+            "firstname": "Joe",
+            "lastname": "Cape",
+            "url": "https://moodle.org/user/profile.php?id=1290591"
+        }
+    ],
+    "descriptors": []
+}

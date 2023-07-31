@@ -1,0 +1,46 @@
+{
+    "id": 2228,
+    "index": 31,
+    "name": "Microsoft 365 Teams Theme",
+    "frankenstyle": "theme_boost_o365teams",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_boost_o365teams",
+    "shortdescription": "This theme is used with the Microsoft 365 Teams Integration to display Moodle seamlessly within a Teams environment. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 28 June 2023, 6:48 PM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-28T18:48:19+08:00"
+    },
+    "aggsites": "2406",
+    "aggdownloads": "2k",
+    "aggfavs": "60",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2228/teams_app.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1540471,
+            "firstname": "Enovation",
+            "lastname": "Dev Team",
+            "url": "https://moodle.org/user/profile.php?id=1540471"
+        },
+        {
+            "id": 1835508,
+            "firstname": "James",
+            "lastname": "McQuillan",
+            "url": "https://moodle.org/user/profile.php?id=1835508"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,47 @@
+{
+    "id": 2339,
+    "index": 1315,
+    "name": "Database Navigation",
+    "frankenstyle": "tool_navdb",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_navdb",
+    "shortdescription": "Database Navigation (tool_navdb) is a database browsing plugin for Moodle. This plugin is designed especially for Moodle's DB structure and adds some practical tools. Some improvements are virtual foreign keys links, and contextual dropdown menus depending on the table, bookmarked table list and an interactive SQL filter editor.",
+    "timelastreleased": {
+        "absdate": "Monday, 9 September 2019, 10:53 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-09-09T22:53:27+08:00"
+    },
+    "aggsites": "96",
+    "aggdownloads": "18",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2339/Selecci%C3%B3_478.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2339/Selecci%C3%B3_479.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2339/Selecci%C3%B3_480.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 57216,
+            "firstname": "Ferran",
+            "lastname": "Recio Calder\u00f3",
+            "url": "https://moodle.org/user/profile.php?id=57216"
+        }
+    ],
+    "descriptors": []
+}

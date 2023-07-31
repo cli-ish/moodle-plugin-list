@@ -1,0 +1,44 @@
+{
+    "id": 1136,
+    "index": 1474,
+    "name": "Auth Development tools",
+    "frankenstyle": "auth_dev",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_dev",
+    "shortdescription": "This plugin allow a user not logout when this user has loginas. \r\nIt's useful to developers and main administrators.",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 May 2018, 4:27 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-17T04:27:28+08:00"
+    },
+    "aggsites": "74",
+    "aggdownloads": "12",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1136/authdev31_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1136/authdev31.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 747698,
+            "firstname": "Carlos",
+            "lastname": "Escobedo",
+            "url": "https://moodle.org/user/profile.php?id=747698"
+        }
+    ],
+    "descriptors": []
+}

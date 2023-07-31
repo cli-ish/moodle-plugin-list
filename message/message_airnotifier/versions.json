@@ -1,0 +1,67 @@
+[
+    {
+        "id": "7813",
+        "name": "2.6.3",
+        "url": "https://moodle.org/plugins/download.php/7813/message_airnotifier_moodle33_2021021017.zip"
+    },
+    {
+        "id": "7812",
+        "name": "2.5.3",
+        "url": "https://moodle.org/plugins/download.php/7812/message_airnotifier_moodle39_2018071211.zip"
+    },
+    {
+        "id": "7811",
+        "name": "2.4.3",
+        "url": "https://moodle.org/plugins/download.php/7811/message_airnotifier_moodle28_2022090411.zip"
+    },
+    {
+        "id": "7175",
+        "name": "2.6.2",
+        "url": "https://moodle.org/plugins/download.php/7175/message_airnotifier_moodle37_2018040605.zip"
+    },
+    {
+        "id": "6797",
+        "name": "2.6.1",
+        "url": "https://moodle.org/plugins/download.php/6797/message_airnotifier_moodle27_2021061007.zip"
+    },
+    {
+        "id": "6020",
+        "name": "2.6.0",
+        "url": "https://moodle.org/plugins/download.php/6020/message_airnotifier_moodle32_2017070401.zip"
+    },
+    {
+        "id": "5518",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/5518/message_airnotifier_moodle25_2018050313.zip"
+    },
+    {
+        "id": "7174",
+        "name": "2.5.2",
+        "url": "https://moodle.org/plugins/download.php/7174/message_airnotifier_moodle33_2014050900.zip"
+    },
+    {
+        "id": "6796",
+        "name": "2.5.1",
+        "url": "https://moodle.org/plugins/download.php/6796/message_airnotifier_moodle25_2011100320.zip"
+    },
+    {
+        "id": "6263",
+        "name": "2.5.0",
+        "url": "https://moodle.org/plugins/download.php/6263/message_airnotifier_moodle28_2015100403.zip"
+    },
+    {
+        "id": "7173",
+        "name": "2.4.2",
+        "url": "https://moodle.org/plugins/download.php/7173/message_airnotifier_moodle33_2013070612.zip"
+    },
+    {
+        "id": "6795",
+        "name": "2.4.1",
+        "url": "https://moodle.org/plugins/download.php/6795/message_airnotifier_moodle33_2020060617.zip"
+    },
+    {
+        "id": "6262",
+        "name": "2.4.0",
+        "url": "https://moodle.org/plugins/download.php/6262/message_airnotifier_moodle28_2013040818.zip"
+    }
+]

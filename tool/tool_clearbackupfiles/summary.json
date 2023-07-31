@@ -1,0 +1,40 @@
+{
+    "id": 2426,
+    "index": 446,
+    "name": "Clear Backup Files",
+    "frankenstyle": "tool_clearbackupfiles",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_clearbackupfiles",
+    "shortdescription": "Course backups can be an expensive task at times. It could take loads of unnecessary space and memory on the server. Administrators can clear backup files on the server  to free the server space.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 December 2022, 5:29 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-12-14T05:29:47+08:00"
+    },
+    "aggsites": "482",
+    "aggdownloads": "270",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2426/Untitled.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2426/Untitled.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2426/Untitled.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2644943,
+            "firstname": "Shubhendra",
+            "lastname": "Doiphode",
+            "url": "https://moodle.org/user/profile.php?id=2644943"
+        }
+    ],
+    "descriptors": []
+}

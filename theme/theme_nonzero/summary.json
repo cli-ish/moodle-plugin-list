@@ -1,0 +1,45 @@
+{
+    "id": 1087,
+    "index": 1834,
+    "name": "Nonzero",
+    "frankenstyle": "theme_nonzero",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_nonzero",
+    "shortdescription": "This theme was part of the Moodle core distribution, but for Moodle 2.7+ has been moved to Moodle Plugins\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 14 April 2014, 1:29 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-14T13:29:30+08:00"
+    },
+    "aggsites": "71",
+    "aggdownloads": "4",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1087/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

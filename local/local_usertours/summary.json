@@ -1,0 +1,62 @@
+{
+    "id": 1647,
+    "index": 1342,
+    "name": "User Tours",
+    "frankenstyle": "local_usertours",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_usertours",
+    "shortdescription": "This Moodle plugin allows administrators to create tours of Moodle to introduce new features, important information, and more.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 August 2016, 2:31 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-30T14:31:17+08:00"
+    },
+    "aggsites": "85",
+    "aggdownloads": "17",
+    "aggfavs": "58",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1647/Screenshot_2016-06-22_22-41-20.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1647/Screenshot_2016-06-22_22-39-39.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1647/usertour_steps_page.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 268794,
+            "firstname": "Andrew",
+            "lastname": "Lyons",
+            "url": "https://moodle.org/user/profile.php?id=268794"
+        },
+        {
+            "id": 281671,
+            "firstname": "Gavin",
+            "lastname": "Henrick",
+            "url": "https://moodle.org/user/profile.php?id=281671"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

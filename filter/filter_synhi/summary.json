@@ -1,0 +1,47 @@
+{
+    "id": 2548,
+    "index": 717,
+    "name": "SynHi filter",
+    "frankenstyle": "filter_synhi",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_synhi",
+    "shortdescription": "Syntax highlights 'code' or 'pre' then 'code' tags with either EnlighterJS or SyntaxHighlighter.  Either can be chosen by the administrator with a choice of styles.  Before deciding a 'preview' is shown.",
+    "timelastreleased": {
+        "absdate": "Monday, 10 April 2023, 3:52 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-10T03:52:37+08:00"
+    },
+    "aggsites": "131",
+    "aggdownloads": "142",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2548/SynHi_Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2548/SynHi_Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2548/Screenshot_2020-09-03%20Course%20Code.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2548/Screenshot_2020-09-03%20MooDemo%20Administration%20Plugins%20Filters%20SynHi%20filter.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2548/synhi.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        }
+    ],
+    "descriptors": []
+}

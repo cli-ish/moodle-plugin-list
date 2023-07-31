@@ -1,0 +1,45 @@
+{
+    "id": 899,
+    "index": 1823,
+    "name": "PDF Parts",
+    "frankenstyle": "mod_pdfparts",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_pdfparts",
+    "shortdescription": "The PDF Parts module enables a teacher to provide a set of freely selected pages from a PDF file as a course resource.",
+    "timelastreleased": {
+        "absdate": "Friday, 4 October 2013, 4:45 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-10-04T16:45:39+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "5",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/899/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/899/icon.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 205505,
+            "firstname": "Radu",
+            "lastname": "Dumbr\u0103veanu",
+            "url": "https://moodle.org/user/profile.php?id=205505"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

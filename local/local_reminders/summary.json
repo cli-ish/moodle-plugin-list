@@ -1,0 +1,73 @@
+{
+    "id": 397,
+    "index": 184,
+    "name": "Event Reminders",
+    "frankenstyle": "local_reminders",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_reminders",
+    "shortdescription": "This plugin will automate sending reminders for calendar events.",
+    "timelastreleased": {
+        "absdate": "Sunday, 6 November 2022, 1:53 PM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-06T13:53:22+08:00"
+    },
+    "aggsites": "2564",
+    "aggdownloads": "677",
+    "aggfavs": "142",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/397/bell-icone-9872-128%20copy.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/397/bell-icone-9872-128%20copy.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/397/new-email-format-v2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/397/activity-settings-v2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/397/calendar-event-change-reminder-settings-v2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/397/course-activity-settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/397/customized-email-v25.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/397/email-header-footer-customization.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/397/overdue-email-v2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/397/sample_email_reminder_due.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/397/scheduler-per-activity-v2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/397/settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1240428,
+            "firstname": "Isuru Madushanka",
+            "lastname": "Weerarathna",
+            "url": "https://moodle.org/user/profile.php?id=1240428"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

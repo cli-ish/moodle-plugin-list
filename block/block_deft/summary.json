@@ -1,0 +1,65 @@
+{
+    "id": 2975,
+    "index": 860,
+    "name": "Deft response",
+    "frankenstyle": "block_deft",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_deft",
+    "shortdescription": "Real time communication with Texts,  Choices, Comments, and conference Venues. It is a much better way to use a poll, chat, and audio conference in Moodle.",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 July 2023, 10:23 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-13T10:23:43+08:00"
+    },
+    "aggsites": "106",
+    "aggdownloads": "110",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2975/squarelogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2975/squarelogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2975/venue.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2975/dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2975/Deft%20%E2%80%94%20edit%20choice.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2975/Deft%20%E2%80%94%20live%20choice%20only.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2975/Deft%20%E2%80%94%20text%2C%20choice%20and%20comments.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2975/Deft%20response.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2975/Synced%20display.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1470073,
+            "firstname": "Daniel",
+            "lastname": "Thies",
+            "url": "https://moodle.org/user/profile.php?id=1470073"
+        },
+        {
+            "id": 1553381,
+            "firstname": "Stefan",
+            "lastname": "Scholz",
+            "url": "https://moodle.org/user/profile.php?id=1553381"
+        }
+    ],
+    "descriptors": []
+}

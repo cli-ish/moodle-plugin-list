@@ -1,0 +1,61 @@
+{
+    "id": 1070,
+    "index": 1393,
+    "name": "Aspire resource list",
+    "frankenstyle": "mod_aspirelist",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_aspirelist",
+    "shortdescription": "The Aspire resource list module enables a teacher to include a selection of\r\nresources from associated Talis Aspire resource lists directly within the\r\ncontent of their course.\r\n\r\nPlease note that this plugin depends on a paid subscription to the Talis Aspire reading lists service (http://campus.talisaspire.com/).",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 December 2016, 8:14 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-22T20:14:38+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "15",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1070/book-128.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1070/book-128.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1070/aspirelist_config.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1070/aspirelist_inline.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1070/config_form.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1070/inline_display.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 41888,
+            "firstname": "Tony",
+            "lastname": "Butler",
+            "url": "https://moodle.org/user/profile.php?id=41888"
+        },
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

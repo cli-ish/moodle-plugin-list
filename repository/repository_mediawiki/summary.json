@@ -1,0 +1,45 @@
+{
+    "id": 884,
+    "index": 1617,
+    "name": "Mediawiki",
+    "frankenstyle": "repository_mediawiki",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_mediawiki",
+    "shortdescription": "A repository allowing multiple instances that can each connect to any mediawiki site.",
+    "timelastreleased": {
+        "absdate": "Friday, 17 January 2014, 2:18 PM",
+        "reldate": "10 years",
+        "iso8601date": "2014-01-17T14:18:47+08:00"
+    },
+    "aggsites": "21",
+    "aggdownloads": "8",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/884/Mediawiki_logo_moodle1.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/884/Mediawiki_logo_moodle1.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1146834,
+            "firstname": "Aparup",
+            "lastname": "Banerjee",
+            "url": "https://moodle.org/user/profile.php?id=1146834"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

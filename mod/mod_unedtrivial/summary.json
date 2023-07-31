@@ -1,0 +1,56 @@
+{
+    "id": 1982,
+    "index": 1427,
+    "name": "UNEDTrivial (spaced quizzes)",
+    "frankenstyle": "mod_unedtrivial",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_unedtrivial",
+    "shortdescription": "UNEDTrivial is an activity module that allows the teacher to create tests based on learning concepts like testing effect and spaced education. In addition, UNEDTrivial uses resources related to gamification to increase student engagement.",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 January 2018, 6:32 AM",
+        "reldate": "6 years",
+        "iso8601date": "2018-01-18T06:32:18+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "14",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1982/unedtriviallogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1982/unedtriviallogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1982/sshot1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1982/sshot2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1982/sshot3.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1982/sshot4.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1982/sshot5.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1982/sshot6.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1476270,
+            "firstname": "Juan David",
+            "lastname": "Castell\u00f3n Fuentes",
+            "url": "https://moodle.org/user/profile.php?id=1476270"
+        }
+    ],
+    "descriptors": []
+}

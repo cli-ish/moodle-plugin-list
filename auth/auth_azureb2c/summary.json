@@ -1,0 +1,68 @@
+{
+    "id": 2394,
+    "index": 597,
+    "name": "Azure AD B2C Connect",
+    "frankenstyle": "auth_azureb2c",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_azureb2c",
+    "shortdescription": "The Azure AD B2C Connect plugin provides registering of a new user and single-sign-on functionality using configurable identity providers, scope and custom policies of Azure B2C.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 7 March 2023, 5:30 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-07T17:30:18+08:00"
+    },
+    "aggsites": "90",
+    "aggdownloads": "196",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2394/b2c.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2394/b2c.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2394/Five.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2394/Four.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2394/One.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2394/Register.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2394/setting%201.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2394/setting%202.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2394/setting%203.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2394/sign%20in.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2394/three.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2394/Two.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2062393,
+            "firstname": "Gopal",
+            "lastname": "Sharma",
+            "url": "https://moodle.org/user/profile.php?id=2062393"
+        }
+    ],
+    "descriptors": []
+}

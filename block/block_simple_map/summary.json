@@ -1,0 +1,56 @@
+{
+    "id": 630,
+    "index": 1483,
+    "name": "Simple map",
+    "frankenstyle": "block_simple_map",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_simple_map",
+    "shortdescription": "This block provides a Google map search for places you uploaded via a csv file. For example you can upload a list of libraries of your country and then, the user can find the closest library for the given address of the user.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 December 2016, 3:30 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-14T03:30:36+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "12",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/630/Bildschirmfoto%20vom%202013-02-15%20190524.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/630/add-new-location.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/630/Bildschirmfoto%20vom%202013-02-15%20190649.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Geography"
+        }
+    ]
+}

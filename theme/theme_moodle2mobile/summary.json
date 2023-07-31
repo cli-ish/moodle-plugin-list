@@ -1,0 +1,68 @@
+{
+    "id": 565,
+    "index": 1554,
+    "name": "Moodle2Mobile",
+    "frankenstyle": "theme_moodle2mobile",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_moodle2mobile",
+    "shortdescription": "This theme has been developed for smartphones, compatible with iPhone/iPodtouch/Android 4.x devices. Let us know how it works for you.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 August 2013, 12:29 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-06T00:29:36+08:00"
+    },
+    "aggsites": "134",
+    "aggdownloads": "9",
+    "aggfavs": "27",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/565/ipad_bookmark_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/565/ipad_bookmark_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/565/1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/565/2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/565/3.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/565/4.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/565/screenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 58883,
+            "firstname": "Beto",
+            "lastname": "Castillo Llaque",
+            "url": "https://moodle.org/user/profile.php?id=58883"
+        },
+        {
+            "id": 14707,
+            "firstname": "Carlos",
+            "lastname": "Kiyan Tsunami",
+            "url": "https://moodle.org/user/profile.php?id=14707"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

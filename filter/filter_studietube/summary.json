@@ -1,0 +1,50 @@
+{
+    "id": 2562,
+    "index": 2000,
+    "name": "Studietube iFrame Filter",
+    "frankenstyle": "filter_studietube",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_studietube",
+    "shortdescription": "Part of the Studietube import set, this plugin filters the imported content from students and converts it into an iframe.",
+    "timelastreleased": {
+        "absdate": "Friday, 19 November 2021, 7:25 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-19T19:25:12+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "2",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2562/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2562/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2562/Screen%20Shot%202020-09-22%20at%2010.01.06.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2562/Screen%20Shot%202020-09-22%20at%2010.01.21.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2562/Screen%20Shot%202020-09-22%20at%2010.02.12.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2562/Screen%20Shot%202020-09-22%20at%2010.03.46.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2625093,
+            "firstname": "Damian",
+            "lastname": "Alarcon",
+            "url": "https://moodle.org/user/profile.php?id=2625093"
+        }
+    ],
+    "descriptors": []
+}

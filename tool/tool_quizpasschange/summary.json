@@ -1,0 +1,46 @@
+{
+    "id": 1897,
+    "index": 1476,
+    "name": "Quiz Password Change",
+    "frankenstyle": "tool_quizpasschange",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_quizpasschange",
+    "shortdescription": "Allows admins to change quiz passwords by course.",
+    "timelastreleased": {
+        "absdate": "Saturday, 13 October 2018, 2:18 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-10-13T02:18:40+08:00"
+    },
+    "aggsites": "36",
+    "aggdownloads": "12",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1897/wcln_logo_vector_simple.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1897/wcln_logo_vector_simple.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1897/Screenshot_9.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2263289,
+            "firstname": "Colin",
+            "lastname": "Perepelken",
+            "url": "https://moodle.org/user/profile.php?id=2263289"
+        },
+        {
+            "id": 2830861,
+            "firstname": "Western Canadian",
+            "lastname": "Learning Network",
+            "url": "https://moodle.org/user/profile.php?id=2830861"
+        }
+    ],
+    "descriptors": []
+}

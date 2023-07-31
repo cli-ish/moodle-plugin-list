@@ -1,0 +1,82 @@
+[
+    {
+        "id": "29630",
+        "name": "v4.2.0",
+        "url": "https://moodle.org/plugins/download.php/29630/mod_grouptool_moodle39_2017050917.zip"
+    },
+    {
+        "id": "29626",
+        "name": "v4.1.0",
+        "url": "https://moodle.org/plugins/download.php/29626/mod_grouptool_moodle25_2023041106.zip"
+    },
+    {
+        "id": "28309",
+        "name": "v4.0.2",
+        "url": "https://moodle.org/plugins/download.php/28309/mod_grouptool_moodle37_2016020619.zip"
+    },
+    {
+        "id": "28308",
+        "name": "v3.11.5",
+        "url": "https://moodle.org/plugins/download.php/28308/mod_grouptool_moodle37_2016090814.zip"
+    },
+    {
+        "id": "23400",
+        "name": "v3.10.0",
+        "url": "https://moodle.org/plugins/download.php/23400/mod_grouptool_moodle30_2018010601.zip"
+    },
+    {
+        "id": "22279",
+        "name": "v3.9.0",
+        "url": "https://moodle.org/plugins/download.php/22279/mod_grouptool_moodle26_2016100100.zip"
+    },
+    {
+        "id": "21622",
+        "name": "v3.8.1",
+        "url": "https://moodle.org/plugins/download.php/21622/mod_grouptool_moodle39_2012040502.zip"
+    },
+    {
+        "id": "20099",
+        "name": "v3.7.0",
+        "url": "https://moodle.org/plugins/download.php/20099/mod_grouptool_moodle37_2019090919.zip"
+    },
+    {
+        "id": "18993",
+        "name": "v3.6.0",
+        "url": "https://moodle.org/plugins/download.php/18993/mod_grouptool_moodle37_2010080802.zip"
+    },
+    {
+        "id": "17769",
+        "name": "v3.5.1",
+        "url": "https://moodle.org/plugins/download.php/17769/mod_grouptool_moodle32_2013050912.zip"
+    },
+    {
+        "id": "16410",
+        "name": "v3.4.1",
+        "url": "https://moodle.org/plugins/download.php/16410/mod_grouptool_moodle40_2016080618.zip"
+    },
+    {
+        "id": "15079",
+        "name": "v3.3.2",
+        "url": "https://moodle.org/plugins/download.php/15079/mod_grouptool_moodle33_2023110608.zip"
+    },
+    {
+        "id": "13236",
+        "name": "v3.2.0",
+        "url": "https://moodle.org/plugins/download.php/13236/mod_grouptool_moodle35_2020080406.zip"
+    },
+    {
+        "id": "12681",
+        "name": "v3.1.1",
+        "url": "https://moodle.org/plugins/download.php/12681/mod_grouptool_moodle26_2022031010.zip"
+    },
+    {
+        "id": "10667",
+        "name": "v2.9",
+        "url": "https://moodle.org/plugins/download.php/10667/mod_grouptool_moodle25_2023010602.zip"
+    },
+    {
+        "id": "10131",
+        "name": "2015-07-15-02",
+        "url": "https://moodle.org/plugins/download.php/10131/mod_grouptool_moodle35_2014040610.zip"
+    }
+]

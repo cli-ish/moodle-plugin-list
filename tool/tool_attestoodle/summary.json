@@ -1,0 +1,74 @@
+{
+    "id": 2232,
+    "index": 1216,
+    "name": "Attestoodle",
+    "frankenstyle": "tool_attestoodle",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_attestoodle",
+    "shortdescription": "This plugin is used to generate periodical training certificates for students on a massive scale, based on learning milestones completion.",
+    "timelastreleased": {
+        "absdate": "Thursday, 3 February 2022, 7:37 AM",
+        "reldate": "18 months",
+        "iso8601date": "2022-02-03T07:37:14+08:00"
+    },
+    "aggsites": "274",
+    "aggdownloads": "25",
+    "aggfavs": "27",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2232/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2232/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2232/ecran0.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2232/ecran1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2232/ecran2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2232/ecran3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2232/ecran4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2232/ecran5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2232/ecran6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2232/ecran7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2232/ecran8a.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2232/ecran9.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2241167,
+            "firstname": "marc",
+            "lastname": "leconte",
+            "url": "https://moodle.org/user/profile.php?id=2241167"
+        },
+        {
+            "id": 3231662,
+            "firstname": "pole",
+            "lastname": "umdev",
+            "url": "https://moodle.org/user/profile.php?id=3231662"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,56 @@
+{
+    "id": 1430,
+    "index": 1686,
+    "name": "Moderated RSS",
+    "frankenstyle": "block_selectrss",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_selectrss",
+    "shortdescription": "The Sebsoft Moderated RSS Plugin offers you the possibility to load multiple feeds into a block, allowing for authorizing each and every item.",
+    "timelastreleased": {
+        "absdate": "Monday, 6 November 2017, 8:13 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-11-06T20:13:22+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "7",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1430/adminsettings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1430/blockinstance.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1430/blocksettings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1430/manageitems.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1880313,
+            "firstname": "Sebsoft",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=1880313"
+        },
+        {
+            "id": 1911653,
+            "firstname": "Rogier",
+            "lastname": "van Dongen",
+            "url": "https://moodle.org/user/profile.php?id=1911653"
+        }
+    ],
+    "descriptors": []
+}

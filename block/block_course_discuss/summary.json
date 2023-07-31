@@ -1,0 +1,62 @@
+{
+    "id": 2179,
+    "index": 1296,
+    "name": "Course discuss",
+    "frankenstyle": "block_course_discuss",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_discuss",
+    "shortdescription": "This block allows discussion on a section page, page or book chapter activity.  Add this block to a block region that appears on a page of this type, to allow comments to be posted.",
+    "timelastreleased": {
+        "absdate": "Friday, 15 February 2019, 6:19 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-02-15T18:19:11+08:00"
+    },
+    "aggsites": "93",
+    "aggdownloads": "19",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2179/block%20course%20discuss%20chapter%20screenshot%201.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2179/block%20course%20discuss%20chapter%20screenshot%202.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2179/block%20course%20discuss%20forum%20screenshot%204.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2179/block%20course%20discuss%20page%20screenshot%203.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2227655,
+            "firstname": "Manoj",
+            "lastname": "Solanki",
+            "url": "https://moodle.org/user/profile.php?id=2227655"
+        },
+        {
+            "id": 230467,
+            "firstname": "Jez",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=230467"
+        },
+        {
+            "id": 2158877,
+            "firstname": "Kevin",
+            "lastname": "Moore",
+            "url": "https://moodle.org/user/profile.php?id=2158877"
+        }
+    ],
+    "descriptors": []
+}

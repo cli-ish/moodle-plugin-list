@@ -1,0 +1,57 @@
+{
+    "id": 997,
+    "index": 709,
+    "name": "Moodle App language strings",
+    "frankenstyle": "local_moodlemobileapp",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_moodlemobileapp",
+    "shortdescription": "This plugin is for translating the Moodle App language strings in AMOS only. (There is no point in installing it on your site.)",
+    "timelastreleased": {
+        "absdate": "Tuesday, 30 May 2023, 8:02 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-30T20:02:15+08:00"
+    },
+    "aggsites": "50",
+    "aggdownloads": "146",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/997/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/997/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/997/translations.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        },
+        {
+            "id": 24152,
+            "firstname": "Helen",
+            "lastname": "Foster",
+            "url": "https://moodle.org/user/profile.php?id=24152"
+        },
+        {
+            "id": 1018346,
+            "firstname": "Pau",
+            "lastname": "Ferrer Oca\u00f1a",
+            "url": "https://moodle.org/user/profile.php?id=1018346"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

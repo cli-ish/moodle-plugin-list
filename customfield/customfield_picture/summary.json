@@ -1,0 +1,40 @@
+{
+    "id": 3040,
+    "index": 688,
+    "name": "Picture custom field",
+    "frankenstyle": "customfield_picture",
+    "plugintype": {
+        "type": "customfield",
+        "name": "Custom field"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/customfield_picture",
+    "shortdescription": "Plugin for creating custom fields for storing/displaying pictures",
+    "timelastreleased": {
+        "absdate": "Monday, 24 April 2023, 9:15 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-24T21:15:34+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "152",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3040/Picture%20custom%20field.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 219220,
+            "firstname": "Paul",
+            "lastname": "Holden",
+            "url": "https://moodle.org/user/profile.php?id=219220"
+        }
+    ],
+    "descriptors": []
+}

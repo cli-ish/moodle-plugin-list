@@ -1,0 +1,45 @@
+{
+    "id": 33,
+    "index": 1160,
+    "name": "Moodle Hub server",
+    "frankenstyle": "local_hub",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_hub",
+    "shortdescription": "Legacy plugin implementing the server side of the Moodle Hub framework, running at moodle.net.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 September 2011, 4:08 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-09-02T16:08:22+08:00"
+    },
+    "aggsites": "35",
+    "aggdownloads": "31",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/33/Demo%20Hub-1.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1455465,
+            "firstname": "Moodle",
+            "lastname": "HQ",
+            "url": "https://moodle.org/user/profile.php?id=1455465"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

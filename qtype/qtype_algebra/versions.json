@@ -1,0 +1,82 @@
+[
+    {
+        "id": "27101",
+        "name": "1.95-for-moodle-3.1-...-3.11",
+        "url": "https://moodle.org/plugins/download.php/27101/qtype_algebra_moodle26_2016090517.zip"
+    },
+    {
+        "id": "19652",
+        "name": "1.93-for-moodle-3.1-...-3.7",
+        "url": "https://moodle.org/plugins/download.php/19652/qtype_algebra_moodle28_2018110220.zip"
+    },
+    {
+        "id": "16803",
+        "name": "1.71-for-moodle-2.8-...-3.5",
+        "url": "https://moodle.org/plugins/download.php/16803/qtype_algebra_moodle28_2015030615.zip"
+    },
+    {
+        "id": "7167",
+        "name": "1.33-for-moodle-2.5-2.6-and-2.7",
+        "url": "https://moodle.org/plugins/download.php/7167/qtype_algebra_moodle37_2013020913.zip"
+    },
+    {
+        "id": "3035",
+        "name": "1.11-for-moodle-2.3",
+        "url": "https://moodle.org/plugins/download.php/3035/qtype_algebra_moodle30_2016011020.zip"
+    },
+    {
+        "id": "19458",
+        "name": "1.92-for-moodle-3.1-...-3.7",
+        "url": "https://moodle.org/plugins/download.php/19458/qtype_algebra_moodle34_2015030708.zip"
+    },
+    {
+        "id": "19451",
+        "name": "1.91-for-moodle-3.1-...-3.7",
+        "url": "https://moodle.org/plugins/download.php/19451/qtype_algebra_moodle26_2020020212.zip"
+    },
+    {
+        "id": "19449",
+        "name": "1.9-for-moodle-3.0-...-3.7",
+        "url": "https://moodle.org/plugins/download.php/19449/qtype_algebra_moodle27_2018091019.zip"
+    },
+    {
+        "id": "15971",
+        "name": "1.7-for-moodle-2.8-...-3.5",
+        "url": "https://moodle.org/plugins/download.php/15971/qtype_algebra_moodle32_2017010220.zip"
+    },
+    {
+        "id": "15717",
+        "name": "1.6-for-moodle-2.8-...-3.5",
+        "url": "https://moodle.org/plugins/download.php/15717/qtype_algebra_moodle27_2023060719.zip"
+    },
+    {
+        "id": "15644",
+        "name": "1.5-for-moodle-2.8-...-3.5",
+        "url": "https://moodle.org/plugins/download.php/15644/qtype_algebra_moodle38_2015051015.zip"
+    },
+    {
+        "id": "10380",
+        "name": "1.4-for-moodle-2.8-2.9-and-3.0",
+        "url": "https://moodle.org/plugins/download.php/10380/qtype_algebra_moodle27_2013120403.zip"
+    },
+    {
+        "id": "6952",
+        "name": "1.32-for-moodle-2.5-2.6-and-2.7",
+        "url": "https://moodle.org/plugins/download.php/6952/qtype_algebra_moodle38_2017040805.zip"
+    },
+    {
+        "id": "6323",
+        "name": "1.31-for-moodle-2.5-2.6-and-2.7",
+        "url": "https://moodle.org/plugins/download.php/6323/qtype_algebra_moodle26_2019100102.zip"
+    },
+    {
+        "id": "3265",
+        "name": "1.3-for-moodle-2.5",
+        "url": "https://moodle.org/plugins/download.php/3265/qtype_algebra_moodle40_2019061117.zip"
+    },
+    {
+        "id": "2871",
+        "name": "1.1-for-moodle-2.3",
+        "url": "https://moodle.org/plugins/download.php/2871/qtype_algebra_moodle28_2023090602.zip"
+    }
+]

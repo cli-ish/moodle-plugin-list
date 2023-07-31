@@ -1,0 +1,40 @@
+{
+    "id": 2910,
+    "index": 987,
+    "name": "Health center",
+    "frankenstyle": "tool_health",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_health",
+    "shortdescription": "The health center is a tool for detecting miscellaneous problems on your site. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 March 2022, 5:48 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-24T17:48:58+08:00"
+    },
+    "aggsites": "1041",
+    "aggdownloads": "59",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2910/tool_health.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1455465,
+            "firstname": "Moodle",
+            "lastname": "HQ",
+            "url": "https://moodle.org/user/profile.php?id=1455465"
+        }
+    ],
+    "descriptors": []
+}

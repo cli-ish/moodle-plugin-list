@@ -1,0 +1,40 @@
+{
+    "id": 1824,
+    "index": 1132,
+    "name": "WordPress authentication",
+    "frankenstyle": "auth_wordpress",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_wordpress",
+    "shortdescription": "WordPress OAuth 1.0a three legged authentication for Moodle 3.1+",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 May 2017, 8:32 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-05-18T20:32:44+08:00"
+    },
+    "aggsites": "52",
+    "aggdownloads": "34",
+    "aggfavs": "21",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1824/auth_wordpress.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 325899,
+            "firstname": "Ian",
+            "lastname": "Wild",
+            "url": "https://moodle.org/user/profile.php?id=325899"
+        }
+    ],
+    "descriptors": []
+}

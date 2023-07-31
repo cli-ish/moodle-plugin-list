@@ -1,0 +1,45 @@
+{
+    "id": 702,
+    "index": 1629,
+    "name": "Dynamo",
+    "frankenstyle": "theme_dynamo",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_dynamo",
+    "shortdescription": "Dynamo is a 3 column theme for Moodle 2.4 (More versions soon to come).  The theme features a textured header and background, with a banner for a custom logo to display.  You can customize the colors and logo from the theme settings within Moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 19 April 2013, 7:54 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-19T07:54:25+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "8",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/702/dynamo_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/702/dynamo_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/702/dynamo_screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1588153,
+            "firstname": "Joseph",
+            "lastname": "Conradt",
+            "url": "https://moodle.org/user/profile.php?id=1588153"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

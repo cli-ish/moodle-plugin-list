@@ -1,0 +1,55 @@
+{
+    "id": 600,
+    "index": 1048,
+    "name": "Media Player",
+    "frankenstyle": "mod_mplayer",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_mplayer",
+    "shortdescription": "Plays audio, video, and playlist files",
+    "timelastreleased": {
+        "absdate": "Friday, 17 March 2017, 4:34 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-03-17T16:34:05+08:00"
+    },
+    "aggsites": "214",
+    "aggdownloads": "44",
+    "aggfavs": "43",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/600/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/600/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/600/mplayer_searchbar_demo.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 462936,
+            "firstname": "Matt",
+            "lastname": "Bury",
+            "url": "https://moodle.org/user/profile.php?id=462936"
+        },
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

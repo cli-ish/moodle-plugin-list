@@ -1,0 +1,51 @@
+{
+    "id": 1683,
+    "index": 823,
+    "name": "Remote courses block",
+    "frankenstyle": "block_remote_courses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_remote_courses",
+    "shortdescription": "This block prints a list of courses from another Moodle instance. It is designed for use with the Remote course web service local plugin.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 June 2020, 2:35 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-16T02:35:42+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "121",
+    "aggfavs": "12",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1683/block%20remote%20courses.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

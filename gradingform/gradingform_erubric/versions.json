@@ -1,0 +1,17 @@
+[
+    {
+        "id": "18446",
+        "name": "3.0-build-2018062500",
+        "url": "https://moodle.org/plugins/download.php/18446/gradingform_erubric_moodle28_2016110514.zip"
+    },
+    {
+        "id": "9070",
+        "name": "2.0-build-2015062500",
+        "url": "https://moodle.org/plugins/download.php/9070/gradingform_erubric_moodle40_2023090203.zip"
+    },
+    {
+        "id": "1895",
+        "name": "1.0-build-2012121600",
+        "url": "https://moodle.org/plugins/download.php/1895/gradingform_erubric_moodle30_2023021113.zip"
+    }
+]

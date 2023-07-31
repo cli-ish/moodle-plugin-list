@@ -1,0 +1,47 @@
+{
+    "id": 2195,
+    "index": 1868,
+    "name": "Classroom Video On Demand",
+    "frankenstyle": "repository_cvod",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_cvod",
+    "shortdescription": "The Moodle plugin provides a rich integration between Classroom Video on Demand and your Moodle courses. Users of Moodle will now be able to embed Classroom Video resources directly inside their courses, without having to leave the LMS. Full videos, video segments, custom content, and web channels are among the types of supported resources.",
+    "timelastreleased": {
+        "absdate": "Saturday, 23 March 2019, 3:09 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-03-23T03:09:28+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "4",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2195/Google_CVODIcon_128x128_Trans.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2195/Google_CVODIcon_128x128_Trans.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2195/cvod-embedded-video.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2195/cvod-file-picker.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2195/cvod-video-preview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2507809,
+            "firstname": "Chris",
+            "lastname": "Plapp",
+            "url": "https://moodle.org/user/profile.php?id=2507809"
+        }
+    ],
+    "descriptors": []
+}

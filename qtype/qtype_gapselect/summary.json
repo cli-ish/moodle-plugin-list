@@ -1,0 +1,57 @@
+{
+    "id": 231,
+    "index": 1058,
+    "name": "Select missing words",
+    "frankenstyle": "qtype_gapselect",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_gapselect",
+    "shortdescription": "This question type allows students to complete a paragraph of text by selecting the missing words using drop-down menus.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 March 2015, 11:21 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-03-18T23:21:43+08:00"
+    },
+    "aggsites": "119",
+    "aggdownloads": "43",
+    "aggfavs": "32",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 22721,
+            "firstname": "Jamie",
+            "lastname": "Pratt",
+            "url": "https://moodle.org/user/profile.php?id=22721"
+        },
+        {
+            "id": 115651,
+            "firstname": "Phil",
+            "lastname": "Butcher",
+            "url": "https://moodle.org/user/profile.php?id=115651"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "id": 117,
+    "index": 1828,
+    "name": "Anonymizable Forum",
+    "frankenstyle": "mod_forumanon",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_forumanon",
+    "shortdescription": "This is a stand-alone fork of the standard forum which allows anonymous posting. Apart from the option to post anonymously, it behaves just like a normal forum.",
+    "timelastreleased": {
+        "absdate": "Sunday, 23 October 2011, 9:00 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-23T21:00:48+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "5",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/117/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/117/icon.gif?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1311266,
+            "firstname": "Ewgenij",
+            "lastname": "Starostin",
+            "url": "https://moodle.org/user/profile.php?id=1311266"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 1319,
+    "index": 1441,
+    "name": "EasyChem Chemical Structure and Equation Editor",
+    "frankenstyle": "atto_easychem",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_easychem",
+    "shortdescription": "Chemical structure and equation editor much like the Moodle equation editor.   Requires filter_easychem.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 January 2015, 10:21 AM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-13T10:21:36+08:00"
+    },
+    "aggsites": "82",
+    "aggdownloads": "13",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1319/easychem_create.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "27314",
+        "name": "v4.0-r1",
+        "url": "https://moodle.org/plugins/download.php/27314/block_onlinesurvey_moodle30_2019120719.zip"
+    },
+    {
+        "id": "27311",
+        "name": "v3.11-r3",
+        "url": "https://moodle.org/plugins/download.php/27311/block_onlinesurvey_moodle39_2019030208.zip"
+    },
+    {
+        "id": "27312",
+        "name": "v3.10-r3",
+        "url": "https://moodle.org/plugins/download.php/27312/block_onlinesurvey_moodle27_2021060605.zip"
+    },
+    {
+        "id": "27313",
+        "name": "v3.9-r3",
+        "url": "https://moodle.org/plugins/download.php/27313/block_onlinesurvey_moodle39_2017100804.zip"
+    },
+    {
+        "id": "25527",
+        "name": "v3.8-r5",
+        "url": "https://moodle.org/plugins/download.php/25527/block_onlinesurvey_moodle35_2020091005.zip"
+    },
+    {
+        "id": "25528",
+        "name": "v3.5-r6",
+        "url": "https://moodle.org/plugins/download.php/25528/block_onlinesurvey_moodle34_2019120310.zip"
+    }
+]

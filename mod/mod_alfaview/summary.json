@@ -1,0 +1,56 @@
+{
+    "id": 2387,
+    "index": 649,
+    "name": "alfaview classroom",
+    "frankenstyle": "mod_alfaview",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_alfaview",
+    "shortdescription": "alfaview is an app based video conferencing system (https://alfaview.com).\r\nThis plugin integrates the alfaview video conferencing capabilities with Moodle.",
+    "timelastreleased": {
+        "absdate": "Monday, 8 May 2023, 9:47 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-08T21:47:46+08:00"
+    },
+    "aggsites": "78",
+    "aggdownloads": "167",
+    "aggfavs": "15",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2387/logo_alfaview_brand_blue_23px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2387/logo_alfaview_brand_blue_23px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2387/alfaview-classroom.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2387/join%20button.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2387/step1%20-%20course%20format.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2387/step2%20-%20select%20classroom.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2714227,
+            "firstname": "Franz C.",
+            "lastname": "Kr\u00fcger",
+            "url": "https://moodle.org/user/profile.php?id=2714227"
+        },
+        {
+            "id": 3364549,
+            "firstname": "Murat",
+            "lastname": "Binerbay",
+            "url": "https://moodle.org/user/profile.php?id=3364549"
+        }
+    ],
+    "descriptors": []
+}

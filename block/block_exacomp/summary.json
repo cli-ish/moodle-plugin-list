@@ -1,0 +1,55 @@
+{
+    "id": 254,
+    "index": 386,
+    "name": "Exabis Competencies - Competence grids",
+    "frankenstyle": "block_exacomp",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_exacomp",
+    "shortdescription": "Competency-based, adaptive and learner driven learning scenarios: all available in MOODLE using the Exabis suite!",
+    "timelastreleased": {
+        "absdate": "Saturday, 15 July 2023, 2:26 PM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-15T14:26:17+08:00"
+    },
+    "aggsites": "411",
+    "aggdownloads": "321",
+    "aggfavs": "49",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/254/comp.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/254/comp.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/254/5_online-xml-creation-tool.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/254/exacomp_1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/254/exacomp_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/254/exacomp_3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

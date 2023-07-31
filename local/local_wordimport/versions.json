@@ -1,0 +1,42 @@
+[
+    {
+        "id": "25054",
+        "name": "1.1.5-build-2021083100",
+        "url": "https://moodle.org/plugins/download.php/25054/local_wordimport_moodle26_2021040313.zip"
+    },
+    {
+        "id": "24998",
+        "name": "1.1.4-build-2021082300",
+        "url": "https://moodle.org/plugins/download.php/24998/local_wordimport_moodle33_2021060814.zip"
+    },
+    {
+        "id": "24988",
+        "name": "1.1.3-build-2021082100",
+        "url": "https://moodle.org/plugins/download.php/24988/local_wordimport_moodle25_2010020619.zip"
+    },
+    {
+        "id": "24689",
+        "name": "1.1.2-build-2021071400",
+        "url": "https://moodle.org/plugins/download.php/24689/local_wordimport_moodle37_2013101210.zip"
+    },
+    {
+        "id": "24056",
+        "name": "1.1.0-build-2021050200",
+        "url": "https://moodle.org/plugins/download.php/24056/local_wordimport_moodle34_2014020710.zip"
+    },
+    {
+        "id": "23897",
+        "name": "1.0.3-build-2021041501",
+        "url": "https://moodle.org/plugins/download.php/23897/local_wordimport_moodle35_2018030612.zip"
+    },
+    {
+        "id": "23896",
+        "name": "1.0.3-build-2021041500",
+        "url": "https://moodle.org/plugins/download.php/23896/local_wordimport_moodle32_2021061114.zip"
+    },
+    {
+        "id": "23890",
+        "name": "1.0.2-build-2021041400",
+        "url": "https://moodle.org/plugins/download.php/23890/local_wordimport_moodle26_2023101101.zip"
+    }
+]

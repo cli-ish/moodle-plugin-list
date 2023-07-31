@@ -1,0 +1,49 @@
+{
+    "id": 1131,
+    "index": 1602,
+    "name": "Insert Media gallery",
+    "frankenstyle": "tinymce_mediagallery",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_mediagallery",
+    "shortdescription": "Allows you to have carousels of a media gallery or galleries displayed in your course in labels and such.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 1 July 2014, 1:15 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-07-01T13:15:34+08:00"
+    },
+    "aggsites": "46",
+    "aggdownloads": "8",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1131/Screenshot%20from%202014-05-21%20135648.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1316828,
+            "firstname": "Adam",
+            "lastname": "Olley",
+            "url": "https://moodle.org/user/profile.php?id=1316828"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

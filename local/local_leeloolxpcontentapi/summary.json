@@ -1,0 +1,44 @@
+{
+    "id": 2682,
+    "index": 1279,
+    "name": "Leeloo LXP Content API Plugin",
+    "frankenstyle": "local_leeloolxpcontentapi",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_leeloolxpcontentapi",
+    "shortdescription": "This plugin handles the authenticated API calls to sync the content plugins data from Leeloo LXP to Moodle LMS. ",
+    "timelastreleased": {
+        "absdate": "Monday, 5 July 2021, 2:23 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-07-05T14:23:25+08:00"
+    },
+    "aggsites": "116",
+    "aggdownloads": "20",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2682/Plugin-logo%20%281%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2682/Plugin-logo%20%281%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2682/moodle-createtoken_contentapi.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2682/leeloo_content_api_setting.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3565767,
+            "firstname": "Ludovic",
+            "lastname": "LEBLEU",
+            "url": "https://moodle.org/user/profile.php?id=3565767"
+        }
+    ],
+    "descriptors": []
+}

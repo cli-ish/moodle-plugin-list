@@ -1,0 +1,57 @@
+[
+    {
+        "id": "17868",
+        "name": "3.4.3",
+        "url": "https://moodle.org/plugins/download.php/17868/format_folderview_moodle27_2020120310.zip"
+    },
+    {
+        "id": "14453",
+        "name": "3.2.3",
+        "url": "https://moodle.org/plugins/download.php/14453/format_folderview_moodle31_2023060211.zip"
+    },
+    {
+        "id": "13133",
+        "name": "3.1.3",
+        "url": "https://moodle.org/plugins/download.php/13133/format_folderview_moodle39_2011010715.zip"
+    },
+    {
+        "id": "11834",
+        "name": "3.0.4-build-20160509",
+        "url": "https://moodle.org/plugins/download.php/11834/format_folderview_moodle34_2013041108.zip"
+    },
+    {
+        "id": "10464",
+        "name": "2.9.3-build-20160204",
+        "url": "https://moodle.org/plugins/download.php/10464/format_folderview_moodle37_2012110716.zip"
+    },
+    {
+        "id": "8989",
+        "name": "2.8.0-build-20150708",
+        "url": "https://moodle.org/plugins/download.php/8989/format_folderview_moodle27_2016040719.zip"
+    },
+    {
+        "id": "7770",
+        "name": "2.6.0-build-20140603",
+        "url": "https://moodle.org/plugins/download.php/7770/format_folderview_moodle30_2017101001.zip"
+    },
+    {
+        "id": "6205",
+        "name": "2.5.0-build-20131227",
+        "url": "https://moodle.org/plugins/download.php/6205/format_folderview_moodle29_2017080512.zip"
+    },
+    {
+        "id": "3017",
+        "name": "2.4.0-build-20130711",
+        "url": "https://moodle.org/plugins/download.php/3017/format_folderview_moodle40_2016011003.zip"
+    },
+    {
+        "id": "2073",
+        "name": "2.3.0-build-20121228",
+        "url": "https://moodle.org/plugins/download.php/2073/format_folderview_moodle30_2016060910.zip"
+    },
+    {
+        "id": "1037",
+        "name": "2.2.0-build-20120712",
+        "url": "https://moodle.org/plugins/download.php/1037/format_folderview_moodle26_2021030904.zip"
+    }
+]

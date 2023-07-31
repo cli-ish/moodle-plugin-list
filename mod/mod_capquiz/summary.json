@@ -1,0 +1,74 @@
+{
+    "id": 2155,
+    "index": 506,
+    "name": "CAPQuiz",
+    "frankenstyle": "mod_capquiz",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_capquiz",
+    "shortdescription": "CAP is short for Computer Adaptive Practice. In CAPQuiz, the proficiency is measured by a rating.  Good answers increase the rating, and bad answers decrease it.  To increase the rating, students need to give good answers more of than bad ones over time. Estimating question difficulty is known to be difficult. CAPQuiz automates this process to some extent. The question author must provide an initial estimate, but CAPQuiz improves the estimates based by comparing how the same student answers different questions. Hence the rated question sets will improve over time.",
+    "timelastreleased": {
+        "absdate": "Sunday, 30 April 2023, 9:12 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-30T21:12:35+08:00"
+    },
+    "aggsites": "90",
+    "aggdownloads": "230",
+    "aggfavs": "23",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2155/capquiz_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2155/capquiz_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2155/capquiz_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2155/capquiz_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2155/capquiz_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2155/capquiz_4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2155/capquiz_5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2155/capquiz_6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2155/capquiz_7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2155/capquiz_8.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2003093,
+            "firstname": "George",
+            "lastname": "Schaathun",
+            "url": "https://moodle.org/user/profile.php?id=2003093"
+        },
+        {
+            "id": 2223794,
+            "firstname": "Sebastian",
+            "lastname": "Gundersen",
+            "url": "https://moodle.org/user/profile.php?id=2223794"
+        },
+        {
+            "id": 2328217,
+            "firstname": "Andr\u00e9",
+            "lastname": "Storhaug",
+            "url": "https://moodle.org/user/profile.php?id=2328217"
+        }
+    ],
+    "descriptors": []
+}

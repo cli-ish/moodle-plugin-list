@@ -1,0 +1,52 @@
+{
+    "id": 1109,
+    "index": 634,
+    "name": "Resource notification",
+    "frankenstyle": "local_resourcenotif",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_resourcenotif",
+    "shortdescription": "This Moodle plugin allows a teacher to notify course students by internal messaging when a new resource/activity is created or modified into a course.",
+    "timelastreleased": {
+        "absdate": "Sunday, 21 March 2021, 8:08 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-21T08:08:19+08:00"
+    },
+    "aggsites": "1933",
+    "aggdownloads": "172",
+    "aggfavs": "73",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1109/cap-notifications-modify-activity.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1109/moodle_resourcenotif_admin.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1109/moodle_resourcenotif_teacher.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1775707,
+            "firstname": "Guillaume",
+            "lastname": "All\u00e8gre",
+            "url": "https://moodle.org/user/profile.php?id=1775707"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

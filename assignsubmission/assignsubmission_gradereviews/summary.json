@@ -1,0 +1,64 @@
+{
+    "id": 1617,
+    "index": 1359,
+    "name": "Grade reviews",
+    "frankenstyle": "assignsubmission_gradereviews",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_gradereviews",
+    "shortdescription": "Similar to the submission comments but with permission support to allow certain users to see/delete comments, this plugin facilitates grade review (second marker comments). The main use case is to allow one teacher to review the grading done by another tutor and leave comments attached to a submission but without the students been able to see the comments.",
+    "timelastreleased": {
+        "absdate": "Monday, 28 March 2022, 8:28 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-28T20:28:03+08:00"
+    },
+    "aggsites": "95",
+    "aggdownloads": "16",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1617/Grading%20page.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1617/Manage%20submission%20plugins%20after%20install.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1617/Permissions.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        },
+        {
+            "id": 542994,
+            "firstname": "J\u00e9r\u00f4me",
+            "lastname": "Mouneyrac",
+            "url": "https://moodle.org/user/profile.php?id=542994"
+        },
+        {
+            "id": 2028626,
+            "firstname": "Ken",
+            "lastname": "Farrimond",
+            "url": "https://moodle.org/user/profile.php?id=2028626"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

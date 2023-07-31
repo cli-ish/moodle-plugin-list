@@ -1,0 +1,56 @@
+{
+    "id": 1949,
+    "index": 254,
+    "name": "Anthology Ally (previously Blackboard Ally)",
+    "frankenstyle": "filter_ally",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_ally",
+    "shortdescription": "The Ally filter provides accessibility scores and tools for files uploaded to Moodle by teachers. It also provides alternative download types to enhance accessibility - e.g. audio, braille, etc",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 April 2023, 5:57 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-13T05:57:34+08:00"
+    },
+    "aggsites": "443",
+    "aggdownloads": "504",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1949/Ally-Stacked-Plain%20Text-Black_9-22.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1949/Ally-Stacked-Plain%20Text-Black_9-22.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1949/GUI_AccessibilityReport.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1949/GUI_AlternativeFormats.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1949/GUI_General.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1949/Instructor_Feedback.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4201650,
+            "firstname": "Anthology",
+            "lastname": "Ally",
+            "url": "https://moodle.org/user/profile.php?id=4201650"
+        },
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": []
+}

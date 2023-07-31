@@ -1,0 +1,40 @@
+{
+    "id": 3098,
+    "index": 1815,
+    "name": "Asynchronous evaluations (deferred)",
+    "frankenstyle": "qbehaviour_asyncevaluation",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_asyncevaluation",
+    "shortdescription": "A question behaviour derived from Deferred feedback, where questions are automatically evaluated in an asynchronous context (via moodle adhoc tasks), after their attempt is submitted. This behaviour is useful for questions whose evaluation computations may take some time.",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 March 2023, 12:21 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-16T00:21:43+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3098/beinggraded.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

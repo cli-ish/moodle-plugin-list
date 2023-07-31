@@ -1,0 +1,57 @@
+[
+    {
+        "id": "29187",
+        "name": "4.0.1-build-2022090102",
+        "url": "https://moodle.org/plugins/download.php/29187/tool_usersuspension_moodle25_2012110918.zip"
+    },
+    {
+        "id": "26452",
+        "name": "3.5.9-build-2022041301",
+        "url": "https://moodle.org/plugins/download.php/26452/tool_usersuspension_moodle26_2015121014.zip"
+    },
+    {
+        "id": "15249",
+        "name": "3.3.0-build-2017092500",
+        "url": "https://moodle.org/plugins/download.php/15249/tool_usersuspension_moodle29_2022010304.zip"
+    },
+    {
+        "id": "13888",
+        "name": "3.0.0-build-2017050100",
+        "url": "https://moodle.org/plugins/download.php/13888/tool_usersuspension_moodle37_2010010608.zip"
+    },
+    {
+        "id": "8395",
+        "name": "2.7.0",
+        "url": "https://moodle.org/plugins/download.php/8395/tool_usersuspension_moodle39_2023110612.zip"
+    },
+    {
+        "id": "27654",
+        "name": "4.0.0-build-2022090101",
+        "url": "https://moodle.org/plugins/download.php/27654/tool_usersuspension_moodle27_2022060103.zip"
+    },
+    {
+        "id": "25340",
+        "name": "3.5.7-build-2021060800",
+        "url": "https://moodle.org/plugins/download.php/25340/tool_usersuspension_moodle25_2014061008.zip"
+    },
+    {
+        "id": "23096",
+        "name": "3.5.5-build-2020121500",
+        "url": "https://moodle.org/plugins/download.php/23096/tool_usersuspension_moodle33_2010040301.zip"
+    },
+    {
+        "id": "21482",
+        "name": "3.5.2-build-2018050302",
+        "url": "https://moodle.org/plugins/download.php/21482/tool_usersuspension_moodle32_2022050700.zip"
+    },
+    {
+        "id": "21179",
+        "name": "3.5.1-build-2018050301",
+        "url": "https://moodle.org/plugins/download.php/21179/tool_usersuspension_moodle26_2015060401.zip"
+    },
+    {
+        "id": "16547",
+        "name": "3.5.0-build-2018050300",
+        "url": "https://moodle.org/plugins/download.php/16547/tool_usersuspension_moodle38_2016090517.zip"
+    }
+]

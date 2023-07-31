@@ -1,0 +1,45 @@
+{
+    "id": 320,
+    "index": 470,
+    "name": "Groups",
+    "frankenstyle": "report_editgroups",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_editgroups",
+    "shortdescription": "This 'report' is actually a tool to let you edit all the groups in a course on one page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 June 2022, 10:48 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-28T22:48:47+08:00"
+    },
+    "aggsites": "334",
+    "aggdownloads": "248",
+    "aggfavs": "29",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/320/editgroups.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

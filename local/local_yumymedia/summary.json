@@ -1,0 +1,53 @@
+{
+    "id": 1940,
+    "index": 560,
+    "name": "YU Kaltura Media Gallery",
+    "frankenstyle": "local_yumymedia",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_yumymedia",
+    "shortdescription": "Media gallery plugin for third-party's non-KAF \"YU Kaltura Media Package\"",
+    "timelastreleased": {
+        "absdate": "Friday, 20 January 2023, 8:51 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-20T20:51:20+08:00"
+    },
+    "aggsites": "57",
+    "aggdownloads": "211",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1940/plugin_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1940/plugin_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1940/screenshot_yumymedia_01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1940/screenshot_yumymedia_02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1940/screenshot_yumymedia_03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1940/screenshot_yumymedia_05.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1940/yumymedia_screenshot_06.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2038985,
+            "firstname": "Tomoya",
+            "lastname": "Saito",
+            "url": "https://moodle.org/user/profile.php?id=2038985"
+        }
+    ],
+    "descriptors": []
+}

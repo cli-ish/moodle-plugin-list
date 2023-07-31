@@ -1,0 +1,40 @@
+{
+    "id": 2064,
+    "index": 2130,
+    "name": "Temporary enrolments",
+    "frankenstyle": "block_temporary_enrolments",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_temporary_enrolments",
+    "shortdescription": "[RETIRED] A block which displays users marked as temporarily enrolled by the local_temporary_enrolments plugin.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 19 March 2019, 10:01 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-03-19T22:01:17+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": null,
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2064/block_temporary_enrolments.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": []
+}

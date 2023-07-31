@@ -1,0 +1,50 @@
+{
+    "id": 3018,
+    "index": 435,
+    "name": "ReadSpeaker for Moodle",
+    "frankenstyle": "block_readspeaker_embhl",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_readspeaker_embhl",
+    "shortdescription": "Use this Moodle block to quickly and easily integrate text-to-speech tools into your Moodle instance. Visit www.readspeaker.com/moodle for more information.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 23 November 2022, 8:22 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-23T20:22:58+08:00"
+    },
+    "aggsites": "291",
+    "aggdownloads": "277",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3018/ReadSpeaker%20Listen%20Icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3018/ReadSpeaker%20Listen%20Icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3018/Screenshot%202022-10-20%20at%2010.16.45.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3018/Screenshot%202022-10-20%20at%2010.17.07.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5204500,
+            "firstname": "ReadSpeaker",
+            "lastname": "B.V.",
+            "url": "https://moodle.org/user/profile.php?id=5204500"
+        },
+        {
+            "id": 2591534,
+            "firstname": "Richard",
+            "lastname": "Risholm",
+            "url": "https://moodle.org/user/profile.php?id=2591534"
+        }
+    ],
+    "descriptors": []
+}

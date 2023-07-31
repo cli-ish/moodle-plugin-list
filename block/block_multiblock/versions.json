@@ -1,0 +1,27 @@
+[
+    {
+        "id": "28418",
+        "name": "1.3.6",
+        "url": "https://moodle.org/plugins/download.php/28418/block_multiblock_moodle35_2012020115.zip"
+    },
+    {
+        "id": "21863",
+        "name": "1.3.2",
+        "url": "https://moodle.org/plugins/download.php/21863/block_multiblock_moodle33_2021070600.zip"
+    },
+    {
+        "id": "21794",
+        "name": "1.3.1",
+        "url": "https://moodle.org/plugins/download.php/21794/block_multiblock_moodle38_2014010816.zip"
+    },
+    {
+        "id": "21603",
+        "name": "1.3.0",
+        "url": "https://moodle.org/plugins/download.php/21603/block_multiblock_moodle39_2017030505.zip"
+    },
+    {
+        "id": "21555",
+        "name": "1.2.5",
+        "url": "https://moodle.org/plugins/download.php/21555/block_multiblock_moodle34_2022100514.zip"
+    }
+]

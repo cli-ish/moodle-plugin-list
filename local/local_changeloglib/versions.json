@@ -1,0 +1,22 @@
+[
+    {
+        "id": "23265",
+        "name": "0.2.3",
+        "url": "https://moodle.org/plugins/download.php/23265/local_changeloglib_moodle38_2019111118.zip"
+    },
+    {
+        "id": "15723",
+        "name": "0.2.2",
+        "url": "https://moodle.org/plugins/download.php/15723/local_changeloglib_moodle37_2011050802.zip"
+    },
+    {
+        "id": "15094",
+        "name": "0.2.1",
+        "url": "https://moodle.org/plugins/download.php/15094/local_changeloglib_moodle36_2013110118.zip"
+    },
+    {
+        "id": "14757",
+        "name": "0.2.0",
+        "url": "https://moodle.org/plugins/download.php/14757/local_changeloglib_moodle25_2019010718.zip"
+    }
+]

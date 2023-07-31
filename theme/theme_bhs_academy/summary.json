@@ -1,0 +1,45 @@
+{
+    "id": 588,
+    "index": 1213,
+    "name": "BHS Academy",
+    "frankenstyle": "theme_bhs_academy",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_bhs_academy",
+    "shortdescription": "BHS Academy is a 3 column theme which utilises the Aardvark Post-it and Aardvark themes as it's base.",
+    "timelastreleased": {
+        "absdate": "Friday, 11 January 2013, 4:47 AM",
+        "reldate": "11 years",
+        "iso8601date": "2013-01-11T04:47:27+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "26",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/588/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 439657,
+            "firstname": "Colin",
+            "lastname": "Wheelhouse",
+            "url": "https://moodle.org/user/profile.php?id=439657"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

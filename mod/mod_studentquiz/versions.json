@@ -1,0 +1,202 @@
+[
+    {
+        "id": "28243",
+        "name": "v5.1.0",
+        "url": "https://moodle.org/plugins/download.php/28243/mod_studentquiz_moodle30_2018030219.zip"
+    },
+    {
+        "id": "28242",
+        "name": "v4.7.1",
+        "url": "https://moodle.org/plugins/download.php/28242/mod_studentquiz_moodle39_2013070709.zip"
+    },
+    {
+        "id": "24676",
+        "name": "v4.5.0",
+        "url": "https://moodle.org/plugins/download.php/24676/mod_studentquiz_moodle32_2017031101.zip"
+    },
+    {
+        "id": "23557",
+        "name": "v4.4.2",
+        "url": "https://moodle.org/plugins/download.php/23557/mod_studentquiz_moodle25_2015060305.zip"
+    },
+    {
+        "id": "21570",
+        "name": "v4.3.1",
+        "url": "https://moodle.org/plugins/download.php/21570/mod_studentquiz_moodle30_2010101109.zip"
+    },
+    {
+        "id": "19268",
+        "name": "v3.3.0",
+        "url": "https://moodle.org/plugins/download.php/19268/mod_studentquiz_moodle26_2017080309.zip"
+    },
+    {
+        "id": "17457",
+        "name": "v3.1.1",
+        "url": "https://moodle.org/plugins/download.php/17457/mod_studentquiz_moodle39_2014120920.zip"
+    },
+    {
+        "id": "14116",
+        "name": "v2.0.3",
+        "url": "https://moodle.org/plugins/download.php/14116/mod_studentquiz_moodle29_2016040408.zip"
+    },
+    {
+        "id": "27586",
+        "name": "v5.0.0",
+        "url": "https://moodle.org/plugins/download.php/27586/mod_studentquiz_moodle38_2021030918.zip"
+    },
+    {
+        "id": "27340",
+        "name": "v4.7.0",
+        "url": "https://moodle.org/plugins/download.php/27340/mod_studentquiz_moodle40_2023110507.zip"
+    },
+    {
+        "id": "26611",
+        "name": "v4.6.0",
+        "url": "https://moodle.org/plugins/download.php/26611/mod_studentquiz_moodle28_2012010619.zip"
+    },
+    {
+        "id": "23017",
+        "name": "v4.4.1",
+        "url": "https://moodle.org/plugins/download.php/23017/mod_studentquiz_moodle25_2012070717.zip"
+    },
+    {
+        "id": "22793",
+        "name": "v4.4.0",
+        "url": "https://moodle.org/plugins/download.php/22793/mod_studentquiz_moodle27_2023020301.zip"
+    },
+    {
+        "id": "22208",
+        "name": "v4.3.3",
+        "url": "https://moodle.org/plugins/download.php/22208/mod_studentquiz_moodle28_2014030516.zip"
+    },
+    {
+        "id": "21756",
+        "name": "v4.3.2",
+        "url": "https://moodle.org/plugins/download.php/21756/mod_studentquiz_moodle40_2016080403.zip"
+    },
+    {
+        "id": "21568",
+        "name": "v4.3.0",
+        "url": "https://moodle.org/plugins/download.php/21568/mod_studentquiz_moodle39_2016080608.zip"
+    },
+    {
+        "id": "21454",
+        "name": "v4.2.0",
+        "url": "https://moodle.org/plugins/download.php/21454/mod_studentquiz_moodle26_2010010813.zip"
+    },
+    {
+        "id": "21068",
+        "name": "v4.1.2",
+        "url": "https://moodle.org/plugins/download.php/21068/mod_studentquiz_moodle36_2012020605.zip"
+    },
+    {
+        "id": "20975",
+        "name": "v4.1.1",
+        "url": "https://moodle.org/plugins/download.php/20975/mod_studentquiz_moodle30_2013020610.zip"
+    },
+    {
+        "id": "20965",
+        "name": "v4.1.0",
+        "url": "https://moodle.org/plugins/download.php/20965/mod_studentquiz_moodle34_2023090502.zip"
+    },
+    {
+        "id": "20916",
+        "name": "v4.0.5",
+        "url": "https://moodle.org/plugins/download.php/20916/mod_studentquiz_moodle31_2010110512.zip"
+    },
+    {
+        "id": "20180",
+        "name": "v4.0.4",
+        "url": "https://moodle.org/plugins/download.php/20180/mod_studentquiz_moodle37_2017120413.zip"
+    },
+    {
+        "id": "20145",
+        "name": "v4.0.3",
+        "url": "https://moodle.org/plugins/download.php/20145/mod_studentquiz_moodle26_2013011110.zip"
+    },
+    {
+        "id": "20112",
+        "name": "v4.0.2",
+        "url": "https://moodle.org/plugins/download.php/20112/mod_studentquiz_moodle35_2017050413.zip"
+    },
+    {
+        "id": "19997",
+        "name": "v4.0.1",
+        "url": "https://moodle.org/plugins/download.php/19997/mod_studentquiz_moodle33_2012011205.zip"
+    },
+    {
+        "id": "19996",
+        "name": "v4.0.0",
+        "url": "https://moodle.org/plugins/download.php/19996/mod_studentquiz_moodle31_2012020912.zip"
+    },
+    {
+        "id": "19165",
+        "name": "v3.2.3",
+        "url": "https://moodle.org/plugins/download.php/19165/mod_studentquiz_moodle29_2011100708.zip"
+    },
+    {
+        "id": "18964",
+        "name": "v3.2.2",
+        "url": "https://moodle.org/plugins/download.php/18964/mod_studentquiz_moodle32_2019051101.zip"
+    },
+    {
+        "id": "18578",
+        "name": "v3.2.1",
+        "url": "https://moodle.org/plugins/download.php/18578/mod_studentquiz_moodle32_2016030811.zip"
+    },
+    {
+        "id": "18388",
+        "name": "v3.2.0",
+        "url": "https://moodle.org/plugins/download.php/18388/mod_studentquiz_moodle38_2023110718.zip"
+    },
+    {
+        "id": "17452",
+        "name": "v3.0.3",
+        "url": "https://moodle.org/plugins/download.php/17452/mod_studentquiz_moodle30_2016110812.zip"
+    },
+    {
+        "id": "16263",
+        "name": "v3.0.2",
+        "url": "https://moodle.org/plugins/download.php/16263/mod_studentquiz_moodle38_2012060219.zip"
+    },
+    {
+        "id": "15756",
+        "name": "v3.0.1",
+        "url": "https://moodle.org/plugins/download.php/15756/mod_studentquiz_moodle26_2022040118.zip"
+    },
+    {
+        "id": "15601",
+        "name": "v3.0.0",
+        "url": "https://moodle.org/plugins/download.php/15601/mod_studentquiz_moodle38_2013020501.zip"
+    },
+    {
+        "id": "15283",
+        "name": "v2.1.0",
+        "url": "https://moodle.org/plugins/download.php/15283/mod_studentquiz_moodle37_2014070617.zip"
+    },
+    {
+        "id": "13593",
+        "name": "v2.0.2",
+        "url": "https://moodle.org/plugins/download.php/13593/mod_studentquiz_moodle27_2011070202.zip"
+    },
+    {
+        "id": "12996",
+        "name": "v2.0.0",
+        "url": "https://moodle.org/plugins/download.php/12996/mod_studentquiz_moodle35_2010010906.zip"
+    },
+    {
+        "id": "12807",
+        "name": "v1.0.10",
+        "url": "https://moodle.org/plugins/download.php/12807/mod_studentquiz_moodle28_2018101204.zip"
+    },
+    {
+        "id": "12688",
+        "name": "v1.0.9",
+        "url": "https://moodle.org/plugins/download.php/12688/mod_studentquiz_moodle38_2015020606.zip"
+    },
+    {
+        "id": "12557",
+        "name": "v1.0.8",
+        "url": "https://moodle.org/plugins/download.php/12557/mod_studentquiz_moodle40_2016030701.zip"
+    }
+]

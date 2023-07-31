@@ -1,0 +1,71 @@
+{
+    "id": 2443,
+    "index": 71,
+    "name": "Teams Meeting",
+    "frankenstyle": "atto_teamsmeeting",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_teamsmeeting",
+    "shortdescription": "Microsoft Teams Meetings App for Learning Management Systems (LMS) integration into Moodle as the Atto plugin. This plugin allows to create the meeting and automatically insert the meeting link into the editor content.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 July 2023, 11:59 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-06T23:59:54+08:00"
+    },
+    "aggsites": "4603",
+    "aggdownloads": "1k",
+    "aggfavs": "66",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2443/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2443/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2443/signin.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2443/createmeeting.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2443/meetingcreated.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2443/meetingdata.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2443/options.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1540471,
+            "firstname": "Enovation",
+            "lastname": "Dev Team",
+            "url": "https://moodle.org/user/profile.php?id=1540471"
+        },
+        {
+            "id": 3029768,
+            "firstname": "Andrius",
+            "lastname": "Vegys",
+            "url": "https://moodle.org/user/profile.php?id=3029768"
+        },
+        {
+            "id": 353008,
+            "firstname": "Tomasz",
+            "lastname": "Muras",
+            "url": "https://moodle.org/user/profile.php?id=353008"
+        },
+        {
+            "id": 1265206,
+            "firstname": "Lai",
+            "lastname": "Wei",
+            "url": "https://moodle.org/user/profile.php?id=1265206"
+        }
+    ],
+    "descriptors": []
+}

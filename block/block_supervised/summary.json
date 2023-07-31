@@ -1,0 +1,47 @@
+{
+    "id": 1052,
+    "index": 1787,
+    "name": "Supervised",
+    "frankenstyle": "block_supervised",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_supervised",
+    "shortdescription": "This block allows teachers to plan and start supervised sessions in particular classroom, with particular group and of particular lesson type.",
+    "timelastreleased": {
+        "absdate": "Saturday, 2 May 2020, 12:04 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-05-02T00:04:39+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "5",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1052/active_s.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1052/classrooms.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1052/start_s.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 104931,
+            "firstname": "Oleg",
+            "lastname": "Sychev",
+            "url": "https://moodle.org/user/profile.php?id=104931"
+        }
+    ],
+    "descriptors": []
+}

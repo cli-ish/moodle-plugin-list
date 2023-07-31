@@ -1,0 +1,62 @@
+[
+    {
+        "id": "11738",
+        "name": "1.2.5-build-2016071500",
+        "url": "https://moodle.org/plugins/download.php/11738/auth_lenauth_moodle29_2018010817.zip"
+    },
+    {
+        "id": "10189",
+        "name": "1.2.4-build-2015123100",
+        "url": "https://moodle.org/plugins/download.php/10189/auth_lenauth_moodle37_2015010703.zip"
+    },
+    {
+        "id": "9816",
+        "name": "1.2.3-build-2015112001",
+        "url": "https://moodle.org/plugins/download.php/9816/auth_lenauth_moodle27_2018061002.zip"
+    },
+    {
+        "id": "9815",
+        "name": "1.2.3-build-2015112000",
+        "url": "https://moodle.org/plugins/download.php/9815/auth_lenauth_moodle40_2013111212.zip"
+    },
+    {
+        "id": "8924",
+        "name": "1.2.2-build-2015071100",
+        "url": "https://moodle.org/plugins/download.php/8924/auth_lenauth_moodle33_2011111203.zip"
+    },
+    {
+        "id": "8709",
+        "name": "1.2.0-build-2015060300",
+        "url": "https://moodle.org/plugins/download.php/8709/auth_lenauth_moodle28_2017110416.zip"
+    },
+    {
+        "id": "7616",
+        "name": "1.1.0-build-2015010500",
+        "url": "https://moodle.org/plugins/download.php/7616/auth_lenauth_moodle36_2011090517.zip"
+    },
+    {
+        "id": "7579",
+        "name": "1.0.8-build-2014122400",
+        "url": "https://moodle.org/plugins/download.php/7579/auth_lenauth_moodle32_2015021220.zip"
+    },
+    {
+        "id": "7350",
+        "name": "1.0.7-build-2014112500",
+        "url": "https://moodle.org/plugins/download.php/7350/auth_lenauth_moodle28_2014060308.zip"
+    },
+    {
+        "id": "7338",
+        "name": "1.0.6-build-2014112200",
+        "url": "https://moodle.org/plugins/download.php/7338/auth_lenauth_moodle28_2017010104.zip"
+    },
+    {
+        "id": "7258",
+        "name": "1.0.4-build-2014111300",
+        "url": "https://moodle.org/plugins/download.php/7258/auth_lenauth_moodle30_2018110314.zip"
+    },
+    {
+        "id": "7137",
+        "name": "1.0-build-2014110200",
+        "url": "https://moodle.org/plugins/download.php/7137/auth_lenauth_moodle30_2017070202.zip"
+    }
+]

@@ -1,0 +1,44 @@
+{
+    "id": 2458,
+    "index": 686,
+    "name": "PDF Worksheets / Annotation",
+    "frankenstyle": "mod_amaworksheet",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_amaworksheet",
+    "shortdescription": "This plugin allows teachers to upload worksheets (PDF file with exercises) and students to answer the questions directly on the PDF.",
+    "timelastreleased": {
+        "absdate": "Monday, 20 March 2023, 6:45 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-20T18:45:18+08:00"
+    },
+    "aggsites": "140",
+    "aggdownloads": "152",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2458/Amanote%20EdTect.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2458/Amanote%20EdTect.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2458/Amanote%20Worksheet.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2458/Moodle%20Screenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2531537,
+            "firstname": "Adrien",
+            "lastname": "Fery",
+            "url": "https://moodle.org/user/profile.php?id=2531537"
+        }
+    ],
+    "descriptors": []
+}

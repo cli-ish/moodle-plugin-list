@@ -1,0 +1,40 @@
+{
+    "id": 257,
+    "index": 1259,
+    "name": "Linkedin",
+    "frankenstyle": "block_linkedin",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_linkedin",
+    "shortdescription": "This is the block that must be used in combination with the LinkedIn Auth plugin",
+    "timelastreleased": {
+        "absdate": "Wednesday, 21 August 2013, 6:03 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-21T18:03:31+08:00"
+    },
+    "aggsites": "37",
+    "aggdownloads": "22",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/257/block_linkedin.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/257/block_linkedin.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/257/block_linkedin.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": []
+}

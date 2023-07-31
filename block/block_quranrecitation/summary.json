@@ -1,0 +1,45 @@
+{
+    "id": 712,
+    "index": 1881,
+    "name": "Quran Recitation",
+    "frankenstyle": "block_quranrecitation",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quranrecitation",
+    "shortdescription": "A Quran recitation Block for Moodle, this is based on the open source jsQari plugin\r\n\r\nhttp://code.google.com/p/jsqari/\r\n\r\nIt is used for for playing the Quran ayahs in MP3 which are provided by Verse by Verse Quran. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 25 April 2013, 12:53 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-25T00:53:04+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "4",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/712/QuranRecitation.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1342797,
+            "firstname": "Farhan",
+            "lastname": "Karmali",
+            "url": "https://moodle.org/user/profile.php?id=1342797"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

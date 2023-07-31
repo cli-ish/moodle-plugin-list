@@ -1,0 +1,40 @@
+{
+    "id": 139,
+    "index": 1335,
+    "name": "Google Adsense block",
+    "frankenstyle": "block_google_adsense",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_google_adsense",
+    "shortdescription": "This plugin is no longer maintained, and will receive no future support.\r\nAn updated version of Gennaro Varriale's Google Adsense block to work with Moodle 2.x. It allows the easy creation and display of Google Adsense blocks within Moodle.",
+    "timelastreleased": {
+        "absdate": "Monday, 25 February 2013, 3:20 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-02-25T03:20:41+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "18",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/139/icon%20%281%29.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2246,
+            "firstname": "Marcus",
+            "lastname": "Green",
+            "url": "https://moodle.org/user/profile.php?id=2246"
+        }
+    ],
+    "descriptors": []
+}

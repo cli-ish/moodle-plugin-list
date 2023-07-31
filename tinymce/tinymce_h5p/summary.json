@@ -1,0 +1,46 @@
+{
+    "id": 2741,
+    "index": 904,
+    "name": "H5P button plugin for TinyMCE editor",
+    "frankenstyle": "tinymce_h5p",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_h5p",
+    "shortdescription": "Plugin creates a new H5P button in TinyMCE editor toolbar allowing to add and edit H5P blocks inside the editor.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 June 2021, 3:46 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-09T15:46:42+08:00"
+    },
+    "aggsites": "362",
+    "aggdownloads": "91",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2741/h5p.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2741/h5p.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2741/2021-06-08-plugin_004.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 4156751,
+            "firstname": "Kateryna",
+            "lastname": "Degtyariova",
+            "url": "https://moodle.org/user/profile.php?id=4156751"
+        }
+    ],
+    "descriptors": []
+}

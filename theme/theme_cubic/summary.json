@@ -1,0 +1,49 @@
+{
+    "id": 646,
+    "index": 1794,
+    "name": "Cubic",
+    "frankenstyle": "theme_cubic",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_cubic",
+    "shortdescription": "Cubic is a new theme for Moodle 2.3. Its objective is to provide users with a more user-friendly interface, which provides several forms of social awareness and some new concepts.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 23 April 2013, 4:46 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-23T04:46:01+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "5",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/646/cubic_black.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/646/cubic_black.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/646/screenshot%20explained.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/646/screenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1461377,
+            "firstname": "Bruno",
+            "lastname": "Sampaio",
+            "url": "https://moodle.org/user/profile.php?id=1461377"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

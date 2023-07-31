@@ -1,0 +1,45 @@
+{
+    "id": 314,
+    "index": 1539,
+    "name": "OpenBiblio Block",
+    "frankenstyle": "block_openbiblio",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_openbiblio",
+    "shortdescription": "Connector for OpenBiblio library software: shows a numbered list of borrowed books and due dates in a Moodle block and a link to the OpenBiblio OPAC page.",
+    "timelastreleased": {
+        "absdate": "Friday, 29 November 2019, 12:17 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-11-29T00:17:59+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "10",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/314/block_openbiblio.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 3923,
+            "firstname": "koen",
+            "lastname": "roggemans",
+            "url": "https://moodle.org/user/profile.php?id=3923"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 1761,
+    "index": 1437,
+    "name": "Inactive user alerts",
+    "frankenstyle": "block_inactiveuseralert",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_inactiveuseralert",
+    "shortdescription": "Send email alerts to users who have not viewed courses.",
+    "timelastreleased": {
+        "absdate": "Monday, 5 December 2016, 3:39 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-05T03:39:05+08:00"
+    },
+    "aggsites": "97",
+    "aggdownloads": "13",
+    "aggfavs": "19",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1761/Inactive%20User%20block%20-%20Activity%20Alert.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1761/Inactive%20User%20block%20-%20Alerts.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1761/Inactive%20User%20block%20-%20Login%20Alert.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1761/Inactive%20User%20block%20-%20Report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 639753,
+            "firstname": "Tim",
+            "lastname": "Lock",
+            "url": "https://moodle.org/user/profile.php?id=639753"
+        }
+    ],
+    "descriptors": []
+}

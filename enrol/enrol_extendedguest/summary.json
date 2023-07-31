@@ -1,0 +1,44 @@
+{
+    "id": 2022,
+    "index": 866,
+    "name": "Extended guest access",
+    "frankenstyle": "enrol_extendedguest",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_extendedguest",
+    "shortdescription": "The \"Extended guest access\" enrolment plugin extends the guest access to courses. You can grant anonymous access to specific IP, network or to logged users.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 3 July 2018, 4:17 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-07-03T16:17:24+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "109",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2022/800px-%C3%89cole_polytechnique_signature.svg.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2022/800px-%C3%89cole_polytechnique_signature.svg.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2022/Capture1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2022/Capture2.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1594664,
+            "firstname": "Baptiste",
+            "lastname": "Desprez",
+            "url": "https://moodle.org/user/profile.php?id=1594664"
+        }
+    ],
+    "descriptors": []
+}

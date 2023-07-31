@@ -1,0 +1,47 @@
+{
+    "id": 2204,
+    "index": 2105,
+    "name": "Switch role",
+    "frankenstyle": "block_switchrole",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_switchrole",
+    "shortdescription": "Retro switch role block: in the latest versions of moodle the switch role feature/link has been moved in the user menu of the theme.\r\nIn case you still want it in the blocks area or your theme doesn't have implemented the user menu or you have moodle embedded inside another application this block may help. \r\nThe block redirects to the standard switch role page.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 4 December 2018, 8:23 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-12-04T20:23:18+08:00"
+    },
+    "aggsites": "23",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2204/switchblock1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2204/switchblock3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2204/switchrole2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 686124,
+            "firstname": "Dorel",
+            "lastname": "Manolescu",
+            "url": "https://moodle.org/user/profile.php?id=686124"
+        }
+    ],
+    "descriptors": []
+}

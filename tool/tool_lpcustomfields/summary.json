@@ -1,0 +1,40 @@
+{
+    "id": 3095,
+    "index": 867,
+    "name": "Custom fields for learning plan templates",
+    "frankenstyle": "tool_lpcustomfields",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_lpcustomfields",
+    "shortdescription": "This plugins allows to create custom fields for learning plan templates, just like what we have for courses.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 14 March 2023, 4:24 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-14T04:24:28+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "109",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3095/Screenshot%20from%202023-03-13%2017-03-43.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": []
+}

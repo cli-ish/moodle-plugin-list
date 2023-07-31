@@ -1,0 +1,49 @@
+{
+    "id": 615,
+    "index": 1722,
+    "name": "Enhanced Choice",
+    "frankenstyle": "mod_enhancedchoice",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_enhancedchoice",
+    "shortdescription": "Based upon the Choice activity, an Enhanced Choice enables a teacher to ask a single question and offer a selection of possible media rich responses (instead of just text).",
+    "timelastreleased": {
+        "absdate": "Friday, 14 July 2017, 12:29 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-07-14T00:29:15+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "6",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/615/configure_enhancedchoice.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/615/display_enhancedchoice.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 325899,
+            "firstname": "Ian",
+            "lastname": "Wild",
+            "url": "https://moodle.org/user/profile.php?id=325899"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

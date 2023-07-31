@@ -1,0 +1,55 @@
+{
+    "id": 1357,
+    "index": 2116,
+    "name": "Bookmarks (within book chapter)",
+    "frankenstyle": "block_bookmarks",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_bookmarks",
+    "shortdescription": "Bookmarks block plugin provides functionality of user bookmarks creation within the text of Moodle Book chapter (So-called book pins within the text). This can also be used to leave personal notes onto desired locations within Moodle Book chapter.",
+    "timelastreleased": {
+        "absdate": "Friday, 13 March 2015, 4:32 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-03-13T04:32:53+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": null,
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1357/en_screen_1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1357/en_screen_2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1357/en_screen_3.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1357/en_screen_4.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1758885,
+            "firstname": "Hrvoje",
+            "lastname": "G",
+            "url": "https://moodle.org/user/profile.php?id=1758885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

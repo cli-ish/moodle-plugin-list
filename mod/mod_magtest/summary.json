@@ -1,0 +1,45 @@
+{
+    "id": 509,
+    "index": 1019,
+    "name": "Multitrack test",
+    "frankenstyle": "mod_magtest",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_magtest",
+    "shortdescription": "This activity proposes a multitrack test such as visible in magazines. Questions are defined with a predefined number of answer categories, one answer per category. If the participant chooses the answer, it gives points to the relevant category. Each category drives a scoring track and the feedback of the most rated category is given. \r\n\r\nThe result of the test can be used to generate groups in the course.",
+    "timelastreleased": {
+        "absdate": "Thursday, 15 June 2023, 2:30 AM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-15T02:30:11+08:00"
+    },
+    "aggsites": "92",
+    "aggdownloads": "52",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/509/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/509/logo.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

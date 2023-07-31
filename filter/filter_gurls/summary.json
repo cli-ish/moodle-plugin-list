@@ -1,0 +1,40 @@
+{
+    "id": 1487,
+    "index": 2134,
+    "name": "GURLS",
+    "frankenstyle": "filter_gurls",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_gurls",
+    "shortdescription": "This plugin will dynamically replace a URL (example: www.black.com) with an alternate URL (example: www.blue.com) based on front page group membership.  More info here: http://northernlinks.ca/docs/GURLS_Manual.pdf ",
+    "timelastreleased": {
+        "absdate": "Saturday, 7 November 2015, 2:53 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-11-07T02:53:23+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": null,
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1487/gurls_overview.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2459954,
+            "firstname": "Fern",
+            "lastname": "Oliveira",
+            "url": "https://moodle.org/user/profile.php?id=2459954"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": 315,
+    "index": 1480,
+    "name": "cover",
+    "frankenstyle": "theme_cover",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_cover",
+    "shortdescription": "A two column theme with a header that can be minimized and is sticky. From Newschool Learning.",
+    "timelastreleased": {
+        "absdate": "Sunday, 30 December 2012, 9:33 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-12-30T09:33:04+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "12",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/315/dblogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/315/dblogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/315/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/315/screenshot2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

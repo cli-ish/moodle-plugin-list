@@ -1,0 +1,45 @@
+{
+    "id": 726,
+    "index": 1113,
+    "name": "Azure Active Directory",
+    "frankenstyle": "auth_azuread",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_azuread",
+    "shortdescription": "Allows authentication against Azure Active Directory or Office 365. Useful for EDU customers of Office 365. Must be used with the block_azuread plugin",
+    "timelastreleased": {
+        "absdate": "Friday, 9 August 2013, 3:45 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-09T15:45:39+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "36",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/726/moodle.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1598071,
+            "firstname": "Girish",
+            "lastname": "Bablani",
+            "url": "https://moodle.org/user/profile.php?id=1598071"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Office"
+        }
+    ]
+}

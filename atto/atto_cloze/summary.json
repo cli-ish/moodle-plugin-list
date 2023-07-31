@@ -1,0 +1,55 @@
+{
+    "id": 1689,
+    "index": 84,
+    "name": "Cloze editor",
+    "frankenstyle": "atto_cloze",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_cloze",
+    "shortdescription": "An Atto editor plugin to help create embedded answer questions",
+    "timelastreleased": {
+        "absdate": "Saturday, 29 April 2023, 11:47 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-29T23:47:29+08:00"
+    },
+    "aggsites": "3672",
+    "aggdownloads": "1k",
+    "aggfavs": "84",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1689/attoclozemc.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1470073,
+            "firstname": "Daniel",
+            "lastname": "Thies",
+            "url": "https://moodle.org/user/profile.php?id=1470073"
+        },
+        {
+            "id": 165877,
+            "firstname": "Germ\u00e1n",
+            "lastname": "Valero",
+            "url": "https://moodle.org/user/profile.php?id=165877"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

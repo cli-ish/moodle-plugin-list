@@ -1,0 +1,47 @@
+{
+    "id": 2685,
+    "index": 655,
+    "name": "Easy Enrollments block",
+    "frankenstyle": "block_enroleasy",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_enroleasy",
+    "shortdescription": "The Easy Enrollments block is block with form from Easy Enrollments method, which was available only in supported themes. From now you can use this enrolment method properly without supported theme prerequisity.",
+    "timelastreleased": {
+        "absdate": "Friday, 23 April 2021, 11:10 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-04-23T23:10:35+08:00"
+    },
+    "aggsites": "190",
+    "aggdownloads": "164",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2685/easyenrolblock.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2685/easyenrolblockconfig.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2685/easyenrolblocknotitle.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1907928,
+            "firstname": "Lukas",
+            "lastname": "Celinak",
+            "url": "https://moodle.org/user/profile.php?id=1907928"
+        }
+    ],
+    "descriptors": []
+}

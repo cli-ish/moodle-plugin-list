@@ -1,0 +1,70 @@
+{
+    "id": 413,
+    "index": 156,
+    "name": "Workflow block",
+    "frankenstyle": "block_workflow",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_workflow",
+    "shortdescription": "This block allows you to manage the process of producing courses or activities. A workflow make it clear who is responsible for doing the next step, and what tasks they should be doing. The workflow can also assign and unassign roles, or automatically set certain settings, when the workflow moves from one step to the next.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 12 April 2022, 2:19 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-12T02:19:02+08:00"
+    },
+    "aggsites": "448",
+    "aggdownloads": "773",
+    "aggfavs": "71",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/413/workflow-course-page.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/413/workflow-define-edit.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/413/workflow-define-list.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/413/workflow-define-message.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/413/workflow-define-script.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 4836338,
+            "firstname": "Anupama",
+            "lastname": "Sarjoshi",
+            "url": "https://moodle.org/user/profile.php?id=4836338"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

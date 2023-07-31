@@ -1,0 +1,47 @@
+{
+    "id": 2333,
+    "index": 480,
+    "name": " Cloud Poodll Assignment Feedback - audio and video recording",
+    "frankenstyle": "assignfeedback_cloudpoodll",
+    "plugintype": {
+        "type": "assignfeedback",
+        "name": "Assignment / Feedback plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignfeedback_cloudpoodll",
+    "shortdescription": "Audio and video assignment feedback by Cloud Poodll. Recordings are stored in the cloud and can optionally be auto-transcribed.",
+    "timelastreleased": {
+        "absdate": "Sunday, 16 April 2023, 1:55 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-16T13:55:29+08:00"
+    },
+    "aggsites": "115",
+    "aggdownloads": "244",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2333/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2333/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2333/Cloud%20Poodll%20Assignment%20Feedback%20Audio%20and%20video%20recording.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2333/2019-08-12_15-58-06.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2333/CloudAsssignmentFeedback_Moodletile.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

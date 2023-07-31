@@ -1,0 +1,56 @@
+{
+    "id": 392,
+    "index": 133,
+    "name": "Checklist",
+    "frankenstyle": "gradingform_checklist",
+    "plugintype": {
+        "type": "gradingform",
+        "name": "Advanced grading method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradingform_checklist",
+    "shortdescription": "Moodlerooms is proud to release the Checklist advanced grading method, an easy way for the user and teacher to view a list of criteria and the associated grade value for each criteria.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 2:19 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T02:19:43+08:00"
+    },
+    "aggsites": "542",
+    "aggdownloads": "879",
+    "aggfavs": "50",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/392/checklist-edit.jpeg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/392/checklist-graded.jpeg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/392/checklist-grading.jpeg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

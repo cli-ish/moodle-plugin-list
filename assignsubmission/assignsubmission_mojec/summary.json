@@ -1,0 +1,73 @@
+{
+    "id": 1785,
+    "index": 1544,
+    "name": "JUnit Exercise Corrector",
+    "frankenstyle": "assignsubmission_mojec",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_mojec",
+    "shortdescription": "This plugin allows students to submit their Java exercises, let them be tested against a set of JUnit tests (that have been priorly provided by the teacher) and receive immediate feedback on the test results.",
+    "timelastreleased": {
+        "absdate": "Saturday, 7 January 2017, 3:45 AM",
+        "reldate": "7 years",
+        "iso8601date": "2017-01-07T03:45:19+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "10",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1785/BackendURL.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1785/ErrorFileType.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1785/JunitCorrector.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1785/Results_01.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1785/Results_02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1785/TestJunit.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2174861,
+            "firstname": "Gero",
+            "lastname": "L\u00fcckemeyer",
+            "url": "https://moodle.org/user/profile.php?id=2174861"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Java"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Programming"
+        }
+    ]
+}

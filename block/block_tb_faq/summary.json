@@ -1,0 +1,40 @@
+{
+    "id": 2675,
+    "index": 1454,
+    "name": "Leeloo LXP FAQ",
+    "frankenstyle": "block_tb_faq",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_tb_faq",
+    "shortdescription": "Add an awesome responsive FAQ section to your home page, dashboard or static pages Manage all settings in a single page, right from your Leeloo LXP theme back end.",
+    "timelastreleased": {
+        "absdate": "Monday, 5 July 2021, 1:24 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-07-05T13:24:59+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "13",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2675/Plugin-logo%20%281%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2675/Plugin-logo%20%281%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2675/Moodle.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 3565767,
+            "firstname": "Ludovic",
+            "lastname": "LEBLEU",
+            "url": "https://moodle.org/user/profile.php?id=3565767"
+        }
+    ],
+    "descriptors": []
+}

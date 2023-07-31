@@ -1,0 +1,56 @@
+{
+    "id": 2955,
+    "index": 33,
+    "name": "Almondb",
+    "frankenstyle": "theme_almondb",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_almondb",
+    "shortdescription": "Almondb developed based on Moodle\u2019s core theme Boost, it\u2019s quick and easy to set up and packed with highly customisable options. Made of hundred of elements, designed blocks, and fully coded pages, Almondb theme quickly improve the look of your Moodle site.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 26 July 2023, 5:55 AM",
+        "reldate": "5 days",
+        "iso8601date": "2023-07-26T05:55:11+08:00"
+    },
+    "aggsites": "1297",
+    "aggdownloads": "2k",
+    "aggfavs": "36",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2955/almond%20%288%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2955/almond%20%288%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2955/ab1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2955/presentation-almond-1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2955/presentation-almond-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2955/presentation-almond-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2955/presentation-almond-4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2955/special-page-plugin.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4906283,
+            "firstname": "Themes",
+            "lastname": "Almond",
+            "url": "https://moodle.org/user/profile.php?id=4906283"
+        }
+    ],
+    "descriptors": []
+}

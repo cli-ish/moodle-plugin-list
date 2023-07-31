@@ -1,0 +1,50 @@
+{
+    "id": 1596,
+    "index": 2065,
+    "name": "EEXCESS",
+    "frankenstyle": "block_eexcess",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_eexcess",
+    "shortdescription": "EEXCESS Search-Bar",
+    "timelastreleased": {
+        "absdate": "Thursday, 7 July 2016, 1:25 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-07-07T01:25:35+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "1",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1596/eexcess_Logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1596/eexcess_Logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1596/dashboard.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1596/facetScape.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1596/result-vis.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1596/searchBar.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1960979,
+            "firstname": "Artur",
+            "lastname": "Khotenko",
+            "url": "https://moodle.org/user/profile.php?id=1960979"
+        }
+    ],
+    "descriptors": []
+}

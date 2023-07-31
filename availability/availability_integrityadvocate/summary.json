@@ -1,0 +1,56 @@
+{
+    "id": 2448,
+    "index": 876,
+    "name": "Restriction by IntegrityAdvocate",
+    "frankenstyle": "availability_integrityadvocate",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_integrityadvocate",
+    "shortdescription": "Restriction by Integrity Advocate plugin accompanies the Integrity Advocate block plugin to provide a complete online proctoring solution by preventing access to a course module depending on the Integrity Advocate results in another module.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 June 2023, 2:52 AM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-20T02:52:09+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "105",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2448/ia_checkmark.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2448/ia_checkmark.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2448/availability_integrityadvocate-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2448/availability_integrityadvocate-2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 731020,
+            "firstname": "Mark",
+            "lastname": "van Hoek",
+            "url": "https://moodle.org/user/profile.php?id=731020"
+        },
+        {
+            "id": 2182668,
+            "firstname": "Scott",
+            "lastname": "Dellinger",
+            "url": "https://moodle.org/user/profile.php?id=2182668"
+        },
+        {
+            "id": 2875744,
+            "firstname": "Darcy",
+            "lastname": "Chalifoux",
+            "url": "https://moodle.org/user/profile.php?id=2875744"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,74 @@
+{
+    "id": 1995,
+    "index": 563,
+    "name": "JazzQuiz",
+    "frankenstyle": "mod_jazzquiz",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_jazzquiz",
+    "shortdescription": "JazzQuiz lets the teacher run a preplanned quiz, but with the power of improvisation. Several improvise questions are included, which lets you quickly run a multichoice or short answer question during the quiz. You can also start a vote on the students' responses. After the session, you can review the responses for each question (even repolls). You can also download reports for attendance or responses in CSV.",
+    "timelastreleased": {
+        "absdate": "Friday, 31 March 2023, 7:36 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-31T19:36:14+08:00"
+    },
+    "aggsites": "407",
+    "aggdownloads": "209",
+    "aggfavs": "34",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1995/jq.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1995/jq.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1995/_jq_2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1995/jq_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1995/jq_4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1995/jq_5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1995/jq_6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1995/jq_7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1995/jq_8.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1995/jq_instrutions.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2003093,
+            "firstname": "George",
+            "lastname": "Schaathun",
+            "url": "https://moodle.org/user/profile.php?id=2003093"
+        },
+        {
+            "id": 2223794,
+            "firstname": "Sebastian",
+            "lastname": "Gundersen",
+            "url": "https://moodle.org/user/profile.php?id=2223794"
+        },
+        {
+            "id": 2328217,
+            "firstname": "Andr\u00e9",
+            "lastname": "Storhaug",
+            "url": "https://moodle.org/user/profile.php?id=2328217"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,27 @@
+[
+    {
+        "id": "10414",
+        "name": "v1.5.5",
+        "url": "https://moodle.org/plugins/download.php/10414/block_quickmailsms_moodle35_2023011106.zip"
+    },
+    {
+        "id": "7366",
+        "name": "v0.5.0",
+        "url": "https://moodle.org/plugins/download.php/7366/block_quickmailsms_moodle27_2019100508.zip"
+    },
+    {
+        "id": "3237",
+        "name": "0.1.02-build-201306171201",
+        "url": "https://moodle.org/plugins/download.php/3237/block_quickmailsms_moodle28_2020031115.zip"
+    },
+    {
+        "id": "1563",
+        "name": "0.1.01-build-201210081201",
+        "url": "https://moodle.org/plugins/download.php/1563/block_quickmailsms_moodle40_2014010516.zip"
+    },
+    {
+        "id": "1447",
+        "name": "2012100801",
+        "url": "https://moodle.org/plugins/download.php/1447/block_quickmailsms_moodle38_2019011113.zip"
+    }
+]

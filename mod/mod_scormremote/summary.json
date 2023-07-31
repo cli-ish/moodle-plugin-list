@@ -1,0 +1,44 @@
+{
+    "id": 3074,
+    "index": 588,
+    "name": "SCORM Remote",
+    "frankenstyle": "mod_scormremote",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_scormremote",
+    "shortdescription": "This is a Moodle activity module completely independent from mod_scorm which allows you to upload a scorm and then serve it remotely to other learning management systems on other domains using a thin scorm wrapper. This allows you to upgrade the scorm in place remotely and also allows you to manage and enforce seat counts and limits.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 July 2023, 10:26 AM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-06T10:26:01+08:00"
+    },
+    "aggsites": "40",
+    "aggdownloads": "199",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3074/scormremoteclients.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3074/scormremotetiers.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

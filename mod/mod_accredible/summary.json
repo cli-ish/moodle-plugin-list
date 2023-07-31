@@ -1,0 +1,74 @@
+{
+    "id": 1263,
+    "index": 279,
+    "name": "Accredible Certificates and Badges",
+    "frankenstyle": "mod_accredible",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_accredible",
+    "shortdescription": "Accredible lets you issue digital certificates, open badges, or Blockchain credentials from your Moodle instance. They are a feature-rich replacement for the PDF certificates normally generated for your courses.",
+    "timelastreleased": {
+        "absdate": "Monday, 3 July 2023, 10:21 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-03T22:21:13+08:00"
+    },
+    "aggsites": "676",
+    "aggdownloads": "463",
+    "aggfavs": "114",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1263/sized_logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1263/sized_logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1263/Accredible%20cover%20image.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1263/Admin%20List%20View.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1263/Certificate%20View.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1263/Example%20-%20Full%20Page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1263/Example%20-%20Google%20Cloud%20Developer%20Certificate.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1263/Example%20-%20New%20Relic%20Certificate.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1263/Example%20-%20OpenBadge.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1263/New%20Activity.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1263/Options%20for%20Issue%20Behaviour.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1263/plugin-activity_view.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1862598,
+            "firstname": "Accredible",
+            "lastname": "Inc",
+            "url": "https://moodle.org/user/profile.php?id=1862598"
+        },
+        {
+            "id": 2104979,
+            "firstname": "David",
+            "lastname": "King",
+            "url": "https://moodle.org/user/profile.php?id=2104979"
+        }
+    ],
+    "descriptors": []
+}

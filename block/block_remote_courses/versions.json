@@ -1,0 +1,27 @@
+[
+    {
+        "id": "21724",
+        "name": "v3.6.0",
+        "url": "https://moodle.org/plugins/download.php/21724/block_remote_courses_moodle25_2012060312.zip"
+    },
+    {
+        "id": "16699",
+        "name": "v3.4.0",
+        "url": "https://moodle.org/plugins/download.php/16699/block_remote_courses_moodle29_2013080709.zip"
+    },
+    {
+        "id": "16700",
+        "name": "v3.3.0",
+        "url": "https://moodle.org/plugins/download.php/16700/block_remote_courses_moodle30_2018110308.zip"
+    },
+    {
+        "id": "11895",
+        "name": "v1.1.1",
+        "url": "https://moodle.org/plugins/download.php/11895/block_remote_courses_moodle40_2011060403.zip"
+    },
+    {
+        "id": "11743",
+        "name": "v1.1.0",
+        "url": "https://moodle.org/plugins/download.php/11743/block_remote_courses_moodle38_2018040915.zip"
+    }
+]

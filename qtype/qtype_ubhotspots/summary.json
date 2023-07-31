@@ -1,0 +1,64 @@
+{
+    "id": 161,
+    "index": 1827,
+    "name": "UB Hot Spots",
+    "frankenstyle": "qtype_ubhotspots",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_ubhotspots",
+    "shortdescription": "The \u201cUniversitat de Barcelona\u201d (University of Barcelona) through its \u201cPrograma de Mejora e Innovaci\u00f3n Docente\u201d (Programme of Educational Improvement and Innovation) offers the community a new question type for Moodle called UBhotspot. This new type of question allows the teacher to create multiple areas or spots within an image for self-evaluation.",
+    "timelastreleased": {
+        "absdate": "Monday, 5 December 2011, 9:55 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-12-05T21:55:24+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "5",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/161/funciona1.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/161/funciona2.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/161/funciona3.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 238440,
+            "firstname": "Yolanda",
+            "lastname": "Ord\u00f3\u00f1ez Rufat",
+            "url": "https://moodle.org/user/profile.php?id=238440"
+        },
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        },
+        {
+            "id": 208424,
+            "firstname": "Antonio",
+            "lastname": "Piedras",
+            "url": "https://moodle.org/user/profile.php?id=208424"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

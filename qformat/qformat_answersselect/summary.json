@@ -1,0 +1,40 @@
+{
+    "id": 2793,
+    "index": 1725,
+    "name": "Random select answers format",
+    "frankenstyle": "qformat_answersselect",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_answersselect",
+    "shortdescription": "This import format plugin takes a Moodle XML file and imports all \r\nregular multichoice questions changing them into 'Random select answers' questions.",
+    "timelastreleased": {
+        "absdate": "Friday, 27 August 2021, 10:13 PM",
+        "reldate": "23 months",
+        "iso8601date": "2021-08-27T22:13:09+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "6",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2793/ANSWERS_SELECT_format_import.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 20216,
+            "firstname": "Joseph",
+            "lastname": "R\u00e9zeau",
+            "url": "https://moodle.org/user/profile.php?id=20216"
+        }
+    ],
+    "descriptors": []
+}

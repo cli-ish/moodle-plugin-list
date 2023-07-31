@@ -1,0 +1,47 @@
+{
+    "id": 456,
+    "index": 1792,
+    "name": "Course Publishing Workflow",
+    "frankenstyle": "block_publishflow",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_publishflow",
+    "shortdescription": "Publishflow reveals a strong MNET based course publishing architecture for providing a high level service for moving, cataloging, preproducing courses and organize several moodles as a courseware production supersystem.",
+    "timelastreleased": {
+        "absdate": "Sunday, 24 November 2013, 2:23 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-11-24T02:23:18+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "5",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/456/block_publishflow_deployement_gui.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/456/block_publishflow_publishing_gui.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/456/block_publishflow_retrofit_and_control_gui.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,52 @@
+{
+    "id": 2958,
+    "index": 795,
+    "name": "My programs block",
+    "frankenstyle": "block_myprograms",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_myprograms",
+    "shortdescription": "My programs block.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 7:07 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T19:07:39+08:00"
+    },
+    "aggsites": "171",
+    "aggdownloads": "124",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2958/my_programs.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 12863,
+            "firstname": "Petr",
+            "lastname": "Skoda",
+            "url": "https://moodle.org/user/profile.php?id=12863"
+        },
+        {
+            "id": 470036,
+            "firstname": "Jeremy",
+            "lastname": "Schweitzer",
+            "url": "https://moodle.org/user/profile.php?id=470036"
+        },
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": []
+}

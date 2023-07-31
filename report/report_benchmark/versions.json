@@ -1,0 +1,32 @@
+[
+    {
+        "id": "28451",
+        "name": "v1.5.1",
+        "url": "https://moodle.org/plugins/download.php/28451/report_benchmark_moodle38_2011040502.zip"
+    },
+    {
+        "id": "28380",
+        "name": "v1.5.0",
+        "url": "https://moodle.org/plugins/download.php/28380/report_benchmark_moodle32_2013060114.zip"
+    },
+    {
+        "id": "28358",
+        "name": "v1.4.3",
+        "url": "https://moodle.org/plugins/download.php/28358/report_benchmark_moodle40_2015010101.zip"
+    },
+    {
+        "id": "27335",
+        "name": "v1.4.2",
+        "url": "https://moodle.org/plugins/download.php/27335/report_benchmark_moodle34_2015110603.zip"
+    },
+    {
+        "id": "25151",
+        "name": "v1.4.1",
+        "url": "https://moodle.org/plugins/download.php/25151/report_benchmark_moodle39_2022070212.zip"
+    },
+    {
+        "id": "21093",
+        "name": "v1.4.0",
+        "url": "https://moodle.org/plugins/download.php/21093/report_benchmark_moodle38_2011080311.zip"
+    }
+]

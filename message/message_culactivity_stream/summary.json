@@ -1,0 +1,40 @@
+{
+    "id": 1256,
+    "index": 805,
+    "name": "CUL Activity Stream",
+    "frankenstyle": "message_culactivity_stream",
+    "plugintype": {
+        "type": "message",
+        "name": "Notification plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/message_culactivity_stream",
+    "shortdescription": "Message output plugin required by block CUL Activity Steam. Part of the CUL Activity Stream suite.",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 June 2022, 11:46 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-25T23:46:01+08:00"
+    },
+    "aggsites": "36",
+    "aggdownloads": "123",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1062329,
+            "firstname": "Amanda",
+            "lastname": "Doughty",
+            "url": "https://moodle.org/user/profile.php?id=1062329"
+        }
+    ],
+    "descriptors": []
+}

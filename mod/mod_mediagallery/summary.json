@@ -1,0 +1,65 @@
+{
+    "id": 1128,
+    "index": 272,
+    "name": "Media collection",
+    "frankenstyle": "mod_mediagallery",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_mediagallery",
+    "shortdescription": "This plugin allows instructors/teachers to create a space for students to submit \"galleries\". These galleries can be based on images, audio or video.",
+    "timelastreleased": {
+        "absdate": "Thursday, 1 June 2023, 11:07 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-01T23:07:33+08:00"
+    },
+    "aggsites": "1643",
+    "aggdownloads": "469",
+    "aggfavs": "52",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1128/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1128/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1128/mc-editcollection-menu.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1128/mc-editmenu.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1128/Screenshot%20from%202014-05-20%20143252.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1128/Screenshot%20from%202014-05-20%20143513.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1128/Screenshot%20from%202014-05-20%20143704.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1128/Screenshot%20from%202014-05-20%20143807.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1316828,
+            "firstname": "Adam",
+            "lastname": "Olley",
+            "url": "https://moodle.org/user/profile.php?id=1316828"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

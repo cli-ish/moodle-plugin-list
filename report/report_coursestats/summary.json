@@ -1,0 +1,59 @@
+{
+    "id": 1878,
+    "index": 107,
+    "name": "Courses Usage Statistics",
+    "frankenstyle": "report_coursestats",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_coursestats",
+    "shortdescription": "That is a Moodle report plugin that helps the admin to known how the courses are being used by users (e.g. as forum, as file repositories or as activities repositories).",
+    "timelastreleased": {
+        "absdate": "Thursday, 9 July 2020, 8:28 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-07-09T20:28:50+08:00"
+    },
+    "aggsites": "4344",
+    "aggdownloads": "1k",
+    "aggfavs": "62",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1878/chart.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1878/chartprint.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1878/choose-cat.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1878/csvprint.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1878/details.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1878/menu.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1878/table.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2249730,
+            "firstname": "Paulo",
+            "lastname": "J\u00fanior",
+            "url": "https://moodle.org/user/profile.php?id=2249730"
+        }
+    ],
+    "descriptors": []
+}

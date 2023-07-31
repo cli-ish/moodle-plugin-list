@@ -1,0 +1,47 @@
+{
+    "id": 2916,
+    "index": 750,
+    "name": "Course module instances report",
+    "frankenstyle": "report_coursemodstats",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_coursemodstats",
+    "shortdescription": "This report plugin shows number of activity and resource instances per course in downloadable Excel file.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 29 March 2022, 10:27 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-29T22:27:06+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "134",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2916/admin-block-report-menu-item.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2916/report_excel_example.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2916/report_form.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 475636,
+            "firstname": "Andrej",
+            "lastname": "Vitez",
+            "url": "https://moodle.org/user/profile.php?id=475636"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,80 @@
+{
+    "id": 875,
+    "index": 1332,
+    "name": "Advance course search",
+    "frankenstyle": "tool_coursesearch",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_coursesearch",
+    "shortdescription": "Course search plugin is replacement of existing course search with the more better performance & extra features.",
+    "timelastreleased": {
+        "absdate": "Friday, 9 January 2015, 2:19 PM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-09T14:19:33+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "18",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/875/06.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/875/06.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/875/tool_coursesearch_adminUI.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/875/tool_coursesearch_Autosuggest.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/875/tool_coursesearch_didyoumean.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/875/tool_coursesearch_IndexCourses.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/875/tool_coursesearch_KeywordMatching.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/875/tool_coursesearch_Pagination.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/875/tool_coursesearch_PingResponse.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/875/tool_coursesearch_ProximitySearch.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/875/tool_coursesearch_RangeQuery.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/875/tool_coursesearch_SortResults.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1565325,
+            "firstname": "Shashikant",
+            "lastname": "Vaishnav",
+            "url": "https://moodle.org/user/profile.php?id=1565325"
+        },
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        },
+        {
+            "id": 381842,
+            "firstname": "Michael",
+            "lastname": "de Raadt",
+            "url": "https://moodle.org/user/profile.php?id=381842"
+        }
+    ],
+    "descriptors": []
+}

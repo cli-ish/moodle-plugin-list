@@ -1,0 +1,42 @@
+[
+    {
+        "id": "29427",
+        "name": "3.2.3-build-2023060701",
+        "url": "https://moodle.org/plugins/download.php/29427/block_intelligent_learning_moodle25_2020060904.zip"
+    },
+    {
+        "id": "28191",
+        "name": "3.2.2-build-2022110290",
+        "url": "https://moodle.org/plugins/download.php/28191/block_intelligent_learning_moodle27_2018120911.zip"
+    },
+    {
+        "id": "25702",
+        "name": "3.2.1-build-2021120201",
+        "url": "https://moodle.org/plugins/download.php/25702/block_intelligent_learning_moodle37_2013110908.zip"
+    },
+    {
+        "id": "25281",
+        "name": "3.2-build-2021100801",
+        "url": "https://moodle.org/plugins/download.php/25281/block_intelligent_learning_moodle35_2021031214.zip"
+    },
+    {
+        "id": "25176",
+        "name": "3.2-build-2021091402",
+        "url": "https://moodle.org/plugins/download.php/25176/block_intelligent_learning_moodle38_2011021004.zip"
+    },
+    {
+        "id": "22060",
+        "name": "3.1.1-build-2020060502",
+        "url": "https://moodle.org/plugins/download.php/22060/block_intelligent_learning_moodle35_2023010708.zip"
+    },
+    {
+        "id": "21485",
+        "name": "3.1.0-build-2020041301",
+        "url": "https://moodle.org/plugins/download.php/21485/block_intelligent_learning_moodle39_2023040720.zip"
+    },
+    {
+        "id": "20232",
+        "name": "3.0.3-build-2019081601",
+        "url": "https://moodle.org/plugins/download.php/20232/block_intelligent_learning_moodle40_2011061108.zip"
+    }
+]

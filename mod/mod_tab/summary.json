@@ -1,0 +1,50 @@
+{
+    "id": 138,
+    "index": 897,
+    "name": "oohoo - Tab display",
+    "frankenstyle": "mod_tab",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_tab",
+    "shortdescription": "The tab display module allows you to setup your information in a tabbed format. This helps to clean up your course by combining several resources into Tabs.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 June 2019, 4:27 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-06-25T04:27:09+08:00"
+    },
+    "aggsites": "573",
+    "aggdownloads": "98",
+    "aggfavs": "26",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/138/tab-Moodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/138/tab-Moodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/138/screenshot_tabdisplay_01_en.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/138/tabdisplay.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 106123,
+            "firstname": "Patrick",
+            "lastname": "Thibaudeau",
+            "url": "https://moodle.org/user/profile.php?id=106123"
+        },
+        {
+            "id": 1413693,
+            "firstname": "Nicolas",
+            "lastname": "Bretin",
+            "url": "https://moodle.org/user/profile.php?id=1413693"
+        }
+    ],
+    "descriptors": []
+}

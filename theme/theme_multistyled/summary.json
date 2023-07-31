@@ -1,0 +1,45 @@
+{
+    "id": 113,
+    "index": 1577,
+    "name": "MultiStyled",
+    "frankenstyle": "theme_multistyled",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_multistyled",
+    "shortdescription": "Multistyled is a child theme for Multilayout. It provides the colour scheme and settings page for Multilayout, allowing the page layout and colours to be controlled from the theme's settings page.",
+    "timelastreleased": {
+        "absdate": "Friday, 21 October 2011, 6:14 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-21T06:14:07+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "9",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/113/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 480148,
+            "firstname": "Richard",
+            "lastname": "Oelmann",
+            "url": "https://moodle.org/user/profile.php?id=480148"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

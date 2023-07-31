@@ -1,0 +1,44 @@
+{
+    "id": 2032,
+    "index": 919,
+    "name": "Group quiz",
+    "frankenstyle": "quiz_group",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_group",
+    "shortdescription": "Add Group notion to Quiz. \r\nOnly one member of a group can do the quiz and the grade is then dispatched to all the group's members",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 June 2023, 5:39 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-06T17:39:18+08:00"
+    },
+    "aggsites": "141",
+    "aggdownloads": "84",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2032/group_quiz_attempt_already_exist_for_group.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2032/Screen%20Shot%202018-03-15%20at%2016.22.06.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2254870,
+            "firstname": "Camille",
+            "lastname": "Tardy",
+            "url": "https://moodle.org/user/profile.php?id=2254870"
+        }
+    ],
+    "descriptors": []
+}

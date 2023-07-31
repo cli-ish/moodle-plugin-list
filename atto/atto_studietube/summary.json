@@ -1,0 +1,47 @@
+{
+    "id": 2256,
+    "index": 1511,
+    "name": "Atto Studietube",
+    "frankenstyle": "atto_studietube",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_studietube",
+    "shortdescription": "An Atto plugin to import content from the Studietube.dk",
+    "timelastreleased": {
+        "absdate": "Friday, 19 November 2021, 7:24 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-19T19:24:26+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "11",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2256/studietube.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2256/studietube.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2256/Captura%20de%20pantalla%202019-03-18%20a%20la%28s%29%2010.33.31.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2256/Captura%20de%20pantalla%202019-03-18%20a%20la%28s%29%2010.33.37.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2256/Captura%20de%20pantalla%202019-03-18%20a%20la%28s%29%2010.34.01.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2625093,
+            "firstname": "Damian",
+            "lastname": "Alarcon",
+            "url": "https://moodle.org/user/profile.php?id=2625093"
+        }
+    ],
+    "descriptors": []
+}

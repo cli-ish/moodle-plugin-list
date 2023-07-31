@@ -1,0 +1,55 @@
+{
+    "id": 149,
+    "index": 59,
+    "name": "Lightbox Gallery",
+    "frankenstyle": "mod_lightboxgallery",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_lightboxgallery",
+    "shortdescription": "This resource allows you to create 'Lightbox' enabled image galleries within your Moodle course.\r\n\r\nAs a course teacher, you are able to create, edit and delete galleries. Smallthumbnails will then be\r\ngenerated, which are used for the thumbnail view of the gallery.",
+    "timelastreleased": {
+        "absdate": "Monday, 26 June 2023, 10:55 AM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-26T10:55:15+08:00"
+    },
+    "aggsites": "3599",
+    "aggdownloads": "1k",
+    "aggfavs": "94",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/149/lbg2806-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/149/lbg2806-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/149/lbg2806-view.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/149/lbg2806-lightbox.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1396756,
+            "firstname": "Andrew",
+            "lastname": "Hancox",
+            "url": "https://moodle.org/user/profile.php?id=1396756"
+        },
+        {
+            "id": 1316828,
+            "firstname": "Adam",
+            "lastname": "Olley",
+            "url": "https://moodle.org/user/profile.php?id=1316828"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

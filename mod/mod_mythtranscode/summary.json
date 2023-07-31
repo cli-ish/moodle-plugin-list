@@ -1,0 +1,55 @@
+{
+    "id": 638,
+    "index": 1701,
+    "name": "Mythtranscode",
+    "frankenstyle": "mod_mythtranscode",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_mythtranscode",
+    "shortdescription": "This is an activity module for integration with MythTV and MythTranscode, allowing teachers to add television programmes to a course, and students to view them.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 12 March 2013, 3:36 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-12T03:36:14+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "7",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/638/mythtranscode.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/638/mythtranscode.svg?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1568729,
+            "firstname": "Harry",
+            "lastname": "Rickards",
+            "url": "https://moodle.org/user/profile.php?id=1568729"
+        },
+        {
+            "id": 482638,
+            "firstname": "Darren",
+            "lastname": "Jones",
+            "url": "https://moodle.org/user/profile.php?id=482638"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

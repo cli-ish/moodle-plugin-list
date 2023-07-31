@@ -1,0 +1,52 @@
+{
+    "id": 12,
+    "index": 905,
+    "name": "Aardvark Post-It",
+    "frankenstyle": "theme_aardvark_postit",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_aardvark_postit",
+    "shortdescription": "Aardvark Post-IT theme has been temporarily removed.\r\n\r\nSorry for the inconvenience.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 24 July 2012, 5:52 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-07-24T05:52:07+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "91",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/12/postit-logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/12/postit-logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/12/pfofilebar-lang.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/12/postit-dock.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/12/postit-move.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

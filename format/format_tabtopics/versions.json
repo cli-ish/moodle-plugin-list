@@ -1,0 +1,52 @@
+[
+    {
+        "id": "5714",
+        "name": "2.6.0-build-2014040200",
+        "url": "https://moodle.org/plugins/download.php/5714/format_tabtopics_moodle37_2012010101.zip"
+    },
+    {
+        "id": "2445",
+        "name": "2.4.4-build-2013032700",
+        "url": "https://moodle.org/plugins/download.php/2445/format_tabtopics_moodle36_2023040115.zip"
+    },
+    {
+        "id": "1843",
+        "name": "2.4.1-build-2012121100",
+        "url": "https://moodle.org/plugins/download.php/1843/format_tabtopics_moodle30_2011070512.zip"
+    },
+    {
+        "id": "4290",
+        "name": "2.5.2-build-2013092600",
+        "url": "https://moodle.org/plugins/download.php/4290/format_tabtopics_moodle28_2020030416.zip"
+    },
+    {
+        "id": "3208",
+        "name": "2.5.0-build-2013061300",
+        "url": "https://moodle.org/plugins/download.php/3208/format_tabtopics_moodle28_2018111113.zip"
+    },
+    {
+        "id": "2175",
+        "name": "2.4.3-build-2013021200",
+        "url": "https://moodle.org/plugins/download.php/2175/format_tabtopics_moodle32_2012060615.zip"
+    },
+    {
+        "id": "1873",
+        "name": "2.4.2-build-2012121401",
+        "url": "https://moodle.org/plugins/download.php/1873/format_tabtopics_moodle33_2018071203.zip"
+    },
+    {
+        "id": "1872",
+        "name": "2.4.2-build-2012121400",
+        "url": "https://moodle.org/plugins/download.php/1872/format_tabtopics_moodle31_2011020816.zip"
+    },
+    {
+        "id": "1837",
+        "name": "2.4.0-build-2012121000",
+        "url": "https://moodle.org/plugins/download.php/1837/format_tabtopics_moodle30_2010010411.zip"
+    },
+    {
+        "id": "1604",
+        "name": "2.4.0-build-2012103000",
+        "url": "https://moodle.org/plugins/download.php/1604/format_tabtopics_moodle33_2012120107.zip"
+    }
+]

@@ -1,0 +1,45 @@
+{
+    "id": 576,
+    "index": 1352,
+    "name": "File download for data module",
+    "frankenstyle": "local_eduweb_databasefiledownload",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_eduweb_databasefiledownload",
+    "shortdescription": "Extends the functionality of database module by giving users the option to download all students file uploads within one big zip archive.",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 December 2012, 9:08 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-12-20T21:08:25+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "17",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/576/moodle-eduweb_databasefiledownload_screen1.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1360783,
+            "firstname": "Egli",
+            "lastname": "Michael",
+            "url": "https://moodle.org/user/profile.php?id=1360783"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

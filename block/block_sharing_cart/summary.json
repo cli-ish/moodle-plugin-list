@@ -1,0 +1,55 @@
+{
+    "id": 557,
+    "index": 47,
+    "name": "Sharing Cart",
+    "frankenstyle": "block_sharing_cart",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_sharing_cart",
+    "shortdescription": "**Sharing Cart 4.1, release 1 fixes numerous issues, add a section copy interface, and requires Moodle 3.11.4**  You can choose the default way of clicking the basket icon, a direct drag-and drop method.\r\n\r\nFor Moodle sites older than 3.11, download Sharing Cart 4.0, release 2, compatible with Moodle 3.6 through 4.0 (750+ sites are currently using Sharing Cart in Moodle 4.0). Please report any bugs or feature requests in the github repository: https://github.com/donhinkelman/moodle-block_sharing_cart. This release includes a significant improvements by Anders and Ulrik of Praxis. \r\n\r\nThe Sharing Cart is a block that enables sharing of Moodle content (resources, activities) between multiple courses on your site. Sharing Cart 3.0 was submitted to Remote Learner for independent vetting and passed May 2016. In versions 3.x, new interface programmed by Praxis of Denmark was added, in addition to 'Section Copy' feature and Postgres compatibility (co-funded by Ulm University, Germany and Sapporo Gakuin University, Japan). Thanks also to Ponlawat Weerapanpisit and other contributors for programming assistance.",
+    "timelastreleased": {
+        "absdate": "Thursday, 23 March 2023, 5:35 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-23T17:35:23+08:00"
+    },
+    "aggsites": "4841",
+    "aggdownloads": "1k",
+    "aggfavs": "182",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/557/Microsoft%20Word.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/557/Microsoft%20Word.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/557/SharingCart-greycartplus.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/557/Sharing-Cart.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3098,
+            "firstname": "Don",
+            "lastname": "Hinkelman",
+            "url": "https://moodle.org/user/profile.php?id=3098"
+        },
+        {
+            "id": 1762958,
+            "firstname": "Tue",
+            "lastname": "Korsgaard",
+            "url": "https://moodle.org/user/profile.php?id=1762958"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

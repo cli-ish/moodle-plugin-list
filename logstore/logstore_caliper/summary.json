@@ -1,0 +1,40 @@
+{
+    "id": 1674,
+    "index": 342,
+    "name": "Caliper log store",
+    "frankenstyle": "logstore_caliper",
+    "plugintype": {
+        "type": "logstore",
+        "name": "Log store manager / Log store"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/logstore_caliper",
+    "shortdescription": "Integrates with Learning Record Storage using the IMS Caliper 1.0 specification.  Certified with IMS Caliper 1.0 for the AssessmentEvent, OutcomeEvent and SessionEvent metric profiles.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 2:35 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T02:35:20+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "390",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1674/logstore_caliper.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": []
+}

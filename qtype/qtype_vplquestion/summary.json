@@ -1,0 +1,59 @@
+{
+    "id": 2391,
+    "index": 492,
+    "name": "VPL Question",
+    "frankenstyle": "qtype_vplquestion",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_vplquestion",
+    "shortdescription": "VPL Questions are questions that can fit within a Moodle quiz. They are intended to create small to medium coding exercises, based on the Virtual Programming Lab plugin.\r\nThey are designed to offer a simple interface for students, while keeping the power and versatility of Virtual Programming Labs.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 March 2023, 9:25 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-01T21:25:59+08:00"
+    },
+    "aggsites": "399",
+    "aggdownloads": "238",
+    "aggfavs": "35",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2391/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2391/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2391/student_view.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2391/student_view1.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2391/student_view3.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2391/student_view4.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2391/student_view5.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2391/student_view6.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2391/student_view7.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

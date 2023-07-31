@@ -1,0 +1,47 @@
+[
+    {
+        "id": "24217",
+        "name": "1.2.1-build-2021040700",
+        "url": "https://moodle.org/plugins/download.php/24217/block_annulab_lrs_moodle26_2017011003.zip"
+    },
+    {
+        "id": "23039",
+        "name": "1.2.0-build-2020120700",
+        "url": "https://moodle.org/plugins/download.php/23039/block_annulab_lrs_moodle30_2018061114.zip"
+    },
+    {
+        "id": "22961",
+        "name": "1.1.4-build-2020112400",
+        "url": "https://moodle.org/plugins/download.php/22961/block_annulab_lrs_moodle40_2011020316.zip"
+    },
+    {
+        "id": "22960",
+        "name": "1.1.3-build-2020112400",
+        "url": "https://moodle.org/plugins/download.php/22960/block_annulab_lrs_moodle35_2023060809.zip"
+    },
+    {
+        "id": "22182",
+        "name": "1.1.3-build-2020080600",
+        "url": "https://moodle.org/plugins/download.php/22182/block_annulab_lrs_moodle39_2015010412.zip"
+    },
+    {
+        "id": "21130",
+        "name": "1.1.2-build-2020030300",
+        "url": "https://moodle.org/plugins/download.php/21130/block_annulab_lrs_moodle28_2012070316.zip"
+    },
+    {
+        "id": "20365",
+        "name": "1.1.1-build-2019041200",
+        "url": "https://moodle.org/plugins/download.php/20365/block_annulab_lrs_moodle30_2011090309.zip"
+    },
+    {
+        "id": "17124",
+        "name": "1.1.0-build-2018061700",
+        "url": "https://moodle.org/plugins/download.php/17124/block_annulab_lrs_moodle35_2020110319.zip"
+    },
+    {
+        "id": "16945",
+        "name": "1.0.3-build-2018052800",
+        "url": "https://moodle.org/plugins/download.php/16945/block_annulab_lrs_moodle35_2020030413.zip"
+    }
+]

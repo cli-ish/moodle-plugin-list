@@ -1,0 +1,62 @@
+{
+    "id": 1933,
+    "index": 926,
+    "name": "Adaptable News Slider",
+    "frankenstyle": "block_news_slider",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_news_slider",
+    "shortdescription": "Part of the Adaptable UI set, this block allows you to add a news slider that displays:\r\n\r\n1: Unread course announcements (from all enrolled courses) \r\n2: Site announcements (front page news announcements)\r\n3: Both of the above (combined course and site announcements)\r\n\r\nThe slider uses the jQuery slick slider and whilst designed to work with the Adaptable Theme, it *may* work with other themes.",
+    "timelastreleased": {
+        "absdate": "Friday, 24 April 2020, 5:32 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-04-24T17:32:41+08:00"
+    },
+    "aggsites": "404",
+    "aggdownloads": "80",
+    "aggfavs": "32",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1933/news-slider-logo-compressed.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1933/news-slider-logo-compressed.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1933/news-slider-screenshot-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1933/news-slider-screenshot-2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1933/news-slider-screenshot-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1933/news-slider-screenshot-3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2227655,
+            "firstname": "Manoj",
+            "lastname": "Solanki",
+            "url": "https://moodle.org/user/profile.php?id=2227655"
+        },
+        {
+            "id": 230467,
+            "firstname": "Jez",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=230467"
+        },
+        {
+            "id": 2158877,
+            "firstname": "Kevin",
+            "lastname": "Moore",
+            "url": "https://moodle.org/user/profile.php?id=2158877"
+        }
+    ],
+    "descriptors": []
+}

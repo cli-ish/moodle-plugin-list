@@ -1,0 +1,65 @@
+{
+    "id": 2154,
+    "index": 374,
+    "name": "Social Comments",
+    "frankenstyle": "block_socialcomments",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_socialcomments",
+    "shortdescription": "Increase student engagement by fostering peer learning through comment subscription, email digests, comments newsfeed, comment search and pinning of important comments and content to the pin board.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 25 May 2022, 5:55 AM",
+        "reldate": "14 months",
+        "iso8601date": "2022-05-25T05:55:59+08:00"
+    },
+    "aggsites": "301",
+    "aggdownloads": "337",
+    "aggfavs": "30",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2154/355ea5feca772072d3ac27190040c9b182b8594f.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2154/355ea5feca772072d3ac27190040c9b182b8594f.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2154/Social%20Comments.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2154/Social%20Comments%20%E2%80%94%20All%20commenst%20report.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2154/Social%20Comments%20%E2%80%94%20Block%20view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2154/Social%20Comments%20%E2%80%94%20E-Mail%20Digest.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2154/Social%20Comments%20%E2%80%94%20Group%20mode.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2154/Social%20Comments%20%E2%80%94%20New%20comments%20report.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2154/Social%20Comments%20%E2%80%94%20Pin%20board.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2011981,
+            "firstname": "Bj\u00f6rn",
+            "lastname": "Lefers",
+            "url": "https://moodle.org/user/profile.php?id=2011981"
+        },
+        {
+            "id": 1553381,
+            "firstname": "Stefan",
+            "lastname": "Scholz",
+            "url": "https://moodle.org/user/profile.php?id=1553381"
+        }
+    ],
+    "descriptors": []
+}

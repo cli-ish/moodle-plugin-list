@@ -1,0 +1,64 @@
+{
+    "id": 1045,
+    "index": 1822,
+    "name": "Insert interactive activity (iAssign) by TinyMCE editor",
+    "frankenstyle": "tinymce_iassign",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_iassign",
+    "shortdescription": "This plugin is a plugin for TinyMCE editor for insert any iLM (interactive Learning Modules) activities in any Moodle text.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 2 July 2014, 4:48 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-07-02T04:48:22+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1045/iassign-logo-tinymce_256.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1045/iassign-logo-tinymce_256.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1045/iassign_example_filter4.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1045/iassign-tinymce-01.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1045/iassign-tinymce-02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1028957,
+            "firstname": "Le\u00f4nidas",
+            "lastname": "Brand\u00e3o",
+            "url": "https://moodle.org/user/profile.php?id=1028957"
+        },
+        {
+            "id": 629382,
+            "firstname": "Luciano",
+            "lastname": "Oliveira Borges",
+            "url": "https://moodle.org/user/profile.php?id=629382"
+        },
+        {
+            "id": 774672,
+            "firstname": "Patricia",
+            "lastname": "Alves Rodrigues",
+            "url": "https://moodle.org/user/profile.php?id=774672"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

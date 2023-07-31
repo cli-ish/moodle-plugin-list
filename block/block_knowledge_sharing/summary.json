@@ -1,0 +1,47 @@
+{
+    "id": 2059,
+    "index": 1716,
+    "name": "Knowledge Sharing",
+    "frankenstyle": "block_knowledge_sharing",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_knowledge_sharing",
+    "shortdescription": "Knowledge Sharing Block enables the sharing of the content of a selected sub-tree of categories and courses across the whole site by simple drag-drop.",
+    "timelastreleased": {
+        "absdate": "Monday, 25 February 2019, 4:09 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-02-25T16:09:20+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "6",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2059/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2059/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2059/block.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2059/inwork.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2059/settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 567589,
+            "firstname": "Peter Eliyahu",
+            "lastname": "Kornfeld",
+            "url": "https://moodle.org/user/profile.php?id=567589"
+        }
+    ],
+    "descriptors": []
+}

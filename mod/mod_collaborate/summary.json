@@ -1,0 +1,52 @@
+{
+    "id": 1490,
+    "index": 244,
+    "name": "Blackboard Collaborate",
+    "frankenstyle": "mod_collaborate",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_collaborate",
+    "shortdescription": "Moodle integration plugin for Blackboard Collaborate with Ultra experience.  Use of this plugin requires a Blackboard Collaborate license.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 2:22 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T02:22:55+08:00"
+    },
+    "aggsites": "501",
+    "aggdownloads": "518",
+    "aggfavs": "32",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1490/collaborate.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1490/collaborate.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1490/moderator_screen.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1490/participant_experience.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1490/participant_speaker_view.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

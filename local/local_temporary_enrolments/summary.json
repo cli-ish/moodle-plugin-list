@@ -1,0 +1,47 @@
+{
+    "id": 2039,
+    "index": 1676,
+    "name": "Temporary enrolments",
+    "frankenstyle": "local_temporary_enrolments",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_temporary_enrolments",
+    "shortdescription": "A Moodle plugin to manage temporary/provisional course site access for wait-listed or unregistered students.",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 March 2019, 10:03 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-03-14T22:03:13+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "7",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2039/local_temporary_enrolments_screenshot_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2039/local_temporary_enrolments_screenshot_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2039/local_temporary_enrolments_screenshot_3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,53 @@
+{
+    "id": 1630,
+    "index": 1351,
+    "name": "Import competency framework",
+    "frankenstyle": "tool_lpimportcsv",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_lpimportcsv",
+    "shortdescription": "This admin tool allows import/export of competency frameworks using a                                                               \r\ncomma separated value file (CSV).                                                                                                   \r\n                                                                                                                                    \r\nThis imports and exports all data contained in the competency                                                                       \r\nframework including related competencies, and any configured                                                                        \r\ncompetency rules.",
+    "timelastreleased": {
+        "absdate": "Monday, 9 May 2016, 3:42 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-05-09T15:42:04+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "17",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1630/Text-csv-text.svg.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1630/Text-csv-text.svg.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1630/csv-import-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1630/csv-import.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1337843,
+            "firstname": "Damyon",
+            "lastname": "Wiese",
+            "url": "https://moodle.org/user/profile.php?id=1337843"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

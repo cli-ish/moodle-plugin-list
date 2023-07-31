@@ -1,0 +1,67 @@
+[
+    {
+        "id": "29713",
+        "name": "3.7.3-for-moodle-3.9-4.2-build-2023010304",
+        "url": "https://moodle.org/plugins/download.php/29713/qtype_matrix_moodle28_2014060307.zip"
+    },
+    {
+        "id": "24965",
+        "name": "3.6.1-for-moodle-3.5-3.11-build-2021081800",
+        "url": "https://moodle.org/plugins/download.php/24965/qtype_matrix_moodle29_2019111020.zip"
+    },
+    {
+        "id": "19541",
+        "name": "3.5.3-for-moodle-2.7-3.7-build-2018050703",
+        "url": "https://moodle.org/plugins/download.php/19541/qtype_matrix_moodle31_2021121208.zip"
+    },
+    {
+        "id": "593",
+        "name": "2011120100",
+        "url": "https://moodle.org/plugins/download.php/593/qtype_matrix_moodle29_2016050218.zip"
+    },
+    {
+        "id": "29712",
+        "name": "3.7.2-for-moodle-3.9-4.2-build-2023010303",
+        "url": "https://moodle.org/plugins/download.php/29712/qtype_matrix_moodle27_2023100919.zip"
+    },
+    {
+        "id": "28277",
+        "name": "3.7-for-moodle-3.9-4.1-build-2023010300",
+        "url": "https://moodle.org/plugins/download.php/28277/qtype_matrix_moodle40_2021040214.zip"
+    },
+    {
+        "id": "21741",
+        "name": "3.6-for-moodle-3.5-3.9-build-2020061601",
+        "url": "https://moodle.org/plugins/download.php/21741/qtype_matrix_moodle40_2018060602.zip"
+    },
+    {
+        "id": "18745",
+        "name": "3.5.2-for-moodle-2.7-3.6-build-2018050702",
+        "url": "https://moodle.org/plugins/download.php/18745/qtype_matrix_moodle27_2013090620.zip"
+    },
+    {
+        "id": "16862",
+        "name": "3.5.1-for-moodle-2.7-3.5-build-2018050701",
+        "url": "https://moodle.org/plugins/download.php/16862/qtype_matrix_moodle40_2014070901.zip"
+    },
+    {
+        "id": "16587",
+        "name": "3.5.0-for-moodle-2.7-3.5-build-2018050700",
+        "url": "https://moodle.org/plugins/download.php/16587/qtype_matrix_moodle32_2022051212.zip"
+    },
+    {
+        "id": "14319",
+        "name": "2017062900",
+        "url": "https://moodle.org/plugins/download.php/14319/qtype_matrix_moodle28_2017070918.zip"
+    },
+    {
+        "id": "12731",
+        "name": "2016113000",
+        "url": "https://moodle.org/plugins/download.php/12731/qtype_matrix_moodle39_2017030505.zip"
+    },
+    {
+        "id": "10402",
+        "name": "2015070100",
+        "url": "https://moodle.org/plugins/download.php/10402/qtype_matrix_moodle34_2011011217.zip"
+    }
+]

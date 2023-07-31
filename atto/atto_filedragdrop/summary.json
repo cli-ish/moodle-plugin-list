@@ -1,0 +1,45 @@
+{
+    "id": 1563,
+    "index": 1085,
+    "name": "File drag & drop",
+    "frankenstyle": "atto_filedragdrop",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_filedragdrop",
+    "shortdescription": "An Atto plugin which adds drag and drop support for files which aren't images.\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 25 January 2016, 11:43 AM",
+        "reldate": "8 years",
+        "iso8601date": "2016-01-25T11:43:15+08:00"
+    },
+    "aggsites": "440",
+    "aggdownloads": "39",
+    "aggfavs": "30",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1159203,
+            "firstname": "Paul",
+            "lastname": "Nicholls",
+            "url": "https://moodle.org/user/profile.php?id=1159203"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

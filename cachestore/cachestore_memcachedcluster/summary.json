@@ -1,0 +1,45 @@
+{
+    "id": 936,
+    "index": 536,
+    "name": "Memcached Cluster",
+    "frankenstyle": "cachestore_memcachedcluster",
+    "plugintype": {
+        "type": "cachestore",
+        "name": "Cache store"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/cachestore_memcachedcluster",
+    "shortdescription": "Memcached caching plugin that allows separate but synced stores, particularly useful for load balanced installs.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 May 2014, 1:15 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-02T01:15:55+08:00"
+    },
+    "aggsites": "23",
+    "aggdownloads": "221",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 139623,
+            "firstname": "Eric",
+            "lastname": "Merrill",
+            "url": "https://moodle.org/user/profile.php?id=139623"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

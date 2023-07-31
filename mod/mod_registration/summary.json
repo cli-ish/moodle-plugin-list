@@ -1,0 +1,51 @@
+{
+    "id": 294,
+    "index": 1194,
+    "name": "Registration",
+    "frankenstyle": "mod_registration",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_registration",
+    "shortdescription": "Teachers can create some examination dates. They define date, time, and place of the examination. Furthermore they define maximum number of students and maximum number of points. After the registration date, they define the points for each student. These can be printed with or without student names. Each student can register/unregister only himself/herself. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 October 2020, 11:08 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-10-22T23:08:44+08:00"
+    },
+    "aggsites": "134",
+    "aggdownloads": "27",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/294/mod-registration.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 794170,
+            "firstname": "Marc-Robin",
+            "lastname": "Wendt",
+            "url": "https://moodle.org/user/profile.php?id=794170"
+        },
+        {
+            "id": 2002095,
+            "firstname": "Martin",
+            "lastname": "Gauk",
+            "url": "https://moodle.org/user/profile.php?id=2002095"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": 1696,
+    "index": 253,
+    "name": "User key authentication",
+    "frankenstyle": "auth_userkey",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_userkey",
+    "shortdescription": "Log in to Moodle using one time user key based login URL. Auth plugin for organising simple  SSO (single sign on) between moodle and your external web application. ",
+    "timelastreleased": {
+        "absdate": "Friday, 19 August 2022, 11:45 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-08-19T11:45:53+08:00"
+    },
+    "aggsites": "1318",
+    "aggdownloads": "506",
+    "aggfavs": "50",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1696/key.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1696/key.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1696/auth_user_key.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 1608390,
+            "firstname": "Dmitrii",
+            "lastname": "Metelkin",
+            "url": "https://moodle.org/user/profile.php?id=1608390"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        },
+        {
+            "id": 1408973,
+            "firstname": "Marcus",
+            "lastname": "Boon",
+            "url": "https://moodle.org/user/profile.php?id=1408973"
+        },
+        {
+            "id": 1982174,
+            "firstname": "Adam",
+            "lastname": "Riddell",
+            "url": "https://moodle.org/user/profile.php?id=1982174"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

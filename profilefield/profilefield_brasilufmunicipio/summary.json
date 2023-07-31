@@ -1,0 +1,44 @@
+{
+    "id": 2897,
+    "index": 701,
+    "name": "Brasil UF e Munic\u00edpio",
+    "frankenstyle": "profilefield_brasilufmunicipio",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_brasilufmunicipio",
+    "shortdescription": "This plugins allows to select city (Municipio) based on the selected UF (Unidade da Federa\u00e7\u00e3o).\r\nThe list of municipios for selected UF is fetched from IBGE's API.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 December 2022, 9:15 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-12-06T21:15:51+08:00"
+    },
+    "aggsites": "70",
+    "aggdownloads": "148",
+    "aggfavs": "12",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2897/Screenshot%20from%202022-03-08%2008-31-54.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2897/Screenshot%20from%202022-03-08%2008-32-04.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": []
+}

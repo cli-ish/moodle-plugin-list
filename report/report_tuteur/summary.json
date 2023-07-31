@@ -1,0 +1,46 @@
+{
+    "id": 1859,
+    "index": 1625,
+    "name": "Tuteur",
+    "frankenstyle": "report_tuteur",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_tuteur",
+    "shortdescription": "Help tutor's action by colorizing new student's response.",
+    "timelastreleased": {
+        "absdate": "Friday, 1 September 2017, 5:01 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-09-01T17:01:33+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "8",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1859/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2241167,
+            "firstname": "marc",
+            "lastname": "leconte",
+            "url": "https://moodle.org/user/profile.php?id=2241167"
+        },
+        {
+            "id": 3231662,
+            "firstname": "pole",
+            "lastname": "umdev",
+            "url": "https://moodle.org/user/profile.php?id=3231662"
+        }
+    ],
+    "descriptors": []
+}

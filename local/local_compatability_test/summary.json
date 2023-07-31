@@ -1,0 +1,64 @@
+{
+    "id": 1203,
+    "index": 1723,
+    "name": "Compatibility Test",
+    "frankenstyle": "local_compatability_test",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_compatability_test",
+    "shortdescription": "This local plug-in provides the functionality to check the users browser (Chrome, Firefox, Opera, Safari), Flash, Java, Quicktime and/or Silverlight version against a pre-set minimum version and notify the user that they are not meeting the sites minimum requirements.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 9 December 2014, 9:57 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-09T09:57:47+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "6",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1203/7c5d9a27cdd23daa69eafe0180861cc3cac77ed9.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1203/7c5d9a27cdd23daa69eafe0180861cc3cac77ed9.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1203/Screen%20Shot%202014-11-04%20at%202.18.52%20pm.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1203/Screen%20Shot%202014-11-04%20at%202.19.10%20pm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1203/Screen%20Shot%202014-11-04%20at%202.20.23%20pm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1203/Screen%20Shot%202014-11-04%20at%202.20.33%20pm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1203/Screen%20Shot%202014-11-04%20at%202.21.35%20pm.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1534352,
+            "firstname": "Chris",
+            "lastname": "Clark",
+            "url": "https://moodle.org/user/profile.php?id=1534352"
+        },
+        {
+            "id": 1284414,
+            "firstname": "Jeremy",
+            "lastname": "FitzPatrick",
+            "url": "https://moodle.org/user/profile.php?id=1284414"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2060,
+    "index": 140,
+    "name": "Shortcodes",
+    "frankenstyle": "filter_shortcodes",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_shortcodes",
+    "shortdescription": "Allows users to inject and modify content using shortcodes provided by other plugins. ",
+    "timelastreleased": {
+        "absdate": "Monday, 12 December 2022, 11:02 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-12-12T11:02:09+08:00"
+    },
+    "aggsites": "1519",
+    "aggdownloads": "859",
+    "aggfavs": "45",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2060/shortcode.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        }
+    ],
+    "descriptors": []
+}

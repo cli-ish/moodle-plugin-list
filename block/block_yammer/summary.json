@@ -1,0 +1,44 @@
+{
+    "id": 1414,
+    "index": 2099,
+    "name": "Yammer",
+    "frankenstyle": "block_yammer",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_yammer",
+    "shortdescription": "This block has been built to utilise the Yammer embedded feed API.",
+    "timelastreleased": {
+        "absdate": "Friday, 1 December 2017, 11:06 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-12-01T11:06:05+08:00"
+    },
+    "aggsites": "38",
+    "aggdownloads": null,
+    "aggfavs": "12",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1414/Configuring%20a%20Yammer%20block%202015-05-07%2015-39-15.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1414/Example%20embedded%20feed?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1270037,
+            "firstname": "Chris",
+            "lastname": "Wharton",
+            "url": "https://moodle.org/user/profile.php?id=1270037"
+        }
+    ],
+    "descriptors": []
+}

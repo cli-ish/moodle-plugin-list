@@ -1,0 +1,49 @@
+{
+    "id": 515,
+    "index": 1464,
+    "name": "MediaWiki SSO",
+    "frankenstyle": "auth_mwsso",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_mwsso",
+    "shortdescription": "Single Sign On from MediaWiki (developed with version 1.21) to Moodle 2.3. Users signed in to MediaWiki can jump to Moodle and have accounts automatically created there and they will be logged straight in. This plugin does not deal with enrollments at all. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 November 2012, 10:20 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-06T22:20:43+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "13",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1473,
+            "firstname": "Howard",
+            "lastname": "Miller",
+            "url": "https://moodle.org/user/profile.php?id=1473"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

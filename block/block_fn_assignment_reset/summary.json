@@ -1,0 +1,45 @@
+{
+    "id": 648,
+    "index": 2075,
+    "name": "FN - Assignment Options Reset Tool",
+    "frankenstyle": "block_fn_assignment_reset",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_fn_assignment_reset",
+    "shortdescription": "The \"Assignment Options Reset Tool\" block is used to reset the Assignment Options for all assignments in a course. Note that it does not set defaults that are applied when creating new assignments but rather it only resets the options for existing assignments.",
+    "timelastreleased": {
+        "absdate": "Saturday, 7 September 2013, 4:29 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-07T04:29:40+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "1",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/648/fn_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/648/fn_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/648/ASRT-1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2459954,
+            "firstname": "Fern",
+            "lastname": "Oliveira",
+            "url": "https://moodle.org/user/profile.php?id=2459954"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

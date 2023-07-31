@@ -1,0 +1,47 @@
+{
+    "id": 406,
+    "index": 1064,
+    "name": "Course Menu block",
+    "frankenstyle": "block_course_menu",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_menu",
+    "shortdescription": "The Course Menu block for Moodle provides navigation between course sections (topics/weeks)",
+    "timelastreleased": {
+        "absdate": "Friday, 18 November 2016, 4:41 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-11-18T16:41:27+08:00"
+    },
+    "aggsites": "202",
+    "aggdownloads": "42",
+    "aggfavs": "23",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/406/CourseMenu1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/406/CourseMenu2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/406/CourseMenu3.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1104821,
+            "firstname": "Alex",
+            "lastname": "Contis",
+            "url": "https://moodle.org/user/profile.php?id=1104821"
+        }
+    ],
+    "descriptors": []
+}

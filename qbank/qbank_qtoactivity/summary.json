@@ -1,0 +1,47 @@
+{
+    "id": 3075,
+    "index": 989,
+    "name": "Question to activity",
+    "frankenstyle": "qbank_qtoactivity",
+    "plugintype": {
+        "type": "qbank",
+        "name": "Question bank plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbank_qtoactivity",
+    "shortdescription": "Question to activity (qtoactivity) is a plugin for the Moodle LMS that extends the functionality of the question bank question management page. This plugin adds the option for users to select individual or multiple questions and add them right to an activity of their choice, without having to access that individual activities management page.",
+    "timelastreleased": {
+        "absdate": "Monday, 20 February 2023, 8:07 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-02-20T08:07:04+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "58",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3075/2023-01-31_14-16.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3075/2023-01-31_14-17.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3075/2023-01-31_14-25.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3375956,
+            "firstname": "A K M SAFAT",
+            "lastname": "SHAHIN",
+            "url": "https://moodle.org/user/profile.php?id=3375956"
+        }
+    ],
+    "descriptors": []
+}

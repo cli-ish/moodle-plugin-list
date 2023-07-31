@@ -1,0 +1,59 @@
+{
+    "id": 3023,
+    "index": 779,
+    "name": "RSS Thumbnail",
+    "frankenstyle": "block_rss_thumbnails",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_rss_thumbnails",
+    "shortdescription": "A block allowing to display a RSS feed as a caroussel",
+    "timelastreleased": {
+        "absdate": "Thursday, 2 February 2023, 3:17 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-02T15:17:02+08:00"
+    },
+    "aggsites": "33",
+    "aggdownloads": "127",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3023/Capture%20d%E2%80%99%C3%A9cran%20du%202022-10-26%2014-42-38.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3023/Capture%20d%E2%80%99%C3%A9cran%20du%202022-10-26%2016-29-33.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3023/Capture%20d%E2%80%99%C3%A9cran%20du%202022-10-26%2016-29-48.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5084745,
+            "firstname": "Martin",
+            "lastname": "Cornu-Mansuy",
+            "url": "https://moodle.org/user/profile.php?id=5084745"
+        },
+        {
+            "id": 2569955,
+            "firstname": "Laurent",
+            "lastname": "David",
+            "url": "https://moodle.org/user/profile.php?id=2569955"
+        },
+        {
+            "id": 4333720,
+            "firstname": "Camille",
+            "lastname": "Carlier",
+            "url": "https://moodle.org/user/profile.php?id=4333720"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,46 @@
+{
+    "id": 2605,
+    "index": 1321,
+    "name": "Course module competency report",
+    "frankenstyle": "report_cmcompetency",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_cmcompetency",
+    "shortdescription": "Reports based on course module competencies to offer students and teachers a better user experience for competencies in activities ratings.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 September 2022, 2:03 AM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-22T02:03:43+08:00"
+    },
+    "aggsites": "56",
+    "aggdownloads": "18",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2605/report_cmcompetency.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1911781,
+            "firstname": "Issam",
+            "lastname": "Taboubi",
+            "url": "https://moodle.org/user/profile.php?id=1911781"
+        },
+        {
+            "id": 1244964,
+            "firstname": "Gilles-Philippe",
+            "lastname": "Leblanc",
+            "url": "https://moodle.org/user/profile.php?id=1244964"
+        }
+    ],
+    "descriptors": []
+}

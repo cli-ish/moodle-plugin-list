@@ -1,0 +1,49 @@
+{
+    "id": 85,
+    "index": 1875,
+    "name": "AMVONET Room",
+    "frankenstyle": "mod_amvonetroom",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_amvonetroom",
+    "shortdescription": "AMVONET is a web conferencing and publishing tool.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 27 January 2015, 4:04 PM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-27T16:04:11+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "4",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1310478,
+            "firstname": "Nikita",
+            "lastname": "Eelen",
+            "url": "https://moodle.org/user/profile.php?id=1310478"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

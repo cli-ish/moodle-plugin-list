@@ -1,0 +1,53 @@
+{
+    "id": 2141,
+    "index": 56,
+    "name": "Unilabel",
+    "frankenstyle": "mod_unilabel",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_unilabel",
+    "shortdescription": "The Moodle plugin \"mod_unilabel\" enables you to include some nice formated text on the course- or frontpage.\r\nThere are 5 different content types included (extendable sub plugins):\r\n- Simple text\r\n- Carousel\r\n- Collapsed text\r\n- Course teaser\r\n- Topic teaser",
+    "timelastreleased": {
+        "absdate": "Wednesday, 28 June 2023, 11:21 PM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-28T23:21:18+08:00"
+    },
+    "aggsites": "1586",
+    "aggdownloads": "1k",
+    "aggfavs": "79",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2141/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2141/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2141/01-example.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2141/02-editcontent.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2141/03-general-settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2141/04-settings-carousel.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2141/05-settings-grid.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 36220,
+            "firstname": "Andreas",
+            "lastname": "Grabs",
+            "url": "https://moodle.org/user/profile.php?id=36220"
+        }
+    ],
+    "descriptors": []
+}

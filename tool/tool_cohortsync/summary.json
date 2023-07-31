@@ -1,0 +1,59 @@
+{
+    "id": 1707,
+    "index": 1157,
+    "name": "Cohort synchronization",
+    "frankenstyle": "tool_cohortsync",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_cohortsync",
+    "shortdescription": "This plugin allows the synchronization of cohorts and members in cohorts from the command line. There are 2 scripts CLI to do the synchronization:  cohortsync.php, cohortmembersync.php",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 September 2022, 2:01 AM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-22T02:01:25+08:00"
+    },
+    "aggsites": "79",
+    "aggdownloads": "31",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1707/cohortmembersync.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1707/cohortsync.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1707/configpluginpage.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1911781,
+            "firstname": "Issam",
+            "lastname": "Taboubi",
+            "url": "https://moodle.org/user/profile.php?id=1911781"
+        },
+        {
+            "id": 1878475,
+            "firstname": "Serge",
+            "lastname": "Gauthier",
+            "url": "https://moodle.org/user/profile.php?id=1878475"
+        },
+        {
+            "id": 1244964,
+            "firstname": "Gilles-Philippe",
+            "lastname": "Leblanc",
+            "url": "https://moodle.org/user/profile.php?id=1244964"
+        }
+    ],
+    "descriptors": []
+}

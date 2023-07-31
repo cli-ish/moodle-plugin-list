@@ -1,0 +1,49 @@
+{
+    "id": 503,
+    "index": 1825,
+    "name": "FLAX language learning",
+    "frankenstyle": "mod_flax",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_flax",
+    "shortdescription": "FLAX automates the production and delivery of practice exercises for students who are learning English. Exercise material comes from digital libraries, which can supply a virtually endless supply of collaborative and competitive language activities.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 October 2012, 7:28 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-10-31T07:28:52+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "5",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1033636,
+            "firstname": "Af",
+            "lastname": "Yu",
+            "url": "https://moodle.org/user/profile.php?id=1033636"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Languages"
+        }
+    ]
+}

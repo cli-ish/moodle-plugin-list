@@ -1,0 +1,62 @@
+{
+    "id": 2502,
+    "index": 329,
+    "name": "Export quiz attempts",
+    "frankenstyle": "quiz_answersheets",
+    "plugintype": {
+        "type": "quiz",
+        "name": "Quiz / Report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quiz_answersheets",
+    "shortdescription": "This quiz report allows you to get view of a quiz attempt that is formatted for easy printing. This can either be a blank attempt for students to write in their responses, if they cannot attempt the quiz online, or a review of a finished quiz attempt.",
+    "timelastreleased": {
+        "absdate": "Monday, 4 April 2022, 6:49 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-04T18:49:33+08:00"
+    },
+    "aggsites": "684",
+    "aggdownloads": "405",
+    "aggfavs": "20",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2502/Export%20Attempts%20blank%20attempt%20PDF%20view.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2502/Export%20Attempts%20blank%20attempt%20view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2502/Export%20Attempts%20main%20screen%2001.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2502/Export%20Attempts%20main%20screen%2002.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 2232540,
+            "firstname": "Chris",
+            "lastname": "Nelson",
+            "url": "https://moodle.org/user/profile.php?id=2232540"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        }
+    ],
+    "descriptors": []
+}

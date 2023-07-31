@@ -1,0 +1,49 @@
+{
+    "id": 63,
+    "index": 1642,
+    "name": "Flickr Image Carousel",
+    "frankenstyle": "block_flickr_image_carousel",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_flickr_image_carousel",
+    "shortdescription": "Displays a scrollable carousel of images from a Flickr photostream (or a random static picture if Javascript not available)",
+    "timelastreleased": {
+        "absdate": "Wednesday, 5 October 2011, 10:03 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-10-05T22:03:31+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "8",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/63/flickr%20carousel%20logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/63/flickr%20carousel%20logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/63/flickr%20carousel.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1079166,
+            "firstname": "Ian",
+            "lastname": "Glover",
+            "url": "https://moodle.org/user/profile.php?id=1079166"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

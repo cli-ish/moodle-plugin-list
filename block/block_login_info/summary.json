@@ -1,0 +1,49 @@
+{
+    "id": 510,
+    "index": 1346,
+    "name": "Login message",
+    "frankenstyle": "block_login_info",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_login_info",
+    "shortdescription": "This plugin displays a simple message to users who have visited.\r\n\r\nUsers can log in, the message changes depending on the time from the last login.\r\n\r\nYou can change the message language packs.\r\nImprovement plan accepted at any time.",
+    "timelastreleased": {
+        "absdate": "Monday, 25 May 2015, 9:13 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-05-25T09:13:57+08:00"
+    },
+    "aggsites": "67",
+    "aggdownloads": "17",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/510/Logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/510/Logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/510/lobin_info1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/510/lobin_info2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1521048,
+            "firstname": "Hiroshi",
+            "lastname": "Honda",
+            "url": "https://moodle.org/user/profile.php?id=1521048"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

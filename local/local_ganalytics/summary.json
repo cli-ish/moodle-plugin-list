@@ -1,0 +1,50 @@
+{
+    "id": 2203,
+    "index": 929,
+    "name": "Google Analytics",
+    "frankenstyle": "local_ganalytics",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_ganalytics",
+    "shortdescription": "Google Analytics with custom dimensions and metrics.",
+    "timelastreleased": {
+        "absdate": "Friday, 18 June 2021, 6:29 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-18T06:29:58+08:00"
+    },
+    "aggsites": "483",
+    "aggdownloads": "78",
+    "aggfavs": "28",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2203/ganalytics-report-setup-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2203/ganalytics-report-setup-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2203/ganalytics-report-setup-3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2203/ganalytics-report-setup-4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 268334,
+            "firstname": "Fred",
+            "lastname": "Woolard",
+            "url": "https://moodle.org/user/profile.php?id=268334"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,56 @@
+{
+    "id": 2212,
+    "index": 682,
+    "name": "My mindmap overview",
+    "frankenstyle": "block_mymindmap_overview",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mymindmap_overview",
+    "shortdescription": "The mymindmap_overview block presents the courses in the dashboard.\r\nBlock mymindmap_overview has the advantage of seeing all its courses containing at least one module on a single screen zone and being able to navigate to the section, the activity or the chosen resource to access it.\r\n\r\nIMPORTANT! For a better view of the mindmap of your courses, put this block in the content column\r\n\r\nThis view also shows how many modules constitute a course or section, which allows you to only go to courses offering content.\r\nThis plugin uses jsmind javascript tool to design the schemas. You can find it here:\r\n\r\nhttps://github.com/hizzgdev/jsmind\r\n\r\nThere are some slowdowns due to searching the logs table for each student and each course needed to show the red flag.\r\nTo avoid this, you can replace the \"block_mymindmap_overview\" file with the \"block_mymindmap_overview-without-flags\" file by removing the \"-without-flags\" extension.\r\n\r\nIn the last version, all calls to the \"logs\" table to control access to new activities are avoided in order to speed up the display of the mindmap",
+    "timelastreleased": {
+        "absdate": "Friday, 26 August 2022, 4:35 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-08-26T16:35:25+08:00"
+    },
+    "aggsites": "261",
+    "aggdownloads": "153",
+    "aggfavs": "28",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2212/2020-06-23_120055.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2212/mindmapcourses.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2212/mindmapcourses1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2212/mod_icons.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2212/NewCard.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2212/principalblock.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 60266,
+            "firstname": "Dey",
+            "lastname": "Bendifallah",
+            "url": "https://moodle.org/user/profile.php?id=60266"
+        }
+    ],
+    "descriptors": []
+}

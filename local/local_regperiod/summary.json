@@ -1,0 +1,59 @@
+{
+    "id": 2770,
+    "index": 1783,
+    "name": "Registration duration to the site",
+    "frankenstyle": "local_regperiod",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_regperiod",
+    "shortdescription": "This plugin allows you to set start and end dates of registration, via the user profile fields. A scheduled task runs every 10 minutes to suspend or activate relevant users. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 10 November 2022, 7:54 PM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-10T19:54:59+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "5",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2770/siteRegistrationDuration_category.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2770/siteRegistrationDuration_startField.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2770/siteRegistrationDuration_userProfile.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4333720,
+            "firstname": "Camille",
+            "lastname": "Carlier",
+            "url": "https://moodle.org/user/profile.php?id=4333720"
+        },
+        {
+            "id": 2569955,
+            "firstname": "Laurent",
+            "lastname": "David",
+            "url": "https://moodle.org/user/profile.php?id=2569955"
+        },
+        {
+            "id": 5084745,
+            "firstname": "Martin",
+            "lastname": "Cornu-Mansuy",
+            "url": "https://moodle.org/user/profile.php?id=5084745"
+        }
+    ],
+    "descriptors": []
+}

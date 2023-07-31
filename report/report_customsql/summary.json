@@ -1,0 +1,57 @@
+{
+    "id": 176,
+    "index": 109,
+    "name": "Ad-hoc database queries",
+    "frankenstyle": "report_customsql",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_customsql",
+    "shortdescription": "This report plugin allows Administrators to set up arbitrary database queries\r\nto act as ad-hoc reports. Reports can be of two types, either run on demand,\r\nor scheduled to run automatically. Other users with the right capability can\r\ngo in and see a list of queries that they have access to. Results can be viewed\r\non-screen or downloaded as CSV.",
+    "timelastreleased": {
+        "absdate": "Saturday, 19 March 2022, 12:21 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-19T00:21:52+08:00"
+    },
+    "aggsites": "4440",
+    "aggdownloads": "1k",
+    "aggfavs": "159",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/176/customsqlreport.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        },
+        {
+            "id": 4836338,
+            "firstname": "Anupama",
+            "lastname": "Sarjoshi",
+            "url": "https://moodle.org/user/profile.php?id=4836338"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

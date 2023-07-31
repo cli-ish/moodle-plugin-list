@@ -1,0 +1,46 @@
+{
+    "id": 3122,
+    "index": 865,
+    "name": "Crossword question type",
+    "frankenstyle": "qtype_crossword",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_crossword",
+    "shortdescription": "A crossword question type for Moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 12 May 2023, 11:32 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-12T23:32:44+08:00"
+    },
+    "aggsites": "49",
+    "aggdownloads": "109",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3122/icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3122/icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3122/Example%20crossword%20question.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 2232540,
+            "firstname": "Chris",
+            "lastname": "Nelson",
+            "url": "https://moodle.org/user/profile.php?id=2232540"
+        }
+    ],
+    "descriptors": []
+}

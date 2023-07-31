@@ -1,0 +1,49 @@
+{
+    "id": 1377,
+    "index": 248,
+    "name": "Checkmark report",
+    "frankenstyle": "local_checkmarkreport",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_checkmarkreport",
+    "shortdescription": "The checkmark report (local/checkmarkreport) is an extension to the module checkmark and shows the marks and grades for one or more checkmarks in a tabular form.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 5 April 2023, 8:40 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-05T20:40:06+08:00"
+    },
+    "aggsites": "228",
+    "aggdownloads": "512",
+    "aggfavs": "35",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1377/checkmark_report.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1377/checkmark_report.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1377/checkmarkreport_1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1377/checkmarkreport_2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

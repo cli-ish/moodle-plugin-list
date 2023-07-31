@@ -1,0 +1,45 @@
+{
+    "id": 554,
+    "index": 790,
+    "name": "Adaptive mode with hinting",
+    "frankenstyle": "qbehaviour_adaptivehints",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_adaptivehints",
+    "shortdescription": "This is hinting behaviour using abstract hint interface, defined in poasquestion qtype. It is used by Preg and CorrectWriting question types for now, but due to object-oriented architecture it can be used by any other question type requiring advanced hinting.",
+    "timelastreleased": {
+        "absdate": "Sunday, 3 May 2020, 10:18 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-05-03T22:18:28+08:00"
+    },
+    "aggsites": "193",
+    "aggdownloads": "125",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/554/preg_hinting_screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 104931,
+            "firstname": "Oleg",
+            "lastname": "Sychev",
+            "url": "https://moodle.org/user/profile.php?id=104931"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

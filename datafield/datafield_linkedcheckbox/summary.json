@@ -1,0 +1,40 @@
+{
+    "id": 1509,
+    "index": 1786,
+    "name": "Linked Checkbox",
+    "frankenstyle": "datafield_linkedcheckbox",
+    "plugintype": {
+        "type": "datafield",
+        "name": "Database / Database field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/datafield_linkedcheckbox",
+    "shortdescription": "The database linked checkbox field is an enhanced version of the current checkbox field that allows the individual values in the checkboxes to show as hyperlinks when the record is displayed. Clicking the hyperlinks will display a filtered search result based on the checkbox value.",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 November 2015, 10:39 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-11-19T22:39:59+08:00"
+    },
+    "aggsites": "22",
+    "aggdownloads": "5",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1396756,
+            "firstname": "Andrew",
+            "lastname": "Hancox",
+            "url": "https://moodle.org/user/profile.php?id=1396756"
+        }
+    ],
+    "descriptors": []
+}

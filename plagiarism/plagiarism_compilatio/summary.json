@@ -1,0 +1,59 @@
+{
+    "id": 400,
+    "index": 304,
+    "name": "Compilatio plagiarism plugin",
+    "frankenstyle": "plagiarism_compilatio",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_compilatio",
+    "shortdescription": "Compilatio is a commercial Plagiarism Prevention product - you must have a paid subscription to be able to use this plugin.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 July 2023, 11:33 PM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-18T23:33:15+08:00"
+    },
+    "aggsites": "615",
+    "aggdownloads": "436",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/400/EN_LOGO-COMPILATIO-WEB.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/400/EN_LOGO-COMPILATIO-WEB.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/400/compi_plugin.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/400/moodle_sample.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1710999,
+            "firstname": "ent",
+            "lastname": "compilatio",
+            "url": "https://moodle.org/user/profile.php?id=1710999"
+        },
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

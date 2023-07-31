@@ -1,0 +1,40 @@
+{
+    "id": 1753,
+    "index": 305,
+    "name": "Wiris Quizzes - True/False question type",
+    "frankenstyle": "qtype_truefalsewiris",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_truefalsewiris",
+    "shortdescription": "This is one of the seven question types of the Wiris Quizzes set. Please install Wiris Quizzes to obtain the entire plugin package with seven question types.",
+    "timelastreleased": {
+        "absdate": "Friday, 23 June 2023, 5:19 PM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-23T17:19:19+08:00"
+    },
+    "aggsites": "2103",
+    "aggdownloads": "431",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1753/true_false_salmon_gray.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1753/true_false_salmon_gray.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1753/truefalse_screen1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1343738,
+            "firstname": "WIRIS",
+            "lastname": "team",
+            "url": "https://moodle.org/user/profile.php?id=1343738"
+        }
+    ],
+    "descriptors": []
+}

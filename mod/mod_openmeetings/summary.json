@@ -1,0 +1,55 @@
+{
+    "id": 90,
+    "index": 415,
+    "name": "OpenMeetings",
+    "frankenstyle": "mod_openmeetings",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_openmeetings",
+    "shortdescription": "OpenMeetings is a free browser-based software that allows you to set up instantly a conference in the Web. You can use your microphone and/or webcam, share documents on a white board, discuss in a chat, share your screen or record meetings. It is available as hosted service or you download and install a package on your own server.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 December 2022, 11:17 PM",
+        "reldate": "7 months",
+        "iso8601date": "2022-12-20T23:17:48+08:00"
+    },
+    "aggsites": "746",
+    "aggdownloads": "294",
+    "aggfavs": "104",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/90/logo_mini.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/90/logo_mini.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/90/OM%20conference%20room.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/90/Bildschirmfoto%20vom%202015-05-29%20105309.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/90/Bildschirmfoto%20vom%202015-05-29%20105437.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/90/Moodle%20plugin%20admin%20area.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1563368,
+            "firstname": "Maxim",
+            "lastname": "Solodovnik",
+            "url": "https://moodle.org/user/profile.php?id=1563368"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

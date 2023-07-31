@@ -1,0 +1,57 @@
+{
+    "id": 1481,
+    "index": 1347,
+    "name": "Recycle bin",
+    "frankenstyle": "local_recyclebin",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_recyclebin",
+    "shortdescription": "This plugin adds a \"recycle bin\" for course modules to Moodle.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 6 April 2016, 10:22 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-06T22:22:11+08:00"
+    },
+    "aggsites": "55",
+    "aggdownloads": "17",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1481/3c5cd14e-ffc0-11e4-8fea-4db5fa0319d9.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1481/Screenshot%20from%202015-08-12%2014-58-38.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1899632,
+            "firstname": "Skylar",
+            "lastname": "Kelty",
+            "url": "https://moodle.org/user/profile.php?id=1899632"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

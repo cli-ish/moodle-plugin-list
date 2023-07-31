@@ -1,0 +1,27 @@
+[
+    {
+        "id": "25080",
+        "name": "1.2.2",
+        "url": "https://moodle.org/plugins/download.php/25080/mod_goodhabits_moodle38_2022040213.zip"
+    },
+    {
+        "id": "25079",
+        "name": "1.2.1",
+        "url": "https://moodle.org/plugins/download.php/25079/mod_goodhabits_moodle38_2020010512.zip"
+    },
+    {
+        "id": "24730",
+        "name": "1.1.2",
+        "url": "https://moodle.org/plugins/download.php/24730/mod_goodhabits_moodle32_2012060601.zip"
+    },
+    {
+        "id": "24432",
+        "name": "1.1",
+        "url": "https://moodle.org/plugins/download.php/24432/mod_goodhabits_moodle29_2022021117.zip"
+    },
+    {
+        "id": "24262",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/24262/mod_goodhabits_moodle29_2011040211.zip"
+    }
+]

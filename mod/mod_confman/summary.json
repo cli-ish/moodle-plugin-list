@@ -1,0 +1,59 @@
+{
+    "id": 1928,
+    "index": 1520,
+    "name": "ConfMan",
+    "frankenstyle": "mod_confman",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_confman",
+    "shortdescription": "Moodle Plugin that helps organizing submissions for events like conferences. Add a \"confman\"-Activity to a course and you can specify a timerange when submissions are possible. You are given a link that can be shared outside moodle to allow external people (also without Moodle-Login) to submit submissions for your event. Everybody in your course that has instructor-role is allowed to manage all submissions. Everybody in your course that has student-role is allowed to comment submissions.\r\n\r\nSubmitters can manage their own submissions using a unique link that is given to them.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 23 June 2021, 12:05 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-23T00:05:06+08:00"
+    },
+    "aggsites": "84",
+    "aggdownloads": "10",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1928/icon.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1928/icon.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1928/confman_activity_view.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1928/confman_activity.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1928/confman_item.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1812998,
+            "firstname": "Robert",
+            "lastname": "Schrenk",
+            "url": "https://moodle.org/user/profile.php?id=1812998"
+        },
+        {
+            "id": 2827819,
+            "firstname": "Zentrum f\u00fcr",
+            "lastname": "Lernmanagement",
+            "url": "https://moodle.org/user/profile.php?id=2827819"
+        },
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,70 @@
+{
+    "id": 1453,
+    "index": 34,
+    "name": "Klass",
+    "frankenstyle": "theme_klass",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_klass",
+    "shortdescription": "Klass is fully responsive and coded with the latest techniques in HTML5 and CSS3,so it will work on all devices, all browsers, and it does it all seamlessly.Just download and make your e-learn website modern.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 25 January 2023, 1:17 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-25T13:17:07+08:00"
+    },
+    "aggsites": "6936",
+    "aggdownloads": "2k",
+    "aggfavs": "239",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1453/Thumb.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1453/Thumb.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1453/course-left-drawer.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1453/Course-view-page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1453/Dashboard-Page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1453/Home-page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1453/Homepage-Arabic.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1453/Login-page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1453/right-drawer.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1453/signup-page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1453/theme-setting-%20page.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1961886,
+            "firstname": "LMSACE",
+            "lastname": "e-learning experts",
+            "url": "https://moodle.org/user/profile.php?id=1961886"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

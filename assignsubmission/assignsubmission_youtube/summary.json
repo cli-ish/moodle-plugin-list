@@ -1,0 +1,60 @@
+{
+    "id": 616,
+    "index": 1422,
+    "name": "YouTube submission",
+    "frankenstyle": "assignsubmission_youtube",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_youtube",
+    "shortdescription": "The YouTube assignment submission allows students to record or upload videos directly into YouTube from within an assignment. The video file is stored on YouTube, though it is accessible from Moodle. This allows students to submit long videos, videos in different formats and to use almost any PC or device.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 October 2014, 9:10 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-10-21T09:10:41+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "14",
+    "aggfavs": "20",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/616/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/616/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/616/ytassigChoode.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/616/ytassigLink.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/616/ytassigRecord.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Music"
+        }
+    ]
+}

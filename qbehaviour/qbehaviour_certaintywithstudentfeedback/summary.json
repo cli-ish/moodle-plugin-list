@@ -1,0 +1,47 @@
+{
+    "id": 3060,
+    "index": 859,
+    "name": "Degrees of Certainty with student feedback (immediate)",
+    "frankenstyle": "qbehaviour_certaintywithstudentfeedback",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_certaintywithstudentfeedback",
+    "shortdescription": "A question behaviour derived from Student feedback (immediate), where students can submit their certainty about their answers, one comment for each question after it is submitted, and one comment for the whole Quiz, after their attempt is submitted.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 January 2023, 8:32 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-18T20:32:12+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "111",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3060/question_feedback.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3060/question.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3060/quiz_feedback.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": 604,
+    "index": 1791,
+    "name": "Web Service Get Contexts",
+    "frankenstyle": "local_getcontexts",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_getcontexts",
+    "shortdescription": "It is a web service designed to return contexts providing context level and instance ID.\r\nIt includes a simple example.",
+    "timelastreleased": {
+        "absdate": "Friday, 1 February 2013, 9:49 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-02-01T09:49:48+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1518417,
+            "firstname": "Francois",
+            "lastname": "J",
+            "url": "https://moodle.org/user/profile.php?id=1518417"
+        }
+    ],
+    "descriptors": []
+}

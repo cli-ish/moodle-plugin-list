@@ -1,0 +1,44 @@
+{
+    "id": 1023,
+    "index": 879,
+    "name": "Timestat",
+    "frankenstyle": "block_timestat",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_timestat",
+    "shortdescription": "Timestat block measures users real activity time. Time is increased only when Moodle tab is active in browser.",
+    "timelastreleased": {
+        "absdate": "Monday, 6 February 2023, 7:28 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-06T19:28:12+08:00"
+    },
+    "aggsites": "272",
+    "aggdownloads": "104",
+    "aggfavs": "35",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1023/timestat%20screenshot.gif?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1023/timestat%20screenshot2.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2402871,
+            "firstname": "Jorge",
+            "lastname": "C.",
+            "url": "https://moodle.org/user/profile.php?id=2402871"
+        }
+    ],
+    "descriptors": []
+}

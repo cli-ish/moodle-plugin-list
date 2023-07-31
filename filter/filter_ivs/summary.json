@@ -1,0 +1,44 @@
+{
+    "id": 2936,
+    "index": 1934,
+    "name": "Interactive Video Suite - Filter",
+    "frankenstyle": "filter_ivs",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_ivs",
+    "shortdescription": "Share a video comment link in moodle (e.g. forum) as rendered video comment preview. \r\nThis Interactive Video Suite Filter plugin enhances the Interactive Video Suite Activity plugin.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 April 2022, 9:51 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-04-26T21:51:58+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "3",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2936/logo-ivs.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2936/logo-ivs.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2936/2022-04-26-detail-preview2.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2936/share-link-2.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3376642,
+            "firstname": "Developer",
+            "lastname": "Ghostthinker",
+            "url": "https://moodle.org/user/profile.php?id=3376642"
+        }
+    ],
+    "descriptors": []
+}

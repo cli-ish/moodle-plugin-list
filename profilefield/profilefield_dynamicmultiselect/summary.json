@@ -1,0 +1,49 @@
+{
+    "id": 1635,
+    "index": 1100,
+    "name": "Dynamic Multi Select",
+    "frankenstyle": "profilefield_dynamicmultiselect",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_dynamicmultiselect",
+    "shortdescription": "Dynamic Multi Select user profile field for Moodle.\r\nNow users can create user multi select fields whose values are retrieved from the moodle DB.",
+    "timelastreleased": {
+        "absdate": "Sunday, 12 February 2017, 11:23 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-02-12T23:23:14+08:00"
+    },
+    "aggsites": "49",
+    "aggdownloads": "38",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1635/screen1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1635/screen2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1937508,
+            "firstname": "Antonello",
+            "lastname": "Moro",
+            "url": "https://moodle.org/user/profile.php?id=1937508"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": 755,
+    "index": 1883,
+    "name": "Embedded files Plus",
+    "frankenstyle": "repository_areafilesplus",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_areafilesplus",
+    "shortdescription": "\"Embedded files Plus\" (repository_areafilesplus) plugin allows to re-use the files embedded in the current text area and delete unused files.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 June 2013, 12:36 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-06-12T12:36:54+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "4",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/755/Attachment.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/755/Attachment.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/755/embeddedplus1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/755/embeddedplus3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/755/embeddedplus6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/755/embeddedplus7.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

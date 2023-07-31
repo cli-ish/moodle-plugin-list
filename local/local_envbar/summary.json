@@ -1,0 +1,70 @@
+{
+    "id": 1583,
+    "index": 498,
+    "name": "Environment bar",
+    "frankenstyle": "local_envbar",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_envbar",
+    "shortdescription": "Warn users with a notification block across the top of the screen when you're browsing a non-production server like staging or a local development box.",
+    "timelastreleased": {
+        "absdate": "Friday, 9 June 2023, 5:59 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-09T17:59:10+08:00"
+    },
+    "aggsites": "169",
+    "aggdownloads": "235",
+    "aggfavs": "21",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1583/star.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1583/star.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1583/Forced%20config%20set.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1583/Local%20envbar%20options.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1583/No%20config%20set.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 2054097,
+            "firstname": "Nicholas",
+            "lastname": "Hoobin",
+            "url": "https://moodle.org/user/profile.php?id=2054097"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        },
+        {
+            "id": 1608390,
+            "firstname": "Dmitrii",
+            "lastname": "Metelkin",
+            "url": "https://moodle.org/user/profile.php?id=1608390"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1360,
+    "index": 1993,
+    "name": "Elightenment",
+    "frankenstyle": "enrol_elightenment",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_elightenment",
+    "shortdescription": "Elightenment Learning's plugin to allow use of the Elightenment Learning e-commerce service for Moodle course registration.",
+    "timelastreleased": {
+        "absdate": "Sunday, 15 March 2015, 5:34 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-03-15T05:34:43+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "2",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1360/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1360/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1360/sample1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1360/sample2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1360/sample3.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1805372,
+            "firstname": "Gary",
+            "lastname": "McKnight",
+            "url": "https://moodle.org/user/profile.php?id=1805372"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,55 @@
+{
+    "id": 1313,
+    "index": 633,
+    "name": "Exabis Library",
+    "frankenstyle": "block_exalib",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_exalib",
+    "shortdescription": "The block can be accessed from within any course. The admin can add any kind of document using the \"manage library\" link of the block.\r\nNew entries can be made with references to the source, links, file, content and author. Also categories can be defined with the link \"manage categories\".\r\nWith the search box the library can be searched as a whole or within each category.",
+    "timelastreleased": {
+        "absdate": "Thursday, 21 April 2022, 7:57 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-04-21T19:57:46+08:00"
+    },
+    "aggsites": "187",
+    "aggdownloads": "173",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1313/exalib.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1313/exalib.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1313/exalib_screen1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1313/exalib_screen2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1313/exalib_screen3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1313/exalib_screen4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

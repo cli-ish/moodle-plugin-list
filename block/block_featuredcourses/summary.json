@@ -1,0 +1,40 @@
+{
+    "id": 1427,
+    "index": 474,
+    "name": "Featured Courses",
+    "frankenstyle": "block_featuredcourses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_featuredcourses",
+    "shortdescription": "This blocks allow to select some courses to be displayed on front page. It is also possible to set sort order.",
+    "timelastreleased": {
+        "absdate": "Friday, 13 January 2023, 2:22 AM",
+        "reldate": "7 months",
+        "iso8601date": "2023-01-13T02:22:03+08:00"
+    },
+    "aggsites": "406",
+    "aggdownloads": "247",
+    "aggfavs": "64",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1427/fc.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": []
+}

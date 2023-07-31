@@ -1,0 +1,62 @@
+{
+    "id": 2286,
+    "index": 225,
+    "name": "Block Game",
+    "frankenstyle": "block_game",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_game",
+    "shortdescription": "Block Game - An option to apply gamification to the Moodle platform.  The purpose of the plugin is to apply gamification techniques to the moodle platform in a simple and uncomplicated way.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 May 2023, 8:54 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-31T20:54:58+08:00"
+    },
+    "aggsites": "918",
+    "aggdownloads": "559",
+    "aggfavs": "64",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2286/Screenshot_2021-05-10%20Curso%20Curso%283%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2286/Screenshot_2021-05-10%20Curso%20Curso%283%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2286/block_game_00.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2286/block_game_01.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2286/block_game_1.20_perfil_new.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2286/block_game_1.20_ranking_geral.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2286/block_game_config_block.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2286/block_game_config_full_1.30.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2286/help_game.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2286/ranking_list_p_group.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2559857,
+            "firstname": "Jos\u00e9 Wilson da",
+            "lastname": "Costa",
+            "url": "https://moodle.org/user/profile.php?id=2559857"
+        }
+    ],
+    "descriptors": []
+}

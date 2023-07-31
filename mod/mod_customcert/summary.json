@@ -1,0 +1,52 @@
+{
+    "id": 1589,
+    "index": 1,
+    "name": "Custom certificate",
+    "frankenstyle": "mod_customcert",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_customcert",
+    "shortdescription": "Enables the creation of dynamically generated certificates with complete customisation via the web browser.",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 June 2023, 1:32 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-08T13:32:04+08:00"
+    },
+    "aggsites": "23736",
+    "aggdownloads": "13k",
+    "aggfavs": "439",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1589/Selection_009.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1589/Selection_002.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1589/Selection_003.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1057750,
+            "firstname": "Mark",
+            "lastname": "Nelson",
+            "url": "https://moodle.org/user/profile.php?id=1057750"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

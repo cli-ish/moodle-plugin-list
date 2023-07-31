@@ -1,0 +1,40 @@
+{
+    "id": 66,
+    "index": 1176,
+    "name": "Jump To Navigation",
+    "frankenstyle": "block_jumpto_menu",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_jumpto_menu",
+    "shortdescription": "Adds a Moodle 1.x style \"Jump To\" menu to Moodle 2.x",
+    "timelastreleased": {
+        "absdate": "Wednesday, 5 August 2015, 10:12 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-08-05T22:12:37+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "29",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/66/jumpto-3.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 10165,
+            "firstname": "Tim",
+            "lastname": "Williams",
+            "url": "https://moodle.org/user/profile.php?id=10165"
+        }
+    ],
+    "descriptors": []
+}

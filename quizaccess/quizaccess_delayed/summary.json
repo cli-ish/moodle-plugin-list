@@ -1,0 +1,50 @@
+{
+    "id": 2475,
+    "index": 530,
+    "name": "Delayed attempts in quizzes",
+    "frankenstyle": "quizaccess_delayed",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_delayed",
+    "shortdescription": "Control the initial access to a Quiz with a randomized delay to reduce the load at the start and end times. By lightly spreading the access of the students the server load decreases dramatically and the overall capacity of your system increases by orders of magnitude.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 June 2023, 8:03 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-02T20:03:29+08:00"
+    },
+    "aggsites": "485",
+    "aggdownloads": "223",
+    "aggfavs": "25",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2475/main-icon-96x96.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2475/main-icon-96x96.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2475/activatedelayedattempt.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2475/index-meta.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2475/screenshot-23-05-2020-20-50-800x497.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2475/screenshot-settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 478486,
+            "firstname": "Juan Pablo",
+            "lastname": "de Castro",
+            "url": "https://moodle.org/user/profile.php?id=478486"
+        }
+    ],
+    "descriptors": []
+}

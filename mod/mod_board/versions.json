@@ -1,0 +1,37 @@
+[
+    {
+        "id": "28019",
+        "name": "1.400.01-build-2022101201",
+        "url": "https://moodle.org/plugins/download.php/28019/mod_board_moodle38_2012070901.zip"
+    },
+    {
+        "id": "28018",
+        "name": "1.311.01-build-2022101201",
+        "url": "https://moodle.org/plugins/download.php/28018/mod_board_moodle36_2016010811.zip"
+    },
+    {
+        "id": "28017",
+        "name": "1.39.07-build-2022101201",
+        "url": "https://moodle.org/plugins/download.php/28017/mod_board_moodle25_2015120306.zip"
+    },
+    {
+        "id": "25306",
+        "name": "1.39.06-build-2021101501",
+        "url": "https://moodle.org/plugins/download.php/25306/mod_board_moodle27_2014031113.zip"
+    },
+    {
+        "id": "25161",
+        "name": "1.39.05-build-2021092101",
+        "url": "https://moodle.org/plugins/download.php/25161/mod_board_moodle38_2013071016.zip"
+    },
+    {
+        "id": "25100",
+        "name": "1.39.04-build-2021090801",
+        "url": "https://moodle.org/plugins/download.php/25100/mod_board_moodle40_2016110417.zip"
+    },
+    {
+        "id": "24652",
+        "name": "1.39.03-build-2021070801",
+        "url": "https://moodle.org/plugins/download.php/24652/mod_board_moodle30_2012061210.zip"
+    }
+]

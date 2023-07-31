@@ -1,0 +1,56 @@
+{
+    "id": 2206,
+    "index": 617,
+    "name": "Poodll EnglishCentral",
+    "frankenstyle": "mod_englishcentral",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_englishcentral",
+    "shortdescription": "English Central Video Activity Module for Moodle ",
+    "timelastreleased": {
+        "absdate": "Sunday, 30 July 2023, 8:47 PM",
+        "reldate": "1 day",
+        "iso8601date": "2023-07-30T20:47:44+08:00"
+    },
+    "aggsites": "420",
+    "aggdownloads": "186",
+    "aggfavs": "20",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2206/EnglishCentral%20by%20Poodll%20Banner%20.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2206/EnglishCentral.mod.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2206/EnglishCentral.Settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2206/MoodleTile_englishcentral.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 8277,
+            "firstname": "Gordon",
+            "lastname": "Bateson",
+            "url": "https://moodle.org/user/profile.php?id=8277"
+        },
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

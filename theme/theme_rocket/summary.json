@@ -1,0 +1,45 @@
+{
+    "id": 211,
+    "index": 872,
+    "name": "Rocket",
+    "frankenstyle": "theme_rocket",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_rocket",
+    "shortdescription": "Rocket is a modern, responsive moodle theme that is going to elevate the look and feel of your educational platform. Don't miss this highly customisable theme if you are planning to change the appearance of your website at no cost. ",
+    "timelastreleased": {
+        "absdate": "Friday, 6 May 2022, 7:48 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-05-06T19:48:42+08:00"
+    },
+    "aggsites": "195",
+    "aggdownloads": "106",
+    "aggfavs": "27",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/211/rocket_logo_db.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/211/rocket_logo_db.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/211/rocket_theme.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1832609,
+            "firstname": "DualCube",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1832609"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

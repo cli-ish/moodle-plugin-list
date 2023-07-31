@@ -1,0 +1,49 @@
+{
+    "id": 451,
+    "index": 1717,
+    "name": "Count of user log records",
+    "frankenstyle": "report_rawrecordscount",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_rawrecordscount",
+    "shortdescription": "One simple report counting the log records per user in a given course. Exportable to ods/xls/txt.",
+    "timelastreleased": {
+        "absdate": "Monday, 13 May 2013, 3:00 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-13T03:00:16+08:00"
+    },
+    "aggsites": "27",
+    "aggdownloads": "6",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/451/report_rawrecordscount_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/451/report_rawrecordscount_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/451/report_rawrecordscount.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 3176,
+            "firstname": "Eloy",
+            "lastname": "Lafuente (stronk7)",
+            "url": "https://moodle.org/user/profile.php?id=3176"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Analytics"
+        }
+    ]
+}

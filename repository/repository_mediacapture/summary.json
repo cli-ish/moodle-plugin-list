@@ -1,0 +1,58 @@
+{
+    "id": 408,
+    "index": 1622,
+    "name": "Media Capture",
+    "frankenstyle": "repository_mediacapture",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_mediacapture",
+    "shortdescription": "Repository plugin to record audio/video content.",
+    "timelastreleased": {
+        "absdate": "Thursday, 30 August 2012, 11:29 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-08-30T11:29:23+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "8",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/408/Mediacapture.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/408/Mediacapture.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/408/flashaudiorecorder.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/408/nanogong.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/408/red5recorder.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/408/settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/408/startup.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1439658,
+            "firstname": "Ankit ",
+            "lastname": "Gupta",
+            "url": "https://moodle.org/user/profile.php?id=1439658"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

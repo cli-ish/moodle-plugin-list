@@ -1,0 +1,47 @@
+{
+    "id": 2556,
+    "index": 269,
+    "name": "Growth report",
+    "frankenstyle": "report_growth",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_growth",
+    "shortdescription": "The report shows historical information using graphs about your Moodle installation.\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 10 July 2023, 12:37 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-10T00:37:52+08:00"
+    },
+    "aggsites": "670",
+    "aggdownloads": "478",
+    "aggfavs": "43",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2556/report_growth0.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2556/report_growth1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2556/report_growth3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1207459,
+            "firstname": "Renaat",
+            "lastname": "Debleu",
+            "url": "https://moodle.org/user/profile.php?id=1207459"
+        }
+    ],
+    "descriptors": []
+}

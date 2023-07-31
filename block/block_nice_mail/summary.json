@@ -1,0 +1,45 @@
+{
+    "id": 531,
+    "index": 1685,
+    "name": "Nice Email",
+    "frankenstyle": "block_nice_mail",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_nice_mail",
+    "shortdescription": "A simple component to simulate email inbox between Moodle users.",
+    "timelastreleased": {
+        "absdate": "Friday, 21 December 2012, 9:57 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-12-21T21:57:37+08:00"
+    },
+    "aggsites": "9",
+    "aggdownloads": "7",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/531/mail.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1527285,
+            "firstname": "SWA",
+            "lastname": "Sistemas Acad\u00eamicos",
+            "url": "https://moodle.org/user/profile.php?id=1527285"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

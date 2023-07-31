@@ -1,0 +1,58 @@
+{
+    "id": 480,
+    "index": 972,
+    "name": "oohoo - Popup Dictionary - Filter",
+    "frankenstyle": "filter_dictionary",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_dictionary",
+    "shortdescription": "This filter is required for the oohoo Pop-up Dictionary block.\r\n\r\nOOHOO Pop-up Dictionary is a Moodle package that gives the students the \r\npossibility to double click on any word within a Moodle HTML resource and \r\nretrieve its definition from an online dictionary chosen by the teacher.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 24 December 2014, 11:11 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-24T23:11:07+08:00"
+    },
+    "aggsites": "63",
+    "aggdownloads": "63",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/480/popup-dictionary-Moodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/480/popup-dictionary-Moodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/480/screenshot_popupdictionary_01_en.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/480/screenshot_popupdictionary_02_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/480/screenshot_popupdictionary_03_en.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 106123,
+            "firstname": "Patrick",
+            "lastname": "Thibaudeau",
+            "url": "https://moodle.org/user/profile.php?id=106123"
+        },
+        {
+            "id": 1413693,
+            "firstname": "Nicolas",
+            "lastname": "Bretin",
+            "url": "https://moodle.org/user/profile.php?id=1413693"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

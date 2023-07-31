@@ -1,0 +1,73 @@
+{
+    "id": 1170,
+    "index": 2048,
+    "name": "One-to-one",
+    "frankenstyle": "mod_onetoone",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_onetoone",
+    "shortdescription": "Whiteboard with Video conference - Made for one to one interaction between Teacher and Student.",
+    "timelastreleased": {
+        "absdate": "Friday, 5 December 2014, 5:39 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-05T17:39:56+08:00"
+    },
+    "aggsites": "21",
+    "aggdownloads": "1",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1170/dragdrop_rotate.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1170/free_drawing.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1170/simple_algorithm.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1170/student_window.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1170/teacher_window.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1170/virtual_window.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 173685,
+            "firstname": "Jai",
+            "lastname": "Gupta",
+            "url": "https://moodle.org/user/profile.php?id=173685"
+        },
+        {
+            "id": 1143772,
+            "firstname": "Pinky",
+            "lastname": "Sharma",
+            "url": "https://moodle.org/user/profile.php?id=1143772"
+        },
+        {
+            "id": 214220,
+            "firstname": "suman",
+            "lastname": "bogati",
+            "url": "https://moodle.org/user/profile.php?id=214220"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

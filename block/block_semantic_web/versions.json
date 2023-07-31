@@ -1,0 +1,17 @@
+[
+    {
+        "id": "3060",
+        "name": "1.3-build-2013052100",
+        "url": "https://moodle.org/plugins/download.php/3060/block_semantic_web_moodle26_2013111014.zip"
+    },
+    {
+        "id": "3032",
+        "name": "1.2-build-2013032300",
+        "url": "https://moodle.org/plugins/download.php/3032/block_semantic_web_moodle37_2013030606.zip"
+    },
+    {
+        "id": "1276",
+        "name": "1.1-build-2012082100",
+        "url": "https://moodle.org/plugins/download.php/1276/block_semantic_web_moodle39_2019020401.zip"
+    }
+]

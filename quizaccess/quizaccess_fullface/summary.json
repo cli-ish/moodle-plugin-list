@@ -1,0 +1,50 @@
+{
+    "id": 2457,
+    "index": 1606,
+    "name": "FULLFace access rule",
+    "frankenstyle": "quizaccess_fullface",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_fullface",
+    "shortdescription": "E-proctoring solution to authentication user with facil biometrics while doing a quiz attempt.\r\nSolu\u00e7\u00e3o de autentica\u00e7\u00e3o por reconhecimento facial enquanto o aluno responde um question\u00e1rio.",
+    "timelastreleased": {
+        "absdate": "Thursday, 25 March 2021, 3:42 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-25T03:42:11+08:00"
+    },
+    "aggsites": "40",
+    "aggdownloads": "8",
+    "aggfavs": "20",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2457/Screenshot%20from%202020-04-16%2017-26-27.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2457/Screenshot%20from%202020-04-16%2017-26-27.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2457/fullface-plugin-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2457/fullface-plugin-2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2457/Screenshot%20from%202020-04-16%2017-23-45.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2457/Screenshot%20from%202020-04-27%2018-24-21.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,47 @@
+{
+    "id": 2578,
+    "index": 580,
+    "name": "Snap4Arduino submissions",
+    "frankenstyle": "assignsubmission_snap4arduino",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_snap4arduino",
+    "shortdescription": "Add to your Moodle assignments the ability to include SnapArduino projects",
+    "timelastreleased": {
+        "absdate": "Monday, 15 March 2021, 9:16 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-15T09:16:46+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": "201",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2578/snap4arduinoMoodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2578/snap4arduinoMoodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2578/pluginSnap4Arduino1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2578/pluginSnap4Arduino2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2578/pluginSnap4Arduino3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 134030,
+            "firstname": "Joan",
+            "lastname": "Guill\u00e9n",
+            "url": "https://moodle.org/user/profile.php?id=134030"
+        }
+    ],
+    "descriptors": []
+}

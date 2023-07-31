@@ -1,0 +1,57 @@
+{
+    "id": 234,
+    "index": 1081,
+    "name": "Drag and drop markers",
+    "frankenstyle": "qtype_ddmarker",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_ddmarker",
+    "shortdescription": "The student can drag markers to indicate key features on an image.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 March 2015, 11:23 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-03-18T23:23:36+08:00"
+    },
+    "aggsites": "61",
+    "aggdownloads": "40",
+    "aggfavs": "24",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/234/markerexample.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 22721,
+            "firstname": "Jamie",
+            "lastname": "Pratt",
+            "url": "https://moodle.org/user/profile.php?id=22721"
+        },
+        {
+            "id": 115651,
+            "firstname": "Phil",
+            "lastname": "Butcher",
+            "url": "https://moodle.org/user/profile.php?id=115651"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

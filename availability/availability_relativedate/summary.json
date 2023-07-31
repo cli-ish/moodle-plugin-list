@@ -1,0 +1,47 @@
+{
+    "id": 2290,
+    "index": 157,
+    "name": "Restriction by relative date",
+    "frankenstyle": "availability_relativedate",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_relativedate",
+    "shortdescription": "Restrict module and section access based on a relative date.",
+    "timelastreleased": {
+        "absdate": "Sunday, 4 June 2023, 2:35 AM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-04T02:35:09+08:00"
+    },
+    "aggsites": "1237",
+    "aggdownloads": "768",
+    "aggfavs": "48",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2290/image1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2290/screenshot_plugin_001.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2290/screenshot_plugin_002.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1207459,
+            "firstname": "Renaat",
+            "lastname": "Debleu",
+            "url": "https://moodle.org/user/profile.php?id=1207459"
+        }
+    ],
+    "descriptors": []
+}

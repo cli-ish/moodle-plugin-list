@@ -1,0 +1,47 @@
+[
+    {
+        "id": "6374",
+        "name": "1.05",
+        "url": "https://moodle.org/plugins/download.php/6374/mod_videofile_moodle32_2017100713.zip"
+    },
+    {
+        "id": "4883",
+        "name": "1.04",
+        "url": "https://moodle.org/plugins/download.php/4883/mod_videofile_moodle39_2014120301.zip"
+    },
+    {
+        "id": "4681",
+        "name": "1.03",
+        "url": "https://moodle.org/plugins/download.php/4681/mod_videofile_moodle35_2022050103.zip"
+    },
+    {
+        "id": "4365",
+        "name": "1.01",
+        "url": "https://moodle.org/plugins/download.php/4365/mod_videofile_moodle31_2018090510.zip"
+    },
+    {
+        "id": "4274",
+        "name": "1.00",
+        "url": "https://moodle.org/plugins/download.php/4274/mod_videofile_moodle38_2015060913.zip"
+    },
+    {
+        "id": "3770",
+        "name": "0.30",
+        "url": "https://moodle.org/plugins/download.php/3770/mod_videofile_moodle38_2023110214.zip"
+    },
+    {
+        "id": "3680",
+        "name": "0.24",
+        "url": "https://moodle.org/plugins/download.php/3680/mod_videofile_moodle28_2018110519.zip"
+    },
+    {
+        "id": "3452",
+        "name": "0.23",
+        "url": "https://moodle.org/plugins/download.php/3452/mod_videofile_moodle30_2019070907.zip"
+    },
+    {
+        "id": "3442",
+        "name": "0.22",
+        "url": "https://moodle.org/plugins/download.php/3442/mod_videofile_moodle25_2014121119.zip"
+    }
+]

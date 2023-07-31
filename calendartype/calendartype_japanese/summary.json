@@ -1,0 +1,44 @@
+{
+    "id": 863,
+    "index": 1943,
+    "name": "Japanese Calendar",
+    "frankenstyle": "calendartype_japanese",
+    "plugintype": {
+        "type": "calendartype",
+        "name": "Calendar type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/calendartype_japanese",
+    "shortdescription": "Japanese calendar that uses the Emperor's reign as the year.\r\nexample (\u5e73\u621025\u5e7409\u670810\u65e5)",
+    "timelastreleased": {
+        "absdate": "Friday, 11 May 2018, 3:54 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-11T15:54:28+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "3",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/863/calendartype-japanese01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/863/calendartype-japanese02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1391647,
+            "firstname": "Adrian",
+            "lastname": "Greeve",
+            "url": "https://moodle.org/user/profile.php?id=1391647"
+        }
+    ],
+    "descriptors": []
+}

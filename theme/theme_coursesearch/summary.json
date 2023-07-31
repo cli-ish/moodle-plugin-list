@@ -1,0 +1,73 @@
+{
+    "id": 918,
+    "index": 1667,
+    "name": "theme_coursesearch",
+    "frankenstyle": "theme_coursesearch",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_coursesearch",
+    "shortdescription": "coursesearch theme is required by course search plugin. Installing coursesearch theme will start evaluating course search results from course search plugin out of box.\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 3 February 2014, 2:56 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-02-03T14:56:45+08:00"
+    },
+    "aggsites": "34",
+    "aggdownloads": "7",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/918/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/918/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/918/autocomplete.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/918/Course_Search_IntraWordQuery.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/918/Course_Search_SortResults.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/918/coursesearch_newsearchform.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/918/tool_coursesearch_adminUI.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/918/tool_coursesearch_Config.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/918/tool_coursesearch_didyoumean.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/918/tool_coursesearch_IndexCourses.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/918/tool_coursesearch_KeywordMatching.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/918/tool_coursesearch_LogicOperatorQuery.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1565325,
+            "firstname": "Shashikant",
+            "lastname": "Vaishnav",
+            "url": "https://moodle.org/user/profile.php?id=1565325"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

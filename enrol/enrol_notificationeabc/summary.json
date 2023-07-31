@@ -1,0 +1,44 @@
+{
+    "id": 1745,
+    "index": 288,
+    "name": "Enrol Notification",
+    "frankenstyle": "enrol_notificationeabc",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_notificationeabc",
+    "shortdescription": "Send notifications to users when any enrolment event is executed",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 December 2017, 4:49 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-12-14T04:49:40+08:00"
+    },
+    "aggsites": "1320",
+    "aggdownloads": "447",
+    "aggfavs": "48",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1745/logo_eabc_2016_100x100.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1745/logo_eabc_2016_100x100.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1745/Captura.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1745/Captura2.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2171473,
+            "firstname": "e-ABC",
+            "lastname": "Learning",
+            "url": "https://moodle.org/user/profile.php?id=2171473"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": 145,
+    "index": 1425,
+    "name": "Authentication broker loginza.ru",
+    "frankenstyle": "auth_loginza",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_loginza",
+    "shortdescription": "Login by using facebook/google/flickr/openid accounts through the loginza.ru authentication broker.",
+    "timelastreleased": {
+        "absdate": "Thursday, 1 December 2011, 5:32 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-12-01T05:32:47+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "14",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/145/loginza_logo-trans.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/145/loginza_logo-trans.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/145/screenshot2.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1395810,
+            "firstname": "Dmitry",
+            "lastname": "Ketov",
+            "url": "https://moodle.org/user/profile.php?id=1395810"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

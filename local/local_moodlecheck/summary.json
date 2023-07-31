@@ -1,0 +1,61 @@
+{
+    "id": 263,
+    "index": 339,
+    "name": "Moodle PHPdoc check",
+    "frankenstyle": "local_moodlecheck",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_moodlecheck",
+    "shortdescription": "Tool for Moodle developers: allows to check phpdocs in the code for compliance with Moodle Coding Style.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 19 July 2023, 11:04 PM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-19T23:04:06+08:00"
+    },
+    "aggsites": "291",
+    "aggdownloads": "395",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/263/ui_cli.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/263/ui_web.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        },
+        {
+            "id": 3176,
+            "firstname": "Eloy",
+            "lastname": "Lafuente (stronk7)",
+            "url": "https://moodle.org/user/profile.php?id=3176"
+        },
+        {
+            "id": 268794,
+            "firstname": "Andrew",
+            "lastname": "Lyons",
+            "url": "https://moodle.org/user/profile.php?id=268794"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Developer"
+        }
+    ]
+}

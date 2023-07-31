@@ -1,0 +1,50 @@
+{
+    "id": 1907,
+    "index": 442,
+    "name": "Feedback viewer",
+    "frankenstyle": "local_feedbackviewer",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_feedbackviewer",
+    "shortdescription": "The Feedback Viewer report displays the responses from all Feedback modules in a given course, filtered by user.",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 May 2021, 4:28 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-20T04:28:21+08:00"
+    },
+    "aggsites": "101",
+    "aggdownloads": "273",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1907/local_feedbackviewer-all.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1907/local_feedbackviewer-my.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": []
+}

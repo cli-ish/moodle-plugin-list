@@ -1,0 +1,55 @@
+{
+    "id": 1032,
+    "index": 119,
+    "name": "LDAP server (Sync Plus)",
+    "frankenstyle": "auth_ldap_syncplus",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_ldap_syncplus",
+    "shortdescription": "Moodle authentication plugin which provides all functionality of auth_ldap, but supports advanced features for the LDAP synchronization task and LDAP authentication.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 April 2023, 3:41 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-25T03:41:18+08:00"
+    },
+    "aggsites": "862",
+    "aggdownloads": "985",
+    "aggfavs": "60",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1032/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1032/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1032/settings.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 2036,
+    "index": 1808,
+    "name": "Admin Settings Config",
+    "frankenstyle": "local_adminsettingsconfig",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_adminsettingsconfig",
+    "shortdescription": "This is local plugin that adds a new JSON setting type for your plugins.",
+    "timelastreleased": {
+        "absdate": "Monday, 19 March 2018, 11:57 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-03-19T23:57:29+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "5",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2036/screenshot1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2036/screenshot2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2036/screenshot3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2036/screenshot4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1602637,
+            "firstname": "Mark",
+            "lastname": "Sharp",
+            "url": "https://moodle.org/user/profile.php?id=1602637"
+        }
+    ],
+    "descriptors": []
+}

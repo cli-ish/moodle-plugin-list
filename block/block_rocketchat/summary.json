@@ -1,0 +1,40 @@
+{
+    "id": 2659,
+    "index": 543,
+    "name": "Rocket.Chat Integration (Block)",
+    "frankenstyle": "block_rocketchat",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_rocketchat",
+    "shortdescription": "Quickaccess and functions for integration of Rocket.Chat in Moodle",
+    "timelastreleased": {
+        "absdate": "Saturday, 30 April 2022, 5:35 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-04-30T17:35:58+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "216",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2659/02-03-_2021_18-40-09.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2177440,
+            "firstname": "Adrian",
+            "lastname": "Perez Rodriguez",
+            "url": "https://moodle.org/user/profile.php?id=2177440"
+        }
+    ],
+    "descriptors": []
+}

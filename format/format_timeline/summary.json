@@ -1,0 +1,44 @@
+{
+    "id": 2533,
+    "index": 295,
+    "name": "Format Timeline",
+    "frankenstyle": "format_timeline",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_timeline",
+    "shortdescription": "A simple timeline to simulate a real social network course in moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 10 February 2023, 1:54 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-10T01:54:09+08:00"
+    },
+    "aggsites": "260",
+    "aggdownloads": "442",
+    "aggfavs": "35",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2533/image1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2533/image2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 968235,
+            "firstname": "Willian",
+            "lastname": "Mano",
+            "url": "https://moodle.org/user/profile.php?id=968235"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,56 @@
+{
+    "id": 3108,
+    "index": 390,
+    "name": "Tiny Font Color",
+    "frankenstyle": "tiny_fontcolor",
+    "plugintype": {
+        "type": "tiny",
+        "name": "TinyMCE editor / tiny"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tiny_fontcolor",
+    "shortdescription": "The Tiny Font Color provides two toolbar buttons and menu entries to set different text and background colors.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 July 2023, 8:24 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-06T20:24:43+08:00"
+    },
+    "aggsites": "169",
+    "aggdownloads": "319",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3108/tiny_fontcolor.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3108/tiny_fontcolor.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3108/tiny_fontcolor_editor1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3108/tiny_fontcolor_editor2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3108/tiny_fontcolor_editor3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3108/tiny_fontcolor_settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5154071,
+            "firstname": "Stephan",
+            "lastname": "Robotta",
+            "url": "https://moodle.org/user/profile.php?id=5154071"
+        },
+        {
+            "id": 1350696,
+            "firstname": "Luca",
+            "lastname": "B\u00f6sch",
+            "url": "https://moodle.org/user/profile.php?id=1350696"
+        }
+    ],
+    "descriptors": []
+}

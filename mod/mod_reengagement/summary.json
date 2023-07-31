@@ -1,0 +1,63 @@
+{
+    "id": 1677,
+    "index": 70,
+    "name": "Reengagement",
+    "frankenstyle": "mod_reengagement",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_reengagement",
+    "shortdescription": "Allows timed release of content and emails users to remind them to complete course activities.",
+    "timelastreleased": {
+        "absdate": "Saturday, 29 October 2022, 8:02 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-10-29T08:02:27+08:00"
+    },
+    "aggsites": "3337",
+    "aggdownloads": "1k",
+    "aggfavs": "153",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1677/icon96.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1677/icon96.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1677/reengagement.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 108787,
+            "firstname": "Peter",
+            "lastname": "Bulmer",
+            "url": "https://moodle.org/user/profile.php?id=108787"
+        },
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 1159930,
+            "firstname": "Eugene",
+            "lastname": "Venter",
+            "url": "https://moodle.org/user/profile.php?id=1159930"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

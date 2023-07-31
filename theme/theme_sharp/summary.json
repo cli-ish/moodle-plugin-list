@@ -1,0 +1,49 @@
+{
+    "id": 793,
+    "index": 1268,
+    "name": "Sharp",
+    "frankenstyle": "theme_sharp",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_sharp",
+    "shortdescription": " A simple, sleek look with a variety of contrasting colors for personal, professional or academic use.",
+    "timelastreleased": {
+        "absdate": "Friday, 9 June 2017, 12:08 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-06-09T12:08:29+08:00"
+    },
+    "aggsites": "86",
+    "aggdownloads": "21",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/793/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/793/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/793/Capture.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/793/screenshot.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1624279,
+            "firstname": "3i Logic",
+            "lastname": "LMS",
+            "url": "https://moodle.org/user/profile.php?id=1624279"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "id": 1178,
+    "index": 2132,
+    "name": "Course overview lite",
+    "frankenstyle": "block_course_overview_lite",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_overview_lite",
+    "shortdescription": "The Course overview lite block is faster and lighter replacement for the default Course Overview block.\r\nFeatures include; ajax course detailed overview, active course highlighting, users can hide specific courses, users can reorder the course listing, customizable alert area, toggle simplified and detailed course views, and improved page load speed.",
+    "timelastreleased": {
+        "absdate": "Saturday, 12 July 2014, 12:09 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-07-12T00:09:25+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1178/Screen%20Shot%202014-07-10%20at%202.59.48%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1178/Screen%20Shot%202014-07-10%20at%202.59.56%20PM.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1178/Screen%20Shot%202014-07-10%20at%203.22.40%20PM.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1178/Screen%20Shot%202014-07-10%20at%203.22.49%20PM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1597940,
+            "firstname": "Josh",
+            "lastname": "Stagg",
+            "url": "https://moodle.org/user/profile.php?id=1597940"
+        },
+        {
+            "id": 1230391,
+            "firstname": "Trevor",
+            "lastname": "Jones",
+            "url": "https://moodle.org/user/profile.php?id=1230391"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,52 @@
+{
+    "id": 18,
+    "index": 461,
+    "name": "Rate a course",
+    "frankenstyle": "block_rate_course",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_rate_course",
+    "shortdescription": "This block provides an Amazon-style 5 star rating system for courses. Users each give a rating and the total is displayed in the block.",
+    "timelastreleased": {
+        "absdate": "Friday, 13 February 2015, 10:25 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-02-13T22:25:46+08:00"
+    },
+    "aggsites": "339",
+    "aggdownloads": "257",
+    "aggfavs": "31",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/18/rateimg.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2030166,
+            "firstname": "Cuong",
+            "lastname": "Chung",
+            "url": "https://moodle.org/user/profile.php?id=2030166"
+        },
+        {
+            "id": 93820,
+            "firstname": "Jenny",
+            "lastname": "Gray",
+            "url": "https://moodle.org/user/profile.php?id=93820"
+        },
+        {
+            "id": 100405,
+            "firstname": "Anthony",
+            "lastname": "Forth",
+            "url": "https://moodle.org/user/profile.php?id=100405"
+        }
+    ],
+    "descriptors": []
+}

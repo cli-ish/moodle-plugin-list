@@ -1,0 +1,49 @@
+{
+    "id": 495,
+    "index": 91,
+    "name": "Gapfill ",
+    "frankenstyle": "qtype_gapfill",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_gapfill",
+    "shortdescription": "Cloze (fill in the blanks) question type with VERY simple question creation syntax. Can do drag drop, dropdowns or gapfill questions",
+    "timelastreleased": {
+        "absdate": "Sunday, 30 July 2023, 4:50 AM",
+        "reldate": "2 days",
+        "iso8601date": "2023-07-30T04:50:35+08:00"
+    },
+    "aggsites": "4354",
+    "aggdownloads": "1k",
+    "aggfavs": "106",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/495/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/495/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/495/catmat3.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/495/gapfill_categories.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2246,
+            "firstname": "Marcus",
+            "lastname": "Green",
+            "url": "https://moodle.org/user/profile.php?id=2246"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

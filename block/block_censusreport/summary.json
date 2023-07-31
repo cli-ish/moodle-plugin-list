@@ -1,0 +1,57 @@
+{
+    "id": 438,
+    "index": 1386,
+    "name": "Census Report",
+    "frankenstyle": "block_censusreport",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_censusreport",
+    "shortdescription": "The Census Report block for Moodle 2 is used by an institution that needs to generate a report of student enrollment and completion status.\r\n",
+    "timelastreleased": {
+        "absdate": "Wednesday, 7 September 2016, 10:21 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-07T22:21:09+08:00"
+    },
+    "aggsites": "33",
+    "aggdownloads": "15",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1229346,
+            "firstname": "Tyler",
+            "lastname": "Bannister",
+            "url": "https://moodle.org/user/profile.php?id=1229346"
+        },
+        {
+            "id": 9561,
+            "firstname": "Mike",
+            "lastname": "Churchward",
+            "url": "https://moodle.org/user/profile.php?id=9561"
+        },
+        {
+            "id": 1156947,
+            "firstname": "Arnie",
+            "lastname": "Murdock",
+            "url": "https://moodle.org/user/profile.php?id=1156947"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 1459,
+    "index": 1755,
+    "name": "MoodleCloud Signup and Portal strings",
+    "frankenstyle": "local_moodlecloudsignup",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_moodlecloudsignup",
+    "shortdescription": "MoodleCloud Signup and Portal language strings for translation.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 31 May 2016, 11:09 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-05-31T11:09:21+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "6",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1459/cloud-orange.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1459/cloud-orange.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1459/01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1459/02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 268794,
+            "firstname": "Andrew",
+            "lastname": "Lyons",
+            "url": "https://moodle.org/user/profile.php?id=268794"
+        },
+        {
+            "id": 423027,
+            "firstname": "Mathieu",
+            "lastname": "Petit-Clair",
+            "url": "https://moodle.org/user/profile.php?id=423027"
+        }
+    ],
+    "descriptors": []
+}

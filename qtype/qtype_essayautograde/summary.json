@@ -1,0 +1,50 @@
+{
+    "id": 2244,
+    "index": 307,
+    "name": "Essay (auto-grade)",
+    "frankenstyle": "qtype_essayautograde",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_essayautograde",
+    "shortdescription": "Essay (auto-grade) for Moodle >= 3.0",
+    "timelastreleased": {
+        "absdate": "Friday, 7 April 2023, 2:48 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-07T14:48:09+08:00"
+    },
+    "aggsites": "1448",
+    "aggdownloads": "428",
+    "aggfavs": "51",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2244/essayautograde.1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2244/essayautograde.2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2244/essayautograde.3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2244/essayautograde.4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 8277,
+            "firstname": "Gordon",
+            "lastname": "Bateson",
+            "url": "https://moodle.org/user/profile.php?id=8277"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1833,
+    "index": 1576,
+    "name": "Lesson Export EPUB",
+    "frankenstyle": "local_lessonexportepub",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_lessonexportepub",
+    "shortdescription": "This plugin allows lesson modules to be exported to EPUB documents.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 April 2017, 4:24 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-04-12T16:24:33+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "9",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1833/lesson-export-to-epub.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1833/lesson-export-to-epub.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1833/lesson-export-to-epub.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1833/PageExport.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1833/PluginSettings.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2205273,
+            "firstname": "Adam",
+            "lastname": "King",
+            "url": "https://moodle.org/user/profile.php?id=2205273"
+        }
+    ],
+    "descriptors": []
+}

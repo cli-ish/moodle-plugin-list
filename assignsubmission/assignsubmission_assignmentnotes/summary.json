@@ -1,0 +1,62 @@
+{
+    "id": 2946,
+    "index": 557,
+    "name": "Assignment notes",
+    "frankenstyle": "assignsubmission_assignmentnotes",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_assignmentnotes",
+    "shortdescription": "Adds the ability to add user specific assign submission notes for markers via the custom user profile fields. For example, this can be used if a student has a Specific Learning Difference (SpLD) that markers need to be aware of. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 16 November 2022, 1:32 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-16T01:32:18+08:00"
+    },
+    "aggsites": "26",
+    "aggdownloads": "212",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2946/Grade_notes.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2946/Grading.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2946/Grading.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2946/Settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2946/Student_submission.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2946/User_profile_fields.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        },
+        {
+            "id": 2028626,
+            "firstname": "Ken",
+            "lastname": "Farrimond",
+            "url": "https://moodle.org/user/profile.php?id=2028626"
+        }
+    ],
+    "descriptors": []
+}

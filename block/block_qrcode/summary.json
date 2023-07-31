@@ -1,0 +1,56 @@
+{
+    "id": 1964,
+    "index": 160,
+    "name": "QR code",
+    "frankenstyle": "block_qrcode",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_qrcode",
+    "shortdescription": "A Moodle block to display a QR code link that leads to the course page. The QR code can be downloaded by teachers, e.g. to put them into introductory slides. A custom logo can be shown within the QR code.",
+    "timelastreleased": {
+        "absdate": "Friday, 12 May 2023, 7:27 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-12T19:27:45+08:00"
+    },
+    "aggsites": "872",
+    "aggdownloads": "756",
+    "aggfavs": "63",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1964/32319501-164a9758-bfbb-11e7-9b63-09dc6f8517d0.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1964/29065684-297cea96-7c2d-11e7-9e3e-a6456ae5a6e5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1964/32319500-160e8a1a-bfbb-11e7-93f7-76f7a7aa48a6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1964/screenshot%20qrcode%20%281%29.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 1942711,
+            "firstname": "Jan",
+            "lastname": "Dagef\u00f6rde",
+            "url": "https://moodle.org/user/profile.php?id=1942711"
+        }
+    ],
+    "descriptors": []
+}

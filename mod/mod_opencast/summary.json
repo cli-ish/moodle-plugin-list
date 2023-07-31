@@ -1,0 +1,59 @@
+{
+    "id": 2694,
+    "index": 660,
+    "name": "Opencast Video Provider",
+    "frankenstyle": "mod_opencast",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_opencast",
+    "shortdescription": "This activity can be used to display and view Opencast episodes and series in Moodle.\r\nUsers with respective privileges (in the following called teacher) can specify the ID of an existing Opencast \r\nepisode/series to add it to their course. An embedded player allows students to watch the videos directly in Moodle. As with every activity, the teachers can restrict the access to the videos for students based on e.g. dates, grades or user profiles.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 July 2023, 7:35 PM",
+        "reldate": "3 days",
+        "iso8601date": "2023-07-28T19:35:50+08:00"
+    },
+    "aggsites": "151",
+    "aggdownloads": "162",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2694/Adding%20a%20new%20Opencast%20series.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2694/List%20view%20of%20a%20Opencast%20series.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2694/Opencast%20activity%20settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2694/Preview%20view%20of%20an%20Opencast%20series.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2694/Video%20Player.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3713523,
+            "firstname": "Opencast",
+            "lastname": "Integration",
+            "url": "https://moodle.org/user/profile.php?id=3713523"
+        },
+        {
+            "id": 2262436,
+            "firstname": "Tamara",
+            "lastname": "Gunkel",
+            "url": "https://moodle.org/user/profile.php?id=2262436"
+        }
+    ],
+    "descriptors": []
+}

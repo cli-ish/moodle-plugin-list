@@ -1,0 +1,45 @@
+{
+    "id": 201,
+    "index": 8,
+    "name": "Questionnaire",
+    "frankenstyle": "mod_questionnaire",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_questionnaire",
+    "shortdescription": "Custom Survey Creation",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 May 2023, 10:24 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-16T22:24:52+08:00"
+    },
+    "aggsites": "15880",
+    "aggdownloads": "4k",
+    "aggfavs": "226",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/201/questionnaire.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 9561,
+            "firstname": "Mike",
+            "lastname": "Churchward",
+            "url": "https://moodle.org/user/profile.php?id=9561"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

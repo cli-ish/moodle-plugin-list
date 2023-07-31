@@ -1,0 +1,80 @@
+{
+    "id": 1855,
+    "index": 296,
+    "name": "Evaluations (evasys)",
+    "frankenstyle": "block_onlinesurvey",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_onlinesurvey",
+    "shortdescription": "Moodle block plugin which allows you to quickly and easily integrate survey information data from evasys into Moodle. With this block, you can place links to evasys online surveys directly on the Moodle frontpage and dashboard as well as on course overview pages.",
+    "timelastreleased": {
+        "absdate": "Monday, 8 August 2022, 5:55 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-08-08T17:55:49+08:00"
+    },
+    "aggsites": "201",
+    "aggdownloads": "442",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1855/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1855/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1855/screenshot-01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1855/screenshot-02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1855/screenshot-03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1855/screenshot-04.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1855/screenshot-05.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1855/screenshot-06.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1855/screenshot-07.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1855/screenshot-08.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1855/screenshot-09.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1855/screenshot-10.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2226606,
+            "firstname": "evasys",
+            "lastname": "GmbH",
+            "url": "https://moodle.org/user/profile.php?id=2226606"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        },
+        {
+            "id": 4480813,
+            "firstname": "Moodle Partner",
+            "lastname": "lern.link",
+            "url": "https://moodle.org/user/profile.php?id=4480813"
+        }
+    ],
+    "descriptors": []
+}

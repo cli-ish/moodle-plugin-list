@@ -1,0 +1,56 @@
+{
+    "id": 2469,
+    "index": 512,
+    "name": "OSS Enrolment",
+    "frankenstyle": "enrol_oss",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_oss",
+    "shortdescription": "Enrolment to manage groups, classes, teachers, students and parents infrastructure for an open school server (oss).",
+    "timelastreleased": {
+        "absdate": "Wednesday, 26 July 2023, 2:01 AM",
+        "reldate": "5 days",
+        "iso8601date": "2023-07-26T02:01:32+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "229",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2469/enrol_oss_coursecats.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2469/enrol_oss_settings_classes.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2469/enrol_oss_settings_ldap.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2469/enrol_oss_settings_students.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2469/enrol_oss_settings_teacherscat.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2469/enrol_oss_setttings_parents.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 830481,
+            "firstname": "Frank",
+            "lastname": "Sch\u00fctte",
+            "url": "https://moodle.org/user/profile.php?id=830481"
+        }
+    ],
+    "descriptors": []
+}

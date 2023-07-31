@@ -1,0 +1,50 @@
+{
+    "id": 591,
+    "index": 430,
+    "name": "Masonry Topics format",
+    "frankenstyle": "format_masonry",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_masonry",
+    "shortdescription": "This course format displays all sections like a masonry build brick wall. Every section can have a different background and is dynamically placed into a fluent style page.",
+    "timelastreleased": {
+        "absdate": "Sunday, 30 July 2023, 8:59 PM",
+        "reldate": "1 day",
+        "iso8601date": "2023-07-30T20:59:37+08:00"
+    },
+    "aggsites": "411",
+    "aggdownloads": "282",
+    "aggfavs": "37",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/591/icon2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/591/icon2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/591/masonry1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/591/masonry2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/591/masonry3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/591/masonry4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1207459,
+            "firstname": "Renaat",
+            "lastname": "Debleu",
+            "url": "https://moodle.org/user/profile.php?id=1207459"
+        }
+    ],
+    "descriptors": []
+}

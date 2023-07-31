@@ -1,0 +1,44 @@
+{
+    "id": 2326,
+    "index": 2102,
+    "name": "Viewer Meca Obj",
+    "frankenstyle": "filter_viewermecaobj",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_viewermecaobj",
+    "shortdescription": "Viewermecaobj is a simple filter plugin wich allows to create an interactive STL viewer by replacing a stl (moodle) url in an text editor by a viewer of this STL object.\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 10 January 2020, 8:51 PM",
+        "reldate": "4 years",
+        "iso8601date": "2020-01-10T20:51:50+08:00"
+    },
+    "aggsites": "24",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2326/STL_View.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2326/viewer%20meca%20obj.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2697852,
+            "firstname": "Florent",
+            "lastname": "Paccalet",
+            "url": "https://moodle.org/user/profile.php?id=2697852"
+        }
+    ],
+    "descriptors": []
+}

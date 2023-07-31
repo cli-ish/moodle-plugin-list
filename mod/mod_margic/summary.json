@@ -1,0 +1,74 @@
+{
+    "id": 3001,
+    "index": 350,
+    "name": "Margic",
+    "frankenstyle": "mod_margic",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_margic",
+    "shortdescription": "In the Margic activity, participants can create unlimited entries which can then be evaluated and annotated by teachers.",
+    "timelastreleased": {
+        "absdate": "Monday, 8 May 2023, 12:15 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-08T00:15:59+08:00"
+    },
+    "aggsites": "105",
+    "aggdownloads": "378",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3001/Margic%20Logo%20v2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3001/Margic%20Logo%20v2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3001/a3_view.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3001/a1_add_margic_1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3001/a2_add_margic_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3001/a4_add_entry.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3001/a5_edit_existing_entry.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3001/a6_grading_audio.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3001/a7_Annotations.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3001/a8_error_type_templates.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3001/a90_error_types.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3001/a91_admin_settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2834425,
+            "firstname": "Daniel",
+            "lastname": "Nolte",
+            "url": "https://moodle.org/user/profile.php?id=2834425"
+        },
+        {
+            "id": 5303116,
+            "firstname": "Dominik Niehus",
+            "lastname": "(coactum GmbH)",
+            "url": "https://moodle.org/user/profile.php?id=5303116"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,57 @@
+{
+    "id": 1475,
+    "index": 902,
+    "name": "Open Badge Factory displayer block",
+    "frankenstyle": "block_obf_displayer",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_obf_displayer",
+    "shortdescription": "Display user's OpenBadges on a block. Supports Open Badge Factory, Open Badge Passport and Mozilla Backpack.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 8 December 2021, 8:01 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-12-08T20:01:37+08:00"
+    },
+    "aggsites": "139",
+    "aggdownloads": "93",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1475/Screenshot%20from%202015-08-04%20084049.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1966880,
+            "firstname": "OBF",
+            "lastname": "Admin",
+            "url": "https://moodle.org/user/profile.php?id=1966880"
+        },
+        {
+            "id": 4325343,
+            "firstname": "Antti",
+            "lastname": "Koskinen",
+            "url": "https://moodle.org/user/profile.php?id=4325343"
+        },
+        {
+            "id": 4666468,
+            "firstname": "Emilie",
+            "lastname": "Lenel",
+            "url": "https://moodle.org/user/profile.php?id=4666468"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

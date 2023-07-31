@@ -1,0 +1,53 @@
+{
+    "id": 1880,
+    "index": 1555,
+    "name": "Collaborative Folders",
+    "frankenstyle": "mod_collaborativefolders",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_collaborativefolders",
+    "shortdescription": "Enhance collaboration by providing shared folders to your students automatically. No need to collect Dropbox or ownCloud e-mail addresses anymore: Just add it to a course and select the groups that should collaborate. ownCloud/Nextcloud will privately share one folder per group to its members!",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 June 2020, 3:52 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-16T15:52:07+08:00"
+    },
+    "aggsites": "121",
+    "aggdownloads": "9",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1880/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1880/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1880/after%20share-moodle.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1880/after%20share.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1880/post-login.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 1942711,
+            "firstname": "Jan",
+            "lastname": "Dagef\u00f6rde",
+            "url": "https://moodle.org/user/profile.php?id=1942711"
+        }
+    ],
+    "descriptors": []
+}

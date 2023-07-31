@@ -1,0 +1,70 @@
+{
+    "id": 1998,
+    "index": 293,
+    "name": "SafeAssign plagiarism plugin",
+    "frankenstyle": "plagiarism_safeassign",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_safeassign",
+    "shortdescription": "SafeAssign is a plagiarism plugin which uses a service to compare submitted assignments against a set of sources to identify areas of overlap between the submitted assignment and existing works.",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 April 2023, 5:56 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-13T05:56:45+08:00"
+    },
+    "aggsites": "64",
+    "aggdownloads": "443",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1998/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1998/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1998/HeroImage_SafeAssign_tcm223-68236.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 5645050,
+            "firstname": "SafeAssign",
+            "lastname": "Anthology",
+            "url": "https://moodle.org/user/profile.php?id=5645050"
+        },
+        {
+            "id": 2177247,
+            "firstname": "David",
+            "lastname": "Castro",
+            "url": "https://moodle.org/user/profile.php?id=2177247"
+        },
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        },
+        {
+            "id": 2044069,
+            "firstname": "Jonathan",
+            "lastname": "Garcia",
+            "url": "https://moodle.org/user/profile.php?id=2044069"
+        },
+        {
+            "id": 2044151,
+            "firstname": "Rafael",
+            "lastname": "Monterroza",
+            "url": "https://moodle.org/user/profile.php?id=2044151"
+        },
+        {
+            "id": 2049258,
+            "firstname": "Guillermo",
+            "lastname": "Alvarez",
+            "url": "https://moodle.org/user/profile.php?id=2049258"
+        }
+    ],
+    "descriptors": []
+}

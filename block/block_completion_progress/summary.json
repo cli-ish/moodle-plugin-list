@@ -1,0 +1,71 @@
+{
+    "id": 1657,
+    "index": 13,
+    "name": "Completion Progress",
+    "frankenstyle": "block_completion_progress",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_completion_progress",
+    "shortdescription": "The Completion Progress block is a time-management tool for students.",
+    "timelastreleased": {
+        "absdate": "Friday, 30 June 2023, 9:04 AM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-06-30T09:04:49+08:00"
+    },
+    "aggsites": "14356",
+    "aggdownloads": "3k",
+    "aggfavs": "299",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1657/Completion%20Progress%20bar%20in%20block%20-%20no%20details.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1657/Completion%20Progress%20bar%20in%20block%20-%20no%20details.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1657/Completion%20Progress%20bar%20in%20block%20-%20no%20details.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1657/Completion%20Progress%20bar%20in%20block%20-%20teacher%20view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1657/Completion%20Progress%20bar%20in%20block%20-%20with%20details.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1657/Completion%20Progress%20bar%20with%20cross%20and%20tick%20icons.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1657/Completion%20Progress%20block%20on%20Dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1657/Completion%20Progress%20Overview%20of%20students%20with%20messaging.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1657/Completion%20Progress%20Presentation%20options.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1657/Configuring%20a%20Completion%20Progress%20block.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 488773,
+            "firstname": "Jonathon",
+            "lastname": "Fowler",
+            "url": "https://moodle.org/user/profile.php?id=488773"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Student"
+        }
+    ]
+}

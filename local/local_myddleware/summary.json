@@ -1,0 +1,40 @@
+{
+    "id": 1755,
+    "index": 606,
+    "name": "Myddleware - Your open source data integration tool",
+    "frankenstyle": "local_myddleware",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_myddleware",
+    "shortdescription": "Myddleware for Moodle enables you to transfer your data easily and safely from your Moodle application to other applications such as your e-commerce, CRM or messaging tools. By doing so, it ensures a durable quality of your data, which is a prerequisite for productivity and efficiency. \r\n\r\nConnected applications : SalesForce, SugarCRM, SuiteCRM, Sage CRM, SAP CRM, Sage Live, Hubspot, Zuora, Magento, Prestashop, Mailchimp, Dolist, MySQL, Microsoft SQL, FTP...     ",
+    "timelastreleased": {
+        "absdate": "Sunday, 2 April 2023, 4:30 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-02T04:30:39+08:00"
+    },
+    "aggsites": "189",
+    "aggdownloads": "191",
+    "aggfavs": "51",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1755/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1755/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1755/Myddleware_create-rule.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2171019,
+            "firstname": "St\u00e9phane",
+            "lastname": "Faure",
+            "url": "https://moodle.org/user/profile.php?id=2171019"
+        }
+    ],
+    "descriptors": []
+}

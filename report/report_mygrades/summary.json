@@ -1,0 +1,45 @@
+{
+    "id": 1031,
+    "index": 1361,
+    "name": "My Grades report",
+    "frankenstyle": "report_mygrades",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_mygrades",
+    "shortdescription": "A Moodle Report that shows all user grades in all courses",
+    "timelastreleased": {
+        "absdate": "Friday, 15 August 2014, 5:13 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-08-15T17:13:52+08:00"
+    },
+    "aggsites": "58",
+    "aggdownloads": "16",
+    "aggfavs": "22",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1031/grades-lg-215x300.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1031/grades-lg-215x300.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1031/Mygrades.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1416592,
+            "firstname": "David",
+            "lastname": "Bezemer",
+            "url": "https://moodle.org/user/profile.php?id=1416592"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

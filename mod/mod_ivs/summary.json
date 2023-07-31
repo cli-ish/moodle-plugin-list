@@ -1,0 +1,59 @@
+{
+    "id": 2515,
+    "index": 318,
+    "name": "Interactive Video Suite",
+    "frankenstyle": "mod_ivs",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_ivs",
+    "shortdescription": "Encourage discussions with pinpointed video comments, add in-video questions or highlight important sections visually. Social Video Learning made easy with the Interactive Video Suite!",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 11:50 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T23:50:20+08:00"
+    },
+    "aggsites": "214",
+    "aggdownloads": "421",
+    "aggfavs": "20",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2515/Logo_V3.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2515/Logo_V3.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2515/IVS_Vorschaubild.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2515/3%20Different%20kind%20of%20questions.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2515/6-create-ivs-activity.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2515/Comments%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2515/In%20Video%20Questions%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2515/Kommentierung_Englisch.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2515/Single_Choice_Englisch.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3376642,
+            "firstname": "Developer",
+            "lastname": "Ghostthinker",
+            "url": "https://moodle.org/user/profile.php?id=3376642"
+        }
+    ],
+    "descriptors": []
+}

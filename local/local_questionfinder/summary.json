@@ -1,0 +1,47 @@
+{
+    "id": 2408,
+    "index": 1525,
+    "name": "Question Finder",
+    "frankenstyle": "local_questionfinder",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_questionfinder",
+    "shortdescription": "Moodle Local Questionfinder is an extended version of the Question search module for Moodle, this new module adds several search options to the original functionality of question bank such as search by question text, author, last modified by, creation date and modification date.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 January 2022, 6:49 PM",
+        "reldate": "18 months",
+        "iso8601date": "2022-01-18T18:49:16+08:00"
+    },
+    "aggsites": "58",
+    "aggdownloads": "10",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2408/questionfinder_1_creation_date_range.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2408/questionfinder_2_last_change.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2408/questionfinder_3_question_name.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2016897,
+            "firstname": "Tobias",
+            "lastname": "Kutzner",
+            "url": "https://moodle.org/user/profile.php?id=2016897"
+        }
+    ],
+    "descriptors": []
+}

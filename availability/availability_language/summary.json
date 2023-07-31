@@ -1,0 +1,56 @@
+{
+    "id": 1184,
+    "index": 172,
+    "name": "Restriction by language",
+    "frankenstyle": "availability_language",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_language",
+    "shortdescription": "Restrict module and section access based on user language.",
+    "timelastreleased": {
+        "absdate": "Sunday, 23 April 2023, 11:44 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-23T23:44:32+08:00"
+    },
+    "aggsites": "1727",
+    "aggdownloads": "702",
+    "aggfavs": "61",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1184/user_restriction_language.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1184/user_restriction_language2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1184/user_restriction_language3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1207459,
+            "firstname": "Renaat",
+            "lastname": "Debleu",
+            "url": "https://moodle.org/user/profile.php?id=1207459"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

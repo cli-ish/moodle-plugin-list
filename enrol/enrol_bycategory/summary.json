@@ -1,0 +1,47 @@
+{
+    "id": 3050,
+    "index": 528,
+    "name": "Enrol by Category (enrol_self + waiting list + x)",
+    "frankenstyle": "enrol_bycategory",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_bycategory",
+    "shortdescription": "Allows users to enrol themselves into a course if they finished a course in a specific category previously. This plugin was inspired by the enrol_self plugin and can be used in the same way. Additionally it offers a waiting list feature and autoenrolment into a specific group.",
+    "timelastreleased": {
+        "absdate": "Monday, 15 May 2023, 8:06 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-15T20:06:10+08:00"
+    },
+    "aggsites": "30",
+    "aggdownloads": "225",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3050/enrol_bycategory-config.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3050/enrol_bycategory-waiting-list-user.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3050/enrol_bycategory-waiting-list.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4775477,
+            "firstname": "Matthias",
+            "lastname": "Tylkowski",
+            "url": "https://moodle.org/user/profile.php?id=4775477"
+        }
+    ],
+    "descriptors": []
+}

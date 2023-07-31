@@ -1,0 +1,45 @@
+{
+    "id": 1532,
+    "index": 2020,
+    "name": "Adding authentication to links on www.iprbookshop.ru",
+    "frankenstyle": "filter_iprbookshop_ru",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_iprbookshop_ru",
+    "shortdescription": "This block is intended for use with russian electronic library www.iprbookshop.ru (paid subscription or demo subscription required)",
+    "timelastreleased": {
+        "absdate": "Monday, 17 April 2017, 12:22 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-04-17T00:22:26+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "2",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1532/iprbooks_filter.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 585006,
+            "firstname": "Vadim",
+            "lastname": "Dvorovenko",
+            "url": "https://moodle.org/user/profile.php?id=585006"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

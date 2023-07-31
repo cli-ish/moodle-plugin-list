@@ -1,0 +1,40 @@
+{
+    "id": 1912,
+    "index": 134,
+    "name": "Amazon's SDK for PHP",
+    "frankenstyle": "local_aws",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_aws",
+    "shortdescription": "A moodle plugin containing Amazon's SDK for PHP.",
+    "timelastreleased": {
+        "absdate": "Monday, 6 February 2023, 6:53 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-06T18:53:17+08:00"
+    },
+    "aggsites": "1551",
+    "aggdownloads": "878",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1912/2232217.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1912/2232217.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1912/2232217.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,45 @@
+{
+    "id": 43,
+    "index": 952,
+    "name": "Dark Blue 2.0",
+    "frankenstyle": "theme_darkb",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_darkb",
+    "shortdescription": "A three column theme with a settings page that allows the user to change theme colors, etc.",
+    "timelastreleased": {
+        "absdate": "Sunday, 13 January 2013, 3:25 AM",
+        "reldate": "11 years",
+        "iso8601date": "2013-01-13T03:25:46+08:00"
+    },
+    "aggsites": "115",
+    "aggdownloads": "69",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/43/dblogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/43/dblogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/43/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "id": 2442,
+    "index": 35,
+    "name": "Workplace course certificate",
+    "frankenstyle": "mod_coursecertificate",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_coursecertificate",
+    "shortdescription": "Automatically issue digital certificates to course participants. This plugin is fully compatible with Moodle LMS.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 May 2023, 3:46 AM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-31T03:46:31+08:00"
+    },
+    "aggsites": "4292",
+    "aggdownloads": "2k",
+    "aggfavs": "104",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2442/certificate-plugin-image.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2442/coursecertificate01.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2442/coursecertificate02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        },
+        {
+            "id": 2781393,
+            "firstname": "Mikel",
+            "lastname": "Mart\u00edn Corrales",
+            "url": "https://moodle.org/user/profile.php?id=2781393"
+        },
+        {
+            "id": 1525875,
+            "firstname": "Emilio",
+            "lastname": "Lozano",
+            "url": "https://moodle.org/user/profile.php?id=1525875"
+        },
+        {
+            "id": 2466157,
+            "firstname": "Rafael",
+            "lastname": "Lechugo",
+            "url": "https://moodle.org/user/profile.php?id=2466157"
+        },
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        }
+    ],
+    "descriptors": []
+}

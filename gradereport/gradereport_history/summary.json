@@ -1,0 +1,45 @@
+{
+    "id": 1122,
+    "index": 1374,
+    "name": "Grade history",
+    "frankenstyle": "gradereport_history",
+    "plugintype": {
+        "type": "gradereport",
+        "name": "Gradebook report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradereport_history",
+    "shortdescription": "A grader report for Moodle that allows you to view an audit trail of what happened to grades overtime.",
+    "timelastreleased": {
+        "absdate": "Thursday, 10 July 2014, 2:01 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-07-10T14:01:49+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "16",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1122/Screenshot%20from%202014-07-10%20153356.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1316828,
+            "firstname": "Adam",
+            "lastname": "Olley",
+            "url": "https://moodle.org/user/profile.php?id=1316828"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

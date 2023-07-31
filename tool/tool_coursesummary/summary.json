@@ -1,0 +1,46 @@
+{
+    "id": 2238,
+    "index": 1870,
+    "name": "Course Summary Overwrite",
+    "frankenstyle": "tool_coursesummary",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_coursesummary",
+    "shortdescription": "Overwrites the course summaries for every course in a particular category.  ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 13 February 2019, 5:56 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-02-13T05:56:05+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "4",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2238/wcln_logo_vector_simple.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2238/wcln_logo_vector_simple.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2238/plugin_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2263289,
+            "firstname": "Colin",
+            "lastname": "Perepelken",
+            "url": "https://moodle.org/user/profile.php?id=2263289"
+        },
+        {
+            "id": 2830861,
+            "firstname": "Western Canadian",
+            "lastname": "Learning Network",
+            "url": "https://moodle.org/user/profile.php?id=2830861"
+        }
+    ],
+    "descriptors": []
+}

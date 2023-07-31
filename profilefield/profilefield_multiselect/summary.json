@@ -1,0 +1,49 @@
+{
+    "id": 1182,
+    "index": 878,
+    "name": "Multi select menu custom user profile field",
+    "frankenstyle": "profilefield_multiselect",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_multiselect",
+    "shortdescription": "A multiselect menu as a custom user profile field for Moodle.\r\n\r\nHow it could be useful:\r\nThis new custom profile field type could be used in many cases like:\r\n1. You have to differentiate users into groups and one user could be part of multiple groups\r\n2. You want to take inputs from user at the time of registration or you manually want to fill some information for users like education, certificates they have done.\r\n3. There could be various other cases like this,\r\n",
+    "timelastreleased": {
+        "absdate": "Saturday, 20 June 2020, 8:53 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-20T20:53:56+08:00"
+    },
+    "aggsites": "326",
+    "aggdownloads": "104",
+    "aggfavs": "31",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1182/screenshot1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1182/screenshot2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1343717,
+            "firstname": "Nitin",
+            "lastname": "Jain",
+            "url": "https://moodle.org/user/profile.php?id=1343717"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

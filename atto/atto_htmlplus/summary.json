@@ -1,0 +1,45 @@
+{
+    "id": 1068,
+    "index": 2090,
+    "name": "HTML+",
+    "frankenstyle": "atto_htmlplus",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_htmlplus",
+    "shortdescription": "An extended HTML plugin for atto which adds source beautification, and the code mirror source editor.\r\nNote: This plugin is now included in Moodle core as a part of the standard html plugin.",
+    "timelastreleased": {
+        "absdate": "Monday, 7 April 2014, 2:22 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-07T14:22:25+08:00"
+    },
+    "aggsites": "1463",
+    "aggdownloads": null,
+    "aggfavs": "68",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1068/htmlplus.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1068/htmlplus.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1068/htmlplus.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 268794,
+            "firstname": "Andrew",
+            "lastname": "Lyons",
+            "url": "https://moodle.org/user/profile.php?id=268794"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

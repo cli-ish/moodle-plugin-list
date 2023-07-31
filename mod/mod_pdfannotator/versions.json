@@ -1,0 +1,87 @@
+[
+    {
+        "id": "29283",
+        "name": "pdf-annotator-v1.5-release-4",
+        "url": "https://moodle.org/plugins/download.php/29283/mod_pdfannotator_moodle30_2012100200.zip"
+    },
+    {
+        "id": "25018",
+        "name": "pdf-annotator-v1.4-release-7.2-for-moodle-3.10",
+        "url": "https://moodle.org/plugins/download.php/25018/mod_pdfannotator_moodle40_2021050904.zip"
+    },
+    {
+        "id": "22159",
+        "name": "pdf-annotator-v1.4-release-2",
+        "url": "https://moodle.org/plugins/download.php/22159/mod_pdfannotator_moodle39_2022110512.zip"
+    },
+    {
+        "id": "28155",
+        "name": "pdf-annotator-v1.5-release-3",
+        "url": "https://moodle.org/plugins/download.php/28155/mod_pdfannotator_moodle29_2023010210.zip"
+    },
+    {
+        "id": "28071",
+        "name": "pdf-annotator-v1.5-release-2",
+        "url": "https://moodle.org/plugins/download.php/28071/mod_pdfannotator_moodle25_2018020401.zip"
+    },
+    {
+        "id": "25561",
+        "name": "pdf-annotator-v1.4-release-11",
+        "url": "https://moodle.org/plugins/download.php/25561/mod_pdfannotator_moodle38_2022060908.zip"
+    },
+    {
+        "id": "25556",
+        "name": "pdf-annotator-v1.4-release-10",
+        "url": "https://moodle.org/plugins/download.php/25556/mod_pdfannotator_moodle28_2020021120.zip"
+    },
+    {
+        "id": "25251",
+        "name": "pdf-annotator-v1.4-release-9",
+        "url": "https://moodle.org/plugins/download.php/25251/mod_pdfannotator_moodle30_2022100906.zip"
+    },
+    {
+        "id": "25015",
+        "name": "pdf-annotator-v1.4-release-8",
+        "url": "https://moodle.org/plugins/download.php/25015/mod_pdfannotator_moodle28_2010071003.zip"
+    },
+    {
+        "id": "24390",
+        "name": "pdf-annotator-v1.4-release-7",
+        "url": "https://moodle.org/plugins/download.php/24390/mod_pdfannotator_moodle40_2016081010.zip"
+    },
+    {
+        "id": "23939",
+        "name": "pdf-annotator-v1.4-release-6",
+        "url": "https://moodle.org/plugins/download.php/23939/mod_pdfannotator_moodle26_2013030907.zip"
+    },
+    {
+        "id": "22153",
+        "name": "pdf-annotator-v1.4-release-1",
+        "url": "https://moodle.org/plugins/download.php/22153/mod_pdfannotator_moodle37_2017030716.zip"
+    },
+    {
+        "id": "20781",
+        "name": "pdf-annotator-v1.3-release-2",
+        "url": "https://moodle.org/plugins/download.php/20781/mod_pdfannotator_moodle39_2010090410.zip"
+    },
+    {
+        "id": "20436",
+        "name": "pdf-annotator-v1.3-release-1",
+        "url": "https://moodle.org/plugins/download.php/20436/mod_pdfannotator_moodle31_2011111109.zip"
+    },
+    {
+        "id": "19459",
+        "name": "pdf-annotator-v1.2-release-1",
+        "url": "https://moodle.org/plugins/download.php/19459/mod_pdfannotator_moodle28_2023050619.zip"
+    },
+    {
+        "id": "18382",
+        "name": "pdf-annotator-v1.1-release-1",
+        "url": "https://moodle.org/plugins/download.php/18382/mod_pdfannotator_moodle26_2020060807.zip"
+    },
+    {
+        "id": "17365",
+        "name": "pdf-annotator-v1.0-release-1",
+        "url": "https://moodle.org/plugins/download.php/17365/mod_pdfannotator_moodle35_2021021213.zip"
+    }
+]

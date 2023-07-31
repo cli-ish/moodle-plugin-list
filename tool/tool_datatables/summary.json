@@ -1,0 +1,40 @@
+{
+    "id": 1529,
+    "index": 1068,
+    "name": "Datatables",
+    "frankenstyle": "tool_datatables",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_datatables",
+    "shortdescription": "Provides API to add DataTables features to Moodle HTML tables.",
+    "timelastreleased": {
+        "absdate": "Saturday, 11 March 2017, 1:06 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-03-11T01:06:36+08:00"
+    },
+    "aggsites": "81",
+    "aggdownloads": "42",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1529/datatables1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 843666,
+            "firstname": "Fred",
+            "lastname": "Yankowski",
+            "url": "https://moodle.org/user/profile.php?id=843666"
+        }
+    ],
+    "descriptors": []
+}

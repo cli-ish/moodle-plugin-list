@@ -1,0 +1,45 @@
+{
+    "id": 1012,
+    "index": 2146,
+    "name": "Group Network Control",
+    "frankenstyle": "block_group_network",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_group_network",
+    "shortdescription": "This block provides teacher or less power user a mean to open network access to students in a User Mnet Hosts moderated Moodle NETwork ",
+    "timelastreleased": {
+        "absdate": "Friday, 21 February 2014, 3:15 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-02-21T03:15:08+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1012/block.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

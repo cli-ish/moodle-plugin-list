@@ -1,0 +1,52 @@
+{
+    "id": 1571,
+    "index": 934,
+    "name": "Enrolment key based self-registration",
+    "frankenstyle": "auth_enrolkey",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_enrolkey",
+    "shortdescription": "This auth plugin combines the best of both email based signup and self enrolment keys into a streamlined process making it much faster for students to get into a course. For the student it saves around 9-10 clicks and avoids context switching between a browser and their email client where they can become easily become disengaged or run into issues if their email is unavailable.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 September 2022, 11:21 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-06T11:21:28+08:00"
+    },
+    "aggsites": "565",
+    "aggdownloads": "75",
+    "aggfavs": "68",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1571/key.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1571/key.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1571/new_plugin_image2.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 2054097,
+            "firstname": "Nicholas",
+            "lastname": "Hoobin",
+            "url": "https://moodle.org/user/profile.php?id=2054097"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        }
+    ],
+    "descriptors": []
+}

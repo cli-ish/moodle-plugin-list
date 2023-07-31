@@ -1,0 +1,68 @@
+{
+    "id": 806,
+    "index": 413,
+    "name": "Via - Virtual Classroom",
+    "frankenstyle": "mod_via",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_via",
+    "shortdescription": "The Via activity module provides integration between Moodle and Via, our virtual classroom tool. It is designed to simplify the use of synchronous events within Moodle. It provides a single sign on between the two systems with easy event creation and management.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 26 October 2022, 3:18 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-10-26T03:18:15+08:00"
+    },
+    "aggsites": "187",
+    "aggdownloads": "295",
+    "aggfavs": "18",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/806/Via%20-%20RGB%2072dpi.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/806/Via%20-%20RGB%2072dpi.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/806/NewVia.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/806/Via.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/806/ViaDetails.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1299369,
+            "firstname": "SVI",
+            "lastname": "eSolutions",
+            "url": "https://moodle.org/user/profile.php?id=1299369"
+        },
+        {
+            "id": 2205877,
+            "firstname": "Thomas",
+            "lastname": "Fauquignon",
+            "url": "https://moodle.org/user/profile.php?id=2205877"
+        },
+        {
+            "id": 4964719,
+            "firstname": "Michael",
+            "lastname": "Leblanc",
+            "url": "https://moodle.org/user/profile.php?id=4964719"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

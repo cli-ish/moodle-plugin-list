@@ -1,0 +1,47 @@
+{
+    "id": 1743,
+    "index": 1294,
+    "name": "Quick User Search",
+    "frankenstyle": "block_quick_user",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quick_user",
+    "shortdescription": "A simple block which lets you search for users in your Moodle system, with quick links to view their profile, login as them and send them a message.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 February 2020, 6:34 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-02-27T06:34:26+08:00"
+    },
+    "aggsites": "158",
+    "aggdownloads": "19",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1743/Duck-Fusion_Cropped.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1743/Duck-Fusion_Cropped.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1743/block-with-results-expanded.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1743/block-with-results.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1743/block.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1377971,
+            "firstname": "Conn",
+            "lastname": "Warwicker",
+            "url": "https://moodle.org/user/profile.php?id=1377971"
+        }
+    ],
+    "descriptors": []
+}

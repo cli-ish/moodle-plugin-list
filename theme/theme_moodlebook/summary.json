@@ -1,0 +1,45 @@
+{
+    "id": 439,
+    "index": 1770,
+    "name": "Moodlebook",
+    "frankenstyle": "theme_moodlebook",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_moodlebook",
+    "shortdescription": "Moodlebook is a three-column that emulates the look and feel of Facebook.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 15 January 2013, 9:32 AM",
+        "reldate": "11 years",
+        "iso8601date": "2013-01-15T09:32:45+08:00"
+    },
+    "aggsites": "36",
+    "aggdownloads": "5",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/439/moodlebook_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/439/moodlebook_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/439/moodlebook.jpeg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1588153,
+            "firstname": "Joseph",
+            "lastname": "Conradt",
+            "url": "https://moodle.org/user/profile.php?id=1588153"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

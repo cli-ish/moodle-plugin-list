@@ -1,0 +1,65 @@
+{
+    "id": 3070,
+    "index": 616,
+    "name": "Ace inline CodeRunner extension",
+    "frankenstyle": "filter_ace_inline",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_ace_inline",
+    "shortdescription": "A filter on HTML elements that can display syntax-highlighted code and execute and edit code on HTML elements using CodeRunner. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 February 2023, 5:19 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-02-16T05:19:50+08:00"
+    },
+    "aggsites": "69",
+    "aggdownloads": "187",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3070/demo0.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3070/demo1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3070/demo3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3070/demo4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3070/demo5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3070/demo6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3070/demo7.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5344869,
+            "firstname": "Michelle",
+            "lastname": "Hsieh",
+            "url": "https://moodle.org/user/profile.php?id=5344869"
+        },
+        {
+            "id": 402334,
+            "firstname": "Richard",
+            "lastname": "Lobb",
+            "url": "https://moodle.org/user/profile.php?id=402334"
+        }
+    ],
+    "descriptors": []
+}

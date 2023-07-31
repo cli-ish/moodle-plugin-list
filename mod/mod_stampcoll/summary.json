@@ -1,0 +1,64 @@
+{
+    "id": 5,
+    "index": 948,
+    "name": "Stamp collection",
+    "frankenstyle": "mod_stampcoll",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_stampcoll",
+    "shortdescription": "The Stamp collection module allows a teacher to give \"stamps\" (i.e. picture with a comment, similar concept to badges) to students so they collect these stamps. The activity can be used in many ways, such as motivative bonus marks, absence marks, certification records etc. ",
+    "timelastreleased": {
+        "absdate": "Saturday, 13 February 2021, 3:02 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-13T03:02:09+08:00"
+    },
+    "aggsites": "197",
+    "aggdownloads": "70",
+    "aggfavs": "38",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/5/stampcoll-icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/5/stampcoll-icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/5/02-compact-view.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/5/01-add-activity.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/5/01-add-stamp.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/5/02-full-view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/5/03-full-single.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/5/04-manage-stamps.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/5/05-logs.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1601,
+            "firstname": "David",
+            "lastname": "Mudr\u00e1k",
+            "url": "https://moodle.org/user/profile.php?id=1601"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

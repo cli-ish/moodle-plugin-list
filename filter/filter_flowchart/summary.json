@@ -1,0 +1,40 @@
+{
+    "id": 1395,
+    "index": 1982,
+    "name": "flowchart",
+    "frankenstyle": "filter_flowchart",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_flowchart",
+    "shortdescription": "Render svg flowcharts using flowcharts.js by Adriano Raiano (http://adrai.github.io/flowchart.js, MIT license), which use raphael.js (MIT licence either)",
+    "timelastreleased": {
+        "absdate": "Saturday, 9 May 2015, 11:55 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-05-09T23:55:30+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "2",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1395/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1395/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1395/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1943176,
+            "firstname": "\u0421\u0435\u0440\u0433\u0435\u0439",
+            "lastname": "\u0420\u043e\u0433\u0430\u043d\u043e\u0432",
+            "url": "https://moodle.org/user/profile.php?id=1943176"
+        }
+    ],
+    "descriptors": []
+}

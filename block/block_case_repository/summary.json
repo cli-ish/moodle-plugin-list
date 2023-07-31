@@ -1,0 +1,40 @@
+{
+    "id": 422,
+    "index": 1486,
+    "name": "Learner adaptation",
+    "frankenstyle": "block_case_repository",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_case_repository",
+    "shortdescription": "Brings adaptive navigation support to moodle (needs extensions \"Navigation Web\" and \"Learner Preferences\")",
+    "timelastreleased": {
+        "absdate": "Sunday, 19 May 2013, 2:07 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-05-19T14:07:02+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "12",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1128596,
+            "firstname": "Andre",
+            "lastname": "Scherl",
+            "url": "https://moodle.org/user/profile.php?id=1128596"
+        }
+    ],
+    "descriptors": []
+}

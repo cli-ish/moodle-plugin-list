@@ -1,0 +1,59 @@
+{
+    "id": 1227,
+    "index": 1041,
+    "name": "Media gallery",
+    "frankenstyle": "atto_mediagallery",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_mediagallery",
+    "shortdescription": "This plugin allows users to insert a pre-existing media collection gallery into any atto editor.",
+    "timelastreleased": {
+        "absdate": "Monday, 29 June 2020, 12:49 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-29T12:49:35+08:00"
+    },
+    "aggsites": "266",
+    "aggdownloads": "45",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1227/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1227/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1227/Screenshot%20from%202014-09-10%20095855.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1227/Screenshot%20from%202014-09-10%20095949.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1227/Screenshot%20from%202014-09-10%20095959.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1227/Screenshot%20from%202014-09-10%20100034.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1316828,
+            "firstname": "Adam",
+            "lastname": "Olley",
+            "url": "https://moodle.org/user/profile.php?id=1316828"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

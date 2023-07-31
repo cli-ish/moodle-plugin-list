@@ -1,0 +1,49 @@
+{
+    "id": 795,
+    "index": 1237,
+    "name": "Dynamic",
+    "frankenstyle": "theme_dynamic",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_dynamic",
+    "shortdescription": "A lively responsive theme with sections on the homepage, especially suitable for academic and personal use.",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 June 2017, 6:08 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-06-08T18:08:36+08:00"
+    },
+    "aggsites": "146",
+    "aggdownloads": "23",
+    "aggfavs": "27",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/795/screenshot.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/795/screenshot.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/795/FireShot%20Pro%20Screen%20Capture%20%23103%20-%20Learning%20plan%20-%20www_enperio_com_enperiodemo_blocks_learning_plan_view_php_viewpage%3D6.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/795/screenshot.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1624279,
+            "firstname": "3i Logic",
+            "lastname": "LMS",
+            "url": "https://moodle.org/user/profile.php?id=1624279"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

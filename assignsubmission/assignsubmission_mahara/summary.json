@@ -1,0 +1,83 @@
+{
+    "id": 791,
+    "index": 434,
+    "name": "Mahara Assignment Submission",
+    "frankenstyle": "assignsubmission_mahara",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_mahara",
+    "shortdescription": "Allows grading of Mahara portfolio pages & collections in Moodle.",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 January 2019, 6:57 AM",
+        "reldate": "5 years",
+        "iso8601date": "2019-01-17T06:57:30+08:00"
+    },
+    "aggsites": "530",
+    "aggdownloads": "277",
+    "aggfavs": "30",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/791/mahara_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/791/mahara_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/791/maharaas2.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/791/maharaas3.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/791/maharaas4.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/791/maharaas5.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/791/maharaas6.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/791/maharafbas2.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1070092,
+            "firstname": "Aaron",
+            "lastname": "Wells",
+            "url": "https://moodle.org/user/profile.php?id=1070092"
+        },
+        {
+            "id": 1277024,
+            "firstname": "Tony",
+            "lastname": "Box",
+            "url": "https://moodle.org/user/profile.php?id=1277024"
+        },
+        {
+            "id": 23389,
+            "firstname": "Ruslan",
+            "lastname": "Kabalin",
+            "url": "https://moodle.org/user/profile.php?id=23389"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

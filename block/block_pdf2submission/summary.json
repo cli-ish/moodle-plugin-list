@@ -1,0 +1,49 @@
+{
+    "id": 441,
+    "index": 1854,
+    "name": "pdf2submission",
+    "frankenstyle": "block_pdf2submission",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_pdf2submission",
+    "shortdescription": "pdf2submission is a plugin to automatically accept hand-written or hand-drawn documents (scanned image PDF) as Moodle assignment submissions (There is no need for each learner to upload the file to Moodle).",
+    "timelastreleased": {
+        "absdate": "Saturday, 15 September 2012, 3:34 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-09-15T03:34:30+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "4",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/441/pdf2submission1s.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/441/pdf2submission2s.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 13679,
+            "firstname": "Toshihiro",
+            "lastname": "KITA",
+            "url": "https://moodle.org/user/profile.php?id=13679"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

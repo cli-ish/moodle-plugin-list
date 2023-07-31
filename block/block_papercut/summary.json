@@ -1,0 +1,53 @@
+{
+    "id": 189,
+    "index": 1942,
+    "name": "PaperCut Print Quotas",
+    "frankenstyle": "block_papercut",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_papercut",
+    "shortdescription": "Displays the Papercut Web Widgets in a Moodle block, allowing the user to see their current balance\r\nand environmental impact.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 4 January 2012, 4:46 PM",
+        "reldate": "12 years",
+        "iso8601date": "2012-01-04T16:46:27+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "3",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/189/papercut1.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/189/papercut1.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/189/papercut1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/189/papercut2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 858318,
+            "firstname": "Mark",
+            "lastname": "Johnson",
+            "url": "https://moodle.org/user/profile.php?id=858318"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Free integration"
+        }
+    ]
+}

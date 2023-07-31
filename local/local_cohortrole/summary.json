@@ -1,0 +1,53 @@
+{
+    "id": 966,
+    "index": 234,
+    "name": "Cohort role synchronization",
+    "frankenstyle": "local_cohortrole",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_cohortrole",
+    "shortdescription": "Automatically synchronize cohort members into system roles.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 April 2023, 9:13 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-24T21:13:08+08:00"
+    },
+    "aggsites": "862",
+    "aggdownloads": "534",
+    "aggfavs": "45",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/966/cohort-role-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/966/cohort-role-2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 219220,
+            "firstname": "Paul",
+            "lastname": "Holden",
+            "url": "https://moodle.org/user/profile.php?id=219220"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

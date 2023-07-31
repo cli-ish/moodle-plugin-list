@@ -1,0 +1,40 @@
+{
+    "id": 1943,
+    "index": 856,
+    "name": "Twitter card",
+    "frankenstyle": "local_twittercard",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_twittercard",
+    "shortdescription": "This Moodle local plugin emits a Twitter summary card for courses.",
+    "timelastreleased": {
+        "absdate": "Saturday, 31 December 2022, 6:59 PM",
+        "reldate": "7 months",
+        "iso8601date": "2022-12-31T18:59:42+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "112",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1943/moodle-local_twittercard-1.0.0.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1075386,
+            "firstname": "Matteo",
+            "lastname": "Scaramuccia",
+            "url": "https://moodle.org/user/profile.php?id=1075386"
+        }
+    ],
+    "descriptors": []
+}

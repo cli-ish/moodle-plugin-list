@@ -1,0 +1,22 @@
+[
+    {
+        "id": "28649",
+        "name": "v4.1-r1",
+        "url": "https://moodle.org/plugins/download.php/28649/mod_verbalfeedback_moodle38_2018060409.zip"
+    },
+    {
+        "id": "27546",
+        "name": "v4.0-r2",
+        "url": "https://moodle.org/plugins/download.php/27546/mod_verbalfeedback_moodle26_2011100105.zip"
+    },
+    {
+        "id": "26996",
+        "name": "v1.0.1",
+        "url": "https://moodle.org/plugins/download.php/26996/mod_verbalfeedback_moodle34_2022070702.zip"
+    },
+    {
+        "id": "26111",
+        "name": "1.0.0",
+        "url": "https://moodle.org/plugins/download.php/26111/mod_verbalfeedback_moodle28_2010040409.zip"
+    }
+]

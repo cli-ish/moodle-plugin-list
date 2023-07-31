@@ -1,0 +1,44 @@
+{
+    "id": 2951,
+    "index": 792,
+    "name": "Focus Glossary",
+    "frankenstyle": "mod_glossaryfocus",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_glossaryfocus",
+    "shortdescription": "Page that allows to display the words we want from any glossary of the plateform sorted alphabetically.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 2 August 2022, 5:11 PM",
+        "reldate": "12 months",
+        "iso8601date": "2022-08-02T17:11:10+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "125",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2951/icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2951/icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2951/Edition.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2951/View.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4954986,
+            "firstname": "Team",
+            "lastname": "Eticeo",
+            "url": "https://moodle.org/user/profile.php?id=4954986"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,52 @@
+{
+    "id": 583,
+    "index": 925,
+    "name": "Exabis Student Review",
+    "frankenstyle": "block_exastud",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_exastud",
+    "shortdescription": "With this block, teachers can create detailed periodical reviews of their students. The module lets teachers/trainers team-assess students. The assessment can be done on different scales that can be defined.\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 July 2023, 2:39 PM",
+        "reldate": "4 days",
+        "iso8601date": "2023-07-27T14:39:05+08:00"
+    },
+    "aggsites": "218",
+    "aggdownloads": "81",
+    "aggfavs": "22",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/583/exastud.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/583/exastud.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/583/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/583/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/583/3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 27621,
+            "firstname": "andreas",
+            "lastname": "riepl",
+            "url": "https://moodle.org/user/profile.php?id=27621"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

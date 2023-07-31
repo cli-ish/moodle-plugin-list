@@ -1,0 +1,56 @@
+{
+    "id": 2328,
+    "index": 485,
+    "name": "ProFormA Programming Question Type",
+    "frankenstyle": "qtype_proforma",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_proforma",
+    "shortdescription": "Quiz question type for automatically graded programming questions. Questions can be created in Moodle or imported as ProFormA tasks (https://github.com/ProFormA/proformaxml). \r\nPlugin requires the qbehaviour_adaptiveexternalgrading plugin and ProFormA Praktomat (https://github.com/elearning-ostfalia/Proforma-Praktomat).\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 July 2023, 4:46 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-13T16:46:01+08:00"
+    },
+    "aggsites": "76",
+    "aggdownloads": "243",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2328/checkstyle_2.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2328/cunit.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2328/student_editor.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2328/student_explorer.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2328/student_feedback_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2328/student_filepicker.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2359268,
+            "firstname": "Karin",
+            "lastname": "Borm",
+            "url": "https://moodle.org/user/profile.php?id=2359268"
+        }
+    ],
+    "descriptors": []
+}

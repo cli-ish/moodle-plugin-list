@@ -1,0 +1,51 @@
+{
+    "id": 191,
+    "index": 932,
+    "name": "Statistics (Graph Stats)",
+    "frankenstyle": "block_graph_stats",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_graph_stats",
+    "shortdescription": "Little graph with visitors statistics",
+    "timelastreleased": {
+        "absdate": "Monday, 9 November 2015, 2:03 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-11-09T02:03:22+08:00"
+    },
+    "aggsites": "731",
+    "aggdownloads": "76",
+    "aggfavs": "32",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/191/graph_stats.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/191/graph_stats.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/191/graph_stats.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 33074,
+            "firstname": "\u00c9ric",
+            "lastname": "Bugnet",
+            "url": "https://moodle.org/user/profile.php?id=33074"
+        },
+        {
+            "id": 585006,
+            "firstname": "Vadim",
+            "lastname": "Dvorovenko",
+            "url": "https://moodle.org/user/profile.php?id=585006"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

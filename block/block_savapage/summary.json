@@ -1,0 +1,49 @@
+{
+    "id": 1691,
+    "index": 2013,
+    "name": "SavaPage",
+    "frankenstyle": "block_savapage",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_savapage",
+    "shortdescription": "This block shows a button on the dashboard to open the SavaPage Open Print Portal Web App, so printed documents can be previewed and forwarded. The credentials of the authenticated Moodle user are trusted so no extra login is needed (single sign-on).",
+    "timelastreleased": {
+        "absdate": "Friday, 17 February 2017, 7:28 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-02-17T19:28:54+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "2",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1691/savapage-90x90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1691/savapage-90x90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1691/moodle-block_savapage-admin.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1691/moodle-block_savapage-dashboard.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2035699,
+            "firstname": "Rijk",
+            "lastname": "Ravestein",
+            "url": "https://moodle.org/user/profile.php?id=2035699"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

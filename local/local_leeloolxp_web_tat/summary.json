@@ -1,0 +1,40 @@
+{
+    "id": 2648,
+    "index": 1869,
+    "name": "Leeloo LXP Activities and Resources Tracking",
+    "frankenstyle": "local_leeloolxp_web_tat",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_leeloolxp_web_tat",
+    "shortdescription": "Learning Activities and Resources | Real-Time Tracking",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 June 2021, 9:03 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-17T21:03:38+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "4",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2648/Plugin-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2648/Plugin-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2648/web_tat_settings.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 3565767,
+            "firstname": "Ludovic",
+            "lastname": "LEBLEU",
+            "url": "https://moodle.org/user/profile.php?id=3565767"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,71 @@
+{
+    "id": 1341,
+    "index": 962,
+    "name": "Socialwall Format",
+    "frankenstyle": "format_socialwall",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_socialwall",
+    "shortdescription": "The Moodle Socialwall will transform your Moodle course into a social learning platform.  This includes a familiar post interface, timeline of posts, filtering of the timeline, and integration with Moodle's activities and resources.  A social learning format allows teachers to pick up the tool and begin using it right away.",
+    "timelastreleased": {
+        "absdate": "Friday, 23 March 2018, 8:09 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-03-23T20:09:14+08:00"
+    },
+    "aggsites": "353",
+    "aggdownloads": "65",
+    "aggfavs": "81",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1341/socialwall_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1341/socialwall_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1341/post%20interface.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1341/Course%20%20Social%20Learning%20Platform.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1341/Drag%20and%20drop%20into%20post.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1341/filter%20timeline.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1341/post%20just%20to%20group.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1341/posting%20interface.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1341/special%20postings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 26675,
+            "firstname": "Chris",
+            "lastname": "Kenniburg",
+            "url": "https://moodle.org/user/profile.php?id=26675"
+        },
+        {
+            "id": 1224738,
+            "firstname": "Bryan",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=1224738"
+        },
+        {
+            "id": 1609930,
+            "firstname": "Andreas",
+            "lastname": "Wagner",
+            "url": "https://moodle.org/user/profile.php?id=1609930"
+        }
+    ],
+    "descriptors": []
+}

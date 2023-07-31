@@ -1,0 +1,53 @@
+{
+    "id": 2706,
+    "index": 1078,
+    "name": "TinyMCE Html Components Plugin",
+    "frankenstyle": "tinymce_html_components",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_html_components",
+    "shortdescription": "Moodle plugin which allows you to insert in the TinyMCE editor some html components.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 15 September 2021, 7:39 PM",
+        "reldate": "23 months",
+        "iso8601date": "2021-09-15T19:39:15+08:00"
+    },
+    "aggsites": "135",
+    "aggdownloads": "40",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2706/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2706/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2706/accordion.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2706/alertes.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2706/all.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2706/cards.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2706/tabs.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1850725,
+            "firstname": "Anthony",
+            "lastname": "Durif",
+            "url": "https://moodle.org/user/profile.php?id=1850725"
+        }
+    ],
+    "descriptors": []
+}

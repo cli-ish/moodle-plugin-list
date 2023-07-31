@@ -1,0 +1,45 @@
+{
+    "id": 72,
+    "index": 1683,
+    "name": "Mandarin",
+    "frankenstyle": "theme_mandarin",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_mandarin",
+    "shortdescription": "It\u2019s designed for Moodle 2.1.1, and it\u2019s compatible with all modern browsers.",
+    "timelastreleased": {
+        "absdate": "Friday, 23 September 2011, 11:19 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-09-23T23:19:41+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "7",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/72/Mandarin.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1373811,
+            "firstname": "Xiaoying",
+            "lastname": "Riley",
+            "url": "https://moodle.org/user/profile.php?id=1373811"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

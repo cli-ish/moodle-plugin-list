@@ -1,0 +1,53 @@
+{
+    "id": 2931,
+    "index": 788,
+    "name": "Smartest",
+    "frankenstyle": "block_smartest",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_smartest",
+    "shortdescription": "We make personalized learning easy",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 September 2022, 8:33 PM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-14T20:33:33+08:00"
+    },
+    "aggsites": "13",
+    "aggdownloads": "126",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2931/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2931/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2931/Capture%201.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2931/Capture%202.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2931/Capture%204.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2931/Capture6.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2931/Capture7.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 5038732,
+            "firstname": "Steve",
+            "lastname": "Hinske",
+            "url": "https://moodle.org/user/profile.php?id=5038732"
+        }
+    ],
+    "descriptors": []
+}

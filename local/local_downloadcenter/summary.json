@@ -1,0 +1,47 @@
+{
+    "id": 1821,
+    "index": 117,
+    "name": "Download Center",
+    "frankenstyle": "local_downloadcenter",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_downloadcenter",
+    "shortdescription": "The Download Center plugin (local/downloadcenter) enables all users to download all files, folders as well as all documents of student folders of an entire course as a ZIP archive with a clear folder structure.",
+    "timelastreleased": {
+        "absdate": "Sunday, 2 July 2023, 7:11 PM",
+        "reldate": "4 weeks",
+        "iso8601date": "2023-07-02T19:11:28+08:00"
+    },
+    "aggsites": "850",
+    "aggdownloads": "1k",
+    "aggfavs": "54",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1821/9_DownloadCenter_grau.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1821/9_DownloadCenter_grau.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1821/Download%20Center.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1821/9_downloadcenter_en_2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1821/9_downloadcenter_en_3.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1765078,
+            "firstname": "AMC",
+            "lastname": "Academic Moodle Cooperation",
+            "url": "https://moodle.org/user/profile.php?id=1765078"
+        }
+    ],
+    "descriptors": []
+}

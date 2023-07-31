@@ -1,0 +1,45 @@
+{
+    "id": 523,
+    "index": 1968,
+    "name": "my mentors",
+    "frankenstyle": "block_mymentors",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_mymentors",
+    "shortdescription": "Shows a students mentors/parents with profile picture, messaging link, and online status.",
+    "timelastreleased": {
+        "absdate": "Monday, 26 November 2012, 6:47 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-26T06:47:00+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "2",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/523/mymentors.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/523/mymentors.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/523/mymentors.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 860723,
+            "firstname": "Nathan",
+            "lastname": "Robbins",
+            "url": "https://moodle.org/user/profile.php?id=860723"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Mentor"
+        }
+    ]
+}

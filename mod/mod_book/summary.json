@@ -1,0 +1,45 @@
+{
+    "id": 38,
+    "index": 1027,
+    "name": "Book",
+    "frankenstyle": "mod_book",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_book",
+    "shortdescription": "Simple multipage resource module",
+    "timelastreleased": {
+        "absdate": "Saturday, 5 November 2011, 8:01 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-11-05T20:01:11+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "51",
+    "aggfavs": "10",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/38/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/38/icon.gif?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 12863,
+            "firstname": "Petr",
+            "lastname": "Skoda",
+            "url": "https://moodle.org/user/profile.php?id=12863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

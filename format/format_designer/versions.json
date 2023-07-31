@@ -1,0 +1,37 @@
+[
+    {
+        "id": "29179",
+        "name": "version-1.4-moodle-4.x",
+        "url": "https://moodle.org/plugins/download.php/29179/format_designer_moodle25_2012030607.zip"
+    },
+    {
+        "id": "29178",
+        "name": "version-1.4-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/29178/format_designer_moodle30_2017010703.zip"
+    },
+    {
+        "id": "27600",
+        "name": "version-1.3",
+        "url": "https://moodle.org/plugins/download.php/27600/format_designer_moodle27_2013110308.zip"
+    },
+    {
+        "id": "27249",
+        "name": "version-1.3-moodle-4.x-release-candidate",
+        "url": "https://moodle.org/plugins/download.php/27249/format_designer_moodle33_2021070517.zip"
+    },
+    {
+        "id": "27248",
+        "name": "version-1.3-moodle-3.x-release-candidate",
+        "url": "https://moodle.org/plugins/download.php/27248/format_designer_moodle38_2020031211.zip"
+    },
+    {
+        "id": "25893",
+        "name": "version-1.1",
+        "url": "https://moodle.org/plugins/download.php/25893/format_designer_moodle27_2021081018.zip"
+    },
+    {
+        "id": "25755",
+        "name": "version-1.0",
+        "url": "https://moodle.org/plugins/download.php/25755/format_designer_moodle40_2011020210.zip"
+    }
+]

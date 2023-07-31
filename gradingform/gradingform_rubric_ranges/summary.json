@@ -1,0 +1,40 @@
+{
+    "id": 3173,
+    "index": 1336,
+    "name": "Ranged rubric",
+    "frankenstyle": "gradingform_rubric_ranges",
+    "plugintype": {
+        "type": "gradingform",
+        "name": "Advanced grading method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradingform_rubric_ranges",
+    "shortdescription": "The ranged rubrics advanced grading method is based on the Moodle core Rubrics grading method but adding support for ranged values.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 2:04 PM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T14:04:51+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "18",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3173/ranged-rubric-example.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

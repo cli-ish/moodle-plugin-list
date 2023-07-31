@@ -1,0 +1,47 @@
+[
+    {
+        "id": "20067",
+        "name": "3.7.0.0",
+        "url": "https://moodle.org/plugins/download.php/20067/block_skypeweb_moodle38_2020070318.zip"
+    },
+    {
+        "id": "19422",
+        "name": "3.6.0.0",
+        "url": "https://moodle.org/plugins/download.php/19422/block_skypeweb_moodle35_2021080808.zip"
+    },
+    {
+        "id": "17221",
+        "name": "3.5.0.0",
+        "url": "https://moodle.org/plugins/download.php/17221/block_skypeweb_moodle39_2019110613.zip"
+    },
+    {
+        "id": "16127",
+        "name": "3.4.0.1",
+        "url": "https://moodle.org/plugins/download.php/16127/block_skypeweb_moodle36_2014030105.zip"
+    },
+    {
+        "id": "15204",
+        "name": "3.3.0.0",
+        "url": "https://moodle.org/plugins/download.php/15204/block_skypeweb_moodle27_2016050513.zip"
+    },
+    {
+        "id": "16114",
+        "name": "3.2.0.1",
+        "url": "https://moodle.org/plugins/download.php/16114/block_skypeweb_moodle25_2011121003.zip"
+    },
+    {
+        "id": "16111",
+        "name": "3.1.0.1",
+        "url": "https://moodle.org/plugins/download.php/16111/block_skypeweb_moodle28_2021050707.zip"
+    },
+    {
+        "id": "15917",
+        "name": "3.4.0.0",
+        "url": "https://moodle.org/plugins/download.php/15917/block_skypeweb_moodle36_2021080703.zip"
+    },
+    {
+        "id": "14081",
+        "name": "3.1.0.0",
+        "url": "https://moodle.org/plugins/download.php/14081/block_skypeweb_moodle28_2010100820.zip"
+    }
+]

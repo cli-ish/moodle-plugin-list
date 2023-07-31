@@ -1,0 +1,45 @@
+{
+    "id": 907,
+    "index": 640,
+    "name": "Suspend User",
+    "frankenstyle": "block_eledia_suspenduser",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_eledia_suspenduser",
+    "shortdescription": "This plugin suspends user accounts based on a csv file with email addresses. Access is controlled by a capability.",
+    "timelastreleased": {
+        "absdate": "Friday, 25 September 2020, 12:13 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-09-25T00:13:22+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "170",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/907/eledia-logo-mu_ohne_raender.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/907/eledia-logo-mu_ohne_raender.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/907/config_suspend.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1075745,
+            "firstname": "Benjamin",
+            "lastname": "Wolf",
+            "url": "https://moodle.org/user/profile.php?id=1075745"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

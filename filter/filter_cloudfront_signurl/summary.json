@@ -1,0 +1,40 @@
+{
+    "id": 1460,
+    "index": 1712,
+    "name": "Cloudfront URL Signer",
+    "frankenstyle": "filter_cloudfront_signurl",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_cloudfront_signurl",
+    "shortdescription": "This Moodle filter recognises cloudfront URLs from the URLs defined in the filter settings and replaces them with signed URLs.",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 July 2015, 5:42 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-07-16T17:42:17+08:00"
+    },
+    "aggsites": "41",
+    "aggdownloads": "6",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1460/OCDev27%20%20Administration%20%20Plugins%20%20Filters%20%20Cloudfront%20URL%20Signer.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 897648,
+            "firstname": "Owen",
+            "lastname": "Barritt",
+            "url": "https://moodle.org/user/profile.php?id=897648"
+        }
+    ],
+    "descriptors": []
+}

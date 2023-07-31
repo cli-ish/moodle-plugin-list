@@ -1,0 +1,49 @@
+{
+    "id": 1484,
+    "index": 1694,
+    "name": "MediaDrop chooser",
+    "frankenstyle": "atto_mediadrop",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_mediadrop",
+    "shortdescription": "Allows users to insert media from a MediaDrop platform (formerly known as \"MediaCore Community Edition\") into the Atto text editor.",
+    "timelastreleased": {
+        "absdate": "Sunday, 16 August 2015, 4:13 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-08-16T04:13:27+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "7",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1484/687474703a2f2f696d672e6374726c762e696e2f696d672f31352f30382f31332f353563643164333165356165312e706e67.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1484431,
+            "firstname": "Anthony",
+            "lastname": "Kuske",
+            "url": "https://moodle.org/user/profile.php?id=1484431"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

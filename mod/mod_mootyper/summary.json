@@ -1,0 +1,73 @@
+{
+    "id": 376,
+    "index": 209,
+    "name": "MooTyper",
+    "frankenstyle": "mod_mootyper",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_mootyper",
+    "shortdescription": "MooTyper implements a typing practice/instruction functionality into Moodle.",
+    "timelastreleased": {
+        "absdate": "Saturday, 29 April 2023, 11:01 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-29T23:01:58+08:00"
+    },
+    "aggsites": "1033",
+    "aggdownloads": "600",
+    "aggfavs": "50",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/376/Logo.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/376/Logo.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/376/1HebrewLesson01Moodle27WithMooTyper352UsingFormalWhiteTheme.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/376/2Moodle35BoostPHP722MT352TypingView.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/376/3Moodle35BoostPHP722MT352SettingsView.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/376/4MooTyper352PracticeModeStudentOwnGradeView.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/376/EnglishWKeypad%28USV6%29.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/376/example5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/376/example7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/376/LessonCompleteAllowsScrollBackToViewMistakes.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/376/MT382OnMoodle32.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/376/numberKeypadOnly.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 94615,
+            "firstname": "AL",
+            "lastname": "Rachels",
+            "url": "https://moodle.org/user/profile.php?id=94615"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

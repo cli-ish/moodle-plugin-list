@@ -1,0 +1,65 @@
+{
+    "id": 1737,
+    "index": 2110,
+    "name": "DEPRECATED: StudentQuiz behaviour",
+    "frankenstyle": "qbehaviour_studentquiz",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_studentquiz",
+    "shortdescription": "This WAS the accompanying question behaviour plugin for the Moodle Plugin StudentQuiz --> https://moodle.org/plugins/mod_studentquiz.\r\nFrom StudentQuiz Version >= 3.0.0 this Question is deprecated and no longer required to use StudentQuiz.\r\n",
+    "timelastreleased": {
+        "absdate": "Thursday, 10 November 2016, 4:59 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-11-10T04:59:53+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": null,
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1737/StudentQuizLogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1737/StudentQuizLogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1737/StudentQuiz%20Main%20Screen.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1737/StudentQuiz%20Ranking.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1737/StudentQuiz%20Rating%20and%20Commenting.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 16927,
+            "firstname": "Frank",
+            "lastname": "Koch",
+            "url": "https://moodle.org/user/profile.php?id=16927"
+        },
+        {
+            "id": 2155873,
+            "firstname": "Lukas",
+            "lastname": "D\u00fcrrenberger",
+            "url": "https://moodle.org/user/profile.php?id=2155873"
+        },
+        {
+            "id": 2255519,
+            "firstname": "Simon",
+            "lastname": "Schaefer",
+            "url": "https://moodle.org/user/profile.php?id=2255519"
+        },
+        {
+            "id": 2297792,
+            "firstname": "Dragon",
+            "lastname": "Dionysius",
+            "url": "https://moodle.org/user/profile.php?id=2297792"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,44 @@
+{
+    "id": 1983,
+    "index": 1837,
+    "name": "Guest Cohort",
+    "frankenstyle": "enrol_guestcohort",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_guestcohort",
+    "shortdescription": "Guest Cohort is an enrolment plugin that mixes the features from guest enrolment with those of cohort sync. More exactly, it allows you to provide quest access to users that belong to a particular cohort.",
+    "timelastreleased": {
+        "absdate": "Sunday, 15 August 2021, 9:21 PM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-15T21:21:42+08:00"
+    },
+    "aggsites": "38",
+    "aggdownloads": "4",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1983/Screenshot%20from%202017-11-28%2006-44-27.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1983/Screenshot%20from%202017-11-28%2006-44-59.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 273885,
+            "firstname": "Andrei",
+            "lastname": "B\u0103utu",
+            "url": "https://moodle.org/user/profile.php?id=273885"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,59 @@
+{
+    "id": 1770,
+    "index": 1141,
+    "name": "Course Category Finder",
+    "frankenstyle": "block_search_course_category",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_search_course_category",
+    "shortdescription": "Course Category Finder is an extended version of the Course Finder Block. An Option is added to \r\nenable the user to search for categories as well as the courses. Aditional search filter and sort filter is added to search courses by start date, end date, course format and completion criteria.\r\n",
+    "timelastreleased": {
+        "absdate": "Wednesday, 23 June 2021, 10:31 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-23T22:31:03+08:00"
+    },
+    "aggsites": "110",
+    "aggdownloads": "32",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1770/Course_Category_Finder_Image_de.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1770/Course_Category_Finder_Image_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1770/Course_Category_Finder_Image_result_en.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1770/Course_Category_Finder_new_dev_070717_Beschreibungssuche_Ausgabe.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1770/Course_Category_Finder_new_dev_070717_Beschreibungssuche.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1770/Course_Category_Finder_new_dev_070717_Kategoriesuche_Ausgabe_en.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1770/Course_Category_Finder_new_dev_070717_Suchfilter_Sortierung.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2016897,
+            "firstname": "Tobias",
+            "lastname": "Kutzner",
+            "url": "https://moodle.org/user/profile.php?id=2016897"
+        }
+    ],
+    "descriptors": []
+}

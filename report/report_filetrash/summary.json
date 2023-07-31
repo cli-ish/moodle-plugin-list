@@ -1,0 +1,45 @@
+{
+    "id": 824,
+    "index": 954,
+    "name": "File trash (Orphaned file locator)",
+    "frankenstyle": "report_filetrash",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_filetrash",
+    "shortdescription": "Utility for listing, downloading and deleting orphaned files (file no longer referenced in the files db table but still present in the Moodle data and/or backup directory",
+    "timelastreleased": {
+        "absdate": "Friday, 29 January 2016, 5:39 AM",
+        "reldate": "8 years",
+        "iso8601date": "2016-01-29T05:39:41+08:00"
+    },
+    "aggsites": "713",
+    "aggdownloads": "68",
+    "aggfavs": "40",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/824/filetrash.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 520295,
+            "firstname": "Barry",
+            "lastname": "Oosthuizen",
+            "url": "https://moodle.org/user/profile.php?id=520295"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

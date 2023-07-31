@@ -1,0 +1,45 @@
+{
+    "id": 403,
+    "index": 1771,
+    "name": "Birthday",
+    "frankenstyle": "block_birthday",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_birthday",
+    "shortdescription": "Shows birthdays",
+    "timelastreleased": {
+        "absdate": "Thursday, 2 August 2012, 7:06 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-08-02T07:06:35+08:00"
+    },
+    "aggsites": "35",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 51473,
+            "firstname": "Anthony",
+            "lastname": "Borrow",
+            "url": "https://moodle.org/user/profile.php?id=51473"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

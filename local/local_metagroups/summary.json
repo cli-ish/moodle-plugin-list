@@ -1,0 +1,40 @@
+{
+    "id": 1005,
+    "index": 521,
+    "name": "Meta-course group synchronization",
+    "frankenstyle": "local_metagroups",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_metagroups",
+    "shortdescription": "Automatically synchronize groups from child courses into meta-courses.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 April 2023, 9:13 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-24T21:13:58+08:00"
+    },
+    "aggsites": "335",
+    "aggdownloads": "226",
+    "aggfavs": "38",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1005/Meta%20groups.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 219220,
+            "firstname": "Paul",
+            "lastname": "Holden",
+            "url": "https://moodle.org/user/profile.php?id=219220"
+        }
+    ],
+    "descriptors": []
+}

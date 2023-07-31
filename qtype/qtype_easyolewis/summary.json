@@ -1,0 +1,53 @@
+{
+    "id": 1058,
+    "index": 2051,
+    "name": "Lewis Structures",
+    "frankenstyle": "qtype_easyolewis",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_easyolewis",
+    "shortdescription": "The Lewis structure question type allows teachers to design problems in which students must assign formal charges or add lone pair electrons/radicals to atoms in molecules.  This question type requires Marvin Applets by Chemaxon.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 9 April 2014, 10:00 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-09T10:00:59+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "1",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1058/lewis_create.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1058/lewis_preview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1491885,
+            "firstname": "Carl",
+            "lastname": "LeBlond",
+            "url": "https://moodle.org/user/profile.php?id=1491885"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Chemistry"
+        }
+    ]
+}

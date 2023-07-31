@@ -1,0 +1,45 @@
+{
+    "id": 676,
+    "index": 1243,
+    "name": "Earth",
+    "frankenstyle": "theme_earth",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_earth",
+    "shortdescription": "Earth is a fluid-width 2 column theme based on Binarius, for Moodle 2.x. It is part of a series of ten 'Planet' themes intended to provide a choice of visually accessible and/or fun colour schemes.\r\n\r\nEarth is designed to provide a lower contrast interface for reading while maintaining clear visibility. It also includes a version of the MoodleBar developed by Lewis Carr, and uses the autohide functionality for course editing buttons outlined by Frankie Kam. The auto-hide means that editing buttons are only visible when you rollover them with editing on, reducing screen clutter.",
+    "timelastreleased": {
+        "absdate": "Friday, 6 June 2014, 8:36 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-06T20:36:47+08:00"
+    },
+    "aggsites": "44",
+    "aggdownloads": "23",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/676/earth.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/676/earth.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/676/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1039666,
+            "firstname": "Gordon",
+            "lastname": "McLeod",
+            "url": "https://moodle.org/user/profile.php?id=1039666"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

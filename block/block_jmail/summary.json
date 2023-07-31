@@ -1,0 +1,45 @@
+{
+    "id": 401,
+    "index": 1129,
+    "name": "jmail",
+    "frankenstyle": "block_jmail",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_jmail",
+    "shortdescription": "jmail is an internal mailing (aka internal email) tool for Moodle 2",
+    "timelastreleased": {
+        "absdate": "Thursday, 1 December 2016, 5:06 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-12-01T05:06:09+08:00"
+    },
+    "aggsites": "296",
+    "aggdownloads": "34",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/401/jmail.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

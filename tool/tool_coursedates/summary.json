@@ -1,0 +1,46 @@
+{
+    "id": 1895,
+    "index": 635,
+    "name": "Set course dates",
+    "frankenstyle": "tool_coursedates",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_coursedates",
+    "shortdescription": "This admin tool allows managers to set the start and end dates for all courses in a category, including subcategories.",
+    "timelastreleased": {
+        "absdate": "Saturday, 15 August 2020, 3:07 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-15T03:07:22+08:00"
+    },
+    "aggsites": "421",
+    "aggdownloads": "172",
+    "aggfavs": "33",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1895/course-dates.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": []
+}

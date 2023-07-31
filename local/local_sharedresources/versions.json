@@ -1,0 +1,32 @@
+[
+    {
+        "id": "27975",
+        "name": "3.9.0-build-2021102100",
+        "url": "https://moodle.org/plugins/download.php/27975/local_sharedresources_moodle38_2022121216.zip"
+    },
+    {
+        "id": "11069",
+        "name": "3.0.0-build-2014032700",
+        "url": "https://moodle.org/plugins/download.php/11069/local_sharedresources_moodle30_2013060601.zip"
+    },
+    {
+        "id": "11068",
+        "name": "2.9.0-build-2014032700",
+        "url": "https://moodle.org/plugins/download.php/11068/local_sharedresources_moodle37_2023050312.zip"
+    },
+    {
+        "id": "11067",
+        "name": "2.8.0-build-2014032700",
+        "url": "https://moodle.org/plugins/download.php/11067/local_sharedresources_moodle25_2017050204.zip"
+    },
+    {
+        "id": "11066",
+        "name": "2.7.0-build-2014032700",
+        "url": "https://moodle.org/plugins/download.php/11066/local_sharedresources_moodle25_2011060112.zip"
+    },
+    {
+        "id": "3143",
+        "name": "2.4.0-build-2012060100",
+        "url": "https://moodle.org/plugins/download.php/3143/local_sharedresources_moodle34_2013090418.zip"
+    }
+]

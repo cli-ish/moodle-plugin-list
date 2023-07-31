@@ -1,0 +1,55 @@
+{
+    "id": 728,
+    "index": 591,
+    "name": "Application Form",
+    "frankenstyle": "mod_apply",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_apply",
+    "shortdescription": "This module is for submission of the application form.",
+    "timelastreleased": {
+        "absdate": "Saturday, 18 June 2022, 4:14 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-18T16:14:53+08:00"
+    },
+    "aggsites": "308",
+    "aggdownloads": "198",
+    "aggfavs": "33",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/728/apply.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/728/setting.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/728/submit.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/728/view.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 191084,
+            "firstname": "Fumikazu",
+            "lastname": "Iseki",
+            "url": "https://moodle.org/user/profile.php?id=191084"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

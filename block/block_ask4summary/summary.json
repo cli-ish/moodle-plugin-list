@@ -1,0 +1,71 @@
+{
+    "id": 2921,
+    "index": 739,
+    "name": "Ask4Summary",
+    "frankenstyle": "block_ask4summary",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_ask4summary",
+    "shortdescription": "Ask4Summary is question and answer service for Moodle plugins. It will attempt to scan course activities for their sentence content, and compare them to user questions to produce a response.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 14 June 2022, 4:59 AM",
+        "reldate": "14 months",
+        "iso8601date": "2022-06-14T04:59:45+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "138",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2921/block.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2921/documentation%202.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2921/documentation%20videos.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2921/forum%20posts.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2921/logistics%20table.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2921/logistics.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2921/question%20and%20answer.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2921/tile%20card%20format.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2921/unable.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4707920,
+            "firstname": "Mohammed",
+            "lastname": "Saleh",
+            "url": "https://moodle.org/user/profile.php?id=4707920"
+        },
+        {
+            "id": 4353258,
+            "firstname": "Maiga",
+            "lastname": "Chang",
+            "url": "https://moodle.org/user/profile.php?id=4353258"
+        }
+    ],
+    "descriptors": []
+}

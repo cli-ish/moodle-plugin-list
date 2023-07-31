@@ -1,0 +1,45 @@
+{
+    "id": 1587,
+    "index": 1444,
+    "name": "Amazon S3 links",
+    "frankenstyle": "repository_s3links",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_s3links",
+    "shortdescription": "Repository plugin allows to link files in Amazon S3, instead of copying them to Moodle",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 November 2017, 10:05 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-11-22T22:05:09+08:00"
+    },
+    "aggsites": "67",
+    "aggdownloads": "13",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1587/s3links.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 214778,
+            "firstname": "Albert",
+            "lastname": "Gasset",
+            "url": "https://moodle.org/user/profile.php?id=214778"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

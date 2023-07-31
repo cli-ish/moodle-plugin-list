@@ -1,0 +1,45 @@
+{
+    "id": 1090,
+    "index": 1647,
+    "name": "Sky High",
+    "frankenstyle": "theme_sky_high",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_sky_high",
+    "shortdescription": "This theme was part of the Moodle core distribution, but for Moodle 2.7+ has been moved to Moodle Plugins",
+    "timelastreleased": {
+        "absdate": "Monday, 14 April 2014, 1:35 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-14T13:35:18+08:00"
+    },
+    "aggsites": "93",
+    "aggdownloads": "7",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1090/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 713800,
+            "firstname": "Mary",
+            "lastname": "Evans",
+            "url": "https://moodle.org/user/profile.php?id=713800"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "id": 2294,
+    "index": 267,
+    "name": "Soft Course format",
+    "frankenstyle": "format_softcourse",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_softcourse",
+    "shortdescription": "Softcourse is a course format that display sections with only an image and an optional text on the course homepage. Users don\u2019t see the detail of the section, for instance, resources or activities. ",
+    "timelastreleased": {
+        "absdate": "Monday, 12 December 2022, 10:40 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-12-12T22:40:19+08:00"
+    },
+    "aggsites": "970",
+    "aggdownloads": "480",
+    "aggfavs": "50",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2294/LOGO_PIMENKO.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2294/LOGO_PIMENKO.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2294/1-Course-format-presentation1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2294/2-Course-format-presentation2-custom-section-image.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2294/3-Section-progress-and-count-activities.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2294/4-Course-format-edit-course-image.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2294/5-Option-all-section-after-0-hide.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2294/6-Course-format-mod-page-example.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1405141,
+            "firstname": "Cl\u00e9ment",
+            "lastname": "Prudhomme",
+            "url": "https://moodle.org/user/profile.php?id=1405141"
+        },
+        {
+            "id": 2335577,
+            "firstname": "Sylvain",
+            "lastname": "Revenu",
+            "url": "https://moodle.org/user/profile.php?id=2335577"
+        },
+        {
+            "id": 2336220,
+            "firstname": "Jordan",
+            "lastname": "KESRAOUI",
+            "url": "https://moodle.org/user/profile.php?id=2336220"
+        }
+    ],
+    "descriptors": []
+}

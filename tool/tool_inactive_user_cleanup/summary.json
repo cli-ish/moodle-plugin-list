@@ -1,0 +1,51 @@
+{
+    "id": 1210,
+    "index": 503,
+    "name": "Inactive User Cleanup",
+    "frankenstyle": "tool_inactive_user_cleanup",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_inactive_user_cleanup",
+    "shortdescription": "The inactive user cleanup is a useful solution that deletes an inactive user's account automatically. Additionally, the solution sends users emails informing them before deleting their account. Thus, if a learner logs in before the account is deleted, he or she will not be removed from the system. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 April 2023, 7:12 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-25T19:12:34+08:00"
+    },
+    "aggsites": "123",
+    "aggdownloads": "232",
+    "aggfavs": "48",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1210/DualCube_LOGO.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1210/DualCube_LOGO.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1210/emailfrom.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1803116,
+            "firstname": "Arindam",
+            "lastname": "Ghosh",
+            "url": "https://moodle.org/user/profile.php?id=1803116"
+        },
+        {
+            "id": 1832609,
+            "firstname": "DualCube",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1832609"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

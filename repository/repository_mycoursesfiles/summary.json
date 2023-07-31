@@ -1,0 +1,45 @@
+{
+    "id": 260,
+    "index": 1803,
+    "name": "My courses files",
+    "frankenstyle": "repository_mycoursesfiles",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_mycoursesfiles",
+    "shortdescription": "This module pretends to facilitate access to courses files associated with a user  quickly, so you can reuse the files of their courses and prevent re-upload it in the activities.",
+    "timelastreleased": {
+        "absdate": "Friday, 2 March 2012, 11:46 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-02T23:46:08+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 835762,
+            "firstname": "Erick Jose",
+            "lastname": "Torres Hernandez",
+            "url": "https://moodle.org/user/profile.php?id=835762"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+[
+    {
+        "id": "29495",
+        "name": "4.8.2",
+        "url": "https://moodle.org/plugins/download.php/29495/qtype_essaywiris_moodle39_2020091004.zip"
+    },
+    {
+        "id": "29164",
+        "name": "4.8.1",
+        "url": "https://moodle.org/plugins/download.php/29164/qtype_essaywiris_moodle36_2016050820.zip"
+    },
+    {
+        "id": "29105",
+        "name": "4.8.0",
+        "url": "https://moodle.org/plugins/download.php/29105/qtype_essaywiris_moodle27_2011050314.zip"
+    },
+    {
+        "id": "28863",
+        "name": "4.7.2",
+        "url": "https://moodle.org/plugins/download.php/28863/qtype_essaywiris_moodle28_2022060614.zip"
+    },
+    {
+        "id": "28685",
+        "name": "4.7.1",
+        "url": "https://moodle.org/plugins/download.php/28685/qtype_essaywiris_moodle40_2023080102.zip"
+    },
+    {
+        "id": "28538",
+        "name": "4.7.0",
+        "url": "https://moodle.org/plugins/download.php/28538/qtype_essaywiris_moodle27_2018021216.zip"
+    }
+]

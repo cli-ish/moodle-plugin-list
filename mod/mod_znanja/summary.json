@@ -1,0 +1,53 @@
+{
+    "id": 657,
+    "index": 2027,
+    "name": "znanja Content",
+    "frankenstyle": "mod_znanja",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_znanja",
+    "shortdescription": "znanja is the quickest way to get your content into eLearning.  We wanted to make getting your content into Moodle even quicker.",
+    "timelastreleased": {
+        "absdate": "Thursday, 4 April 2013, 9:12 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-04T21:12:13+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "2",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/657/logo_transparent.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/657/logo_transparent.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/657/moodle_add_activity.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/657/moodle_course_form.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1574233,
+            "firstname": "Jimmy",
+            "lastname": "Mabey",
+            "url": "https://moodle.org/user/profile.php?id=1574233"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

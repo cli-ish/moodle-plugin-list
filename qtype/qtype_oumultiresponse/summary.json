@@ -1,0 +1,57 @@
+{
+    "id": 235,
+    "index": 190,
+    "name": "OU multiple response",
+    "frankenstyle": "qtype_oumultiresponse",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_oumultiresponse",
+    "shortdescription": "The main difference from the standard Moodle multiple choice question type is in the way that grading works. When creating the question, the teacher just indicates which choices are correct. If there are n correct choices, then the student scores 1/n for each correct choice. If they select too many choices, then incorrect choices outweigh correct ones.",
+    "timelastreleased": {
+        "absdate": "Monday, 4 April 2022, 6:25 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-04T18:25:12+08:00"
+    },
+    "aggsites": "1600",
+    "aggdownloads": "658",
+    "aggfavs": "31",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/235/oumr.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 154792,
+            "firstname": "Mahmoud",
+            "lastname": "Kassaei",
+            "url": "https://moodle.org/user/profile.php?id=154792"
+        },
+        {
+            "id": 4836338,
+            "firstname": "Anupama",
+            "lastname": "Sarjoshi",
+            "url": "https://moodle.org/user/profile.php?id=4836338"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

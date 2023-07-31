@@ -1,0 +1,44 @@
+{
+    "id": 2845,
+    "index": 2040,
+    "name": "aulaPlaneta content bank",
+    "frankenstyle": "block_aulaplaneta_contentbank",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_aulaplaneta_contentbank",
+    "shortdescription": "This block provides access to the **aulaPlaneta** content bank. The Content Bank is a tool with which teachers can expand and enrich their information by consulting the largest digital content bank. It offers the possibility of searching for information in different ways: through the text search engine, the visual search engine, by means of thematic searches, etc.",
+    "timelastreleased": {
+        "absdate": "Monday, 29 November 2021, 7:54 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-11-29T19:54:33+08:00"
+    },
+    "aggsites": "330",
+    "aggdownloads": "1",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2845/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2845/2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4645364,
+            "firstname": "Grupo Planeta",
+            "lastname": "Equipo de desarrollo",
+            "url": "https://moodle.org/user/profile.php?id=4645364"
+        }
+    ],
+    "descriptors": []
+}

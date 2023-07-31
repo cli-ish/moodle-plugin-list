@@ -1,0 +1,49 @@
+{
+    "id": 206,
+    "index": 1536,
+    "name": "DataPlus",
+    "frankenstyle": "mod_dataplus",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_dataplus",
+    "shortdescription": "DataPlus is a Moodle module that enables the production of customisable, portable, standalone SQLite3 databases for teaching and learning.  It's features are similar to the Data module, but it allows easier export and search as well as improved performance for larger databases.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 September 2016, 6:40 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-20T18:40:09+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "10",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 100405,
+            "firstname": "Anthony",
+            "lastname": "Forth",
+            "url": "https://moodle.org/user/profile.php?id=100405"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Computing"
+        }
+    ]
+}

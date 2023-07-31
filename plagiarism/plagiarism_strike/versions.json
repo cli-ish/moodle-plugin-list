@@ -1,0 +1,57 @@
+[
+    {
+        "id": "28195",
+        "name": "3.11.0-build-2021070500",
+        "url": "https://moodle.org/plugins/download.php/28195/plagiarism_strike_moodle36_2014111101.zip"
+    },
+    {
+        "id": "28196",
+        "name": "3.7.0-build-2022021200",
+        "url": "https://moodle.org/plugins/download.php/28196/plagiarism_strike_moodle32_2019050200.zip"
+    },
+    {
+        "id": "27796",
+        "name": "3.9.0-build-2021012100",
+        "url": "https://moodle.org/plugins/download.php/27796/plagiarism_strike_moodle28_2022081212.zip"
+    },
+    {
+        "id": "20288",
+        "name": "3.2.3-build-2019091800",
+        "url": "https://moodle.org/plugins/download.php/20288/plagiarism_strike_moodle25_2021100118.zip"
+    },
+    {
+        "id": "16359",
+        "name": "3.2.1-build-2017103001",
+        "url": "https://moodle.org/plugins/download.php/16359/plagiarism_strike_moodle32_2010011218.zip"
+    },
+    {
+        "id": "25981",
+        "name": "3.9.0-build-2022012000",
+        "url": "https://moodle.org/plugins/download.php/25981/plagiarism_strike_moodle27_2017040409.zip"
+    },
+    {
+        "id": "23344",
+        "name": "3.6.0-build-2021012100",
+        "url": "https://moodle.org/plugins/download.php/23344/plagiarism_strike_moodle35_2015010716.zip"
+    },
+    {
+        "id": "22495",
+        "name": "3.9.0-build-2020090900",
+        "url": "https://moodle.org/plugins/download.php/22495/plagiarism_strike_moodle38_2021090714.zip"
+    },
+    {
+        "id": "22494",
+        "name": "3.6.0-3.8.0-build-2020090900",
+        "url": "https://moodle.org/plugins/download.php/22494/plagiarism_strike_moodle27_2021061207.zip"
+    },
+    {
+        "id": "17804",
+        "name": "3.2.2-build-2018082100",
+        "url": "https://moodle.org/plugins/download.php/17804/plagiarism_strike_moodle34_2021090104.zip"
+    },
+    {
+        "id": "15168",
+        "name": "3.2.0-build-2017103000",
+        "url": "https://moodle.org/plugins/download.php/15168/plagiarism_strike_moodle27_2014080503.zip"
+    }
+]

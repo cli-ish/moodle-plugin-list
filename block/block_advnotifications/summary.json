@@ -1,0 +1,53 @@
+{
+    "id": 1944,
+    "index": 240,
+    "name": "Advanced Notifications",
+    "frankenstyle": "block_advnotifications",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_advnotifications",
+    "shortdescription": "Easily create, manage and display notifications/alerts to users.",
+    "timelastreleased": {
+        "absdate": "Monday, 14 February 2022, 2:35 PM",
+        "reldate": "18 months",
+        "iso8601date": "2022-02-14T14:35:17+08:00"
+    },
+    "aggsites": "1817",
+    "aggdownloads": "522",
+    "aggfavs": "120",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1944/AlertTypes.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1944/AlertTypes.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1944/View.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1944/AdvNotifications.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1944/AlertTypes.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1944/Manage.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1944/Settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1980868,
+            "firstname": "Zander",
+            "lastname": "Potgieter",
+            "url": "https://moodle.org/user/profile.php?id=1980868"
+        }
+    ],
+    "descriptors": []
+}

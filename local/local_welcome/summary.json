@@ -1,0 +1,45 @@
+{
+    "id": 424,
+    "index": 264,
+    "name": "Moodle welcome",
+    "frankenstyle": "local_welcome",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_welcome",
+    "shortdescription": "Sends a welcome message to new users, sends a notification to a moderator of the new user creation",
+    "timelastreleased": {
+        "absdate": "Thursday, 26 August 2021, 5:49 PM",
+        "reldate": "23 months",
+        "iso8601date": "2021-08-26T17:49:15+08:00"
+    },
+    "aggsites": "1451",
+    "aggdownloads": "492",
+    "aggfavs": "131",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/424/local_welcome_noun_icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/424/local_welcome_noun_icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/424/local_welcome.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

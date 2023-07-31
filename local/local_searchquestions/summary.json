@@ -1,0 +1,49 @@
+{
+    "id": 1302,
+    "index": 1266,
+    "name": "Search Questions",
+    "frankenstyle": "local_searchquestions",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_searchquestions",
+    "shortdescription": "Adds text search to the question bank.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 January 2015, 12:18 AM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-13T00:18:25+08:00"
+    },
+    "aggsites": "154",
+    "aggdownloads": "21",
+    "aggfavs": "20",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1302/Screen%20Shot%202015-01-05%20at%208.53.25%20AM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1302/Screen%20Shot%202015-01-05%20at%208.57.40%20AM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1468589,
+            "firstname": "Ray",
+            "lastname": "Morris",
+            "url": "https://moodle.org/user/profile.php?id=1468589"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

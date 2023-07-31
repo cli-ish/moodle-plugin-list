@@ -1,0 +1,63 @@
+{
+    "id": 1932,
+    "index": 852,
+    "name": "PlagiarismSearch",
+    "frankenstyle": "plagiarism_plagiarismsearch",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_plagiarismsearch",
+    "shortdescription": "PlagiarismSearch has been operating since 2008 as an in-demand solution even for the most exacting clients who seek multilayered check in numerous languages, utmost confidentiality of services, and continuous updates in functionality. Universities and content companies around the globe can make use of the customized services of plagiarism detection provided at the maximum level of professionalism. A free 30-day trial with 100 submissions is a great chance to test the service with no further commitments. Still, most of the clients pay for a full plagiarism search package after the trial month is over.",
+    "timelastreleased": {
+        "absdate": "Monday, 3 April 2023, 3:00 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-03T15:00:42+08:00"
+    },
+    "aggsites": "35",
+    "aggdownloads": "113",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1932/logo-big%5B1%5D.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1932/logo-big%5B1%5D.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1932/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1932/2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1932/3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1932/4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2275152,
+            "firstname": "Alex",
+            "lastname": "Crosby",
+            "url": "https://moodle.org/user/profile.php?id=2275152"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

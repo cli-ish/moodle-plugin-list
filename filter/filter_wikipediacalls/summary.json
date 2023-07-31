@@ -1,0 +1,45 @@
+{
+    "id": 669,
+    "index": 1675,
+    "name": "Wikipedia Calls",
+    "frankenstyle": "filter_wikipediacalls",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_wikipediacalls",
+    "shortdescription": "Using a simple tagging, automates generation of links to Wikipedia pages.",
+    "timelastreleased": {
+        "absdate": "Saturday, 30 March 2013, 5:46 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-30T05:46:33+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "7",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/669/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/669/logo.png?preview=thumb"
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": 1746,
+    "index": 1848,
+    "name": "Problem section",
+    "frankenstyle": "local_problemsection",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_problemsection",
+    "shortdescription": "Adds to the course a section where the teacher can submit a problem to groups of students and give them various collaboration tools to work together on a solution.",
+    "timelastreleased": {
+        "absdate": "Sunday, 25 November 2018, 3:26 AM",
+        "reldate": "5 years",
+        "iso8601date": "2018-11-25T03:26:32+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "4",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1746/problemsections.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1746/problemsections.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1746/problemsection6.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1746/problemsection1.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1746/problemsection2.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1746/problemsection3.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1746/problemsection4.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2101229,
+            "firstname": "Brice",
+            "lastname": "Errandonea",
+            "url": "https://moodle.org/user/profile.php?id=2101229"
+        }
+    ],
+    "descriptors": []
+}

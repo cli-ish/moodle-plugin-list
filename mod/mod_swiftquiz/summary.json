@@ -1,0 +1,65 @@
+{
+    "id": 2909,
+    "index": 923,
+    "name": "SwiftQuiz",
+    "frankenstyle": "mod_swiftquiz",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_swiftquiz",
+    "shortdescription": "Moodle activity module, allows teachers to swiftly create questions and get rich feedback.",
+    "timelastreleased": {
+        "absdate": "Sunday, 30 July 2023, 8:26 PM",
+        "reldate": "1 day",
+        "iso8601date": "2023-07-30T20:26:49+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "83",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2909/icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2909/icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2909/QQ%E6%88%AA%E5%9B%BE20220323174025.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2909/QQ%E6%88%AA%E5%9B%BE20220323174059.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2909/QQ%E6%88%AA%E5%9B%BE20220323174257.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2909/QQ%E6%88%AA%E5%9B%BE20220323174317.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2909/QQ%E6%88%AA%E5%9B%BE20220323174403.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4693892,
+            "firstname": "Lorain",
+            "lastname": "Binary",
+            "url": "https://moodle.org/user/profile.php?id=4693892"
+        },
+        {
+            "id": 4690141,
+            "firstname": "Zakkery",
+            "lastname": "Ning",
+            "url": "https://moodle.org/user/profile.php?id=4690141"
+        },
+        {
+            "id": 5161481,
+            "firstname": "nana-mi",
+            "lastname": "chikai",
+            "url": "https://moodle.org/user/profile.php?id=5161481"
+        }
+    ],
+    "descriptors": []
+}

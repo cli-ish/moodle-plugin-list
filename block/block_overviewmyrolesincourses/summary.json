@@ -1,0 +1,40 @@
+{
+    "id": 3038,
+    "index": 808,
+    "name": "Overview my roles in courses",
+    "frankenstyle": "block_overviewmyrolesincourses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_overviewmyrolesincourses",
+    "shortdescription": "Block that shows for each role a section and in each section the courses that a user is enrolled with this role.\r\nThe siteadmin can select the supported roles from the list of roles that can be assigned in coursecontext.",
+    "timelastreleased": {
+        "absdate": "Sunday, 12 March 2023, 1:14 AM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-12T01:14:41+08:00"
+    },
+    "aggsites": "16",
+    "aggdownloads": "123",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3038/overviewmyrolesincourses.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1028581,
+            "firstname": "Andreas",
+            "lastname": "Schenkel",
+            "url": "https://moodle.org/user/profile.php?id=1028581"
+        }
+    ],
+    "descriptors": []
+}

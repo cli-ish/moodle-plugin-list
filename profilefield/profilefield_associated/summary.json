@@ -1,0 +1,44 @@
+{
+    "id": 1346,
+    "index": 715,
+    "name": "Associated input",
+    "frankenstyle": "profilefield_associated",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_associated",
+    "shortdescription": "An associated profile field, associates its value with a core optional profile field.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 16 February 2021, 4:13 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-16T16:13:05+08:00"
+    },
+    "aggsites": "393",
+    "aggdownloads": "142",
+    "aggfavs": "34",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1346/definition.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1346/signup.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 723655,
+            "firstname": "Shamim",
+            "lastname": "Rezaie",
+            "url": "https://moodle.org/user/profile.php?id=723655"
+        }
+    ],
+    "descriptors": []
+}

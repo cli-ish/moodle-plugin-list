@@ -1,0 +1,45 @@
+{
+    "id": 535,
+    "index": 1453,
+    "name": "Responsive",
+    "frankenstyle": "theme_responsive",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_responsive",
+    "shortdescription": "The 'responsive' theme is a base theme that is to be used as a started theme for other responsive themes. It is meant to be used from a 'mobile first' design approach, but adheres closely to the 3 column standard Moodle layout.",
+    "timelastreleased": {
+        "absdate": "Saturday, 24 November 2012, 8:36 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-11-24T20:36:27+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": "13",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/535/responsive.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/535/responsive.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/535/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1094517,
+            "firstname": "Rheinard",
+            "lastname": "Korf",
+            "url": "https://moodle.org/user/profile.php?id=1094517"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2872,
+    "index": 711,
+    "name": "File",
+    "frankenstyle": "customfield_file",
+    "plugintype": {
+        "type": "customfield",
+        "name": "Custom field"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/customfield_file",
+    "shortdescription": "A custom field to attach files",
+    "timelastreleased": {
+        "absdate": "Friday, 18 March 2022, 6:12 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-18T18:12:55+08:00"
+    },
+    "aggsites": "104",
+    "aggdownloads": "145",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2872/Screenshot%202022-02-01%20at%2014.37.27.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1396756,
+            "firstname": "Andrew",
+            "lastname": "Hancox",
+            "url": "https://moodle.org/user/profile.php?id=1396756"
+        }
+    ],
+    "descriptors": []
+}

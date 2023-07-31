@@ -1,0 +1,58 @@
+{
+    "id": 1392,
+    "index": 1777,
+    "name": "Moodle AnalyST",
+    "frankenstyle": "report_moodleanalyst",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_moodleanalyst",
+    "shortdescription": "Support tool for medium and large sites, that provides you with\r\n- a better search function for courses and users\r\n- a fast overview about a course with participants and their roles, activities, enrolment methods\r\n- a fast overview about a user with their courses and roles",
+    "timelastreleased": {
+        "absdate": "Tuesday, 24 May 2016, 9:40 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-05-24T21:40:32+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "5",
+    "aggfavs": "21",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1392/courseinfo.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1392/overview.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1392/userinfo.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1529074,
+            "firstname": "Steffen",
+            "lastname": "Pegenau",
+            "url": "https://moodle.org/user/profile.php?id=1529074"
+        },
+        {
+            "id": 2209228,
+            "firstname": "Technische Universit\u00e4t",
+            "lastname": "Darmstadt",
+            "url": "https://moodle.org/user/profile.php?id=2209228"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

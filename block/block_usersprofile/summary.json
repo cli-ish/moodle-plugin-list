@@ -1,0 +1,40 @@
+{
+    "id": 645,
+    "index": 1546,
+    "name": "Users Profile in 3D",
+    "frankenstyle": "block_usersprofile",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_usersprofile",
+    "shortdescription": "This block shows the 3d view for the users profile with the sliding effect.It works in all latest browsers.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 13 March 2013, 2:26 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-13T02:26:12+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "10",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/645/Moodle4_testing.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/645/Moodle4_testing.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/645/screenshot1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1296953,
+            "firstname": "Niranjan",
+            "lastname": "eAbyas",
+            "url": "https://moodle.org/user/profile.php?id=1296953"
+        }
+    ],
+    "descriptors": []
+}

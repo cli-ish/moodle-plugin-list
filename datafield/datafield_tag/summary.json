@@ -1,0 +1,40 @@
+{
+    "id": 1508,
+    "index": 1501,
+    "name": "Tag input",
+    "frankenstyle": "datafield_tag",
+    "plugintype": {
+        "type": "datafield",
+        "name": "Database / Database field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/datafield_tag",
+    "shortdescription": "The database tags field creates tags from comma separated text, similar to the way that Moodle generates tags from the 'Interests' field in the User Profile, but specifically for the database activity. When a record is displayed these are hyperlinked and when clicked will display a filtered search result based on the tag value.",
+    "timelastreleased": {
+        "absdate": "Thursday, 19 November 2015, 10:36 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-11-19T22:36:55+08:00"
+    },
+    "aggsites": "27",
+    "aggdownloads": "11",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1396756,
+            "firstname": "Andrew",
+            "lastname": "Hancox",
+            "url": "https://moodle.org/user/profile.php?id=1396756"
+        }
+    ],
+    "descriptors": []
+}

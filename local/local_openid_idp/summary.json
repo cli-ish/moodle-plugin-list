@@ -1,0 +1,45 @@
+{
+    "id": 163,
+    "index": 1417,
+    "name": "OpenID provider",
+    "frankenstyle": "local_openid_idp",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_openid_idp",
+    "shortdescription": "Enables Moodle to act as an OpenID provider",
+    "timelastreleased": {
+        "absdate": "Saturday, 2 March 2013, 7:09 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-02T07:09:04+08:00"
+    },
+    "aggsites": "36",
+    "aggdownloads": "14",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 706541,
+            "firstname": "Hubert",
+            "lastname": "Chathi",
+            "url": "https://moodle.org/user/profile.php?id=706541"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

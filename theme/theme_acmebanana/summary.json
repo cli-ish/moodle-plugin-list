@@ -1,0 +1,55 @@
+{
+    "id": 637,
+    "index": 1538,
+    "name": "Acme BananaByte",
+    "frankenstyle": "theme_acmebanana",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_acmebanana",
+    "shortdescription": "Fluid theme with a dark typographic design.",
+    "timelastreleased": {
+        "absdate": "Friday, 15 March 2013, 1:00 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-03-15T01:00:00+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "10",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/637/SOH_BANANA-128.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/637/SOH_BANANA-128.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/637/capture01.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/637/capture02.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/637/capture03.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/637/screenshot.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 11558,
+            "firstname": "Marco",
+            "lastname": "Valadares",
+            "url": "https://moodle.org/user/profile.php?id=11558"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

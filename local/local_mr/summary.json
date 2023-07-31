@@ -1,0 +1,40 @@
+{
+    "id": 598,
+    "index": 236,
+    "name": "Open LMS Framework",
+    "frankenstyle": "local_mr",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_mr",
+    "shortdescription": "The Open LMS Framework offers enhanced functionality for Moodle plugin development.  It is required by several of the plugins that have been open sourced by Open LMS.  For more information, see https://docs.moodle.org/dev/Open_LMS_Framework",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 2:41 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T02:41:57+08:00"
+    },
+    "aggsites": "409",
+    "aggdownloads": "528",
+    "aggfavs": "28",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/598/local_mr_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/598/local_mr_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/598/local_mr_logo.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": []
+}

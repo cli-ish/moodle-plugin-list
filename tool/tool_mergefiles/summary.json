@@ -1,0 +1,62 @@
+{
+    "id": 1934,
+    "index": 1628,
+    "name": "Merge PDF Files",
+    "frankenstyle": "tool_mergefiles",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_mergefiles",
+    "shortdescription": "The \u2018Merge PDF Files\u2019 plugin offers the user a convenient way by which they can merge the files (only PDF documents) in a Moodle course.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 4 October 2017, 4:19 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-10-04T16:19:11+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "8",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1934/IIT_Bombay_Logo-blue.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1934/IIT_Bombay_Logo-blue.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1934/3%20Download%20merged%20file.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1934/1%20Plugin%20index%20page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1934/2%20Newly%20merged%20pdf%20document.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1934/4%20List%20of%20recently%20merged%20files.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1934/5%20PDF%20file%20before%20merging.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1934/6%20Merged%20file%20with%20page%20numbers%20stamped%20on%20it.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2194652,
+            "firstname": "Kashmira",
+            "lastname": "Nagwekar",
+            "url": "https://moodle.org/user/profile.php?id=2194652"
+        },
+        {
+            "id": 2267258,
+            "firstname": "IIT",
+            "lastname": "Bombay",
+            "url": "https://moodle.org/user/profile.php?id=2267258"
+        }
+    ],
+    "descriptors": []
+}

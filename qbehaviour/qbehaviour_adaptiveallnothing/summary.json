@@ -1,0 +1,40 @@
+{
+    "id": 1434,
+    "index": 745,
+    "name": "Adaptive mode (all or nothing)",
+    "frankenstyle": "qbehaviour_adaptiveallnothing",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_adaptiveallnothing",
+    "shortdescription": "This is a question behaviour for Moodle Quiz that forces all questions to be graded all or nothing using adaptive mode. It will work with a variety of question types that normally produce credit for partially correct responses i.e. cloze, matching, OU drag and drop types etc.",
+    "timelastreleased": {
+        "absdate": "Saturday, 2 April 2022, 4:15 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-02T04:15:10+08:00"
+    },
+    "aggsites": "215",
+    "aggdownloads": "135",
+    "aggfavs": "21",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1434/adaptiveallnothing.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1470073,
+            "firstname": "Daniel",
+            "lastname": "Thies",
+            "url": "https://moodle.org/user/profile.php?id=1470073"
+        }
+    ],
+    "descriptors": []
+}

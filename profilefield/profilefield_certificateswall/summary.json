@@ -1,0 +1,50 @@
+{
+    "id": 332,
+    "index": 1461,
+    "name": "CertificatesWall profile",
+    "frankenstyle": "profilefield_certificateswall",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_certificateswall",
+    "shortdescription": "This plugin is used to display user's achievements in the profile. \r\nThe plugins pulls user's data from CertificatesWall.com and display \"Certificates Wall\" for the user in his Moodle profile.\r\nIf the user has no profile on CertificatesWall.com then nothing is displayed.",
+    "timelastreleased": {
+        "absdate": "Thursday, 7 June 2012, 3:58 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-07T15:58:45+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "13",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/332/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/332/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/332/profile_cw_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/332/profile_cw_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/332/profile_cw_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/332/profile_cw_4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1408227,
+            "firstname": "Roman",
+            "lastname": "Gelembiuk",
+            "url": "https://moodle.org/user/profile.php?id=1408227"
+        }
+    ],
+    "descriptors": []
+}

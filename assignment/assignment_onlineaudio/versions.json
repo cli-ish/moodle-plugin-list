@@ -1,0 +1,52 @@
+[
+    {
+        "id": "5812",
+        "name": "1.1.2",
+        "url": "https://moodle.org/plugins/download.php/5812/assignment_onlineaudio_moodle36_2013020820.zip"
+    },
+    {
+        "id": "5811",
+        "name": "1.0.1",
+        "url": "https://moodle.org/plugins/download.php/5811/assignment_onlineaudio_moodle36_2013090314.zip"
+    },
+    {
+        "id": "1648",
+        "name": "1.1.1",
+        "url": "https://moodle.org/plugins/download.php/1648/assignment_onlineaudio_moodle39_2020060417.zip"
+    },
+    {
+        "id": "1293",
+        "name": "1.1-for-2.x",
+        "url": "https://moodle.org/plugins/download.php/1293/assignment_onlineaudio_moodle39_2019020820.zip"
+    },
+    {
+        "id": "1233",
+        "name": "1.01-for-2.x",
+        "url": "https://moodle.org/plugins/download.php/1233/assignment_onlineaudio_moodle25_2016040518.zip"
+    },
+    {
+        "id": "235",
+        "name": "beta-2.1-for-2.x",
+        "url": "https://moodle.org/plugins/download.php/235/assignment_onlineaudio_moodle33_2016010216.zip"
+    },
+    {
+        "id": "219",
+        "name": "beta-2-for-2.x",
+        "url": "https://moodle.org/plugins/download.php/219/assignment_onlineaudio_moodle31_2013060116.zip"
+    },
+    {
+        "id": "218",
+        "name": "beta-1.01-for-2.x",
+        "url": "https://moodle.org/plugins/download.php/218/assignment_onlineaudio_moodle31_2016110105.zip"
+    },
+    {
+        "id": "220",
+        "name": "beta-2-for-1.9",
+        "url": "https://moodle.org/plugins/download.php/220/assignment_onlineaudio_moodle26_2021050219.zip"
+    },
+    {
+        "id": "216",
+        "name": "beta-1.02-for-1.9",
+        "url": "https://moodle.org/plugins/download.php/216/assignment_onlineaudio_moodle29_2014050801.zip"
+    }
+]

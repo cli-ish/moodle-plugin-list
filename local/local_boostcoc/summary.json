@@ -1,0 +1,46 @@
+{
+    "id": 1830,
+    "index": 1416,
+    "name": "Boost course overview on campus",
+    "frankenstyle": "local_boostcoc",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_boostcoc",
+    "shortdescription": "Moodle plugin which adds support for filtering courses with block_course_overview_campus to the mycourses list in Boost's nav drawer",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 June 2019, 5:10 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-06-13T05:10:03+08:00"
+    },
+    "aggsites": "37",
+    "aggdownloads": "14",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1830/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1830/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1830/Screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2075,
+    "index": 2109,
+    "name": "VideoFront videos",
+    "frankenstyle": "repository_videofront",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_videofront",
+    "shortdescription": "Plugin for Videoteca integration with Moodle repository.",
+    "timelastreleased": {
+        "absdate": "Friday, 15 June 2018, 5:13 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-15T17:13:13+08:00"
+    },
+    "aggsites": "21",
+    "aggdownloads": null,
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2075/Untitled-1.fw.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2075/Untitled-1.fw.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2075/Captura%20de%20Tela%202018-06-15%20a%CC%80s%2006.13.54.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1428341,
+            "firstname": "Eduardo",
+            "lastname": "Kraus",
+            "url": "https://moodle.org/user/profile.php?id=1428341"
+        }
+    ],
+    "descriptors": []
+}

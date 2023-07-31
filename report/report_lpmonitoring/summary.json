@@ -1,0 +1,74 @@
+{
+    "id": 1730,
+    "index": 274,
+    "name": "Monitoring of learning plans",
+    "frankenstyle": "report_lpmonitoring",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_lpmonitoring",
+    "shortdescription": "The main goal of this plugin is to facilitate the work of learning plan managers. It provides an overview of user learning plan, without leaving the page to get information related to this learning plan (such as rating in courses, user evidence, etc.) It also offers statistics by learning plans and competencies. For learning plan templates with a very large number of learning plans (generated from cohorts), this plugin is the best solution, with its advanced filters, it allows you to filter the learning plans by several criterias.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 September 2022, 2:02 AM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-22T02:02:10+08:00"
+    },
+    "aggsites": "1229",
+    "aggdownloads": "468",
+    "aggfavs": "177",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1730/lpmonitoringdetail.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1730/lpmonitoringmainpage.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1730/report_lpmonitoring_colors.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1730/report_lpmonitoring_filterbystudent.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1730/report_lpmonitoring_filterbytemplatesimple.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1730/report_lpmonitoringcourselistbyscalevalue.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1730/report_lpmonitoringlearningcourselistbyscalevalue.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1730/report_lpmonitoringscalesvaluesfilternbrating.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1730/report_lpmonitoringstatistics.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1730/report_lpmonitoringstatstotalusers.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1911781,
+            "firstname": "Issam",
+            "lastname": "Taboubi",
+            "url": "https://moodle.org/user/profile.php?id=1911781"
+        },
+        {
+            "id": 1244964,
+            "firstname": "Gilles-Philippe",
+            "lastname": "Leblanc",
+            "url": "https://moodle.org/user/profile.php?id=1244964"
+        }
+    ],
+    "descriptors": []
+}

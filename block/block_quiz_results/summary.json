@@ -1,0 +1,40 @@
+{
+    "id": 2912,
+    "index": 898,
+    "name": "Quiz results",
+    "frankenstyle": "block_quiz_results",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_quiz_results",
+    "shortdescription": "The Quiz results block displays the highest and/or lowest grades achieved on a quiz within a course. There must be a quiz in the course to correctly configure this block.",
+    "timelastreleased": {
+        "absdate": "Thursday, 24 March 2022, 7:57 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-24T19:57:31+08:00"
+    },
+    "aggsites": "1290",
+    "aggdownloads": "96",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2912/quizresults2.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1455465,
+            "firstname": "Moodle",
+            "lastname": "HQ",
+            "url": "https://moodle.org/user/profile.php?id=1455465"
+        }
+    ],
+    "descriptors": []
+}

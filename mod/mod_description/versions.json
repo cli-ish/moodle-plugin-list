@@ -1,0 +1,27 @@
+[
+    {
+        "id": "28808",
+        "name": "course-description-plugin-4.1-c",
+        "url": "https://moodle.org/plugins/download.php/28808/mod_description_moodle28_2021100602.zip"
+    },
+    {
+        "id": "23641",
+        "name": "course-description-plugin-3.9-c",
+        "url": "https://moodle.org/plugins/download.php/23641/mod_description_moodle35_2019030411.zip"
+    },
+    {
+        "id": "8502",
+        "name": "course-description-plugin-2.8f",
+        "url": "https://moodle.org/plugins/download.php/8502/mod_description_moodle25_2021100502.zip"
+    },
+    {
+        "id": "28235",
+        "name": "course-description-plugin-4.1-b",
+        "url": "https://moodle.org/plugins/download.php/28235/mod_description_moodle25_2022070717.zip"
+    },
+    {
+        "id": "23559",
+        "name": "course-description-plugin-3.9-b",
+        "url": "https://moodle.org/plugins/download.php/23559/mod_description_moodle27_2017030201.zip"
+    }
+]

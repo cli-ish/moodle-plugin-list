@@ -1,0 +1,53 @@
+{
+    "id": 3100,
+    "index": 205,
+    "name": "Stream",
+    "frankenstyle": "theme_stream",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_stream",
+    "shortdescription": "Stream is a Boost child Moodle 4+ theme with some added settings that allow customization. Choose colors and icons styles, images for the course header and show courses and categories as cards on the frontpage.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 28 June 2023, 12:37 AM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-28T00:37:22+08:00"
+    },
+    "aggsites": "118",
+    "aggdownloads": "615",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3100/stream00.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3100/stream01.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3100/stream02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3100/stream03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3100/stream04.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 509949,
+            "firstname": "Hugo",
+            "lastname": "Ribeiro",
+            "url": "https://moodle.org/user/profile.php?id=509949"
+        }
+    ],
+    "descriptors": []
+}

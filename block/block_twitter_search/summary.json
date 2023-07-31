@@ -1,0 +1,49 @@
+{
+    "id": 141,
+    "index": 1396,
+    "name": "Twitter Search Block",
+    "frankenstyle": "block_twitter_search",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_twitter_search",
+    "shortdescription": "This is a simple block which shows the results of a twitter search. Any twitter search as seen on \r\nhttp://search.twitter.com will work.",
+    "timelastreleased": {
+        "absdate": "Monday, 16 April 2012, 10:01 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-04-16T22:01:49+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "15",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/141/twitter_search.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/141/twitter_search.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/141/twitter_search.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93089,
+            "firstname": "Kevin",
+            "lastname": "Hughes",
+            "url": "https://moodle.org/user/profile.php?id=93089"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

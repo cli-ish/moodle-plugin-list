@@ -1,0 +1,53 @@
+{
+    "id": 166,
+    "index": 980,
+    "name": "Rich Media",
+    "frankenstyle": "mod_richmedia",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_richmedia",
+    "shortdescription": "Provides a complete tool to create Rich Media activities onto Moodle. ",
+    "timelastreleased": {
+        "absdate": "Friday, 29 June 2018, 11:10 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-29T23:10:27+08:00"
+    },
+    "aggsites": "131",
+    "aggdownloads": "61",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/166/catalog_richmedia_square.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/166/catalog_richmedia_square.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/166/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/166/screenshothtml5.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1394501,
+            "firstname": "Adrien",
+            "lastname": "Jamot",
+            "url": "https://moodle.org/user/profile.php?id=1394501"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

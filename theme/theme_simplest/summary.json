@@ -1,0 +1,59 @@
+{
+    "id": 2782,
+    "index": 418,
+    "name": "Simplest",
+    "frankenstyle": "theme_simplest",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_simplest",
+    "shortdescription": "The Simplest Moodle Theme - Moodle Classic child theme.",
+    "timelastreleased": {
+        "absdate": "Monday, 11 April 2022, 9:36 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-11T21:36:49+08:00"
+    },
+    "aggsites": "164",
+    "aggdownloads": "292",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2782/Simplest.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2782/Simplest.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2782/1-EN-1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2782/2-EN-1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2782/3-EN-1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2782/4-EN-1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2782/5-EN-1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2782/6-EN-1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2782/new_theme_style.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3286395,
+            "firstname": "LMS",
+            "lastname": "with AI",
+            "url": "https://moodle.org/user/profile.php?id=3286395"
+        }
+    ],
+    "descriptors": []
+}

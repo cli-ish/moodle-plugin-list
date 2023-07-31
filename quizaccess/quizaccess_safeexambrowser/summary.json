@@ -1,0 +1,51 @@
+{
+    "id": 716,
+    "index": 123,
+    "name": "Safe Exam Browser quiz access rule",
+    "frankenstyle": "quizaccess_safeexambrowser",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_safeexambrowser",
+    "shortdescription": "This quiz access rule plugin provides Safe Exam Browser 2.0 integration for Moodle ",
+    "timelastreleased": {
+        "absdate": "Monday, 27 July 2020, 8:11 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-07-27T20:11:47+08:00"
+    },
+    "aggsites": "960",
+    "aggdownloads": "966",
+    "aggfavs": "38",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/716/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/716/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/716/sa.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 1350696,
+            "firstname": "Luca",
+            "lastname": "B\u00f6sch",
+            "url": "https://moodle.org/user/profile.php?id=1350696"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 2940,
+    "index": 724,
+    "name": "Marking Guide report",
+    "frankenstyle": "gradereport_markingguide",
+    "plugintype": {
+        "type": "gradereport",
+        "name": "Gradebook report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/gradereport_markingguide",
+    "shortdescription": "The Marking guide report plugin allows teachers and managers to drill down past a student\u2019s overall advanced graded mark received, and to view all their students' grades and comments for all the criteria from the relevant marking guide advanced grading.",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 May 2022, 6:19 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-05-05T18:19:37+08:00"
+    },
+    "aggsites": "75",
+    "aggdownloads": "141",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2940/gradereport_markingguide.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2940/gradereport_markingguide_datatoinclude.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4074596,
+            "firstname": "Brickfield",
+            "lastname": "Education Labs",
+            "url": "https://moodle.org/user/profile.php?id=4074596"
+        }
+    ],
+    "descriptors": []
+}

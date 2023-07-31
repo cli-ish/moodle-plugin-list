@@ -1,0 +1,61 @@
+{
+    "id": 1517,
+    "index": 1267,
+    "name": "Badge Pool",
+    "frankenstyle": "local_bs_badge_pool",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_bs_badge_pool",
+    "shortdescription": "With this plugin you can create badge templates which can be used to simplify creating badges in all courses of your moodle system.",
+    "timelastreleased": {
+        "absdate": "Sunday, 5 August 2018, 6:08 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-08-05T18:08:16+08:00"
+    },
+    "aggsites": "113",
+    "aggdownloads": "21",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1517/2018-08-11%2011_40_49-Moodle_%20Administration_%20Plugins_%20Local%20plugins_%20Badge%20Pool.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1517/2018-08-11%2011_40_49-Moodle_%20Administration_%20Plugins_%20Local%20plugins_%20Badge%20Pool.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1517/badge_pool_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1517/badge_pool_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1517/badge_pool_3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1517/badge_pool_4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1517/badge_pool_5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1517/badge_pool_6.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1279450,
+            "firstname": "Matthias",
+            "lastname": "Berlin (Schwabe)",
+            "url": "https://moodle.org/user/profile.php?id=1279450"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

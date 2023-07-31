@@ -1,0 +1,49 @@
+{
+    "id": 601,
+    "index": 1779,
+    "name": "Merge user accounts",
+    "frankenstyle": "report_mergeusers",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_mergeusers",
+    "shortdescription": "This script will merge two Moodle user accounts, \"user A\" and \"user B\". \r\nThe intent of the script is to assign all activity & records from user A to \r\nuser B. This will give the effect of user B seeming to have done everything \r\nboth users have ever done in Moodle.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 August 2013, 8:06 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-14T20:06:20+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "5",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

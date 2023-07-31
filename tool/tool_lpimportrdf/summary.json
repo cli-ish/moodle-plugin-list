@@ -1,0 +1,49 @@
+{
+    "id": 1631,
+    "index": 1528,
+    "name": "Import competency framework from RDF",
+    "frankenstyle": "tool_lpimportrdf",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_lpimportrdf",
+    "shortdescription": "This is an importer for XML/RDF formatted curriculum files from the                                                                 \r\nachievement standards network. ",
+    "timelastreleased": {
+        "absdate": "Monday, 9 May 2016, 4:10 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-05-09T16:10:02+08:00"
+    },
+    "aggsites": "43",
+    "aggdownloads": "10",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1631/Text-xml.svg.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1631/Text-xml.svg.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1631/rdf-import-1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1337843,
+            "firstname": "Damyon",
+            "lastname": "Wiese",
+            "url": "https://moodle.org/user/profile.php?id=1337843"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

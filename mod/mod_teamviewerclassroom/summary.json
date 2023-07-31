@@ -1,0 +1,46 @@
+{
+    "id": 2983,
+    "index": 766,
+    "name": "TeamViewer Classroom",
+    "frankenstyle": "mod_teamviewerclassroom",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_teamviewerclassroom",
+    "shortdescription": "TeamViewer Classroom is a collaborative, interactive and intuitive video conferencing system developed to provide the best in-person class, seminar, training, or lecture experience through pragmatic and easy-to-use features including screen sharing, breakout rooms, document collaboration, whiteboards, quizzes/surveys, recordings and much more.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 September 2022, 8:29 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-22T20:29:37+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "130",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2983/icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2983/icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2983/2022-07-29%2017_01_09-Online%20Courses_%20European%20Rivers.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 658579,
+            "firstname": "pro-web",
+            "lastname": "at",
+            "url": "https://moodle.org/user/profile.php?id=658579"
+        },
+        {
+            "id": 5004519,
+            "firstname": "Michael",
+            "lastname": "Jagger",
+            "url": "https://moodle.org/user/profile.php?id=5004519"
+        }
+    ],
+    "descriptors": []
+}

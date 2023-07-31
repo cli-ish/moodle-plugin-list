@@ -1,0 +1,37 @@
+[
+    {
+        "id": "29330",
+        "name": "v4.2.1",
+        "url": "https://moodle.org/plugins/download.php/29330/mod_wordcloud_moodle32_2017120120.zip"
+    },
+    {
+        "id": "28176",
+        "name": "v4.1.0",
+        "url": "https://moodle.org/plugins/download.php/28176/mod_wordcloud_moodle32_2016091107.zip"
+    },
+    {
+        "id": "26527",
+        "name": "v3.11.2",
+        "url": "https://moodle.org/plugins/download.php/26527/mod_wordcloud_moodle31_2021071012.zip"
+    },
+    {
+        "id": "29177",
+        "name": "v4.2.0",
+        "url": "https://moodle.org/plugins/download.php/29177/mod_wordcloud_moodle34_2017101008.zip"
+    },
+    {
+        "id": "26933",
+        "name": "v4.0.0",
+        "url": "https://moodle.org/plugins/download.php/26933/mod_wordcloud_moodle25_2015050609.zip"
+    },
+    {
+        "id": "26512",
+        "name": "v3.11.1",
+        "url": "https://moodle.org/plugins/download.php/26512/mod_wordcloud_moodle27_2020080617.zip"
+    },
+    {
+        "id": "24361",
+        "name": "v3.11.0",
+        "url": "https://moodle.org/plugins/download.php/24361/mod_wordcloud_moodle38_2021010915.zip"
+    }
+]

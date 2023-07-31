@@ -1,0 +1,57 @@
+[
+    {
+        "id": "27653",
+        "name": "3.7.0-build-2022090100",
+        "url": "https://moodle.org/plugins/download.php/27653/auth_antihammer_moodle34_2010060113.zip"
+    },
+    {
+        "id": "26453",
+        "name": "3.6.3-build-2020121603",
+        "url": "https://moodle.org/plugins/download.php/26453/auth_antihammer_moodle30_2021040205.zip"
+    },
+    {
+        "id": "22083",
+        "name": "3.5.3-build-2020070100",
+        "url": "https://moodle.org/plugins/download.php/22083/auth_antihammer_moodle27_2019080815.zip"
+    },
+    {
+        "id": "15255",
+        "name": "3.3.0-build-2017092501",
+        "url": "https://moodle.org/plugins/download.php/15255/auth_antihammer_moodle37_2017031110.zip"
+    },
+    {
+        "id": "13882",
+        "name": "3.0.0-build-2017020100",
+        "url": "https://moodle.org/plugins/download.php/13882/auth_antihammer_moodle32_2011040216.zip"
+    },
+    {
+        "id": "10134",
+        "name": "2.7.0-build-2015080100",
+        "url": "https://moodle.org/plugins/download.php/10134/auth_antihammer_moodle39_2013050103.zip"
+    },
+    {
+        "id": "23107",
+        "name": "3.6.0-build-2020121600",
+        "url": "https://moodle.org/plugins/download.php/23107/auth_antihammer_moodle38_2021020600.zip"
+    },
+    {
+        "id": "21710",
+        "name": "3.5.2-build-2018050302",
+        "url": "https://moodle.org/plugins/download.php/21710/auth_antihammer_moodle37_2012090808.zip"
+    },
+    {
+        "id": "21183",
+        "name": "3.5.1-build-2018050301",
+        "url": "https://moodle.org/plugins/download.php/21183/auth_antihammer_moodle27_2011121113.zip"
+    },
+    {
+        "id": "16546",
+        "name": "3.5.0-build-2018050300",
+        "url": "https://moodle.org/plugins/download.php/16546/auth_antihammer_moodle35_2019030906.zip"
+    },
+    {
+        "id": "13160",
+        "name": "2.7.1-build-2017020100",
+        "url": "https://moodle.org/plugins/download.php/13160/auth_antihammer_moodle32_2018011014.zip"
+    }
+]

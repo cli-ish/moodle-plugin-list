@@ -1,0 +1,49 @@
+{
+    "id": 929,
+    "index": 1225,
+    "name": "Multi-lingual Content",
+    "frankenstyle": "filter_multilangsecond",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_multilangsecond",
+    "shortdescription": "This filter is a more flexible version of multilang filter. One of three possible choices can be selected by the filter admin setting: HTML syntax, Non HTML syntax or\r\nBoth. If the non html syntax is chosen language block looks like: {mlang en}English{mlang}{mlang bg}Bulgarian{mlang}. In case of Html syntax, language block is a sequence of identical html tags with lang=\"XX\" attributes span or div or any other.",
+    "timelastreleased": {
+        "absdate": "Saturday, 17 October 2015, 2:09 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-10-17T14:09:54+08:00"
+    },
+    "aggsites": "118",
+    "aggdownloads": "24",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1335754,
+            "firstname": "Vanyo",
+            "lastname": "Georgiev",
+            "url": "https://moodle.org/user/profile.php?id=1335754"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Languages"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 2580,
+    "index": 610,
+    "name": "TurtleStitch submissions",
+    "frankenstyle": "assignsubmission_turtlestitch",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_turtlestitch",
+    "shortdescription": "Add to your Moodle assignments the ability to include TurtleStitch projects",
+    "timelastreleased": {
+        "absdate": "Monday, 15 March 2021, 9:27 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-15T09:27:04+08:00"
+    },
+    "aggsites": "289",
+    "aggdownloads": "190",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2580/turtlestitchMoodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2580/turtlestitchMoodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2580/pluginTurtleStitch1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2580/pluginTurtleStitch2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2580/pluginTurtleStitch3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 134030,
+            "firstname": "Joan",
+            "lastname": "Guill\u00e9n",
+            "url": "https://moodle.org/user/profile.php?id=134030"
+        }
+    ],
+    "descriptors": []
+}

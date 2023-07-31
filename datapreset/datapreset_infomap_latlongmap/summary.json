@@ -1,0 +1,53 @@
+{
+    "id": 971,
+    "index": 1732,
+    "name": "Infomap (plugin version)",
+    "frankenstyle": "datapreset_infomap_latlongmap",
+    "plugintype": {
+        "type": "datapreset",
+        "name": "Database / Preset"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/datapreset_infomap_latlongmap",
+    "shortdescription": "Preset to use datafield_latlongmap (a modified version of the latlong field) to enable use of the local_map geographical map API.",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 December 2013, 7:22 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-12-05T19:22:12+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "6",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/971/latlongmap_add-nq8.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/971/latlongmap_list-nq8.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 33910,
+            "firstname": "Dave",
+            "lastname": "Balch",
+            "url": "https://moodle.org/user/profile.php?id=33910"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Geography"
+        }
+    ]
+}

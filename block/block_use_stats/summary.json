@@ -1,0 +1,49 @@
+{
+    "id": 432,
+    "index": 237,
+    "name": "Use Stats",
+    "frankenstyle": "block_use_stats",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_use_stats",
+    "shortdescription": "Provides time base use stats indicators. The compilation library is used by the \"training session\" report plugin.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 June 2023, 2:31 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-06T14:31:24+08:00"
+    },
+    "aggsites": "908",
+    "aggdownloads": "527",
+    "aggfavs": "33",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/432/use_stats_block.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/432/use_stats_detail.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

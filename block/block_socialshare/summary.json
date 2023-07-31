@@ -1,0 +1,45 @@
+{
+    "id": 1473,
+    "index": 1318,
+    "name": "SocialShare",
+    "frankenstyle": "block_socialshare",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_socialshare",
+    "shortdescription": "Adds social networks buttons to your Moodle",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 August 2015, 5:56 PM",
+        "reldate": "8 years",
+        "iso8601date": "2015-08-06T17:56:18+08:00"
+    },
+    "aggsites": "76",
+    "aggdownloads": "18",
+    "aggfavs": "18",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1473/SocialShare2.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1975923,
+            "firstname": "Sekhar",
+            "lastname": "Jajimoggala",
+            "url": "https://moodle.org/user/profile.php?id=1975923"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

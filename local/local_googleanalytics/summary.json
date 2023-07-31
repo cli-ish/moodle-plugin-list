@@ -1,0 +1,45 @@
+{
+    "id": 839,
+    "index": 1284,
+    "name": "Google Analytics",
+    "frankenstyle": "local_googleanalytics",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_googleanalytics",
+    "shortdescription": "This plugin is replaced by the local_analytics plugin which can communicate with Google Analytics and Piwik!",
+    "timelastreleased": {
+        "absdate": "Friday, 30 August 2013, 10:31 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-30T22:31:49+08:00"
+    },
+    "aggsites": "67",
+    "aggdownloads": "20",
+    "aggfavs": "17",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/839/moodlegoogleanalytics.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/839/moodlegoogleanalytics.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/839/moodlegoogleanalytics.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 907814,
+            "firstname": "Bas",
+            "lastname": "Brands",
+            "url": "https://moodle.org/user/profile.php?id=907814"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Analytics"
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "id": "28276",
+        "name": "2.12-for-moodle-3.9-4.1-build-2023010300",
+        "url": "https://moodle.org/plugins/download.php/28276/enrol_attributes_moodle30_2020051116.zip"
+    },
+    {
+        "id": "27486",
+        "name": "2.11-for-moodle-3.5-4.0-build-2022090500",
+        "url": "https://moodle.org/plugins/download.php/27486/enrol_attributes_moodle31_2017100710.zip"
+    },
+    {
+        "id": "17906",
+        "name": "2.8-for-moodle-2.7-3.5-build-2018092300",
+        "url": "https://moodle.org/plugins/download.php/17906/enrol_attributes_moodle40_2017101206.zip"
+    },
+    {
+        "id": "3973",
+        "name": "version-1.1-build-2013090100",
+        "url": "https://moodle.org/plugins/download.php/3973/enrol_attributes_moodle26_2010040215.zip"
+    },
+    {
+        "id": "2986",
+        "name": "version-1.0-build-2013050100",
+        "url": "https://moodle.org/plugins/download.php/2986/enrol_attributes_moodle34_2017070911.zip"
+    },
+    {
+        "id": "25266",
+        "name": "2.10-for-moodle-3.5-3.11-build-2021100800",
+        "url": "https://moodle.org/plugins/download.php/25266/enrol_attributes_moodle36_2020021209.zip"
+    },
+    {
+        "id": "25001",
+        "name": "2.9.2-for-moodle-3.5-3.11-build-2021082400",
+        "url": "https://moodle.org/plugins/download.php/25001/enrol_attributes_moodle26_2016040610.zip"
+    },
+    {
+        "id": "24579",
+        "name": "2.9.1-for-moodle-3.5-3.11-build-2021063000",
+        "url": "https://moodle.org/plugins/download.php/24579/enrol_attributes_moodle33_2023050213.zip"
+    },
+    {
+        "id": "23044",
+        "name": "2.9-for-moodle-3.5-3.9-build-2020120800",
+        "url": "https://moodle.org/plugins/download.php/23044/enrol_attributes_moodle32_2022110705.zip"
+    },
+    {
+        "id": "18990",
+        "name": "2.8-for-moodle-3.5-3.9-build-2018092300",
+        "url": "https://moodle.org/plugins/download.php/18990/enrol_attributes_moodle33_2012050407.zip"
+    },
+    {
+        "id": "17863",
+        "name": "2.7-for-moodle-2.7-3.5-build-2018092000",
+        "url": "https://moodle.org/plugins/download.php/17863/enrol_attributes_moodle33_2015091012.zip"
+    },
+    {
+        "id": "17533",
+        "name": "2.6-for-moodle-2.7-3.5-build-2018080300",
+        "url": "https://moodle.org/plugins/download.php/17533/enrol_attributes_moodle36_2015020407.zip"
+    },
+    {
+        "id": "16923",
+        "name": "2.5.2-for-moodle-2.7-3.5-build-2018050202",
+        "url": "https://moodle.org/plugins/download.php/16923/enrol_attributes_moodle39_2015070603.zip"
+    },
+    {
+        "id": "16715",
+        "name": "2.5.1-for-moodle-2.7-3.5-build-2018050201",
+        "url": "https://moodle.org/plugins/download.php/16715/enrol_attributes_moodle25_2016041113.zip"
+    },
+    {
+        "id": "16534",
+        "name": "2.5-for-moodle-2.7-3.5-build-2018050200",
+        "url": "https://moodle.org/plugins/download.php/16534/enrol_attributes_moodle38_2014080801.zip"
+    },
+    {
+        "id": "13909",
+        "name": "2.4.2-for-moodle-2.7-3.3-build-2017050100",
+        "url": "https://moodle.org/plugins/download.php/13909/enrol_attributes_moodle32_2010020719.zip"
+    },
+    {
+        "id": "13058",
+        "name": "2.4.1-for-moodle-2.7-3.2-build-2017012500",
+        "url": "https://moodle.org/plugins/download.php/13058/enrol_attributes_moodle36_2012021217.zip"
+    },
+    {
+        "id": "12743",
+        "name": "2.4-for-moodle-2.7-3.2-build-2016120100",
+        "url": "https://moodle.org/plugins/download.php/12743/enrol_attributes_moodle38_2015070401.zip"
+    },
+    {
+        "id": "11971",
+        "name": "2.3.1-for-moodle-2.7-3.1-build-2016080801",
+        "url": "https://moodle.org/plugins/download.php/11971/enrol_attributes_moodle39_2017010604.zip"
+    },
+    {
+        "id": "11934",
+        "name": "2.3-for-moodle-2.7-3.1-build-2016080800",
+        "url": "https://moodle.org/plugins/download.php/11934/enrol_attributes_moodle35_2015080715.zip"
+    },
+    {
+        "id": "11817",
+        "name": "2.2-for-moodle-2.7-3.1-build-2016072500",
+        "url": "https://moodle.org/plugins/download.php/11817/enrol_attributes_moodle34_2010081117.zip"
+    },
+    {
+        "id": "9762",
+        "name": "2.1-for-moodle-2.7-3.0-build-2015111700",
+        "url": "https://moodle.org/plugins/download.php/9762/enrol_attributes_moodle39_2016100110.zip"
+    },
+    {
+        "id": "9505",
+        "name": "version-2.0-for-moodle-2.7-2.9-build-2015101300",
+        "url": "https://moodle.org/plugins/download.php/9505/enrol_attributes_moodle30_2015100119.zip"
+    },
+    {
+        "id": "7066",
+        "name": "version-1.3-build-2013100100",
+        "url": "https://moodle.org/plugins/download.php/7066/enrol_attributes_moodle26_2018081004.zip"
+    }
+]

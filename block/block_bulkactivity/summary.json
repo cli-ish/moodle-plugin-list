@@ -1,0 +1,47 @@
+{
+    "id": 2410,
+    "index": 652,
+    "name": "Bulk Activity Creation",
+    "frankenstyle": "block_bulkactivity",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_bulkactivity",
+    "shortdescription": "This block plugin allows users to create activities/resources in bulk. In other words, a moodle module can be copied to one or more courses or one or more categories/subcategories in one go.",
+    "timelastreleased": {
+        "absdate": "Sunday, 20 February 2022, 10:27 PM",
+        "reldate": "17 months",
+        "iso8601date": "2022-02-20T22:27:59+08:00"
+    },
+    "aggsites": "179",
+    "aggdownloads": "166",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2410/Bulk%20creator.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2410/Bulk%20creator.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2410/screenshot%20one.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2410/screenshot%20three.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2410/screenshot%20two.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2644943,
+            "firstname": "Shubhendra",
+            "lastname": "Doiphode",
+            "url": "https://moodle.org/user/profile.php?id=2644943"
+        }
+    ],
+    "descriptors": []
+}

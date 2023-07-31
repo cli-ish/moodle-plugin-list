@@ -1,0 +1,59 @@
+{
+    "id": 1899,
+    "index": 1413,
+    "name": "Auto activate quiz attempt button access rule",
+    "frankenstyle": "quizaccess_activateattempt",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_activateattempt",
+    "shortdescription": "The \u201cActivate Attempt\u201d plugin makes the \u201cAttempt quiz now\u201d button auto-appear at quiz open timing without requiring to refresh the page.",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 October 2017, 6:17 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-10-05T18:17:40+08:00"
+    },
+    "aggsites": "48",
+    "aggdownloads": "14",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1899/iitblogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1899/iitblogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1899/pasted%20image%204.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1899/pasted%20image%200.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1899/pasted%20image%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1899/pasted%20image%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1899/pasted%20image%203.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2267258,
+            "firstname": "IIT",
+            "lastname": "Bombay",
+            "url": "https://moodle.org/user/profile.php?id=2267258"
+        },
+        {
+            "id": 2221549,
+            "firstname": "Amrata",
+            "lastname": "Ramchandani",
+            "url": "https://moodle.org/user/profile.php?id=2221549"
+        }
+    ],
+    "descriptors": []
+}

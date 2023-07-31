@@ -1,0 +1,45 @@
+{
+    "id": 430,
+    "index": 1980,
+    "name": "Exploitation technical advices",
+    "frankenstyle": "local_technicalsignals",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_technicalsignals",
+    "shortdescription": "This small plugins provides a light way to display technical administration global advices to all users over the above the Moodle screen.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 February 2017, 5:35 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-02-22T17:35:37+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "2",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/430/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

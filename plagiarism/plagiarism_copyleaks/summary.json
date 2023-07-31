@@ -1,0 +1,59 @@
+{
+    "id": 2788,
+    "index": 214,
+    "name": "Copyleaks Plagiarism and AI Content Detector plugin",
+    "frankenstyle": "plagiarism_copyleaks",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_copyleaks",
+    "shortdescription": "Bring the power of Copyleaks, an official solution provider, to Moodle! Quickly and easily detect potential plagiarism, AI-generated content, paraphrasing, and more.",
+    "timelastreleased": {
+        "absdate": "Sunday, 14 May 2023, 10:24 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-14T22:24:29+08:00"
+    },
+    "aggsites": "162",
+    "aggdownloads": "590",
+    "aggfavs": "68",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2788/CL%20logo%20new.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2788/CL%20logo%20new.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2788/Moodle%20Plugin_Diagram-01_updated.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2788/assignment-grading-page.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2788/Moodle_ScreenRecording-01.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2788/Moodle_ScreenRecording-02.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2788/moodle-copyleaks-report.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2788/MoodleSolutionProviderTM_Logo_PrimaryColour_RGB.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2788/student-access-report.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3456647,
+            "firstname": "Bayan",
+            "lastname": "Abuawad",
+            "url": "https://moodle.org/user/profile.php?id=3456647"
+        }
+    ],
+    "descriptors": []
+}

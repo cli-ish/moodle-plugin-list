@@ -1,0 +1,91 @@
+{
+    "id": 934,
+    "index": 700,
+    "name": "Authentication by IP",
+    "frankenstyle": "auth_ip",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_ip",
+    "shortdescription": "This authentication plugin helps to manage manual accounts being accessed only by the list of restricted IPs.",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 February 2022, 4:53 PM",
+        "reldate": "17 months",
+        "iso8601date": "2022-02-17T16:53:12+08:00"
+    },
+    "aggsites": "85",
+    "aggdownloads": "148",
+    "aggfavs": "21",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/934/activated.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/934/auth_type_updated.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/934/creating_user.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/934/enabled.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/934/installing.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/934/menu.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/934/notifications.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/934/settings%20%281%29.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/934/settings_with_values.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/934/settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1518376,
+            "firstname": "Jordi",
+            "lastname": "Pujol-Ahull\u00f3",
+            "url": "https://moodle.org/user/profile.php?id=1518376"
+        },
+        {
+            "id": 1226308,
+            "firstname": "Robert",
+            "lastname": "Marsal",
+            "url": "https://moodle.org/user/profile.php?id=1226308"
+        },
+        {
+            "id": 2019496,
+            "firstname": "Daniel",
+            "lastname": "Tome Fernandez",
+            "url": "https://moodle.org/user/profile.php?id=2019496"
+        },
+        {
+            "id": 2409725,
+            "firstname": "Cristian",
+            "lastname": "Martinez",
+            "url": "https://moodle.org/user/profile.php?id=2409725"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 927,
+    "index": 108,
+    "name": "FontAwesome icons",
+    "frankenstyle": "filter_fontawesome",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_fontawesome",
+    "shortdescription": "This filter allows you to use fontawesome icons in the Moodle text editor without worrying about the HTML syntax.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 October 2022, 8:53 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-10-12T20:53:32+08:00"
+    },
+    "aggsites": "2073",
+    "aggdownloads": "1k",
+    "aggfavs": "84",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/927/FFHS_FontAwesome-Logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/927/FFHS_FontAwesome-Logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/927/Add_icon_1.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/927/Add_icon_2.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2706871,
+            "firstname": "FFHS",
+            "lastname": "(Fernfachhochschule Schweiz)",
+            "url": "https://moodle.org/user/profile.php?id=2706871"
+        },
+        {
+            "id": 2177440,
+            "firstname": "Adrian",
+            "lastname": "Perez Rodriguez",
+            "url": "https://moodle.org/user/profile.php?id=2177440"
+        },
+        {
+            "id": 2624996,
+            "firstname": "Christoph",
+            "lastname": "Karlen",
+            "url": "https://moodle.org/user/profile.php?id=2624996"
+        },
+        {
+            "id": 2373066,
+            "firstname": "Sascha",
+            "lastname": "Vogel",
+            "url": "https://moodle.org/user/profile.php?id=2373066"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

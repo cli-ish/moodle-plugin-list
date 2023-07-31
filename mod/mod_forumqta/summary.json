@@ -1,0 +1,55 @@
+{
+    "id": 1648,
+    "index": 1620,
+    "name": "ForumQ2A",
+    "frankenstyle": "mod_forumqta",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_forumqta",
+    "shortdescription": "ForumQ2A is a new forum activity based on the open source platform Question2Answer(www.question2answer.org).",
+    "timelastreleased": {
+        "absdate": "Saturday, 18 November 2017, 12:18 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-11-18T00:18:46+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "8",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1648/1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1648/2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936995,
+            "firstname": "Leyun",
+            "lastname": "Xia",
+            "url": "https://moodle.org/user/profile.php?id=1936995"
+        },
+        {
+            "id": 2234362,
+            "firstname": "Centre e-learning HES-SO",
+            "lastname": "Cyberlearn",
+            "url": "https://moodle.org/user/profile.php?id=2234362"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

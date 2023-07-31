@@ -1,0 +1,52 @@
+{
+    "id": 1340,
+    "index": 849,
+    "name": "Moodle Mobile app section and activity availability restrictions",
+    "frankenstyle": "availability_mobileapp",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_mobileapp",
+    "shortdescription": "With this plugin you can choose if an activity, resource or a complete section is (or is not) visible for users accessing the course via the Mobile app.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 2 June 2021, 6:54 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-06-02T18:54:13+08:00"
+    },
+    "aggsites": "473",
+    "aggdownloads": "113",
+    "aggfavs": "62",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1340/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1340/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1340/availability01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1340/availability02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1340/availability03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 49568,
+            "firstname": "Juan",
+            "lastname": "Leyva",
+            "url": "https://moodle.org/user/profile.php?id=49568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

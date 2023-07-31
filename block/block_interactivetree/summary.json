@@ -1,0 +1,58 @@
+{
+    "id": 1408,
+    "index": 2002,
+    "name": "Interactive Tree",
+    "frankenstyle": "block_interactivetree",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_interactivetree",
+    "shortdescription": "used  to built dynamic hierarchical tree.",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 June 2016, 5:38 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-06-25T17:38:09+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "2",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1408/interactivetree_up2.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1408/interactivetree_up3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1408/interactivetree_up4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1408/interactivetree_up5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1408/interactivetree_up6.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1564753,
+            "firstname": "hemalatha",
+            "lastname": "arun",
+            "url": "https://moodle.org/user/profile.php?id=1564753"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

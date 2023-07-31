@@ -1,0 +1,52 @@
+{
+    "id": 426,
+    "index": 1154,
+    "name": "Technical Project",
+    "frankenstyle": "mod_techproject",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_techproject",
+    "shortdescription": "The \"techproject\" activity module provides a complete project driving tool, IEEE compliant, in a pedagogical environment, for real project use or for pedagogical approach of project management.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 3 May 2023, 10:35 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-03T22:35:28+08:00"
+    },
+    "aggsites": "90",
+    "aggdownloads": "31",
+    "aggfavs": "12",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/426/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/426/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/426/screensample1_reqflatview.gif?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/426/screensample6_detail.gif?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/426/screensample7_teacher.gif?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

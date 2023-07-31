@@ -1,0 +1,52 @@
+{
+    "id": 984,
+    "index": 445,
+    "name": "Poodll Anywhere (TinyMCE)",
+    "frankenstyle": "tinymce_poodll",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_poodll",
+    "shortdescription": "Poodll Anywhere for TinyMCE allows the user to record audio and video or draw pictures, or snap pictures, directly into forum posts, assignment descriptions, page resource content, question descriptions, question responses and other areas. ",
+    "timelastreleased": {
+        "absdate": "Monday, 14 May 2018, 6:45 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-14T18:45:22+08:00"
+    },
+    "aggsites": "873",
+    "aggdownloads": "271",
+    "aggfavs": "33",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/984/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/984/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/984/Poodll%20Anywhere%20%28TinyMCE%29%20Audio%20and%20video%20recording%20Banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/984/MoodleTile_AnywhereTinyMCE.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/984/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88_010614_041153_PM.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

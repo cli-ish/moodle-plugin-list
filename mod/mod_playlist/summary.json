@@ -1,0 +1,56 @@
+{
+    "id": 862,
+    "index": 1941,
+    "name": "Playlist",
+    "frankenstyle": "mod_playlist",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_playlist",
+    "shortdescription": "The playlist resource plugin provides a way to save a list of rtmp URLs which can then be referenced by the filter_rtmp plugin.",
+    "timelastreleased": {
+        "absdate": "Monday, 27 January 2014, 11:39 PM",
+        "reldate": "10 years",
+        "iso8601date": "2014-01-27T23:39:58+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/862/icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/862/icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/862/filter_rtmp_link.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/862/mod_playlist.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/862/playlist.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 268334,
+            "firstname": "Fred",
+            "lastname": "Woolard",
+            "url": "https://moodle.org/user/profile.php?id=268334"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Flash"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "id": 131,
+    "index": 338,
+    "name": "Multinumerical",
+    "frankenstyle": "qtype_multinumerical",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_multinumerical",
+    "shortdescription": "This question type allows asking questions such as :\r\n\r\nPlease enter X, Y, and Z, such as :\r\n\r\n    X + Y + Z > 12",
+    "timelastreleased": {
+        "absdate": "Tuesday, 17 January 2023, 1:11 AM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-17T01:11:42+08:00"
+    },
+    "aggsites": "391",
+    "aggdownloads": "395",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/131/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/131/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/131/multinumerical.gif?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

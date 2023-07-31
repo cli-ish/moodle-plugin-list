@@ -1,0 +1,45 @@
+{
+    "id": 450,
+    "index": 1612,
+    "name": "Core Patchs",
+    "frankenstyle": "report_patches",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_patches",
+    "shortdescription": "Scans the whole code base and searches marked patches in Moodle code.",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 September 2012, 10:03 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-09-20T22:03:59+08:00"
+    },
+    "aggsites": "31",
+    "aggdownloads": "8",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/450/report_patches.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Developer"
+        }
+    ]
+}

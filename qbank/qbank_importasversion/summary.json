@@ -1,0 +1,53 @@
+{
+    "id": 3155,
+    "index": 1112,
+    "name": "Import question as new version",
+    "frankenstyle": "qbank_importasversion",
+    "plugintype": {
+        "type": "qbank",
+        "name": "Question bank plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbank_importasversion",
+    "shortdescription": "This plugin allows you to import a question from a Moodle XML file as a new version of an existing question.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 14 June 2023, 10:50 PM",
+        "reldate": "7 weeks",
+        "iso8601date": "2023-06-14T22:50:26+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "36",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3155/action%20menu.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3155/form%20for%20uploading.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3155/success%20message.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 4909595,
+            "firstname": "Andreas",
+            "lastname": "Steiger",
+            "url": "https://moodle.org/user/profile.php?id=4909595"
+        }
+    ],
+    "descriptors": []
+}

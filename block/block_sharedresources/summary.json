@@ -1,0 +1,45 @@
+{
+    "id": 722,
+    "index": 1790,
+    "name": "Shared Resources Tools",
+    "frankenstyle": "block_sharedresources",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_sharedresources",
+    "shortdescription": "This utility block is to be used with the Sharedresource module,and the Sharedresources central library (local). It provides some conversion and feeding utilities.",
+    "timelastreleased": {
+        "absdate": "Sunday, 17 April 2016, 10:46 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-17T22:46:56+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "5",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/722/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

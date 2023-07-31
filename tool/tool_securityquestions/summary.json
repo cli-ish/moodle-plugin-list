@@ -1,0 +1,77 @@
+{
+    "id": 2377,
+    "index": 1533,
+    "name": "Security Questions",
+    "frankenstyle": "tool_securityquestions",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_securityquestions",
+    "shortdescription": "This plugin adds a framework for adding and enforcing security questions for users to perform a password reset. Currently it only operates on the Moodle Core 'Forgot Password' page, however it is easily extensible to other forms.\r\n\r\nNOTE: This plugin only has native compatability with Moodle 3.8. For Moodle 3.7, MDL-66173 must be cherry-picked to allow the plugin to interact with Moodle. See Readme for more detailed instructions",
+    "timelastreleased": {
+        "absdate": "Wednesday, 26 February 2020, 11:28 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-02-26T11:28:52+08:00"
+    },
+    "aggsites": "34",
+    "aggdownloads": "10",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2377/key-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2377/key-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2377/Active%20questions.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2377/Adding%20questions.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2377/Locked%20Out.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2377/New%20responses.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2377/Password%20Reset.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2377/Reset%20Lockout.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2377/Settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2377/Update%20Responses.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2377/User%20Unlocked.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 2685812,
+            "firstname": "Peter",
+            "lastname": "Burnett",
+            "url": "https://moodle.org/user/profile.php?id=2685812"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        }
+    ],
+    "descriptors": []
+}

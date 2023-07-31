@@ -1,0 +1,49 @@
+{
+    "id": 468,
+    "index": 32,
+    "name": "Game",
+    "frankenstyle": "mod_game",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_game",
+    "shortdescription": "The game activity module makes use of questions, quizzes and glossaries to create offer a variety of interactive games.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 April 2023, 5:24 AM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-25T05:24:55+08:00"
+    },
+    "aggsites": "8762",
+    "aggdownloads": "2k",
+    "aggfavs": "284",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/468/mod_game.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/468/mod_game.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/468/games.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 22735,
+            "firstname": "Vasilis",
+            "lastname": "Daloukas",
+            "url": "https://moodle.org/user/profile.php?id=22735"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Gamification"
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+[
+    {
+        "id": "25461",
+        "name": "v0.0.4-build2021090103",
+        "url": "https://moodle.org/plugins/download.php/25461/tool_tcpdffonts_moodle26_2012100715.zip"
+    },
+    {
+        "id": "25438",
+        "name": "v0.0.3-build2021090102",
+        "url": "https://moodle.org/plugins/download.php/25438/tool_tcpdffonts_moodle31_2022090520.zip"
+    },
+    {
+        "id": "25132",
+        "name": "v0.0.2-build2021090101",
+        "url": "https://moodle.org/plugins/download.php/25132/tool_tcpdffonts_moodle25_2012080207.zip"
+    }
+]

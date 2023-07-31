@@ -1,0 +1,45 @@
+{
+    "id": 1238,
+    "index": 1189,
+    "name": "Image drag & drop",
+    "frankenstyle": "atto_imagedragdrop",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_imagedragdrop",
+    "shortdescription": "Automatically uploads images dropped into Atto from your computer.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 November 2014, 11:55 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-11-28T11:55:25+08:00"
+    },
+    "aggsites": "223",
+    "aggdownloads": "27",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1159203,
+            "firstname": "Paul",
+            "lastname": "Nicholls",
+            "url": "https://moodle.org/user/profile.php?id=1159203"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

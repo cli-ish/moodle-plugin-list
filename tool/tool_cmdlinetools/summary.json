@@ -1,0 +1,40 @@
+{
+    "id": 1715,
+    "index": 1974,
+    "name": "command line manager",
+    "frankenstyle": "tool_cmdlinetools",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_cmdlinetools",
+    "shortdescription": "admin/tool/cmdlinetools : Command line tools for moodle technical administration\r\ncmdlinetools is a command line tools integrated in moodle that enable execute moodle administrative task threw php command lines",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 October 2016, 4:19 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-10-06T16:19:29+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "2",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 922669,
+            "firstname": "C\u00e9line",
+            "lastname": "Perves",
+            "url": "https://moodle.org/user/profile.php?id=922669"
+        }
+    ],
+    "descriptors": []
+}

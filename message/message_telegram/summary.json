@@ -1,0 +1,44 @@
+{
+    "id": 1841,
+    "index": 1087,
+    "name": "Telegram",
+    "frankenstyle": "message_telegram",
+    "plugintype": {
+        "type": "message",
+        "name": "Notification plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/message_telegram",
+    "shortdescription": "This plugin provides a Moodle message output for Telegram. Users can configure the plugin to send Moodle notifications through a Telegram Bot and channel.",
+    "timelastreleased": {
+        "absdate": "Thursday, 13 July 2017, 3:08 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-07-13T03:08:10+08:00"
+    },
+    "aggsites": "258",
+    "aggdownloads": "39",
+    "aggfavs": "43",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1841/saveprefs.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1841/Screen%20Shot%202017-04-21%20at%204.36.32%20PM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 9561,
+            "firstname": "Mike",
+            "lastname": "Churchward",
+            "url": "https://moodle.org/user/profile.php?id=9561"
+        }
+    ],
+    "descriptors": []
+}

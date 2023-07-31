@@ -1,0 +1,59 @@
+{
+    "id": 2960,
+    "index": 417,
+    "name": "Card Box",
+    "frankenstyle": "mod_cardbox",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_cardbox",
+    "shortdescription": "The Card Box activity can help your students memorize vocabulary, technical terms, formulas and definitions. In order to support its students in independently repeating extensive learning content, RWTH Aachen University would like to offer a digital flashcard system. This is to be developed as a plug-in for Moodle, which the university has been using since March 2019 as a teaching and learning platform.\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 5 June 2023, 3:23 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-05T15:23:44+08:00"
+    },
+    "aggsites": "139",
+    "aggdownloads": "294",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2960/Cardbox_manage%20topics%20%28002%29.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2960/Cardbox_Practice_correct%20answer.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2960/Cardbox_practice_results%20%28002%29.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2960/Cardbox_Question%20settings%20%28002%29.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2960/Cardbox_Solution%20Settings%20%28002%29.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3211286,
+            "firstname": "Amrita",
+            "lastname": "Deb Dutta",
+            "url": "https://moodle.org/user/profile.php?id=3211286"
+        },
+        {
+            "id": 4971908,
+            "firstname": "Valentin",
+            "lastname": "Koser",
+            "url": "https://moodle.org/user/profile.php?id=4971908"
+        }
+    ],
+    "descriptors": []
+}

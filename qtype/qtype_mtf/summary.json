@@ -1,0 +1,44 @@
+{
+    "id": 1960,
+    "index": 192,
+    "name": "MTF (ETH)",
+    "frankenstyle": "qtype_mtf",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_mtf",
+    "shortdescription": "Multi True false in one stem (question).\r\n\r\nBrief: The MC question type as it exists in Moodle is not very ideal, since you can only configure questions which are not very well designed regarding best practices of MC questions. \r\n\r\nTeachers can have more than one true/false question in same stem. this saves creating new questions for each stem. especially when it comes to an essay followed by many questions.\r\n",
+    "timelastreleased": {
+        "absdate": "Sunday, 4 June 2023, 2:32 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-04T14:32:13+08:00"
+    },
+    "aggsites": "796",
+    "aggdownloads": "654",
+    "aggfavs": "27",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1960/Screen%20Shot%202017-10-20%20at%2011.05.05.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1960/Screen%20Shot%202017-10-20%20at%2011.05.31.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 91386,
+            "firstname": "ETH",
+            "lastname": "Z\u00fcrich",
+            "url": "https://moodle.org/user/profile.php?id=91386"
+        }
+    ],
+    "descriptors": []
+}

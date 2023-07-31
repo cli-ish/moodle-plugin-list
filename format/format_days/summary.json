@@ -1,0 +1,50 @@
+{
+    "id": 465,
+    "index": 1290,
+    "name": "Daily format",
+    "frankenstyle": "format_days",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_days",
+    "shortdescription": "Modified version of Weekly format that displays sections by day rather than week.",
+    "timelastreleased": {
+        "absdate": "Monday, 31 December 2012, 7:08 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-12-31T07:08:56+08:00"
+    },
+    "aggsites": "19",
+    "aggdownloads": "20",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/465/daily1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/465/daily2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/465/dailyformat1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/465/dailyformat2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 860723,
+            "firstname": "Nathan",
+            "lastname": "Robbins",
+            "url": "https://moodle.org/user/profile.php?id=860723"
+        }
+    ],
+    "descriptors": []
+}

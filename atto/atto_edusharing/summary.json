@@ -1,0 +1,46 @@
+{
+    "id": 2296,
+    "index": 333,
+    "name": "edu-sharing Atto Plugin",
+    "frankenstyle": "atto_edusharing",
+    "plugintype": {
+        "type": "atto",
+        "name": "Atto HTML editor / Atto plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/atto_edusharing",
+    "shortdescription": "The edu-sharing atto plugin adds the option to embed all kinds of edu-sharing content to all WYSIWYG fields. The new button will open the edu-sharing search engine and let you pick an item embed. Audio and video-files will be embedded with a player. Documents will be represented by a link. You may pick which version of the content you would like to provide in the course (always the latest vs. the version you just picked)",
+    "timelastreleased": {
+        "absdate": "Monday, 28 November 2022, 5:26 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-28T17:26:29+08:00"
+    },
+    "aggsites": "77",
+    "aggdownloads": "401",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2296/edusharing.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2296/edusharing.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2296/Unbenannt.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2685541,
+            "firstname": "Christian",
+            "lastname": "Ernst",
+            "url": "https://moodle.org/user/profile.php?id=2685541"
+        },
+        {
+            "id": 5580377,
+            "firstname": "edu-sharing",
+            "lastname": "Integrations",
+            "url": "https://moodle.org/user/profile.php?id=5580377"
+        }
+    ],
+    "descriptors": []
+}

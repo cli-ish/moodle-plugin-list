@@ -1,0 +1,47 @@
+{
+    "id": 1762,
+    "index": 93,
+    "name": "Contact Form",
+    "frankenstyle": "local_contact",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_contact",
+    "shortdescription": "Contact Form is a Moodle plugin that allows your site to process and send information submitted through HTML web forms to the site's support email address or primary administrator if the support email address is not defined.",
+    "timelastreleased": {
+        "absdate": "Sunday, 7 May 2023, 10:28 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-05-07T22:28:16+08:00"
+    },
+    "aggsites": "5280",
+    "aggdownloads": "1k",
+    "aggfavs": "85",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1762/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1762/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1762/moodle-contact-form-only.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1762/moodle-contact-form-confirmation.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1762/moodle-local-contact-settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1615960,
+            "firstname": "Michael",
+            "lastname": "Milette",
+            "url": "https://moodle.org/user/profile.php?id=1615960"
+        }
+    ],
+    "descriptors": []
+}

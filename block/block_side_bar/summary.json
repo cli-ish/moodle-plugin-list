@@ -1,0 +1,55 @@
+{
+    "id": 1110,
+    "index": 979,
+    "name": "NED - Sidebar",
+    "frankenstyle": "block_side_bar",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_side_bar",
+    "shortdescription": "Allows the functionality of the Site main menu block to work within courses.",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 September 2016, 1:33 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-09-08T01:33:11+08:00"
+    },
+    "aggsites": "143",
+    "aggdownloads": "61",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1110/n_230.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1110/n_230.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1110/sidebar_3.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1110/side_bar_shot27.1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1110/side_bar_shot27.3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1110/sidebar_pic_4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2459954,
+            "firstname": "Fern",
+            "lastname": "Oliveira",
+            "url": "https://moodle.org/user/profile.php?id=2459954"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

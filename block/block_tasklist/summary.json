@@ -1,0 +1,58 @@
+{
+    "id": 3032,
+    "index": 1287,
+    "name": "Task List",
+    "frankenstyle": "block_tasklist",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_tasklist",
+    "shortdescription": "Allows users to manage their own short list of tasks.",
+    "timelastreleased": {
+        "absdate": "Monday, 7 November 2022, 6:03 AM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-07T06:03:24+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "20",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3032/Screenshot%20from%202022-11-07%2011-08-46.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2822651,
+            "firstname": "Alex",
+            "lastname": "Morris",
+            "url": "https://moodle.org/user/profile.php?id=2822651"
+        },
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2120122,
+            "firstname": "Jerry",
+            "lastname": "Shan",
+            "url": "https://moodle.org/user/profile.php?id=2120122"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "26799",
+        "name": "3.11",
+        "url": "https://moodle.org/plugins/download.php/26799/format_collapsibletopics_moodle30_2020030216.zip"
+    },
+    {
+        "id": "21762",
+        "name": "3.9",
+        "url": "https://moodle.org/plugins/download.php/21762/format_collapsibletopics_moodle28_2019120312.zip"
+    },
+    {
+        "id": "20685",
+        "name": "3.8",
+        "url": "https://moodle.org/plugins/download.php/20685/format_collapsibletopics_moodle25_2016100511.zip"
+    },
+    {
+        "id": "18475",
+        "name": "3.6",
+        "url": "https://moodle.org/plugins/download.php/18475/format_collapsibletopics_moodle38_2022100407.zip"
+    },
+    {
+        "id": "20397",
+        "name": "3.7.2",
+        "url": "https://moodle.org/plugins/download.php/20397/format_collapsibletopics_moodle26_2018050106.zip"
+    },
+    {
+        "id": "20155",
+        "name": "3.7.1",
+        "url": "https://moodle.org/plugins/download.php/20155/format_collapsibletopics_moodle36_2014030109.zip"
+    },
+    {
+        "id": "19657",
+        "name": "3.7",
+        "url": "https://moodle.org/plugins/download.php/19657/format_collapsibletopics_moodle27_2010100404.zip"
+    },
+    {
+        "id": "18323",
+        "name": "1.1-stable",
+        "url": "https://moodle.org/plugins/download.php/18323/format_collapsibletopics_moodle27_2023020511.zip"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "28981",
+        "name": "0.5.3",
+        "url": "https://moodle.org/plugins/download.php/28981/mod_wims_moodle35_2023020911.zip"
+    },
+    {
+        "id": "23892",
+        "name": "0.4.2",
+        "url": "https://moodle.org/plugins/download.php/23892/mod_wims_moodle31_2018080218.zip"
+    },
+    {
+        "id": "22072",
+        "name": "0.3.1",
+        "url": "https://moodle.org/plugins/download.php/22072/mod_wims_moodle38_2023090917.zip"
+    },
+    {
+        "id": "28026",
+        "name": "0.5.1",
+        "url": "https://moodle.org/plugins/download.php/28026/mod_wims_moodle27_2010060108.zip"
+    },
+    {
+        "id": "26499",
+        "name": "0.5.0",
+        "url": "https://moodle.org/plugins/download.php/26499/mod_wims_moodle32_2017011018.zip"
+    },
+    {
+        "id": "23740",
+        "name": "0.4.1",
+        "url": "https://moodle.org/plugins/download.php/23740/mod_wims_moodle31_2023120607.zip"
+    },
+    {
+        "id": "23715",
+        "name": "0.4.0",
+        "url": "https://moodle.org/plugins/download.php/23715/mod_wims_moodle26_2018080309.zip"
+    },
+    {
+        "id": "21884",
+        "name": "0.3.0",
+        "url": "https://moodle.org/plugins/download.php/21884/mod_wims_moodle40_2022091201.zip"
+    },
+    {
+        "id": "21613",
+        "name": "0.2.3",
+        "url": "https://moodle.org/plugins/download.php/21613/mod_wims_moodle37_2012020910.zip"
+    },
+    {
+        "id": "21081",
+        "name": "0.2.2",
+        "url": "https://moodle.org/plugins/download.php/21081/mod_wims_moodle28_2017100502.zip"
+    }
+]

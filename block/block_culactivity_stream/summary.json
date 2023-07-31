@@ -1,0 +1,40 @@
+{
+    "id": 1255,
+    "index": 383,
+    "name": "CUL Activity Stream Block",
+    "frankenstyle": "block_culactivity_stream",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_culactivity_stream",
+    "shortdescription": "A block that displays a feed containing the latest moodle messages. Part of the CUL Activity Stream suite.",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 June 2022, 11:49 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-25T23:49:26+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "324",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1255/culactivitystream.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1062329,
+            "firstname": "Amanda",
+            "lastname": "Doughty",
+            "url": "https://moodle.org/user/profile.php?id=1062329"
+        }
+    ],
+    "descriptors": []
+}

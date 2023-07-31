@@ -1,0 +1,47 @@
+{
+    "id": 1927,
+    "index": 224,
+    "name": "Syntax Highlighter",
+    "frankenstyle": "filter_syntaxhighlighter",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_syntaxhighlighter",
+    "shortdescription": "This is a filter plugin that uses a 3rd party Javascript module called highlight.js to make your code look like something you'd see in an IDE.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 May 2021, 10:26 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-24T22:26:57+08:00"
+    },
+    "aggsites": "743",
+    "aggdownloads": "560",
+    "aggfavs": "32",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1927/codehighlight.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1927/syntaxhighlighting_atto.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1927/syntaxhighlighting_labelactivity.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1602637,
+            "firstname": "Mark",
+            "lastname": "Sharp",
+            "url": "https://moodle.org/user/profile.php?id=1602637"
+        }
+    ],
+    "descriptors": []
+}

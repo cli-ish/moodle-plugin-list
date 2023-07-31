@@ -1,0 +1,49 @@
+{
+    "id": 399,
+    "index": 127,
+    "name": "Open Forum",
+    "frankenstyle": "mod_hsuforum",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_hsuforum",
+    "shortdescription": "Open forum are designed to increase engagement and provide a responsive, modern alternative to standard Moodle forums.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 12 July 2023, 2:17 AM",
+        "reldate": "3 weeks",
+        "iso8601date": "2023-07-12T02:17:12+08:00"
+    },
+    "aggsites": "1333",
+    "aggdownloads": "948",
+    "aggfavs": "100",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/399/advanced-forum-post.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/399/recent%20posts.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2053568,
+            "firstname": "Open LMS",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=2053568"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": 1931,
+    "index": 841,
+    "name": "Postgres Full Text Search",
+    "frankenstyle": "search_postgresfulltext",
+    "plugintype": {
+        "type": "search",
+        "name": "Search engine"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/search_postgresfulltext",
+    "shortdescription": "A Moodle search plugin implemented using Postgres full text indexing with optional file indexing using Apache Tika.",
+    "timelastreleased": {
+        "absdate": "Friday, 25 November 2022, 3:26 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-25T15:26:13+08:00"
+    },
+    "aggsites": "139",
+    "aggdownloads": "114",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1931/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 264793,
+            "firstname": "Matt",
+            "lastname": "Clarkson",
+            "url": "https://moodle.org/user/profile.php?id=264793"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

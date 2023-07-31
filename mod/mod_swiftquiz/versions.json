@@ -1,0 +1,32 @@
+[
+    {
+        "id": "29705",
+        "name": "0.1.4-build-2023073000",
+        "url": "https://moodle.org/plugins/download.php/29705/mod_swiftquiz_moodle33_2011020703.zip"
+    },
+    {
+        "id": "29595",
+        "name": "0.1.3-build-2023070900",
+        "url": "https://moodle.org/plugins/download.php/29595/mod_swiftquiz_moodle25_2017091101.zip"
+    },
+    {
+        "id": "29578",
+        "name": "0.1.2-build-2023070600",
+        "url": "https://moodle.org/plugins/download.php/29578/mod_swiftquiz_moodle38_2016030311.zip"
+    },
+    {
+        "id": "28512",
+        "name": "v0.1.1",
+        "url": "https://moodle.org/plugins/download.php/28512/mod_swiftquiz_moodle32_2012110600.zip"
+    },
+    {
+        "id": "27637",
+        "name": "1.0.1-2022092901",
+        "url": "https://moodle.org/plugins/download.php/27637/mod_swiftquiz_moodle25_2023101111.zip"
+    },
+    {
+        "id": "26212",
+        "name": "1.0.0-build-2019073000",
+        "url": "https://moodle.org/plugins/download.php/26212/mod_swiftquiz_moodle30_2018121215.zip"
+    }
+]

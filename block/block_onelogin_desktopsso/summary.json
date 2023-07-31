@@ -1,0 +1,45 @@
+{
+    "id": 387,
+    "index": 1550,
+    "name": "OneLogin SSO",
+    "frankenstyle": "block_onelogin_desktopsso",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_onelogin_desktopsso",
+    "shortdescription": "Allow your site display the list of apps in your configured OneLogin Account and directly connect them by simply clicking the link to the Application.",
+    "timelastreleased": {
+        "absdate": "Friday, 13 July 2012, 6:03 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-07-13T06:03:45+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "10",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/387/oneloginlogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/387/oneloginlogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/387/sshot1.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1468912,
+            "firstname": "Luis",
+            "lastname": "Velasco",
+            "url": "https://moodle.org/user/profile.php?id=1468912"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

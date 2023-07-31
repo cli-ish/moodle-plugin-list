@@ -1,0 +1,32 @@
+[
+    {
+        "id": "29687",
+        "name": "1.22",
+        "url": "https://moodle.org/plugins/download.php/29687/paygw_stripe_moodle36_2018091112.zip"
+    },
+    {
+        "id": "29625",
+        "name": "1.21",
+        "url": "https://moodle.org/plugins/download.php/29625/paygw_stripe_moodle36_2016100119.zip"
+    },
+    {
+        "id": "29397",
+        "name": "1.20",
+        "url": "https://moodle.org/plugins/download.php/29397/paygw_stripe_moodle39_2016080106.zip"
+    },
+    {
+        "id": "29391",
+        "name": "1.19",
+        "url": "https://moodle.org/plugins/download.php/29391/paygw_stripe_moodle35_2013070710.zip"
+    },
+    {
+        "id": "29382",
+        "name": "1.18",
+        "url": "https://moodle.org/plugins/download.php/29382/paygw_stripe_moodle33_2012060201.zip"
+    },
+    {
+        "id": "28870",
+        "name": "1.17",
+        "url": "https://moodle.org/plugins/download.php/28870/paygw_stripe_moodle25_2016010800.zip"
+    }
+]

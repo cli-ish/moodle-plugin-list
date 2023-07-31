@@ -1,0 +1,45 @@
+{
+    "id": 765,
+    "index": 1545,
+    "name": "Accessible for VIP",
+    "frankenstyle": "theme_accessible_for_vip",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_accessible_for_vip",
+    "shortdescription": "Accessible for visually impaired people theme",
+    "timelastreleased": {
+        "absdate": "Monday, 24 June 2013, 6:17 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-06-24T18:17:31+08:00"
+    },
+    "aggsites": "6",
+    "aggdownloads": "10",
+    "aggfavs": "2",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/765/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1606540,
+            "firstname": "Larissa",
+            "lastname": "Klaassen",
+            "url": "https://moodle.org/user/profile.php?id=1606540"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

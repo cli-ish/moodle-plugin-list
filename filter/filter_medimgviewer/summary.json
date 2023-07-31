@@ -1,0 +1,40 @@
+{
+    "id": 3008,
+    "index": 1581,
+    "name": "Medical Imaging Study Viewer filter",
+    "frankenstyle": "filter_medimgviewer",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_medimgviewer",
+    "shortdescription": "A filter to insert a medical imaging study viewer into course content.",
+    "timelastreleased": {
+        "absdate": "Monday, 6 March 2023, 9:39 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-06T21:39:28+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "9",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3008/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2941632,
+            "firstname": "Sampsa",
+            "lastname": "Lohi",
+            "url": "https://moodle.org/user/profile.php?id=2941632"
+        }
+    ],
+    "descriptors": []
+}

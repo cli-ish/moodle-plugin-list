@@ -1,0 +1,40 @@
+{
+    "id": 84,
+    "index": 1540,
+    "name": "Recommender",
+    "frankenstyle": "block_recommender",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_recommender",
+    "shortdescription": "This block offers three different recommendation services: popular activities on this course; popular courses on this site; and shared bookmarks.  Each can be enabled and configured separately.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 August 2013, 10:19 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-13T22:19:11+08:00"
+    },
+    "aggsites": "18",
+    "aggdownloads": "10",
+    "aggfavs": "12",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/84/recommender_screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93820,
+            "firstname": "Jenny",
+            "lastname": "Gray",
+            "url": "https://moodle.org/user/profile.php?id=93820"
+        }
+    ],
+    "descriptors": []
+}

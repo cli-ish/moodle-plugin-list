@@ -1,0 +1,56 @@
+{
+    "id": 1980,
+    "index": 1951,
+    "name": "RES",
+    "frankenstyle": "repository_res",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_res",
+    "shortdescription": "This plugin enables users to find media items indexed by the BBC's Research and Education Space (RES) (http://res.space/) and insert them into a course as a URL.",
+    "timelastreleased": {
+        "absdate": "Monday, 4 June 2018, 11:09 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-04T23:09:02+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "3",
+    "aggfavs": null,
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1980/BBC.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1980/BBC.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1980/moodle_plugin_thumb.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1980/moodle_plugin_audiences.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1980/moodle_plugin_search.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1980/moodle_plugin_select.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2255296,
+            "firstname": "Elliot",
+            "lastname": "Smith",
+            "url": "https://moodle.org/user/profile.php?id=2255296"
+        },
+        {
+            "id": 2442173,
+            "firstname": "Nicholas",
+            "lastname": "Shanks",
+            "url": "https://moodle.org/user/profile.php?id=2442173"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,52 @@
+{
+    "id": 1867,
+    "index": 1142,
+    "name": "Course slider",
+    "frankenstyle": "block_course_slider",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_slider",
+    "shortdescription": "A simple course slider block that displays a chosen list of courses in a carousel.",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 July 2017, 5:19 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-07-20T17:19:38+08:00"
+    },
+    "aggsites": "74",
+    "aggdownloads": "32",
+    "aggfavs": "28",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1867/block-course_slider_logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1867/block-course_slider_logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1867/block-course_slider_screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2227655,
+            "firstname": "Manoj",
+            "lastname": "Solanki",
+            "url": "https://moodle.org/user/profile.php?id=2227655"
+        },
+        {
+            "id": 230467,
+            "firstname": "Jez",
+            "lastname": "H",
+            "url": "https://moodle.org/user/profile.php?id=230467"
+        },
+        {
+            "id": 2158877,
+            "firstname": "Kevin",
+            "lastname": "Moore",
+            "url": "https://moodle.org/user/profile.php?id=2158877"
+        }
+    ],
+    "descriptors": []
+}

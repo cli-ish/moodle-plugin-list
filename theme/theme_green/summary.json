@@ -1,0 +1,45 @@
+{
+    "id": 446,
+    "index": 1948,
+    "name": "green",
+    "frankenstyle": "theme_green",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_green",
+    "shortdescription": "Theme with clean simple code, in order to facilitate the learning of those who want to build your own themes",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 September 2012, 11:33 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-09-27T23:33:32+08:00"
+    },
+    "aggsites": "3",
+    "aggdownloads": "3",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/446/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/446/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/446/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1244341,
+            "firstname": "Robson ",
+            "lastname": "Pereira",
+            "url": "https://moodle.org/user/profile.php?id=1244341"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

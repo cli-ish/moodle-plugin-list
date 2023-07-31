@@ -1,0 +1,74 @@
+{
+    "id": 2787,
+    "index": 368,
+    "name": "Learning Tools",
+    "frankenstyle": "local_learningtools",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_learningtools",
+    "shortdescription": "Create bookmarks, take notes, schedule activities and focus mode for better learning experiences \u2026 and much more!",
+    "timelastreleased": {
+        "absdate": "Friday, 27 May 2022, 5:51 PM",
+        "reldate": "14 months",
+        "iso8601date": "2022-05-27T17:51:00+08:00"
+    },
+    "aggsites": "349",
+    "aggdownloads": "347",
+    "aggfavs": "42",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2787/bdlogo2022.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2787/bdlogo2022.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2787/Learning%20Tools%20by%20bdecent.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2787/Learning%20Tools%20by%20bdecent%20%E2%80%94%20Bookmark%20List.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2787/Learning%20Tools%20by%20bdecent%20%E2%80%94%20Bookmarks%20by%20course.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2787/Learning%20Tools%20by%20bdecent%20%E2%80%94%20Course%20bookmarks.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2787/Learning%20Tools%20by%20bdecent%20%E2%80%94%20Notes%20by%20course.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2787/Learning%20Tools%20by%20bdecent%20%E2%80%94%20NotesList.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2787/Learning%20Tools%20by%20bdecent%20%E2%80%94%20Profile%20-%20Learning%20Tools.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2787/Learning%20Tools%20by%20bdecent%20%E2%80%94%20Tool%20-%20Add%20Bookmark.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2787/Learning%20Tools%20by%20bdecent%20%E2%80%94%20Tool%20-%20Create%20Note.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2787/Learning%20Tools%20by%20bdecent%20%E2%80%94%20Usermenu%20-%20Bookmarks.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1553381,
+            "firstname": "Stefan",
+            "lastname": "Scholz",
+            "url": "https://moodle.org/user/profile.php?id=1553381"
+        },
+        {
+            "id": 5033676,
+            "firstname": "bdecent",
+            "lastname": "gmbh",
+            "url": "https://moodle.org/user/profile.php?id=5033676"
+        }
+    ],
+    "descriptors": []
+}

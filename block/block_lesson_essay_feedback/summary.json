@@ -1,0 +1,45 @@
+{
+    "id": 75,
+    "index": 555,
+    "name": "Lesson Essay Feedback",
+    "frankenstyle": "block_lesson_essay_feedback",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_lesson_essay_feedback",
+    "shortdescription": "The Lesson essay feedback block will display (to the students only) their previous attempts at Lesson Essays (if any), together with the teacher's comments and their grade (if essays have been graded).",
+    "timelastreleased": {
+        "absdate": "Sunday, 17 April 2022, 11:24 PM",
+        "reldate": "15 months",
+        "iso8601date": "2022-04-17T23:24:58+08:00"
+    },
+    "aggsites": "130",
+    "aggdownloads": "212",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/75/logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/75/logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/75/2018-10-06_15-42-50.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 20216,
+            "firstname": "Joseph",
+            "lastname": "R\u00e9zeau",
+            "url": "https://moodle.org/user/profile.php?id=20216"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

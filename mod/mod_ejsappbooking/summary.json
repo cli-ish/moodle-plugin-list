@@ -1,0 +1,55 @@
+{
+    "id": 545,
+    "index": 1614,
+    "name": "EJSApp Booking System",
+    "frankenstyle": "mod_ejsappbooking",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_ejsappbooking",
+    "shortdescription": "This plugin lets you add a javascript-based booking system to handle the connections to the remote laboratories developed using EjsS and added to your Moodle courses by means of the ejsapp plugin.",
+    "timelastreleased": {
+        "absdate": "Friday, 22 November 2019, 12:39 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-11-22T00:39:15+08:00"
+    },
+    "aggsites": "28",
+    "aggdownloads": "8",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/545/ejsapp_logo_small.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/545/ejsapp_logo_small.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/545/BookingSystem-ManageAccess.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/545/bookingSystem.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1463728,
+            "firstname": "Ruben",
+            "lastname": "Heradio",
+            "url": "https://moodle.org/user/profile.php?id=1463728"
+        },
+        {
+            "id": 1291642,
+            "firstname": "Luis",
+            "lastname": "de la Torre",
+            "url": "https://moodle.org/user/profile.php?id=1291642"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

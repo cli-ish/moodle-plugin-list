@@ -1,0 +1,49 @@
+{
+    "id": 253,
+    "index": 1852,
+    "name": "Microsoft&reg;&nbsp;Live Services",
+    "frankenstyle": "block_live_services",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_live_services",
+    "shortdescription": "The Microsoft Live Services Block provides an integration with Windows Live\u2122 Services allowing users to log into courses using their Windows Live ID and display Live Services on a Moodle site. Users can see and create emails and calendar events with Outlook\u00ae Live or Windows Live Hotmail\u00ae, and access Windows Live Messenger chat, Bing\u2122 search and more within a course. ",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 March 2012, 5:17 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-03-08T05:17:26+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "4",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1428332,
+            "firstname": "MrmsLive",
+            "lastname": "Account",
+            "url": "https://moodle.org/user/profile.php?id=1428332"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

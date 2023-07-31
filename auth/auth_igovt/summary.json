@@ -1,0 +1,45 @@
+{
+    "id": 220,
+    "index": 1488,
+    "name": "igovt Authentication Plugin",
+    "frankenstyle": "auth_igovt",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_igovt",
+    "shortdescription": "An authentication plugin for the New Zealand igovt logon service.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 February 2012, 7:32 AM",
+        "reldate": "11 years",
+        "iso8601date": "2012-02-01T07:32:40+08:00"
+    },
+    "aggsites": null,
+    "aggdownloads": "12",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 264793,
+            "firstname": "Matt",
+            "lastname": "Clarkson",
+            "url": "https://moodle.org/user/profile.php?id=264793"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

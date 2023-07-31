@@ -1,0 +1,50 @@
+{
+    "id": 2291,
+    "index": 537,
+    "name": "Course Life Cycle",
+    "frankenstyle": "tool_lifecycle",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_lifecycle",
+    "shortdescription": "Course Life Cycle is a moodle plugin, which has the purpose to help you with the execution of reoccurring tasks on your moodle platform. Possible use cases are (not limited to):\r\n\r\n    Deleting courses at end of life (including asking teachers for permission).\r\n    Doing a rollover at the end of a semester.\r\n    Automatically setting an end date for courses.",
+    "timelastreleased": {
+        "absdate": "Thursday, 8 June 2023, 3:07 AM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-08T03:07:11+08:00"
+    },
+    "aggsites": "236",
+    "aggdownloads": "220",
+    "aggfavs": "58",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2291/Overview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2291/WorkflowDefinition.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1936135,
+            "firstname": "Learnweb \u2013",
+            "lastname": "University of M\u00fcnster",
+            "url": "https://moodle.org/user/profile.php?id=1936135"
+        },
+        {
+            "id": 1859594,
+            "firstname": "Tobias",
+            "lastname": "Reischmann",
+            "url": "https://moodle.org/user/profile.php?id=1859594"
+        }
+    ],
+    "descriptors": []
+}

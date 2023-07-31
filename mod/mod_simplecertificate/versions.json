@@ -1,0 +1,27 @@
+[
+    {
+        "id": "21341",
+        "name": "2.2.10",
+        "url": "https://moodle.org/plugins/download.php/21341/mod_simplecertificate_moodle27_2014010215.zip"
+    },
+    {
+        "id": "17675",
+        "name": "2.2.8",
+        "url": "https://moodle.org/plugins/download.php/17675/mod_simplecertificate_moodle38_2019100706.zip"
+    },
+    {
+        "id": "15551",
+        "name": "2.2.7",
+        "url": "https://moodle.org/plugins/download.php/15551/mod_simplecertificate_moodle34_2012091006.zip"
+    },
+    {
+        "id": "14934",
+        "name": "2.2.6",
+        "url": "https://moodle.org/plugins/download.php/14934/mod_simplecertificate_moodle37_2011120913.zip"
+    },
+    {
+        "id": "13478",
+        "name": "2.2.5",
+        "url": "https://moodle.org/plugins/download.php/13478/mod_simplecertificate_moodle30_2010020109.zip"
+    }
+]

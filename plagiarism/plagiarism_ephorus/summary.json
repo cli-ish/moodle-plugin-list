@@ -1,0 +1,61 @@
+{
+    "id": 1123,
+    "index": 2106,
+    "name": "Ephorus Plagiarism plugin",
+    "frankenstyle": "plagiarism_ephorus",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_ephorus",
+    "shortdescription": "Please see https://moodle.org/plugins/plagiarism_turnitin for further information.",
+    "timelastreleased": {
+        "absdate": "Thursday, 15 May 2014, 5:08 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-15T17:08:07+08:00"
+    },
+    "aggsites": "23",
+    "aggdownloads": null,
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1123/ephorus-logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1123/ephorus-logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1123/moodle_EN_screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1600244,
+            "firstname": "Ephorus",
+            "lastname": "Integrations",
+            "url": "https://moodle.org/user/profile.php?id=1600244"
+        },
+        {
+            "id": 1947570,
+            "firstname": "David",
+            "lastname": "Winn",
+            "url": "https://moodle.org/user/profile.php?id=1947570"
+        },
+        {
+            "id": 1533445,
+            "firstname": "John",
+            "lastname": "McGettrick",
+            "url": "https://moodle.org/user/profile.php?id=1533445"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

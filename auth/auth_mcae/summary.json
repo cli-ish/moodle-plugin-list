@@ -1,0 +1,53 @@
+{
+    "id": 153,
+    "index": 1052,
+    "name": "Auto assign cohort (deprecated for local_cohortauto)",
+    "frankenstyle": "auth_mcae",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_mcae",
+    "shortdescription": "This Authentication plugin automatically assigns users into cohorts based on information in their user profile fields.",
+    "timelastreleased": {
+        "absdate": "Monday, 29 February 2016, 4:50 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-02-29T16:50:24+08:00"
+    },
+    "aggsites": "322",
+    "aggdownloads": "43",
+    "aggfavs": "51",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/153/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA-2012-03-30%20105557.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/153/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA-2012-03-30%20105617.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/153/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA-2012-03-30%20105645.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 21591,
+            "firstname": "Dan",
+            "lastname": "Marsden",
+            "url": "https://moodle.org/user/profile.php?id=21591"
+        },
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

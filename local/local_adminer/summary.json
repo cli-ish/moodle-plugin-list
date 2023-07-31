@@ -1,0 +1,58 @@
+{
+    "id": 148,
+    "index": 58,
+    "name": "Moodle Adminer",
+    "frankenstyle": "local_adminer",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_adminer",
+    "shortdescription": "This plugin is based on the great tool adminer.\r\nThe main advantage of this plugin is, it can handle different types of database. So it works with MySQL/MariaDB, PostgreSQL, Oracle and MSSQL.\r\n",
+    "timelastreleased": {
+        "absdate": "Sunday, 27 November 2022, 11:59 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-27T23:59:26+08:00"
+    },
+    "aggsites": "3872",
+    "aggdownloads": "1k",
+    "aggfavs": "99",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/148/01-adminer.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/148/02-adminer.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/148/03-adminer.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/148/04-adminer.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/148/05-adminer.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 36220,
+            "firstname": "Andreas",
+            "lastname": "Grabs",
+            "url": "https://moodle.org/user/profile.php?id=36220"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 2860,
+    "index": 1387,
+    "name": "Checkboxes",
+    "frankenstyle": "local_checkboxes",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_checkboxes",
+    "shortdescription": "Changes activity completion information and buttons into checkboxes for Moodle 3.11",
+    "timelastreleased": {
+        "absdate": "Friday, 8 July 2022, 10:06 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-08T22:06:24+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "15",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2860/148457478-f25f1425-e44f-4eb7-92cf-4408c57cbed0.gif?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4702601,
+            "firstname": "Bryce",
+            "lastname": "Yoder",
+            "url": "https://moodle.org/user/profile.php?id=4702601"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,49 @@
+{
+    "id": 715,
+    "index": 2085,
+    "name": "Block Users",
+    "frankenstyle": "local_blockusers",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_blockusers",
+    "shortdescription": "A local plugin that allows the site administrator to block multiple users for a certain period by uploading a csv file containing the usernames of the users to be blocked.",
+    "timelastreleased": {
+        "absdate": "Thursday, 25 April 2013, 6:13 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-25T18:13:23+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "1",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1507853,
+            "firstname": "gayatri",
+            "lastname": "venugopal",
+            "url": "https://moodle.org/user/profile.php?id=1507853"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "id": 586,
+    "index": 1909,
+    "name": "jQuery",
+    "frankenstyle": "local_jquery",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_jquery",
+    "shortdescription": "Adds the jQuery library for (safe) use in a block, theme, or plugin.",
+    "timelastreleased": {
+        "absdate": "Sunday, 10 February 2013, 1:49 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-02-10T01:49:57+08:00"
+    },
+    "aggsites": "35",
+    "aggdownloads": "3",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/586/Screen%20Shot%202013-01-09%20at%205.09.03%20PM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1542153,
+            "firstname": "John",
+            "lastname": "Syrinek",
+            "url": "https://moodle.org/user/profile.php?id=1542153"
+        }
+    ],
+    "descriptors": []
+}

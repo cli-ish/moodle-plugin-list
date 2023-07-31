@@ -1,0 +1,27 @@
+[
+    {
+        "id": "29499",
+        "name": "4.8.2",
+        "url": "https://moodle.org/plugins/download.php/29499/qtype_matchwiris_moodle32_2016030816.zip"
+    },
+    {
+        "id": "29165",
+        "name": "4.8.1",
+        "url": "https://moodle.org/plugins/download.php/29165/qtype_matchwiris_moodle26_2022081007.zip"
+    },
+    {
+        "id": "29106",
+        "name": "4.8.0",
+        "url": "https://moodle.org/plugins/download.php/29106/qtype_matchwiris_moodle39_2013091007.zip"
+    },
+    {
+        "id": "28689",
+        "name": "4.7.1",
+        "url": "https://moodle.org/plugins/download.php/28689/qtype_matchwiris_moodle31_2021070817.zip"
+    },
+    {
+        "id": "28537",
+        "name": "4.7.0",
+        "url": "https://moodle.org/plugins/download.php/28537/qtype_matchwiris_moodle32_2021090803.zip"
+    }
+]

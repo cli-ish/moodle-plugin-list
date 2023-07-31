@@ -1,0 +1,51 @@
+{
+    "id": 255,
+    "index": 1851,
+    "name": "Ascendants courses",
+    "frankenstyle": "block_course_ascendants",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_ascendants",
+    "shortdescription": "Course ascendant block allows controlling from a normal\r\nMoodle course attachement of submodules as metacourses.",
+    "timelastreleased": {
+        "absdate": "Saturday, 3 May 2014, 6:44 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-03T06:44:18+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/255/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/255/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/255/block_sample.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 34826,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=34826"
+        },
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

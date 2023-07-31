@@ -1,0 +1,40 @@
+{
+    "id": 1979,
+    "index": 312,
+    "name": "Object storage file system",
+    "frankenstyle": "tool_objectfs",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_objectfs",
+    "shortdescription": "A remote object storage file system for Moodle. Intended to provide a plug-in that can be installed and configured to work with any supported remote object storage solution.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 24 May 2023, 4:55 PM",
+        "reldate": "2 months",
+        "iso8601date": "2023-05-24T16:55:56+08:00"
+    },
+    "aggsites": "772",
+    "aggdownloads": "426",
+    "aggfavs": "28",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1979/Clipboard%20-%20November%2023%2C%202017%20249%20PM.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1979/Clipboard%20-%20November%2023%2C%202017%20249%20PM.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1979/Selection_069.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        }
+    ],
+    "descriptors": []
+}

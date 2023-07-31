@@ -1,0 +1,49 @@
+{
+    "id": 878,
+    "index": 147,
+    "name": "Overview statistics",
+    "frankenstyle": "report_overviewstats",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_overviewstats",
+    "shortdescription": "Produces various site and course report charts. The code has been designed in a way that makes adding more reports easy.",
+    "timelastreleased": {
+        "absdate": "Thursday, 6 May 2021, 3:26 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-06T03:26:41+08:00"
+    },
+    "aggsites": "4681",
+    "aggdownloads": "829",
+    "aggfavs": "112",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/878/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/878/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/878/coursesize.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/878/userlogins.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4063541,
+            "firstname": "Eric",
+            "lastname": "Bram",
+            "url": "https://moodle.org/user/profile.php?id=4063541"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

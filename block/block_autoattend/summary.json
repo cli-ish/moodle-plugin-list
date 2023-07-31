@@ -1,0 +1,55 @@
+{
+    "id": 731,
+    "index": 375,
+    "name": "Auto Attendance Block",
+    "frankenstyle": "block_autoattend",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_autoattend",
+    "shortdescription": "This autoattend block is modification of the Attendance block by Mr. Dmitry Pupinin (v1.0.8, 2007).\r\nIn addition to the original manual mode, automatic attendance mode (from the access log of Moodle) and semi-automatic attendance mode (user clicks a link) are also possible.",
+    "timelastreleased": {
+        "absdate": "Saturday, 18 June 2022, 4:05 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-18T16:05:02+08:00"
+    },
+    "aggsites": "889",
+    "aggdownloads": "333",
+    "aggfavs": "53",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/731/Attendance_eng.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/731/Attendance2_eng.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/731/Attendance3_eng.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/731/report_eng.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 191084,
+            "firstname": "Fumikazu",
+            "lastname": "Iseki",
+            "url": "https://moodle.org/user/profile.php?id=191084"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

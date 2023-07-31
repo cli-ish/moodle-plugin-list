@@ -1,0 +1,49 @@
+{
+    "id": 1303,
+    "index": 1365,
+    "name": "SQL Buddy",
+    "frankenstyle": "local_sqlbuddy",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_sqlbuddy",
+    "shortdescription": "Integration of SQL Buddy for Moodle. Easy and secure MySQL database access and administration. ",
+    "timelastreleased": {
+        "absdate": "Monday, 12 January 2015, 10:48 PM",
+        "reldate": "9 years",
+        "iso8601date": "2015-01-12T22:48:06+08:00"
+    },
+    "aggsites": "29",
+    "aggdownloads": "16",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1303/logo%20%281%29.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1303/logo%20%281%29.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1303/screen-structure-1-2-7.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1303/SQL-Buddy-1.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1588153,
+            "firstname": "Joseph",
+            "lastname": "Conradt",
+            "url": "https://moodle.org/user/profile.php?id=1588153"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

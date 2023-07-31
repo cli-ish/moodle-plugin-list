@@ -1,0 +1,46 @@
+{
+    "id": 2214,
+    "index": 894,
+    "name": "Datalynx",
+    "frankenstyle": "mod_datalynx",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_datalynx",
+    "shortdescription": "This Moodle plugin is a powerful data management tool that allows you to create digital workflows for data management.",
+    "timelastreleased": {
+        "absdate": "Thursday, 20 July 2023, 2:21 AM",
+        "reldate": "2 weeks",
+        "iso8601date": "2023-07-20T02:21:50+08:00"
+    },
+    "aggsites": "147",
+    "aggdownloads": "100",
+    "aggfavs": "24",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2214/datalynx.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2214/datalynx.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2214/Screenshot_2018-12-16%20Application%20Form%20Views%20%28Manage%20mode%29.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        },
+        {
+            "id": 4890909,
+            "firstname": "Wunderbyte",
+            "lastname": "GmbH",
+            "url": "https://moodle.org/user/profile.php?id=4890909"
+        }
+    ],
+    "descriptors": []
+}

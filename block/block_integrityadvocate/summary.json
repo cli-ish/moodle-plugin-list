@@ -1,0 +1,59 @@
+{
+    "id": 2419,
+    "index": 797,
+    "name": "Integrity Advocate Block",
+    "frankenstyle": "block_integrityadvocate",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_integrityadvocate",
+    "shortdescription": "Online proctoring, identity verification and participation monitoring by Integrity Advocate. This is a privacy-first and accessibility friendly solution to ensure assessment integrity inside of Moodle activities. \r\n\r\nThis block allows Moodle to show a proctoring interface to students, interact with the Integrity Advocate service, and show proctoring results to instructors.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 20 June 2023, 10:04 AM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-20T10:04:36+08:00"
+    },
+    "aggsites": "44",
+    "aggdownloads": "124",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2419/ia_checkmark.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2419/ia_checkmark.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2419/block_integrityadvocate-coursehomepage.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2419/block-overview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2419/block-sidebar-invalid.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 731020,
+            "firstname": "Mark",
+            "lastname": "van Hoek",
+            "url": "https://moodle.org/user/profile.php?id=731020"
+        },
+        {
+            "id": 2182668,
+            "firstname": "Scott",
+            "lastname": "Dellinger",
+            "url": "https://moodle.org/user/profile.php?id=2182668"
+        },
+        {
+            "id": 2875744,
+            "firstname": "Darcy",
+            "lastname": "Chalifoux",
+            "url": "https://moodle.org/user/profile.php?id=2875744"
+        }
+    ],
+    "descriptors": []
+}

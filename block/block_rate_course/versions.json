@@ -1,0 +1,27 @@
+[
+    {
+        "id": "7960",
+        "name": "moodle-27-stable",
+        "url": "https://moodle.org/plugins/download.php/7960/block_rate_course_moodle35_2016120801.zip"
+    },
+    {
+        "id": "4795",
+        "name": "moodle-25-stable",
+        "url": "https://moodle.org/plugins/download.php/4795/block_rate_course_moodle33_2018100715.zip"
+    },
+    {
+        "id": "3347",
+        "name": "moodle-24-stable",
+        "url": "https://moodle.org/plugins/download.php/3347/block_rate_course_moodle29_2014030220.zip"
+    },
+    {
+        "id": "1402",
+        "name": "moodle-23-stable",
+        "url": "https://moodle.org/plugins/download.php/1402/block_rate_course_moodle40_2013031102.zip"
+    },
+    {
+        "id": "549",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/549/block_rate_course_moodle40_2018011103.zip"
+    }
+]

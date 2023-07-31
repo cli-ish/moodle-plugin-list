@@ -1,0 +1,77 @@
+{
+    "id": 1679,
+    "index": 287,
+    "name": "Content Pages",
+    "frankenstyle": "mod_icontent",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_icontent",
+    "shortdescription": "The plugin for Moodle (Content pages), was designed so that from it, tutors, teachers and technicians can add content in courses, following usability and accessibility standards.\r\n\r\nThis tool will be responsible for signaling the good practice of adding text, images, multimedia, among others. In it, the content will be distributed in pages, so that the monitoring of the content does not become something exhausting and tiring. The plugin also has a bookmark, so that the participant can be located, based on last logged furthermore allow the inclusion of public or private notes, which the participant can provide feedback on the content studied on the page and enjoy and reply comments from other colleagues.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 April 2020, 7:07 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-04-21T07:07:47+08:00"
+    },
+    "aggsites": "1339",
+    "aggdownloads": "447",
+    "aggfavs": "166",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1679/Cover%20page.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1679/Add%20new%20instance%20form.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1679/Add%20new%20page%20-%20Appearence.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1679/Add%20new%20page%20-%20General.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1679/Add%20new%20page%20-%20Grades%20and%20Effects.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1679/iContent%20Nav%20User.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1679/Page%20Doubt%20Full.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1679/Page%20Note.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1679/Page%20Questions.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1679/Page.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1638769,
+            "firstname": "L\u00e9o Renis",
+            "lastname": "Santos",
+            "url": "https://moodle.org/user/profile.php?id=1638769"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

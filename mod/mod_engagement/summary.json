@@ -1,0 +1,40 @@
+{
+    "id": 409,
+    "index": 1242,
+    "name": "Engagement analytics",
+    "frankenstyle": "mod_engagement",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_engagement",
+    "shortdescription": "This is the indicator component of the Engagement analytics suite. Make sure to also get the report and block!",
+    "timelastreleased": {
+        "absdate": "Monday, 26 May 2014, 8:25 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-05-26T08:25:11+08:00"
+    },
+    "aggsites": "55",
+    "aggdownloads": "23",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": null,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/theme/image.php/moodleorg/local_plugins/1688119780/screenshotmissing"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1316828,
+            "firstname": "Adam",
+            "lastname": "Olley",
+            "url": "https://moodle.org/user/profile.php?id=1316828"
+        }
+    ],
+    "descriptors": []
+}

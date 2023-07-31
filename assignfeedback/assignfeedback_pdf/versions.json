@@ -1,0 +1,57 @@
+[
+    {
+        "id": "12696",
+        "name": "2.5-build-2016112100",
+        "url": "https://moodle.org/plugins/download.php/12696/assignfeedback_pdf_moodle26_2018071205.zip"
+    },
+    {
+        "id": "9704",
+        "name": "2.5-build-2015110800",
+        "url": "https://moodle.org/plugins/download.php/9704/assignfeedback_pdf_moodle30_2011071210.zip"
+    },
+    {
+        "id": "4415",
+        "name": "2.4-build-2013100400",
+        "url": "https://moodle.org/plugins/download.php/4415/assignfeedback_pdf_moodle38_2022120608.zip"
+    },
+    {
+        "id": "2945",
+        "name": "2.3-build-2013032500",
+        "url": "https://moodle.org/plugins/download.php/2945/assignfeedback_pdf_moodle26_2010041015.zip"
+    },
+    {
+        "id": "11329",
+        "name": "2.5-build-2016052000",
+        "url": "https://moodle.org/plugins/download.php/11329/assignfeedback_pdf_moodle30_2013080803.zip"
+    },
+    {
+        "id": "5145",
+        "name": "2.5-build-2013103100",
+        "url": "https://moodle.org/plugins/download.php/5145/assignfeedback_pdf_moodle40_2010050311.zip"
+    },
+    {
+        "id": "3189",
+        "name": "2.4-build-2013061200",
+        "url": "https://moodle.org/plugins/download.php/3189/assignfeedback_pdf_moodle37_2010060707.zip"
+    },
+    {
+        "id": "2184",
+        "name": "2.3-build-2013021300",
+        "url": "https://moodle.org/plugins/download.php/2184/assignfeedback_pdf_moodle32_2020070502.zip"
+    },
+    {
+        "id": "2096",
+        "name": "2.3-build-2013013000",
+        "url": "https://moodle.org/plugins/download.php/2096/assignfeedback_pdf_moodle36_2014091011.zip"
+    },
+    {
+        "id": "1947",
+        "name": "2.3-build-2013010300",
+        "url": "https://moodle.org/plugins/download.php/1947/assignfeedback_pdf_moodle34_2016080303.zip"
+    },
+    {
+        "id": "1942",
+        "name": "2.3-build-2012123100",
+        "url": "https://moodle.org/plugins/download.php/1942/assignfeedback_pdf_moodle33_2011061216.zip"
+    }
+]

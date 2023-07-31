@@ -1,0 +1,47 @@
+{
+    "id": 2641,
+    "index": 1485,
+    "name": "Rewards Tally",
+    "frankenstyle": "block_rewardstally",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_rewardstally",
+    "shortdescription": "The Rewards Tally plugin provides a block to display the achievement points, or reward points, accumulated by the user and the user communities associated with the school or institution. 'User communities' could mean year groups, 'houses' or any other logical grouping used at the school.",
+    "timelastreleased": {
+        "absdate": "Thursday, 18 February 2021, 7:56 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-18T19:56:42+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "12",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2641/rewardstally01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2641/rewardstally02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2641/rewardstally03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4069137,
+            "firstname": "P",
+            "lastname": "Reid",
+            "url": "https://moodle.org/user/profile.php?id=4069137"
+        }
+    ],
+    "descriptors": []
+}

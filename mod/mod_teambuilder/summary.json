@@ -1,0 +1,47 @@
+{
+    "id": 1315,
+    "index": 1312,
+    "name": "Team Builder",
+    "frankenstyle": "mod_teambuilder",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_teambuilder",
+    "shortdescription": "Developed by UNSW, this is an advanced tool for building teams based off a set of criteria. You ask your students some questions, and then develop a predicate based off their answers for your teams. This is great if you want a little more control than \"Assign Randomly\" but less work than \"Manual Allocation\".",
+    "timelastreleased": {
+        "absdate": "Monday, 29 June 2020, 9:35 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-29T09:35:24+08:00"
+    },
+    "aggsites": "108",
+    "aggdownloads": "18",
+    "aggfavs": "33",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1315/Screenshot%20from%202015-01-12%20093607.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1315/Screenshot%20from%202015-01-12%20093616.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1315/Screenshot%20from%202015-01-12%20093638.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1316828,
+            "firstname": "Adam",
+            "lastname": "Olley",
+            "url": "https://moodle.org/user/profile.php?id=1316828"
+        }
+    ],
+    "descriptors": []
+}

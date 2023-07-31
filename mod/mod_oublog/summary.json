@@ -1,0 +1,71 @@
+{
+    "id": 49,
+    "index": 493,
+    "name": "OU blog",
+    "frankenstyle": "mod_oublog",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_oublog",
+    "shortdescription": "Alternative blog. Can be used as a course activity.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 14 December 2021, 12:13 AM",
+        "reldate": "20 months",
+        "iso8601date": "2021-12-14T00:13:08+08:00"
+    },
+    "aggsites": "847",
+    "aggdownloads": "237",
+    "aggfavs": "27",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/49/screencapture-mod-oublog-view-php-1482320715543.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93817,
+            "firstname": "sam",
+            "lastname": "marshall",
+            "url": "https://moodle.org/user/profile.php?id=93817"
+        },
+        {
+            "id": 818233,
+            "firstname": "Jason",
+            "lastname": "Platts",
+            "url": "https://moodle.org/user/profile.php?id=818233"
+        },
+        {
+            "id": 147145,
+            "firstname": "Alan",
+            "lastname": "Thompson",
+            "url": "https://moodle.org/user/profile.php?id=147145"
+        },
+        {
+            "id": 93825,
+            "firstname": "Alan",
+            "lastname": "Carter",
+            "url": "https://moodle.org/user/profile.php?id=93825"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

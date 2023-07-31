@@ -1,0 +1,40 @@
+{
+    "id": 2825,
+    "index": 694,
+    "name": "Opencast Videos Repository",
+    "frankenstyle": "repository_opencast",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_opencast",
+    "shortdescription": "The plugin allows teachers to insert links to Opencast videos into a course. The repository displays all videos that belong to the Opencast series that are connected to the course.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 July 2023, 6:50 PM",
+        "reldate": "3 days",
+        "iso8601date": "2023-07-28T18:50:54+08:00"
+    },
+    "aggsites": "131",
+    "aggdownloads": "150",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2825/50089314-caadf180-0205-11e9-93f9-6a7d3f1f6726.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 3713523,
+            "firstname": "Opencast",
+            "lastname": "Integration",
+            "url": "https://moodle.org/user/profile.php?id=3713523"
+        }
+    ],
+    "descriptors": []
+}

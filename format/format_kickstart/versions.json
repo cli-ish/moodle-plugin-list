@@ -1,0 +1,22 @@
+[
+    {
+        "id": "29173",
+        "name": "version-1.3-moodle-4.x",
+        "url": "https://moodle.org/plugins/download.php/29173/format_kickstart_moodle33_2014110314.zip"
+    },
+    {
+        "id": "29172",
+        "name": "version-1.3-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/29172/format_kickstart_moodle27_2019051019.zip"
+    },
+    {
+        "id": "24858",
+        "name": "version-1.1.9",
+        "url": "https://moodle.org/plugins/download.php/24858/format_kickstart_moodle25_2023080316.zip"
+    },
+    {
+        "id": "28448",
+        "name": "version-1.2",
+        "url": "https://moodle.org/plugins/download.php/28448/format_kickstart_moodle27_2012010606.zip"
+    }
+]

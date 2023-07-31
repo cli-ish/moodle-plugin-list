@@ -1,0 +1,53 @@
+{
+    "id": 17,
+    "index": 2128,
+    "name": "Moss",
+    "frankenstyle": "plagiarism_moss",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_moss",
+    "shortdescription": "Detect source code plagiarism in assignments",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 August 2011, 1:54 PM",
+        "reldate": "12 years",
+        "iso8601date": "2011-08-31T13:54:37+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": null,
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/17/module_settings.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/17/single_user_results.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 58049,
+            "firstname": "Zhigang",
+            "lastname": "Sun",
+            "url": "https://moodle.org/user/profile.php?id=58049"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

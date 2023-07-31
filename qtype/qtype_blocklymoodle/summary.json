@@ -1,0 +1,40 @@
+{
+    "id": 1793,
+    "index": 1662,
+    "name": "Blocklymoodle",
+    "frankenstyle": "qtype_blocklymoodle",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_blocklymoodle",
+    "shortdescription": "Blocklymoodle this is plugin for Moodle v3.2. Blocklymoodle \u2014 this integration in moodle, plugin Blockly create company Google",
+    "timelastreleased": {
+        "absdate": "Saturday, 25 March 2017, 3:54 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-03-25T03:54:03+08:00"
+    },
+    "aggsites": "39",
+    "aggdownloads": "7",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1793/1.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2192699,
+            "firstname": "Vlad",
+            "lastname": "Pototskiy",
+            "url": "https://moodle.org/user/profile.php?id=2192699"
+        }
+    ],
+    "descriptors": []
+}

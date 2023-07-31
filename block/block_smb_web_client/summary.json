@@ -1,0 +1,40 @@
+{
+    "id": 245,
+    "index": 1231,
+    "name": "Windows Share access (AKA Network Drive Access, SMB Web Client)",
+    "frankenstyle": "block_smb_web_client",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_smb_web_client",
+    "shortdescription": "Access windows shares via a Moodle web interface.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 February 2015, 12:42 AM",
+        "reldate": "8 years",
+        "iso8601date": "2015-02-18T00:42:05+08:00"
+    },
+    "aggsites": "40",
+    "aggdownloads": "24",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/245/windows%20share%20access.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 20491,
+            "firstname": "Guy",
+            "lastname": "Thomas",
+            "url": "https://moodle.org/user/profile.php?id=20491"
+        }
+    ],
+    "descriptors": []
+}

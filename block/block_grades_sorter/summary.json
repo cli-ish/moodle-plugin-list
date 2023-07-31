@@ -1,0 +1,40 @@
+{
+    "id": 2491,
+    "index": 1839,
+    "name": "Grades sorter",
+    "frankenstyle": "block_grades_sorter",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_grades_sorter",
+    "shortdescription": "A moodle plugin to add a block to course providing a button to automatically sort grades in the same order than activities",
+    "timelastreleased": {
+        "absdate": "Monday, 20 July 2020, 5:58 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-07-20T05:58:27+08:00"
+    },
+    "aggsites": "25",
+    "aggdownloads": "4",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2491/85215521-2bc60080-b37a-11ea-8544-7bf69b8bd3f3%5B1%5D.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 3345471,
+            "firstname": "Mathieu",
+            "lastname": "Degrange",
+            "url": "https://moodle.org/user/profile.php?id=3345471"
+        }
+    ],
+    "descriptors": []
+}

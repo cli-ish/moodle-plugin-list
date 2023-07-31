@@ -1,0 +1,49 @@
+{
+    "id": 1017,
+    "index": 233,
+    "name": "Mathslate for TinyMCE",
+    "frankenstyle": "tinymce_mathslate",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_mathslate",
+    "shortdescription": "Mathslate adds a drag and drop mathematics editor to TinyMCE using MathJax as a renderer.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 5 April 2022, 6:09 AM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-05T06:09:16+08:00"
+    },
+    "aggsites": "1291",
+    "aggdownloads": "534",
+    "aggfavs": "16",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1017/mathslate2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1017/mathslate2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1017/Mathslate%20Screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1470073,
+            "firstname": "Daniel",
+            "lastname": "Thies",
+            "url": "https://moodle.org/user/profile.php?id=1470073"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Mathematics"
+        }
+    ]
+}

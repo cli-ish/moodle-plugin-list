@@ -1,0 +1,46 @@
+{
+    "id": 379,
+    "index": 112,
+    "name": "Adaptive mode (multi-part questions)",
+    "frankenstyle": "qbehaviour_adaptivemultipart",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_adaptivemultipart",
+    "shortdescription": "A question behaviour designed for use by qtype_stack.",
+    "timelastreleased": {
+        "absdate": "Thursday, 22 September 2022, 5:21 PM",
+        "reldate": "10 months",
+        "iso8601date": "2022-09-22T17:21:03+08:00"
+    },
+    "aggsites": "3567",
+    "aggdownloads": "1k",
+    "aggfavs": "25",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/379/AdaptiveMultipart.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93821,
+            "firstname": "Tim",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=93821"
+        },
+        {
+            "id": 20620,
+            "firstname": "Christopher",
+            "lastname": "Sangwin",
+            "url": "https://moodle.org/user/profile.php?id=20620"
+        }
+    ],
+    "descriptors": []
+}

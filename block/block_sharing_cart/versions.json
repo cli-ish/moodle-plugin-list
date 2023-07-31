@@ -1,0 +1,117 @@
+[
+    {
+        "id": "28784",
+        "name": "4.1-release-1",
+        "url": "https://moodle.org/plugins/download.php/28784/block_sharing_cart_moodle36_2019091103.zip"
+    },
+    {
+        "id": "27731",
+        "name": "4.0-release-2",
+        "url": "https://moodle.org/plugins/download.php/27731/block_sharing_cart_moodle38_2019010209.zip"
+    },
+    {
+        "id": "18549",
+        "name": "3.5-release-1",
+        "url": "https://moodle.org/plugins/download.php/18549/block_sharing_cart_moodle32_2022011102.zip"
+    },
+    {
+        "id": "13151",
+        "name": "3.2-release-1",
+        "url": "https://moodle.org/plugins/download.php/13151/block_sharing_cart_moodle29_2012021208.zip"
+    },
+    {
+        "id": "7257",
+        "name": "2.6-release-1-patch-6",
+        "url": "https://moodle.org/plugins/download.php/7257/block_sharing_cart_moodle33_2017100202.zip"
+    },
+    {
+        "id": "28510",
+        "name": "4.0-release-4",
+        "url": "https://moodle.org/plugins/download.php/28510/block_sharing_cart_moodle31_2020011205.zip"
+    },
+    {
+        "id": "27607",
+        "name": "4.0-release-1",
+        "url": "https://moodle.org/plugins/download.php/27607/block_sharing_cart_moodle31_2012100815.zip"
+    },
+    {
+        "id": "27541",
+        "name": "3.11-release-3",
+        "url": "https://moodle.org/plugins/download.php/27541/block_sharing_cart_moodle27_2012040713.zip"
+    },
+    {
+        "id": "26753",
+        "name": "3.11-release-1",
+        "url": "https://moodle.org/plugins/download.php/26753/block_sharing_cart_moodle25_2011100607.zip"
+    },
+    {
+        "id": "25190",
+        "name": "3.10-release-8",
+        "url": "https://moodle.org/plugins/download.php/25190/block_sharing_cart_moodle35_2013121208.zip"
+    },
+    {
+        "id": "24548",
+        "name": "3.10-release-3",
+        "url": "https://moodle.org/plugins/download.php/24548/block_sharing_cart_moodle27_2016020603.zip"
+    },
+    {
+        "id": "23686",
+        "name": "3.9-release-3",
+        "url": "https://moodle.org/plugins/download.php/23686/block_sharing_cart_moodle31_2023050511.zip"
+    },
+    {
+        "id": "21338",
+        "name": "3.8-release-3",
+        "url": "https://moodle.org/plugins/download.php/21338/block_sharing_cart_moodle40_2011050115.zip"
+    },
+    {
+        "id": "21253",
+        "name": "3.8-release-2",
+        "url": "https://moodle.org/plugins/download.php/21253/block_sharing_cart_moodle27_2020040206.zip"
+    },
+    {
+        "id": "21194",
+        "name": "3.8-release-1",
+        "url": "https://moodle.org/plugins/download.php/21194/block_sharing_cart_moodle35_2010091115.zip"
+    },
+    {
+        "id": "15939",
+        "name": "3.3-release-3",
+        "url": "https://moodle.org/plugins/download.php/15939/block_sharing_cart_moodle25_2014100803.zip"
+    },
+    {
+        "id": "15784",
+        "name": "3.3-release-2",
+        "url": "https://moodle.org/plugins/download.php/15784/block_sharing_cart_moodle39_2016051217.zip"
+    },
+    {
+        "id": "15136",
+        "name": "3.3-release-1",
+        "url": "https://moodle.org/plugins/download.php/15136/block_sharing_cart_moodle34_2023020705.zip"
+    },
+    {
+        "id": "11286",
+        "name": "3.0-release-1",
+        "url": "https://moodle.org/plugins/download.php/11286/block_sharing_cart_moodle28_2022061107.zip"
+    },
+    {
+        "id": "8811",
+        "name": "2.9-release-1",
+        "url": "https://moodle.org/plugins/download.php/8811/block_sharing_cart_moodle37_2017020217.zip"
+    },
+    {
+        "id": "6612",
+        "name": "2.6-release-1-patch-5-also-2.7",
+        "url": "https://moodle.org/plugins/download.php/6612/block_sharing_cart_moodle31_2018071011.zip"
+    },
+    {
+        "id": "5483",
+        "name": "2.6-release-1-patch-3",
+        "url": "https://moodle.org/plugins/download.php/5483/block_sharing_cart_moodle25_2012011004.zip"
+    },
+    {
+        "id": "5295",
+        "name": "2.6-release-1-patch-1",
+        "url": "https://moodle.org/plugins/download.php/5295/block_sharing_cart_moodle33_2023020701.zip"
+    }
+]

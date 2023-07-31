@@ -1,0 +1,74 @@
+{
+    "id": 1923,
+    "index": 623,
+    "name": "Arlo for Moodle ecommerce | Payments, Shopping cart, CRM, Registration & More",
+    "frankenstyle": "enrol_arlo",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_arlo",
+    "shortdescription": "Sell and manage your Moodle and face-to-face courses. Shopping cart, online registrations, payments, CRM, lead management, marketing campaigns and more. Arlo for Moodle is built for training providers and higher education.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 21 June 2023, 4:57 AM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-21T04:57:51+08:00"
+    },
+    "aggsites": "145",
+    "aggdownloads": "183",
+    "aggfavs": "79",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1923/arlo-logo-yellow-100.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1923/arlo-logo-yellow-100.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1923/A%20Moodle-Marketplace-Tile-250x250-v600.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1923/B%20ArloConnectionSettingsFull.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1923/B%20ArloForMoodleConfigSettingsFull.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1923/C%20ArloForMoodleEnrollmentMethodConfig.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1923/D%20ArloForMoodleEnrollmentMethods.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1923/F%20ArloForMoodleOAGrades.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1923/G%20arloforMoodleWebsiteSchedule.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1923/H%20ArloForMoodleCourseTemplatePage.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1923/I%20dashboard.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1923/J%20registration%20forms.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2170340,
+            "firstname": "Arlo",
+            "lastname": "Training & Event Software",
+            "url": "https://moodle.org/user/profile.php?id=2170340"
+        },
+        {
+            "id": 2049685,
+            "firstname": "Learning",
+            "lastname": "Works",
+            "url": "https://moodle.org/user/profile.php?id=2049685"
+        }
+    ],
+    "descriptors": []
+}

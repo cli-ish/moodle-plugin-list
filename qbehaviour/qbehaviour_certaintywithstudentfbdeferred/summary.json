@@ -1,0 +1,47 @@
+{
+    "id": 3059,
+    "index": 847,
+    "name": "Degrees of Certainty with student feedback (deferred)",
+    "frankenstyle": "qbehaviour_certaintywithstudentfbdeferred",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_certaintywithstudentfbdeferred",
+    "shortdescription": "A question behaviour derived from Student feedback (deferred), where students can submit their certainty about their answers, and one comment for each question and one comment for the whole Quiz, after their attempt is submitted.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 18 January 2023, 8:26 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-18T20:26:16+08:00"
+    },
+    "aggsites": "26",
+    "aggdownloads": "114",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3059/question_feedback.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3059/question.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3059/quiz_feedback.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

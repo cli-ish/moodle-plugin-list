@@ -1,0 +1,65 @@
+{
+    "id": 1114,
+    "index": 129,
+    "name": "Etherpad Lite",
+    "frankenstyle": "mod_etherpadlite",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_etherpadlite",
+    "shortdescription": "An activity module to integrate etherpad-lite with Moodle. To use this plugin, you will need to have an etherpad-lite server that runs on at least the same 2nd-level-domain as your Moodle server.",
+    "timelastreleased": {
+        "absdate": "Thursday, 27 July 2023, 7:22 PM",
+        "reldate": "4 days",
+        "iso8601date": "2023-07-27T19:22:41+08:00"
+    },
+    "aggsites": "899",
+    "aggdownloads": "932",
+    "aggfavs": "29",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1114/01-etherpad.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1114/02-01-etherpad.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1114/02-02-etherpad.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1114/03-etherpad.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1114/04-etherpad.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1114/05-etherpad.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1114/06-etherpad.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1597754,
+            "firstname": "Moodle-Dev",
+            "lastname": "Humboldt-Universit\u00e4t zu Berlin",
+            "url": "https://moodle.org/user/profile.php?id=1597754"
+        },
+        {
+            "id": 36220,
+            "firstname": "Andreas",
+            "lastname": "Grabs",
+            "url": "https://moodle.org/user/profile.php?id=36220"
+        }
+    ],
+    "descriptors": []
+}

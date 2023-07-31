@@ -1,0 +1,49 @@
+{
+    "id": 273,
+    "index": 1597,
+    "name": "NLN Learning Object",
+    "frankenstyle": "mod_nln",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_nln",
+    "shortdescription": "An activity module that allows teachers to find and add NLN Learning Objects to their Moodle courses with a minimum of effort. Originally developed by Xtensis.co.uk as a Moodle 1.8 resource type, the \"Noodle\" plugin ceased to be maintained when the NLN Materials website changed hands in July 2011. This new development is a direct conversion of the original plugin into a Moodle 2.x activity module.",
+    "timelastreleased": {
+        "absdate": "Friday, 8 April 2016, 7:45 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-04-08T19:45:14+08:00"
+    },
+    "aggsites": "70",
+    "aggdownloads": "8",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/273/nln.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/273/nln.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/273/nln_edit.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/273/nln_view.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 41888,
+            "firstname": "Tony",
+            "lastname": "Butler",
+            "url": "https://moodle.org/user/profile.php?id=41888"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

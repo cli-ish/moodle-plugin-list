@@ -1,0 +1,56 @@
+{
+    "id": 2498,
+    "index": 514,
+    "name": "External content",
+    "frankenstyle": "mod_externalcontent",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_externalcontent",
+    "shortdescription": "The module enables a teacher to create a resource using the text editor. The resource can display text, images, sound, video and web links. Advantages of using the External content module rather than the standard page module is that optionally if the content links to an external site that records a completion status these can then be imported.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 July 2023, 9:43 PM",
+        "reldate": "7 days",
+        "iso8601date": "2023-07-24T21:43:01+08:00"
+    },
+    "aggsites": "210",
+    "aggdownloads": "228",
+    "aggfavs": "12",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2498/course_overview_400.JPG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2498/edit_400.JPG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2498/IMG_1023%202022-08-11%2012_55_19.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2498/IMG_1024%202022-08-11%2012_55_20.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2498/IMG_1025%202022-08-11%2012_55_20.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2498/tags_400.JPG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2918578,
+            "firstname": "Lushonline",
+            "lastname": "Consulting",
+            "url": "https://moodle.org/user/profile.php?id=2918578"
+        }
+    ],
+    "descriptors": []
+}

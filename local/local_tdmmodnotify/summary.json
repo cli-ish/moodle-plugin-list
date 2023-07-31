@@ -1,0 +1,55 @@
+{
+    "id": 1008,
+    "index": 1802,
+    "name": "Course module modification notification",
+    "frankenstyle": "local_tdmmodnotify",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_tdmmodnotify",
+    "shortdescription": "This simple plugin sends users daily digests of changed content within their enrolled courses.",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 June 2014, 6:50 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-05T06:50:27+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "5",
+    "aggfavs": "10",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1008/Email.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1008/Required%20capability.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1008/Site%20notification.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1008/User%20notification.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1394209,
+            "firstname": "Luke",
+            "lastname": "Carrier",
+            "url": "https://moodle.org/user/profile.php?id=1394209"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

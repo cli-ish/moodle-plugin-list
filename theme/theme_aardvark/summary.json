@@ -1,0 +1,45 @@
+{
+    "id": 1,
+    "index": 299,
+    "name": "Aardvark",
+    "frankenstyle": "theme_aardvark",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_aardvark",
+    "shortdescription": "The original 'menubar' based theme for Moodle, evolved for the modern student. NO LONGER BEING DEVELOPED",
+    "timelastreleased": {
+        "absdate": "Tuesday, 3 October 2017, 12:09 AM",
+        "reldate": "6 years",
+        "iso8601date": "2017-10-03T00:09:08+08:00"
+    },
+    "aggsites": "1142",
+    "aggdownloads": "439",
+    "aggfavs": "298",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1/icon.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1/icon.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 299683,
+            "firstname": "Shaun",
+            "lastname": "Daubney",
+            "url": "https://moodle.org/user/profile.php?id=299683"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

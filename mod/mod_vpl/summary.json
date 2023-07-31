@@ -1,0 +1,62 @@
+{
+    "id": 398,
+    "index": 49,
+    "name": "Virtual Programming Lab",
+    "frankenstyle": "mod_vpl",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_vpl",
+    "shortdescription": "VPL is an activity module to manage programming assignments",
+    "timelastreleased": {
+        "absdate": "Sunday, 18 June 2023, 12:57 AM",
+        "reldate": "6 weeks",
+        "iso8601date": "2023-06-18T00:57:15+08:00"
+    },
+    "aggsites": "2039",
+    "aggdownloads": "1k",
+    "aggfavs": "142",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/398/box.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/398/box.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/398/img0.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/398/img1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/398/img2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/398/img3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/398/img5.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 150298,
+            "firstname": "Juan Carlos",
+            "lastname": "Rodr\u00edguez-del-Pino",
+            "url": "https://moodle.org/user/profile.php?id=150298"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Programming"
+        }
+    ]
+}

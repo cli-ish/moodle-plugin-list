@@ -1,0 +1,45 @@
+{
+    "id": 798,
+    "index": 812,
+    "name": "Interactive mode with hinting",
+    "frankenstyle": "qbehaviour_interactivehints",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_interactivehints",
+    "shortdescription": "This behaviour activate question-type specific hints support in Interactive mode.",
+    "timelastreleased": {
+        "absdate": "Sunday, 3 May 2020, 10:19 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-05-03T22:19:59+08:00"
+    },
+    "aggsites": "204",
+    "aggdownloads": "122",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/798/interactivehints.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 104931,
+            "firstname": "Oleg",
+            "lastname": "Sychev",
+            "url": "https://moodle.org/user/profile.php?id=104931"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

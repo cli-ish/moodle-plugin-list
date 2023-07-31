@@ -1,0 +1,47 @@
+{
+    "id": 2579,
+    "index": 579,
+    "name": "BeetleBlocks submissions",
+    "frankenstyle": "assignsubmission_beetleblocks",
+    "plugintype": {
+        "type": "assignsubmission",
+        "name": "Assignment / Submission plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/assignsubmission_beetleblocks",
+    "shortdescription": "Add to your Moodle assignments the ability to include BeetleBlock projects",
+    "timelastreleased": {
+        "absdate": "Monday, 15 March 2021, 9:21 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-03-15T09:21:48+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "202",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2579/beetleblocksMoodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2579/beetleblocksMoodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2579/pluginBeetleBlocks1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2579/pluginBeetleBlocks2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2579/pluginBeetleBlocks3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 134030,
+            "firstname": "Joan",
+            "lastname": "Guill\u00e9n",
+            "url": "https://moodle.org/user/profile.php?id=134030"
+        }
+    ],
+    "descriptors": []
+}

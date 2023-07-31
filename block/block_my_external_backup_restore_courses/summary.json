@@ -1,0 +1,68 @@
+{
+    "id": 1716,
+    "index": 401,
+    "name": "Restore courses from remote Moodles",
+    "frankenstyle": "block_my_external_backup_restore_courses",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_my_external_backup_restore_courses",
+    "shortdescription": "block my_external_backup_courses : Restore courses from remote moodle platforms\r\nmy_external_backup_restore_courses is a Moodle block that enable a user to restore courses from external moodles\r\nthis block must be installed in each moodle course clients and course servers involved\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 2 June 2023, 8:04 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-02T20:04:42+08:00"
+    },
+    "aggsites": "114",
+    "aggdownloads": "307",
+    "aggfavs": "15",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1716/brc1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1716/brc2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1716/brc3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1716/brc4.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1716/brc5.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1716/brc6.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1716/brc7.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1716/brc8.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1716/brcwithuserdatas1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1716/brcwithuserdatas2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 922669,
+            "firstname": "C\u00e9line",
+            "lastname": "Perves",
+            "url": "https://moodle.org/user/profile.php?id=922669"
+        }
+    ],
+    "descriptors": []
+}

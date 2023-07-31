@@ -1,0 +1,22 @@
+[
+    {
+        "id": "29062",
+        "name": "v4.2.1-2023042700",
+        "url": "https://moodle.org/plugins/download.php/29062/auth_companion_moodle35_2022120805.zip"
+    },
+    {
+        "id": "28514",
+        "name": "v4.3-2023020500",
+        "url": "https://moodle.org/plugins/download.php/28514/auth_companion_moodle38_2015060813.zip"
+    },
+    {
+        "id": "28484",
+        "name": "v4.2-2023020200",
+        "url": "https://moodle.org/plugins/download.php/28484/auth_companion_moodle33_2017061020.zip"
+    },
+    {
+        "id": "28160",
+        "name": "v4.1-2022120700",
+        "url": "https://moodle.org/plugins/download.php/28160/auth_companion_moodle32_2013121000.zip"
+    }
+]

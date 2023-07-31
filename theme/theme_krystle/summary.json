@@ -1,0 +1,45 @@
+{
+    "id": 528,
+    "index": 1542,
+    "name": "Krystle",
+    "frankenstyle": "theme_krystle",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_krystle",
+    "shortdescription": "Replacement/Redevelopment of the Krystle themes by Richard Oelmann",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 August 2013, 3:38 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-08-29T15:38:51+08:00"
+    },
+    "aggsites": "14",
+    "aggdownloads": "10",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/528/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/528/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/528/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 480148,
+            "firstname": "Richard",
+            "lastname": "Oelmann",
+            "url": "https://moodle.org/user/profile.php?id=480148"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

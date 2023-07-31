@@ -1,0 +1,45 @@
+{
+    "id": 1086,
+    "index": 1765,
+    "name": "Nimble",
+    "frankenstyle": "theme_nimble",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_nimble",
+    "shortdescription": "This theme was part of the Moodle core distribution, but for Moodle 2.7+ has been moved to Moodle Plugins\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 14 April 2014, 1:27 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-04-14T13:27:10+08:00"
+    },
+    "aggsites": "68",
+    "aggdownloads": "5",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1086/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1447469,
+            "firstname": "Gerry",
+            "lastname": "Hall",
+            "url": "https://moodle.org/user/profile.php?id=1447469"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "id": 2884,
+    "index": 863,
+    "name": "Student feedback (immediate)",
+    "frankenstyle": "qbehaviour_studentfeedbackimmediate",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_studentfeedbackimmediate",
+    "shortdescription": "A question behaviour derived from Immediate feedback, where students can submit one comment for each question after it is submitted and one comment for the whole Quiz, after their attempt is submitted.",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 February 2022, 12:39 AM",
+        "reldate": "17 months",
+        "iso8601date": "2022-02-17T00:39:45+08:00"
+    },
+    "aggsites": "40",
+    "aggdownloads": "110",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2884/Questionfeedback.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2884/Quizfeedback.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2884/teacherview.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

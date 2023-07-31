@@ -1,0 +1,44 @@
+{
+    "id": 365,
+    "index": 1244,
+    "name": "Simple Navigation Block",
+    "frankenstyle": "block_simple_nav",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_simple_nav",
+    "shortdescription": "This block provides a navigation as it is often used on standard websites. ",
+    "timelastreleased": {
+        "absdate": "Friday, 14 June 2019, 8:08 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-06-14T20:08:35+08:00"
+    },
+    "aggsites": "37",
+    "aggdownloads": "23",
+    "aggfavs": "7",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/365/map.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/365/map.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/365/Bildschirmfoto%20vom%202012-06-28%20185523.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/365/Bildschirmfoto.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 110156,
+            "firstname": "David",
+            "lastname": "Bogner",
+            "url": "https://moodle.org/user/profile.php?id=110156"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,22 @@
+[
+    {
+        "id": "5273",
+        "name": "1.03",
+        "url": "https://moodle.org/plugins/download.php/5273/auth_elcentra_moodle38_2021090911.zip"
+    },
+    {
+        "id": "5932",
+        "name": "1.1",
+        "url": "https://moodle.org/plugins/download.php/5932/auth_elcentra_moodle33_2012080517.zip"
+    },
+    {
+        "id": "4888",
+        "name": "1.02",
+        "url": "https://moodle.org/plugins/download.php/4888/auth_elcentra_moodle29_2016060214.zip"
+    },
+    {
+        "id": "3523",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/3523/auth_elcentra_moodle32_2018061005.zip"
+    }
+]

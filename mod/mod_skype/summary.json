@@ -1,0 +1,55 @@
+{
+    "id": 266,
+    "index": 448,
+    "name": "Skype",
+    "frankenstyle": "mod_skype",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_skype",
+    "shortdescription": "Skype activity plugin module implements a user listing and shows, Create Conference, Create Chat, Send Voicemail, Add Contact, and Send File links to any user who has entered a Skype ID into their profile.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 April 2023, 10:42 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-18T22:42:18+08:00"
+    },
+    "aggsites": "963",
+    "aggdownloads": "266",
+    "aggfavs": "45",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/266/skypelogo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/266/skypelogo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/266/AddSkypeActivity.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/266/AddSkypeID.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/266/Settings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/266/SkypeActivityListing.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 94615,
+            "firstname": "AL",
+            "lastname": "Rachels",
+            "url": "https://moodle.org/user/profile.php?id=94615"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

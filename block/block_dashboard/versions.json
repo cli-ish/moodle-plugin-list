@@ -1,0 +1,47 @@
+[
+    {
+        "id": "11061",
+        "name": "3.0.0-build-2016032400",
+        "url": "https://moodle.org/plugins/download.php/11061/block_dashboard_moodle36_2010060100.zip"
+    },
+    {
+        "id": "11060",
+        "name": "2.9.0-build-2015100900",
+        "url": "https://moodle.org/plugins/download.php/11060/block_dashboard_moodle36_2022060714.zip"
+    },
+    {
+        "id": "11059",
+        "name": "2.8.0-build-2015100900",
+        "url": "https://moodle.org/plugins/download.php/11059/block_dashboard_moodle35_2014080320.zip"
+    },
+    {
+        "id": "11058",
+        "name": "2.7.0-build-2015100900",
+        "url": "https://moodle.org/plugins/download.php/11058/block_dashboard_moodle31_2018020311.zip"
+    },
+    {
+        "id": "6007",
+        "name": "2.5.0-build-2013042500",
+        "url": "https://moodle.org/plugins/download.php/6007/block_dashboard_moodle28_2022060910.zip"
+    },
+    {
+        "id": "5982",
+        "name": "2.2.0-build-2013042501",
+        "url": "https://moodle.org/plugins/download.php/5982/block_dashboard_moodle27_2016061004.zip"
+    },
+    {
+        "id": "3236",
+        "name": "2.3.0-build-2013042501",
+        "url": "https://moodle.org/plugins/download.php/3236/block_dashboard_moodle36_2016081203.zip"
+    },
+    {
+        "id": "1512",
+        "name": "1.9-build-2012061500",
+        "url": "https://moodle.org/plugins/download.php/1512/block_dashboard_moodle25_2016010109.zip"
+    },
+    {
+        "id": "1635",
+        "name": "2.2.0-build-2012062100",
+        "url": "https://moodle.org/plugins/download.php/1635/block_dashboard_moodle33_2023020101.zip"
+    }
+]

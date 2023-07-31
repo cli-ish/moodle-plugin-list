@@ -1,0 +1,44 @@
+{
+    "id": 1443,
+    "index": 2115,
+    "name": "Auto non-breaking space filter",
+    "frankenstyle": "filter_vowels",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_vowels",
+    "shortdescription": "Auto change spaces after chosen one-letter conjunctions and prepositions or words into non-breaking space - &amp;nbsp;\r\n\r\nYou can specify single characters and words after wchich space will be changed into non-breaking space.",
+    "timelastreleased": {
+        "absdate": "Thursday, 16 April 2020, 6:06 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-04-16T06:06:32+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": null,
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1443/nbsp_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1443/nbsp_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1443/screen1.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1443/screen2.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 925504,
+            "firstname": "Kamil",
+            "lastname": "\u0141uczak",
+            "url": "https://moodle.org/user/profile.php?id=925504"
+        }
+    ],
+    "descriptors": []
+}

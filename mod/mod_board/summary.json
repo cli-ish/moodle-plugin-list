@@ -1,0 +1,53 @@
+{
+    "id": 2752,
+    "index": 55,
+    "name": "Board",
+    "frankenstyle": "mod_board",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_board",
+    "shortdescription": "The Board module for Moodle is a plugin that enables a post-it board activity for students.\r\nThis is a collaborative activity where the teachers sets out a number of columns with\r\noptional names and then students add contributions to a column. Students do not see who has\r\nposted what.\r\n",
+    "timelastreleased": {
+        "absdate": "Friday, 25 November 2022, 12:46 AM",
+        "reldate": "8 months",
+        "iso8601date": "2022-11-25T00:46:08+08:00"
+    },
+    "aggsites": "2817",
+    "aggdownloads": "1k",
+    "aggfavs": "80",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2752/Mod_board%20icon2.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2752/Mod_board%20icon2.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2752/board_projectplanning.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2752/board_mootieuk.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2752/board_projectplanning_addpost.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4074596,
+            "firstname": "Brickfield",
+            "lastname": "Education Labs",
+            "url": "https://moodle.org/user/profile.php?id=4074596"
+        },
+        {
+            "id": 9561,
+            "firstname": "Mike",
+            "lastname": "Churchward",
+            "url": "https://moodle.org/user/profile.php?id=9561"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,52 @@
+{
+    "id": 1448,
+    "index": 763,
+    "name": "Virtual Keyboard",
+    "frankenstyle": "tinymce_virtualkeyboard",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_virtualkeyboard",
+    "shortdescription": "Consider using a \"virtual keyboard\" as a safer alternative to the physical keyboard. With this virtual keyboard, you can reduce the risk of password and username theft. Additionally, they are not only practical but can be used anywhere. ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 25 April 2023, 7:20 PM",
+        "reldate": "3 months",
+        "iso8601date": "2023-04-25T19:20:34+08:00"
+    },
+    "aggsites": "106",
+    "aggdownloads": "130",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1448/DualCube_LOGO.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1448/DualCube_LOGO.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1448/Screenshot%20from%202015-06-25%20151554.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1448/Screenshot%20from%202015-06-25%20151742.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1448/vk_editor.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1832609,
+            "firstname": "DualCube",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=1832609"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

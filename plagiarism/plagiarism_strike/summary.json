@@ -1,0 +1,65 @@
+{
+    "id": 1967,
+    "index": 429,
+    "name": "StrikePlagiarism.com",
+    "frankenstyle": "plagiarism_strike",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_strike",
+    "shortdescription": "Strikeplagiarism.com is a commercial plagiarism detection system which requires a paid subscription to use.\r\n\r\nTo use this plugin you must purchase a subscription from www.strikeplagiarism.com",
+    "timelastreleased": {
+        "absdate": "Friday, 16 December 2022, 6:43 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-12-16T18:43:05+08:00"
+    },
+    "aggsites": "67",
+    "aggdownloads": "283",
+    "aggfavs": "5",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1967/StrikePlagiarism-logo.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1967/StrikePlagiarism-logo.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1967/0001.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1967/MOODLE%20instruction%20with%20Strikeplagiarism%20for%20students-page-001.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1967/MOODLE%20instruction%20with%20Strikeplagiarism%20for%20students-page-002.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1967/MOODLE%20instruction%20with%20Strikeplagiarism%20for%20students-page-003.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1967/Plagiat.pl_Moodle%20instruction%20for%20Admin-1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1967/Plagiat.pl_Moodle%20instruction%20for%20Admin-2.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1967/Plagiat.pl_Moodle%20instruction%20for%20Admin-3.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1880313,
+            "firstname": "Sebsoft",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=1880313"
+        },
+        {
+            "id": 2383729,
+            "firstname": "Julia",
+            "lastname": "Kalchun",
+            "url": "https://moodle.org/user/profile.php?id=2383729"
+        }
+    ],
+    "descriptors": []
+}

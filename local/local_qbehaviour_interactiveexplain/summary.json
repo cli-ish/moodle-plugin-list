@@ -1,0 +1,40 @@
+{
+    "id": 2447,
+    "index": 762,
+    "name": "Interactive with explanation question behaviour config",
+    "frankenstyle": "local_qbehaviour_interactiveexplain",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_qbehaviour_interactiveexplain",
+    "shortdescription": "Settings file for the interactiveexplain question behaviour.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 15 March 2022, 4:30 AM",
+        "reldate": "17 months",
+        "iso8601date": "2022-03-15T04:30:40+08:00"
+    },
+    "aggsites": "127",
+    "aggdownloads": "130",
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2447/interactiveexplain_screen_shot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2246,
+            "firstname": "Marcus",
+            "lastname": "Green",
+            "url": "https://moodle.org/user/profile.php?id=2246"
+        }
+    ],
+    "descriptors": []
+}

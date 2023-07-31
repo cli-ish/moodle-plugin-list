@@ -1,0 +1,62 @@
+{
+    "id": 1138,
+    "index": 352,
+    "name": "Lucimoo EPUB import",
+    "frankenstyle": "booktool_importepub",
+    "plugintype": {
+        "type": "booktool",
+        "name": "Book / Book tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/booktool_importepub",
+    "shortdescription": "Lucimoo EPUB import/export add-ons for the Moodle book module.\r\n\r\nLucimoo consists of two add-ons for the Moodle book module:\r\n* The \"importepub\" add-on provides functionality to import\r\nmaterial from EPUB ebooks into book module books.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 31 January 2018, 4:19 AM",
+        "reldate": "6 years",
+        "iso8601date": "2018-01-31T04:19:34+08:00"
+    },
+    "aggsites": "374",
+    "aggdownloads": "368",
+    "aggfavs": "19",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1138/Lucimoo_ebook_import_-_import_as_new_book_table_of_contents.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1138/Lucimoo_ebook_import_-_import_ebook_as_new_book_epub_chosen.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1138/Lucimoo_ebook_import_-_import_ebook_as_new_book_per_chapter_add_activities_between_chapters.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1138/Lucimoo_ebook_import_-_import_ebook_as_new_book_per_chapter.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1138/Lucimoo_ebook_import_-_imported_text_readability_score.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1347683,
+            "firstname": "Haakon",
+            "lastname": "Meland Eriksen",
+            "url": "https://moodle.org/user/profile.php?id=1347683"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Offline"
+        }
+    ]
+}

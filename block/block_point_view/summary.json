@@ -1,0 +1,59 @@
+{
+    "id": 2123,
+    "index": 393,
+    "name": "Point of view - Feedback",
+    "frankenstyle": "block_point_view",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_point_view",
+    "shortdescription": "Did you ever want to know the feelings of students about your courses, exercises or other activities? Point of View is a reaction system with emojis representing feelings; students can vote and rate activities and hence share their experiences. It improves social networking and gamification in your courses with students and professors reactions.\r\nPoint of view plugin allows to add customizable reaction buttons to moodle activities, display the number of users who reacted and the type of reaction or specify graphically difficulty levels for activities with color tracks. And it is fully customizable!",
+    "timelastreleased": {
+        "absdate": "Friday, 13 January 2023, 6:22 PM",
+        "reldate": "7 months",
+        "iso8601date": "2023-01-13T18:22:31+08:00"
+    },
+    "aggsites": "820",
+    "aggdownloads": "316",
+    "aggfavs": "93",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2123/point_view_main_picture.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2123/point_view_main_picture.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2123/point_view_main_picture.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2123/Capture%20d%E2%80%99e%CC%81cran%202018-07-20%20a%CC%80%2016.41.07.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2123/Capture%20d%E2%80%99%C3%A9cran%202018-07-20%20%C3%A0%2017.27.28.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2123/Capture%20d%E2%80%99%C3%A9cran%202018-07-20%20%C3%A0%2017.28.21.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2123/Capture%20d%E2%80%99%C3%A9cran%202018-07-20%20%C3%A0%2017.28.46.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2456332,
+            "firstname": "Quentin",
+            "lastname": "Fombaron",
+            "url": "https://moodle.org/user/profile.php?id=2456332"
+        },
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

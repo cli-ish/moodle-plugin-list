@@ -1,0 +1,53 @@
+{
+    "id": 856,
+    "index": 1692,
+    "name": "Pushover",
+    "frankenstyle": "message_pushover",
+    "plugintype": {
+        "type": "message",
+        "name": "Notification plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/message_pushover",
+    "shortdescription": "A message provider that allows push notifications via the pushover.net service. Push notifications to Android and iOS devices with ease!",
+    "timelastreleased": {
+        "absdate": "Friday, 13 September 2013, 12:45 PM",
+        "reldate": "10 years",
+        "iso8601date": "2013-09-13T12:45:55+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "7",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/856/pushover.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/856/pushover.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/856/2013-09-10%2016.13.11.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1379353,
+            "firstname": "Jason",
+            "lastname": "Fowler",
+            "url": "https://moodle.org/user/profile.php?id=1379353"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Mobile"
+        }
+    ]
+}

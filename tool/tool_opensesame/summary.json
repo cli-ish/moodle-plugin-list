@@ -1,0 +1,52 @@
+{
+    "id": 3137,
+    "index": 1263,
+    "name": "OpenSesame Connector",
+    "frankenstyle": "tool_opensesame",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_opensesame",
+    "shortdescription": "The OpenSesame Connector (tool_opensesame) is a course integration tool providing the ability to automatically create and configure Opensesame courses within Moodle. It also contains all of the main settings required to integrate with OpenSesame content.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 27 June 2023, 10:05 PM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-27T22:05:04+08:00"
+    },
+    "aggsites": "1",
+    "aggdownloads": "22",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3137/Screen%20Shot%202023-06-02%20at%208.56.03%20AM.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3137/Screen%20Shot%202023-06-02%20at%208.56.03%20AM.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3137/Screen%20Shot%202023-06-02%20at%209.12.57%20AM.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 5630511,
+            "firstname": "Abbie",
+            "lastname": "Jones",
+            "url": "https://moodle.org/user/profile.php?id=5630511"
+        },
+        {
+            "id": 5528688,
+            "firstname": "David",
+            "lastname": "Castro",
+            "url": "https://moodle.org/user/profile.php?id=5528688"
+        },
+        {
+            "id": 5051314,
+            "firstname": "Felicia",
+            "lastname": "Wilkes",
+            "url": "https://moodle.org/user/profile.php?id=5051314"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,47 @@
+{
+    "id": 1971,
+    "index": 1145,
+    "name": "Training",
+    "frankenstyle": "theme_training",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_training",
+    "shortdescription": "Training is a simple and easy clean looking theme uncluttered by lots of options which is great for beginners or when you just need to get something that looks great out the door quickly.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 22 May 2018, 12:39 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-05-22T12:39:58+08:00"
+    },
+    "aggsites": "36",
+    "aggdownloads": "32",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1971/screenshot.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1971/moodle-training-logo.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1971/training-top-nav.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1615960,
+            "firstname": "Michael",
+            "lastname": "Milette",
+            "url": "https://moodle.org/user/profile.php?id=1615960"
+        }
+    ],
+    "descriptors": []
+}

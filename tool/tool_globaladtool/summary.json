@@ -1,0 +1,44 @@
+{
+    "id": 2235,
+    "index": 1866,
+    "name": "Globaladtool",
+    "frankenstyle": "tool_globaladtool",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_globaladtool",
+    "shortdescription": "Globaladtool (Site administration / Appearance / Globaladtool) is a Moodle tool that allows add or remove Globalad block to all courses into categorie and into Dashboard to all users. \r\n\r\nGlobaladtool (Administraci\u00f3n del sitio / Apariencia / Globaladtool) es una herramienta para Moodle que permite a\u00f1adir o quitar el bloque Globalad a todos los cursos de una categor\u00eda y en el \u00c1rea personal de todos los usuarios",
+    "timelastreleased": {
+        "absdate": "Wednesday, 22 May 2019, 3:47 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-05-22T15:47:18+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "4",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2235/screenshot1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2235/screenshot2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1433450,
+            "firstname": "Angel Luis",
+            "lastname": "Fraile",
+            "url": "https://moodle.org/user/profile.php?id=1433450"
+        }
+    ],
+    "descriptors": []
+}

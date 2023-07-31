@@ -1,0 +1,58 @@
+{
+    "id": 1373,
+    "index": 752,
+    "name": "Course description label",
+    "frankenstyle": "mod_description",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_description",
+    "shortdescription": "The course description plugin is a resource which displays the course name and the course description on the course page (at the location where it is placed). It is a small but handy tool.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 28 March 2023, 1:22 PM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-28T13:22:35+08:00"
+    },
+    "aggsites": "236",
+    "aggdownloads": "133",
+    "aggfavs": "37",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1373/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1373/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1373/description01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1373/description02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1373/description03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 221571,
+            "firstname": "Flotter",
+            "lastname": "Totte",
+            "url": "https://moodle.org/user/profile.php?id=221571"
+        },
+        {
+            "id": 2341857,
+            "firstname": "emeneo",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=2341857"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

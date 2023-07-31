@@ -1,0 +1,70 @@
+{
+    "id": 339,
+    "index": 54,
+    "name": "AutoEnrol ",
+    "frankenstyle": "enrol_autoenrol",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_autoenrol",
+    "shortdescription": "Adds functionality to automatically enrol users onto a course, either as they log in to your Moodle site or as they access a course. \r\nThis plugin was at first intended for use on courses which you want all users to be able to access but can also be configured for more advanced purposes as reserved access courses. \r\nUsing the new user filtering you can think at Autoenrol as a Swiss Army knife for Moodle enrolments.",
+    "timelastreleased": {
+        "absdate": "Monday, 20 June 2022, 9:05 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-06-20T21:05:54+08:00"
+    },
+    "aggsites": "4275",
+    "aggdownloads": "1k",
+    "aggfavs": "161",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/339/autoenrol.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/339/autoenrol.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/339/AutoEnrol%20admin%20settings%201.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/339/AutoEnrol%20admin%20settings%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/339/AutoEnrol%20instance%20settings%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/339/AutoEnrol%20instance%20settings%202%20-%20New%20filter%20definition.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/339/AutoEnrol%20instance%20settings%203%20-%20group%20definition.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/339/AutoEnrol%20scheduled%20tasks.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/339/newfeatures.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 489101,
+            "firstname": "Mark",
+            "lastname": "Ward",
+            "url": "https://moodle.org/user/profile.php?id=489101"
+        },
+        {
+            "id": 1811,
+            "firstname": "Roberto",
+            "lastname": "Pinna",
+            "url": "https://moodle.org/user/profile.php?id=1811"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

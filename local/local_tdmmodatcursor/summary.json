@@ -1,0 +1,53 @@
+{
+    "id": 1009,
+    "index": 2137,
+    "name": "Insert module at cursor",
+    "frankenstyle": "local_tdmmodatcursor",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_tdmmodatcursor",
+    "shortdescription": "Enables editing teachers to add activities and resources above the activity below the cursor",
+    "timelastreleased": {
+        "absdate": "Tuesday, 3 June 2014, 5:52 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-03T05:52:11+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": null,
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1009/Configuration.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1009/On%20hover.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1394209,
+            "firstname": "Luke",
+            "lastname": "Carrier",
+            "url": "https://moodle.org/user/profile.php?id=1394209"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Teacher"
+        }
+    ]
+}

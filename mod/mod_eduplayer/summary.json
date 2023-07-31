@@ -1,0 +1,53 @@
+{
+    "id": 797,
+    "index": 1265,
+    "name": "Eduplayer",
+    "frankenstyle": "mod_eduplayer",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_eduplayer",
+    "shortdescription": "Html5/flash player for both video and audio media with sharing and download capabilities",
+    "timelastreleased": {
+        "absdate": "Thursday, 23 February 2017, 11:01 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-02-23T23:01:11+08:00"
+    },
+    "aggsites": "161",
+    "aggdownloads": "21",
+    "aggfavs": "14",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/797/screen01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/797/screen02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1239188,
+            "firstname": "Humanage",
+            "lastname": "SRL",
+            "url": "https://moodle.org/user/profile.php?id=1239188"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

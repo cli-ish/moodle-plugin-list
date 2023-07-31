@@ -1,0 +1,47 @@
+{
+    "id": 2382,
+    "index": 534,
+    "name": "Mod Super Video",
+    "frankenstyle": "mod_supervideo",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_supervideo",
+    "shortdescription": "This module adds a Youtube, Google Drive or Vimeo within Moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 July 2023, 3:43 AM",
+        "reldate": "3 days",
+        "iso8601date": "2023-07-28T03:43:03+08:00"
+    },
+    "aggsites": "65",
+    "aggdownloads": "222",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2382/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2382/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2382/Captura%20de%20Tela%202023-03-27%20a%CC%80s%2014.06.26.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2382/Captura%20de%20Tela%202023-03-27%20a%CC%80s%2014.07.23.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2382/Captura%20de%20Tela%202023-03-27%20a%CC%80s%2014.08.08.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1428341,
+            "firstname": "Eduardo",
+            "lastname": "Kraus",
+            "url": "https://moodle.org/user/profile.php?id=1428341"
+        }
+    ],
+    "descriptors": []
+}

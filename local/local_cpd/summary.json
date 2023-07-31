@@ -1,0 +1,56 @@
+{
+    "id": 1216,
+    "index": 1565,
+    "name": "CPD",
+    "frankenstyle": "local_cpd",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_cpd",
+    "shortdescription": "Allows Moodle users to log their CPD via their user profiles.",
+    "timelastreleased": {
+        "absdate": "Monday, 22 December 2014, 6:29 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-22T06:29:35+08:00"
+    },
+    "aggsites": "32",
+    "aggdownloads": "9",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1216/Activity%20log.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1216/Advanced%20filtering.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1216/My%20CPD.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1216/Their%20CPD.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4898468,
+            "firstname": "Titus",
+            "lastname": "Development",
+            "url": "https://moodle.org/user/profile.php?id=4898468"
+        },
+        {
+            "id": 1394209,
+            "firstname": "Luke",
+            "lastname": "Carrier",
+            "url": "https://moodle.org/user/profile.php?id=1394209"
+        }
+    ],
+    "descriptors": []
+}

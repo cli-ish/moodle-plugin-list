@@ -1,0 +1,17 @@
+[
+    {
+        "id": "6416",
+        "name": "2.1.87-build-2014070100",
+        "url": "https://moodle.org/plugins/download.php/6416/filter_iassign_filter_moodle34_2013080210.zip"
+    },
+    {
+        "id": "6249",
+        "name": "2.1.70-build-2014060900",
+        "url": "https://moodle.org/plugins/download.php/6249/filter_iassign_filter_moodle29_2020100301.zip"
+    },
+    {
+        "id": "5650",
+        "name": "2.1.55-build-2014022600",
+        "url": "https://moodle.org/plugins/download.php/5650/filter_iassign_filter_moodle33_2012060815.zip"
+    }
+]

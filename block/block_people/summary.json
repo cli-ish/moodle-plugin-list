@@ -1,0 +1,46 @@
+{
+    "id": 337,
+    "index": 141,
+    "name": "People",
+    "frankenstyle": "block_people",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_people",
+    "shortdescription": "Moodle block which displays all teachers of a course with contact quicklinks, as well as a quicklink to the participants list\r\n",
+    "timelastreleased": {
+        "absdate": "Wednesday, 5 April 2023, 3:09 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-04-05T03:09:41+08:00"
+    },
+    "aggsites": "1218",
+    "aggdownloads": "841",
+    "aggfavs": "60",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/337/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/337/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/337/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

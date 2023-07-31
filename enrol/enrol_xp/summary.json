@@ -1,0 +1,44 @@
+{
+    "id": 2028,
+    "index": 216,
+    "name": "Level Up XP Enrolment",
+    "frankenstyle": "enrol_xp",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_xp",
+    "shortdescription": "Enrol users in courses when a certain level from Level Up XP is attained. ",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 April 2020, 5:45 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-04-29T17:45:56+08:00"
+    },
+    "aggsites": "650",
+    "aggdownloads": "581",
+    "aggfavs": "40",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2028/levelup-square-90x90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2028/levelup-square-90x90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2028/1-block.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2028/2_config_screen.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1451616,
+            "firstname": "Fr\u00e9d\u00e9ric",
+            "lastname": "Massart \u2b50",
+            "url": "https://moodle.org/user/profile.php?id=1451616"
+        }
+    ],
+    "descriptors": []
+}

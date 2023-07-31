@@ -1,0 +1,44 @@
+{
+    "id": 1847,
+    "index": 939,
+    "name": "Course overview (legacy)",
+    "frankenstyle": "block_course_overview",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_overview",
+    "shortdescription": "The Course overview block is visible on a user's Dashboard and shows a list of all courses in which a user is enrolled/has an assigned role.",
+    "timelastreleased": {
+        "absdate": "Thursday, 23 May 2019, 6:34 PM",
+        "reldate": "4 years",
+        "iso8601date": "2019-05-23T18:34:56+08:00"
+    },
+    "aggsites": "955",
+    "aggdownloads": "74",
+    "aggfavs": "16",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1847/Screen%20Shot%202017-11-28%20at%2011.39.10.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1847/Screen%20Shot%202017-11-28%20at%2011.40.35.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1473,
+            "firstname": "Howard",
+            "lastname": "Miller",
+            "url": "https://moodle.org/user/profile.php?id=1473"
+        }
+    ],
+    "descriptors": []
+}

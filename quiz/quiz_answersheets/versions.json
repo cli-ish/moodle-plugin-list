@@ -1,0 +1,17 @@
+[
+    {
+        "id": "26313",
+        "name": "v1.3-for-moodle-3.11",
+        "url": "https://moodle.org/plugins/download.php/26313/quiz_answersheets_moodle33_2019120912.zip"
+    },
+    {
+        "id": "23099",
+        "name": "v1.2-for-moodle-3.9",
+        "url": "https://moodle.org/plugins/download.php/23099/quiz_answersheets_moodle37_2016120902.zip"
+    },
+    {
+        "id": "21869",
+        "name": "v1.1-for-moodle-3.6",
+        "url": "https://moodle.org/plugins/download.php/21869/quiz_answersheets_moodle33_2016050505.zip"
+    }
+]

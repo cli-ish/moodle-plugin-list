@@ -1,0 +1,45 @@
+{
+    "id": 65,
+    "index": 857,
+    "name": "Repository File Manager",
+    "frankenstyle": "block_repo_filemanager",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_repo_filemanager",
+    "shortdescription": "This block contains a Moodle 2+ re-write of the Moodle 1.x file manager.",
+    "timelastreleased": {
+        "absdate": "Friday, 1 June 2018, 6:58 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-06-01T18:58:53+08:00"
+    },
+    "aggsites": "519",
+    "aggdownloads": "111",
+    "aggfavs": "25",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/65/repo-file-man.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 10165,
+            "firstname": "Tim",
+            "lastname": "Williams",
+            "url": "https://moodle.org/user/profile.php?id=10165"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

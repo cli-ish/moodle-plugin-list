@@ -1,0 +1,45 @@
+{
+    "id": 867,
+    "index": 1919,
+    "name": "VL eBooks",
+    "frankenstyle": "block_vlebooks",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_vlebooks",
+    "shortdescription": "This block offers customers using the Moodle VLE a seamless login to VLeBooks and can be added to a Moodle homepage or course. The Moodle block will display the VleBooks logo and the text 'Click to log in'. When clicked the block will build a validated url to call and seamlessly log in to VLeBooks.",
+    "timelastreleased": {
+        "absdate": "Thursday, 5 June 2014, 10:20 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-05T22:20:32+08:00"
+    },
+    "aggsites": "17",
+    "aggdownloads": "3",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/867/logo-170.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/867/logo-170.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/867/vlebooks.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1609930,
+            "firstname": "Andreas",
+            "lastname": "Wagner",
+            "url": "https://moodle.org/user/profile.php?id=1609930"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

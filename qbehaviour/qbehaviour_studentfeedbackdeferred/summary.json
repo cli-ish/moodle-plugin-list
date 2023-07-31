@@ -1,0 +1,47 @@
+{
+    "id": 2883,
+    "index": 827,
+    "name": "Student feedback (deferred)",
+    "frankenstyle": "qbehaviour_studentfeedbackdeferred",
+    "plugintype": {
+        "type": "qbehaviour",
+        "name": "Question behaviour"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qbehaviour_studentfeedbackdeferred",
+    "shortdescription": "A question behaviour derived from Deferred feedback, where students can submit one comment for each question and one comment for the whole Quiz, after their attempt is submitted.",
+    "timelastreleased": {
+        "absdate": "Monday, 7 November 2022, 10:48 PM",
+        "reldate": "9 months",
+        "iso8601date": "2022-11-07T22:48:15+08:00"
+    },
+    "aggsites": "75",
+    "aggdownloads": "120",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2883/Questionfeedback.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2883/Quizfeedback.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2883/teacherview.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2653863,
+            "firstname": "Astor",
+            "lastname": "Bizard",
+            "url": "https://moodle.org/user/profile.php?id=2653863"
+        }
+    ],
+    "descriptors": []
+}

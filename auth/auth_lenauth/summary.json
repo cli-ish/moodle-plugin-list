@@ -1,0 +1,56 @@
+{
+    "id": 1261,
+    "index": 1003,
+    "name": "LenAuth",
+    "frankenstyle": "auth_lenauth",
+    "plugintype": {
+        "type": "auth",
+        "name": "Authentication method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/auth_lenauth",
+    "shortdescription": "LenAuth is a plugin for easy OAuth authorize methods via social networks: Facebook, Google, Yahoo, Twitter, VK, Yandex, Mail.Ru. Easy integrate methods to Moodle theme and a lot of settings.",
+    "timelastreleased": {
+        "absdate": "Saturday, 16 July 2016, 3:29 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-07-16T03:29:27+08:00"
+    },
+    "aggsites": "103",
+    "aggdownloads": "55",
+    "aggfavs": "37",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1261/logo_tree_200x200.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1261/logo_tree_200x200.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1261/screenshot_1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1261/screenshot_2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1261/screenshot_3.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1738291,
+            "firstname": "Igor",
+            "lastname": "Sazonov",
+            "url": "https://moodle.org/user/profile.php?id=1738291"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

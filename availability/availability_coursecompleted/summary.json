@@ -1,0 +1,49 @@
+{
+    "id": 1308,
+    "index": 23,
+    "name": "Restriction by course completion",
+    "frankenstyle": "availability_coursecompleted",
+    "plugintype": {
+        "type": "availability",
+        "name": "Availability restriction"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/availability_coursecompleted",
+    "shortdescription": "Restrict module and section access based on course completion.",
+    "timelastreleased": {
+        "absdate": "Monday, 4 April 2022, 7:44 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-04T19:44:29+08:00"
+    },
+    "aggsites": "2574",
+    "aggdownloads": "3k",
+    "aggfavs": "96",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1308/Capturea.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1308/Captureb.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1207459,
+            "firstname": "Renaat",
+            "lastname": "Debleu",
+            "url": "https://moodle.org/user/profile.php?id=1207459"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

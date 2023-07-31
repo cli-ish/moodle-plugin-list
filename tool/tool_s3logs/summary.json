@@ -1,0 +1,46 @@
+{
+    "id": 2263,
+    "index": 770,
+    "name": "S3 Log Archiver",
+    "frankenstyle": "tool_s3logs",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_s3logs",
+    "shortdescription": "This plugin will take entries from the Moodle standard log store table and export them to AWS S3.",
+    "timelastreleased": {
+        "absdate": "Friday, 12 August 2022, 5:28 AM",
+        "reldate": "12 months",
+        "iso8601date": "2022-08-12T05:28:59+08:00"
+    },
+    "aggsites": "36",
+    "aggdownloads": "129",
+    "aggfavs": "1",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2263/tool_s3logs.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 1608390,
+            "firstname": "Dmitrii",
+            "lastname": "Metelkin",
+            "url": "https://moodle.org/user/profile.php?id=1608390"
+        }
+    ],
+    "descriptors": []
+}

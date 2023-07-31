@@ -1,0 +1,45 @@
+{
+    "id": 1372,
+    "index": 1687,
+    "name": "Download private files from other moodle platforms",
+    "frankenstyle": "block_my_external_privatefiles",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_my_external_privatefiles",
+    "shortdescription": "my_external_privatesfiles is a Moodle block that enable a user to retirieve a zip of his private files from one or more external moodles",
+    "timelastreleased": {
+        "absdate": "Monday, 26 July 2021, 10:02 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-07-26T22:02:47+08:00"
+    },
+    "aggsites": "8",
+    "aggdownloads": "7",
+    "aggfavs": "4",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1372/capture.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 922669,
+            "firstname": "C\u00e9line",
+            "lastname": "Perves",
+            "url": "https://moodle.org/user/profile.php?id=922669"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

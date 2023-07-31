@@ -1,0 +1,44 @@
+{
+    "id": 2905,
+    "index": 864,
+    "name": "Bank Transference",
+    "frankenstyle": "paygw_bank",
+    "plugintype": {
+        "type": "paygw",
+        "name": "Payment gateway"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/paygw_bank",
+    "shortdescription": "Tihs plugin, is a moodle payment gateway that provides support to payments made by bank transferences, or another manual payment methods that need to be approved by a person.",
+    "timelastreleased": {
+        "absdate": "Friday, 20 January 2023, 10:53 PM",
+        "reldate": "6 months",
+        "iso8601date": "2023-01-20T22:53:41+08:00"
+    },
+    "aggsites": "139",
+    "aggdownloads": "109",
+    "aggfavs": "14",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2905/img.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2905/img.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2905/paygw_ss1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2905/paygw_ss2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 4810502,
+            "firstname": "Carlos",
+            "lastname": "Vicente",
+            "url": "https://moodle.org/user/profile.php?id=4810502"
+        }
+    ],
+    "descriptors": []
+}

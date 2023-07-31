@@ -1,0 +1,63 @@
+{
+    "id": 48,
+    "index": 936,
+    "name": "ForumNG",
+    "frankenstyle": "mod_forumng",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_forumng",
+    "shortdescription": "Alternative forum with AJAX and management features",
+    "timelastreleased": {
+        "absdate": "Friday, 3 December 2021, 4:34 PM",
+        "reldate": "20 months",
+        "iso8601date": "2021-12-03T16:34:28+08:00"
+    },
+    "aggsites": "213",
+    "aggdownloads": "75",
+    "aggfavs": "13",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/48/screencapture-mod-forumng-discuss-php-1482320196430.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 93817,
+            "firstname": "sam",
+            "lastname": "marshall",
+            "url": "https://moodle.org/user/profile.php?id=93817"
+        },
+        {
+            "id": 818233,
+            "firstname": "Jason",
+            "lastname": "Platts",
+            "url": "https://moodle.org/user/profile.php?id=818233"
+        },
+        {
+            "id": 147145,
+            "firstname": "Alan",
+            "lastname": "Thompson",
+            "url": "https://moodle.org/user/profile.php?id=147145"
+        },
+        {
+            "id": 93825,
+            "firstname": "Alan",
+            "lastname": "Carter",
+            "url": "https://moodle.org/user/profile.php?id=93825"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Collaboration"
+        }
+    ]
+}

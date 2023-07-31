@@ -1,0 +1,49 @@
+{
+    "id": 215,
+    "index": 311,
+    "name": "HotPot question import for Moodle 2.x",
+    "frankenstyle": "qformat_hotpot",
+    "plugintype": {
+        "type": "qformat",
+        "name": "Question import/export format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qformat_hotpot",
+    "shortdescription": "Import HotPot files to Moodle 2.x question bank",
+    "timelastreleased": {
+        "absdate": "Wednesday, 26 October 2022, 2:20 PM",
+        "reldate": "9 months",
+        "iso8601date": "2022-10-26T14:20:59+08:00"
+    },
+    "aggsites": "1329",
+    "aggdownloads": "426",
+    "aggfavs": "24",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/215/qformat_hotpot.01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/215/qformat_hotpot.02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 8277,
+            "firstname": "Gordon",
+            "lastname": "Bateson",
+            "url": "https://moodle.org/user/profile.php?id=8277"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

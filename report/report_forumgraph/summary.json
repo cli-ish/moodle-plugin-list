@@ -1,0 +1,49 @@
+{
+    "id": 846,
+    "index": 1354,
+    "name": "Forum Graph",
+    "frankenstyle": "report_forumgraph",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_forumgraph",
+    "shortdescription": "The Forum Graph Report analyse interactions in a single Forum activity and create a force-directed graph using the D3.js Javascript library.",
+    "timelastreleased": {
+        "absdate": "Friday, 12 August 2016, 4:59 PM",
+        "reldate": "7 years",
+        "iso8601date": "2016-08-12T16:59:23+08:00"
+    },
+    "aggsites": "156",
+    "aggdownloads": "16",
+    "aggfavs": "22",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/846/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/846/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/846/screen01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/846/screen02.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 822403,
+            "firstname": "Andy",
+            "lastname": "Chan",
+            "url": "https://moodle.org/user/profile.php?id=822403"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

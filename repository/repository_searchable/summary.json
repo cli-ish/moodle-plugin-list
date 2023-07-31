@@ -1,0 +1,65 @@
+{
+    "id": 1842,
+    "index": 791,
+    "name": "Searchable filesystem",
+    "frankenstyle": "repository_searchable",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_searchable",
+    "shortdescription": "A filesystem-based repository focused on searchable capabilities, ideal for\r\ndirectories with lots (thousands) of files at server side.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 11 August 2021, 4:06 PM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-11T16:06:29+08:00"
+    },
+    "aggsites": "91",
+    "aggdownloads": "125",
+    "aggfavs": "9",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1842/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1842/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1842/20_results.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1842/repository_directories.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1842/repository_instances.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1842/restoring_a_backup_file_searching_10.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1842/restoring_a_backup_file.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1518376,
+            "firstname": "Jordi",
+            "lastname": "Pujol-Ahull\u00f3",
+            "url": "https://moodle.org/user/profile.php?id=1518376"
+        },
+        {
+            "id": 2019496,
+            "firstname": "Daniel",
+            "lastname": "Tome Fernandez",
+            "url": "https://moodle.org/user/profile.php?id=2019496"
+        },
+        {
+            "id": 2409725,
+            "firstname": "Cristian",
+            "lastname": "Martinez",
+            "url": "https://moodle.org/user/profile.php?id=2409725"
+        }
+    ],
+    "descriptors": []
+}

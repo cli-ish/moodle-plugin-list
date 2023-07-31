@@ -1,0 +1,46 @@
+{
+    "id": 2135,
+    "index": 707,
+    "name": "Manage all RSS feeds",
+    "frankenstyle": "tool_rssfeeds",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_rssfeeds",
+    "shortdescription": "This admin tool allows managers to view all RSS feeds on a Moodle site. It shows who owns the feed, which courses have the feed exposed via an RSS block, and gives the manager the option to globally delete the feed.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 21 January 2020, 10:19 PM",
+        "reldate": "4 years",
+        "iso8601date": "2020-01-21T22:19:43+08:00"
+    },
+    "aggsites": "67",
+    "aggdownloads": "146",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2135/tool_rssfeed-management-interface.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 190491,
+            "firstname": "Charles",
+            "lastname": "Fulton",
+            "url": "https://moodle.org/user/profile.php?id=190491"
+        },
+        {
+            "id": 2004053,
+            "firstname": "Andrew",
+            "lastname": "Zito",
+            "url": "https://moodle.org/user/profile.php?id=2004053"
+        }
+    ],
+    "descriptors": []
+}

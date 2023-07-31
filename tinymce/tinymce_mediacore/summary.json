@@ -1,0 +1,62 @@
+{
+    "id": 1155,
+    "index": 2117,
+    "name": "MediaCore TinyMCE Editor Chooser",
+    "frankenstyle": "tinymce_mediacore",
+    "plugintype": {
+        "type": "tinymce",
+        "name": "Legacy TinyMCE plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tinymce_mediacore",
+    "shortdescription": "The MediaCore Moodle plugin gives your Moodle users one-click access to the MediaCore Chooser \u2014 allowing them to easily upload and embed media to any Moodle page, straight from inside Moodle.",
+    "timelastreleased": {
+        "absdate": "Friday, 20 June 2014, 3:53 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-06-20T03:53:43+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": null,
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1155/mediacore_logo_90x90.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1155/mediacore_logo_90x90.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1155/Screen_Shot_2014-06-24_at_9.40.01_AM.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1155/Screen_Shot_2014-06-24_at_9.38.04_AM.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1155/Screen_Shot_2014-06-24_at_9.40.59_AM.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1437567,
+            "firstname": "MediaCore",
+            "lastname": "Support",
+            "url": "https://moodle.org/user/profile.php?id=1437567"
+        },
+        {
+            "id": 1572219,
+            "firstname": "Derek",
+            "lastname": "Harnanansingh",
+            "url": "https://moodle.org/user/profile.php?id=1572219"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

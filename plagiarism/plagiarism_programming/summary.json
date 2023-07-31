@@ -1,0 +1,45 @@
+{
+    "id": 366,
+    "index": 1633,
+    "name": "Source-code Plagiarism Plugin",
+    "frankenstyle": "plagiarism_programming",
+    "plugintype": {
+        "type": "plagiarism",
+        "name": "Plagiarism plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/plagiarism_programming",
+    "shortdescription": "A plugin integrating 2 source code detection engines MOSS and JPlag into Moodle for programming assignments.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 December 2012, 8:24 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-12-18T20:24:15+08:00"
+    },
+    "aggsites": "5",
+    "aggdownloads": "8",
+    "aggfavs": "6",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/366/Diagram.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1310306,
+            "firstname": "Tri",
+            "lastname": "Le",
+            "url": "https://moodle.org/user/profile.php?id=1310306"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 3,
+            "value": "Plagiarism"
+        }
+    ]
+}

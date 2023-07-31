@@ -1,0 +1,52 @@
+{
+    "id": 407,
+    "index": 1626,
+    "name": "Advanced spam cleaner",
+    "frankenstyle": "tool_advancedspamcleaner",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_advancedspamcleaner",
+    "shortdescription": "Advanced Spam Cleaner tool for Moodle",
+    "timelastreleased": {
+        "absdate": "Tuesday, 13 October 2020, 3:11 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-10-13T15:11:52+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "8",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/407/nospam.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/407/nospam.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/407/spam.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/407/network.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/407/Settings.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1310725,
+            "firstname": "Ankit",
+            "lastname": "Agarwal",
+            "url": "https://moodle.org/user/profile.php?id=1310725"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

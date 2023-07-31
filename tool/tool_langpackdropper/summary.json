@@ -1,0 +1,46 @@
+{
+    "id": 2880,
+    "index": 1473,
+    "name": "Language pack dropper",
+    "frankenstyle": "tool_langpackdropper",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_langpackdropper",
+    "shortdescription": "\ufeff\ufeffMoodle admin tool to download and update language packs which are not located / maintained in AMOS.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 31 May 2022, 4:40 AM",
+        "reldate": "14 months",
+        "iso8601date": "2022-05-31T04:40:33+08:00"
+    },
+    "aggsites": "89",
+    "aggdownloads": "12",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2880/lernlink.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2880/lernlink.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2880/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4480813,
+            "firstname": "Moodle Partner",
+            "lastname": "lern.link",
+            "url": "https://moodle.org/user/profile.php?id=4480813"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

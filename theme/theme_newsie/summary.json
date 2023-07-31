@@ -1,0 +1,45 @@
+{
+    "id": 106,
+    "index": 1568,
+    "name": "newsie",
+    "frankenstyle": "theme_newsie",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_newsie",
+    "shortdescription": "A two column moodle2 theme from NewSchoolLearning. Features a horizontal submenu with the custom menu. Best used when custom menu items are only one level deep.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 1 February 2012, 8:18 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-02-01T20:18:43+08:00"
+    },
+    "aggsites": "20",
+    "aggdownloads": "9",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/106/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/106/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/106/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 691370,
+            "firstname": "John",
+            "lastname": "St",
+            "url": "https://moodle.org/user/profile.php?id=691370"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

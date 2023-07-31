@@ -1,0 +1,49 @@
+{
+    "id": 1118,
+    "index": 1121,
+    "name": "IPA",
+    "frankenstyle": "filter_ipa",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_ipa",
+    "shortdescription": "The Moodle IPA Filter displays X-SAMPA as unicode IPA. The intent is to offer an easy and fast way to display the International Phonetic Alphabet in Moodle.",
+    "timelastreleased": {
+        "absdate": "Sunday, 27 March 2022, 11:35 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-03-27T23:35:57+08:00"
+    },
+    "aggsites": "124",
+    "aggdownloads": "35",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1118/ipa.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1118/x-sampa.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 749424,
+            "firstname": "Kevin",
+            "lastname": "Wiliarty",
+            "url": "https://moodle.org/user/profile.php?id=749424"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        }
+    ]
+}

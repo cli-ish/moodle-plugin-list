@@ -1,0 +1,40 @@
+{
+    "id": 2970,
+    "index": 384,
+    "name": "Wavefront Filter",
+    "frankenstyle": "filter_wavefront",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_wavefront",
+    "shortdescription": "filter_wavefront is a Moodle plugin that allows content creators to easily include 3D models from a mod_wavefront gallery anywhere in Moodle that supports filtering. Please note this plugin requires version 2022061104 or above of the mod_wavefront activity.",
+    "timelastreleased": {
+        "absdate": "Saturday, 2 July 2022, 8:11 PM",
+        "reldate": "13 months",
+        "iso8601date": "2022-07-02T20:11:31+08:00"
+    },
+    "aggsites": "15",
+    "aggdownloads": "323",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2970/emded_example.jpg?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 325899,
+            "firstname": "Ian",
+            "lastname": "Wild",
+            "url": "https://moodle.org/user/profile.php?id=325899"
+        }
+    ],
+    "descriptors": []
+}

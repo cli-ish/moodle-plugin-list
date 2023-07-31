@@ -1,0 +1,50 @@
+{
+    "id": 1608,
+    "index": 354,
+    "name": "edu-sharing Filter",
+    "frankenstyle": "filter_edusharing",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_edusharing",
+    "shortdescription": "The edu-sharing filter displays embedded edu-sharing content.",
+    "timelastreleased": {
+        "absdate": "Monday, 5 June 2023, 9:01 PM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-05T21:01:55+08:00"
+    },
+    "aggsites": "69",
+    "aggdownloads": "366",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1608/edu-sharing.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1608/edu-sharing.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1608/etherpad%20in%20moodle%20-%20ebedded%20via%20edu-sharing?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1608/video%20and%20audio%20files%20emedded%20in%20moodle%20via%20edu-sharing?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2685541,
+            "firstname": "Christian",
+            "lastname": "Ernst",
+            "url": "https://moodle.org/user/profile.php?id=2685541"
+        },
+        {
+            "id": 5580377,
+            "firstname": "edu-sharing",
+            "lastname": "Integrations",
+            "url": "https://moodle.org/user/profile.php?id=5580377"
+        }
+    ],
+    "descriptors": []
+}

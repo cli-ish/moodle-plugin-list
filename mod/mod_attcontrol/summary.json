@@ -1,0 +1,45 @@
+{
+    "id": 1207,
+    "index": 2135,
+    "name": "AttControl",
+    "frankenstyle": "mod_attcontrol",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_attcontrol",
+    "shortdescription": "-",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 August 2014, 4:08 PM",
+        "reldate": "9 years",
+        "iso8601date": "2014-08-26T16:08:05+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": null,
+    "aggfavs": "5",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1207/baselogopetit.fw.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1832626,
+            "firstname": "--",
+            "lastname": "--",
+            "url": "https://moodle.org/user/profile.php?id=1832626"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

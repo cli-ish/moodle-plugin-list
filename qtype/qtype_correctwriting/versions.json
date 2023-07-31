@@ -1,0 +1,57 @@
+[
+    {
+        "id": "28240",
+        "name": "correct-writing-3.9",
+        "url": "https://moodle.org/plugins/download.php/28240/qtype_correctwriting_moodle31_2021020217.zip"
+    },
+    {
+        "id": "21473",
+        "name": "correct-writing-3.6",
+        "url": "https://moodle.org/plugins/download.php/21473/qtype_correctwriting_moodle39_2021090718.zip"
+    },
+    {
+        "id": "21456",
+        "name": "correct-writing-3.2",
+        "url": "https://moodle.org/plugins/download.php/21456/qtype_correctwriting_moodle26_2022031112.zip"
+    },
+    {
+        "id": "15435",
+        "name": "correct-writing-3.1",
+        "url": "https://moodle.org/plugins/download.php/15435/qtype_correctwriting_moodle35_2017081215.zip"
+    },
+    {
+        "id": "12784",
+        "name": "correct-writing-3.0",
+        "url": "https://moodle.org/plugins/download.php/12784/qtype_correctwriting_moodle34_2019070515.zip"
+    },
+    {
+        "id": "8920",
+        "name": "correct-writing-2.8.1",
+        "url": "https://moodle.org/plugins/download.php/8920/qtype_correctwriting_moodle33_2021120101.zip"
+    },
+    {
+        "id": "7447",
+        "name": "correct-writing-2.6.1-release",
+        "url": "https://moodle.org/plugins/download.php/7447/qtype_correctwriting_moodle35_2023040807.zip"
+    },
+    {
+        "id": "3496",
+        "name": "correct-writing-2.5",
+        "url": "https://moodle.org/plugins/download.php/3496/qtype_correctwriting_moodle38_2020090313.zip"
+    },
+    {
+        "id": "2293",
+        "name": "correct-writing-2.4",
+        "url": "https://moodle.org/plugins/download.php/2293/qtype_correctwriting_moodle27_2016091212.zip"
+    },
+    {
+        "id": "8882",
+        "name": "correct-writing-2.8",
+        "url": "https://moodle.org/plugins/download.php/8882/qtype_correctwriting_moodle27_2023071019.zip"
+    },
+    {
+        "id": "6568",
+        "name": "correct-writing-2.6-release",
+        "url": "https://moodle.org/plugins/download.php/6568/qtype_correctwriting_moodle37_2015111219.zip"
+    }
+]

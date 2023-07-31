@@ -1,0 +1,107 @@
+[
+    {
+        "id": "28967",
+        "name": "3.4.3.0",
+        "url": "https://moodle.org/plugins/download.php/28967/mod_realtimequiz_moodle34_2011040808.zip"
+    },
+    {
+        "id": "15308",
+        "name": "2.x-build-2017110900",
+        "url": "https://moodle.org/plugins/download.php/15308/mod_realtimequiz_moodle39_2018031019.zip"
+    },
+    {
+        "id": "17",
+        "name": "v0.8",
+        "url": "https://moodle.org/plugins/download.php/17/mod_realtimequiz_moodle39_2022040401.zip"
+    },
+    {
+        "id": "27966",
+        "name": "3.4.2.0",
+        "url": "https://moodle.org/plugins/download.php/27966/mod_realtimequiz_moodle29_2017010314.zip"
+    },
+    {
+        "id": "27965",
+        "name": "3.4.1.0",
+        "url": "https://moodle.org/plugins/download.php/27965/mod_realtimequiz_moodle26_2022060903.zip"
+    },
+    {
+        "id": "26182",
+        "name": "3.4-build-2022012200",
+        "url": "https://moodle.org/plugins/download.php/26182/mod_realtimequiz_moodle29_2017060619.zip"
+    },
+    {
+        "id": "24178",
+        "name": "3.4-build-2021051500",
+        "url": "https://moodle.org/plugins/download.php/24178/mod_realtimequiz_moodle34_2016120608.zip"
+    },
+    {
+        "id": "18400",
+        "name": "3.4-build-2018051500",
+        "url": "https://moodle.org/plugins/download.php/18400/mod_realtimequiz_moodle30_2010121217.zip"
+    },
+    {
+        "id": "16656",
+        "name": "3.4-build-2018042100",
+        "url": "https://moodle.org/plugins/download.php/16656/mod_realtimequiz_moodle32_2022030808.zip"
+    },
+    {
+        "id": "13925",
+        "name": "2.x-build-2017051201",
+        "url": "https://moodle.org/plugins/download.php/13925/mod_realtimequiz_moodle38_2011110712.zip"
+    },
+    {
+        "id": "13924",
+        "name": "2.x-build-2017051200",
+        "url": "https://moodle.org/plugins/download.php/13924/mod_realtimequiz_moodle34_2019071210.zip"
+    },
+    {
+        "id": "9705",
+        "name": "2.x-build-2015110800",
+        "url": "https://moodle.org/plugins/download.php/9705/mod_realtimequiz_moodle35_2015051020.zip"
+    },
+    {
+        "id": "8504",
+        "name": "2.x-build-2014103001",
+        "url": "https://moodle.org/plugins/download.php/8504/mod_realtimequiz_moodle32_2019040612.zip"
+    },
+    {
+        "id": "7146",
+        "name": "2.x-build-2014103000",
+        "url": "https://moodle.org/plugins/download.php/7146/mod_realtimequiz_moodle33_2014121106.zip"
+    },
+    {
+        "id": "4947",
+        "name": "2.x-build-2013112800",
+        "url": "https://moodle.org/plugins/download.php/4947/mod_realtimequiz_moodle26_2019120518.zip"
+    },
+    {
+        "id": "3546",
+        "name": "2.x-build-2013073000",
+        "url": "https://moodle.org/plugins/download.php/3546/mod_realtimequiz_moodle36_2017051207.zip"
+    },
+    {
+        "id": "3489",
+        "name": "2.x-build-2013061200",
+        "url": "https://moodle.org/plugins/download.php/3489/mod_realtimequiz_moodle27_2017010400.zip"
+    },
+    {
+        "id": "1976",
+        "name": "2.x-build-2013011000",
+        "url": "https://moodle.org/plugins/download.php/1976/mod_realtimequiz_moodle38_2020120420.zip"
+    },
+    {
+        "id": "1955",
+        "name": "2.x-build-2013010600",
+        "url": "https://moodle.org/plugins/download.php/1955/mod_realtimequiz_moodle25_2023110817.zip"
+    },
+    {
+        "id": "458",
+        "name": "2.x-build-2012011300",
+        "url": "https://moodle.org/plugins/download.php/458/mod_realtimequiz_moodle29_2019030713.zip"
+    },
+    {
+        "id": "423",
+        "name": "2.x-build-2012011200",
+        "url": "https://moodle.org/plugins/download.php/423/mod_realtimequiz_moodle30_2010101104.zip"
+    }
+]

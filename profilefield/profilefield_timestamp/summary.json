@@ -1,0 +1,79 @@
+{
+    "id": 938,
+    "index": 726,
+    "name": "Timestamp input",
+    "frankenstyle": "profilefield_timestamp",
+    "plugintype": {
+        "type": "profilefield",
+        "name": "Profile field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/profilefield_timestamp",
+    "shortdescription": "A user profile field type that shows a timestamp both as human readable and unix time format.",
+    "timelastreleased": {
+        "absdate": "Thursday, 17 February 2022, 4:58 PM",
+        "reldate": "17 months",
+        "iso8601date": "2022-02-17T16:58:11+08:00"
+    },
+    "aggsites": "45",
+    "aggdownloads": "140",
+    "aggfavs": "7",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/938/creating_timestamp_field.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/938/on_notifications_window.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/938/profilefield.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/938/selecting_timestamp_type_field.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/938/timestamp_field_not_set.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/938/updating_field.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/938/userfield.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/938/viewing_field_once_updated.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1518376,
+            "firstname": "Jordi",
+            "lastname": "Pujol-Ahull\u00f3",
+            "url": "https://moodle.org/user/profile.php?id=1518376"
+        },
+        {
+            "id": 2019496,
+            "firstname": "Daniel",
+            "lastname": "Tome Fernandez",
+            "url": "https://moodle.org/user/profile.php?id=2019496"
+        },
+        {
+            "id": 2409725,
+            "firstname": "Cristian",
+            "lastname": "Martinez",
+            "url": "https://moodle.org/user/profile.php?id=2409725"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

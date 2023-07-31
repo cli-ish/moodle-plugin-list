@@ -1,0 +1,62 @@
+{
+    "id": 2247,
+    "index": 136,
+    "name": "Edwiser Site Monitor",
+    "frankenstyle": "block_edwiser_site_monitor",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_edwiser_site_monitor",
+    "shortdescription": "Edwiser Site Monitor lets you stay on top, tracking everything that matters to your Moodle, all at one place.",
+    "timelastreleased": {
+        "absdate": "Monday, 11 April 2022, 2:54 PM",
+        "reldate": "16 months",
+        "iso8601date": "2022-04-11T14:54:32+08:00"
+    },
+    "aggsites": "2037",
+    "aggdownloads": "869",
+    "aggfavs": "69",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2247/SI_20181122_211041.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2247/SI_20181122_211041.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2247/Live%20usage.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2247/CPU.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2247/Last%2024%20hours.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2247/memory%20tracking.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2247/one%20click%20update.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2247/plugins%20overview.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2247/recommended%20plugin.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2247/user%20tracking.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2568868,
+            "firstname": "Edwiser",
+            "lastname": "Team",
+            "url": "https://moodle.org/user/profile.php?id=2568868"
+        }
+    ],
+    "descriptors": []
+}

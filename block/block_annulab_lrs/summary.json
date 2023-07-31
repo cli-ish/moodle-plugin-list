@@ -1,0 +1,50 @@
+{
+    "id": 2033,
+    "index": 1272,
+    "name": "Annulab LRS",
+    "frankenstyle": "block_annulab_lrs",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_annulab_lrs",
+    "shortdescription": "This block for Moodle gives an access to the own historical data sent by the moodle's logstore_xapi and tincanlaunch plugins to the LRS of Annulab. A free subscription at https://lrsdata.com is required. The LRS allows anyone who is connected to import his own data in a JSON format file archived into a ZIP file\r\n",
+    "timelastreleased": {
+        "absdate": "Tuesday, 18 May 2021, 10:37 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-18T22:37:48+08:00"
+    },
+    "aggsites": "46",
+    "aggdownloads": "21",
+    "aggfavs": "3",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2033/LrsDatas.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2033/monBloc.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2033/parameter-uk.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2033/parametres-fr.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 60266,
+            "firstname": "Dey",
+            "lastname": "Bendifallah",
+            "url": "https://moodle.org/user/profile.php?id=60266"
+        }
+    ],
+    "descriptors": []
+}

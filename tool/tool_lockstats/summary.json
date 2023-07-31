@@ -1,0 +1,56 @@
+{
+    "id": 1886,
+    "index": 772,
+    "name": "Cron lock statistics",
+    "frankenstyle": "tool_lockstats",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_lockstats",
+    "shortdescription": "A lock statistics admin tool, specifically tailored to report on cron task timings.\r\n\r\nThis tool exposes which tasks are currently running and where, and also shows a detailed history of how long each task has taken in the past.",
+    "timelastreleased": {
+        "absdate": "Friday, 13 August 2021, 2:00 PM",
+        "reldate": "24 months",
+        "iso8601date": "2021-08-13T14:00:42+08:00"
+    },
+    "aggsites": "269",
+    "aggdownloads": "128",
+    "aggfavs": "36",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1886/Selection_937.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1886/Selection_938.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 6290,
+            "firstname": "Brendan",
+            "lastname": "Heywood",
+            "url": "https://moodle.org/user/profile.php?id=6290"
+        },
+        {
+            "id": 2054097,
+            "firstname": "Nicholas",
+            "lastname": "Hoobin",
+            "url": "https://moodle.org/user/profile.php?id=2054097"
+        }
+    ],
+    "descriptors": []
+}

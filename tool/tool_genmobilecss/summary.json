@@ -1,0 +1,47 @@
+{
+    "id": 2545,
+    "index": 1184,
+    "name": "Generate custom CSS for Moodle Mobile",
+    "frankenstyle": "tool_genmobilecss",
+    "plugintype": {
+        "type": "tool",
+        "name": "Admin tool"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/tool_genmobilecss",
+    "shortdescription": "A plugin to help override the default colors for Moodle Mobile and manage other custom CSS. It walks you through picking out replacement colors and adding other custom CSS, then generates a file for you to set as your mobile CSS.",
+    "timelastreleased": {
+        "absdate": "Saturday, 8 May 2021, 12:57 AM",
+        "reldate": "2 years",
+        "iso8601date": "2021-05-08T00:57:01+08:00"
+    },
+    "aggsites": "61",
+    "aggdownloads": "28",
+    "aggfavs": "8",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2545/screenshot_01.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2545/screenshot_02.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2545/screenshot_03.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3368565,
+            "firstname": "Alison",
+            "lastname": "of Sheesania",
+            "url": "https://moodle.org/user/profile.php?id=3368565"
+        }
+    ],
+    "descriptors": []
+}

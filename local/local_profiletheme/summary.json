@@ -1,0 +1,46 @@
+{
+    "id": 1850,
+    "index": 275,
+    "name": "Profile field based theme delivery",
+    "frankenstyle": "local_profiletheme",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_profiletheme",
+    "shortdescription": "Moodle plugin which lets admins deliver a certain theme based on a user's custom profile field",
+    "timelastreleased": {
+        "absdate": "Wednesday, 29 March 2023, 3:53 AM",
+        "reldate": "4 months",
+        "iso8601date": "2023-03-29T03:53:37+08:00"
+    },
+    "aggsites": "174",
+    "aggdownloads": "468",
+    "aggfavs": "31",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1850/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1850/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1850/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

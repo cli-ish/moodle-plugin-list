@@ -1,0 +1,61 @@
+{
+    "id": 796,
+    "index": 1562,
+    "name": "javaunittest",
+    "frankenstyle": "qtype_javaunittest",
+    "plugintype": {
+        "type": "qtype",
+        "name": "Question type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/qtype_javaunittest",
+    "shortdescription": "Hallo Moodle Users. We have developed a new question-type called javaunittest and want to share it with the community. The plugin is a new version of the sojunit questtion type developed by S\u00fcre\u00e7 \u00d6zcan for Moodle 1.8 (https://moodle.org/mod/forum/discuss.php?d=102690).",
+    "timelastreleased": {
+        "absdate": "Friday, 18 March 2016, 2:31 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-03-18T02:31:13+08:00"
+    },
+    "aggsites": "47",
+    "aggdownloads": "9",
+    "aggfavs": "4",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/796/icon.gif?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/796/icon.gif?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/796/Figure%201.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/796/Figure%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/796/Figure%203.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/796/Figure%204.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1624706,
+            "firstname": "Gergely",
+            "lastname": "Bertalan",
+            "url": "https://moodle.org/user/profile.php?id=1624706"
+        },
+        {
+            "id": 1792280,
+            "firstname": "Michael",
+            "lastname": "Rumler",
+            "url": "https://moodle.org/user/profile.php?id=1792280"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Assessment"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "id": 457,
+    "index": 993,
+    "name": "Linuxmuster.net (OpenLML) enrolment",
+    "frankenstyle": "enrol_openlml",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_openlml",
+    "shortdescription": "performs auto enrolment for students, auto creation of teachers course categories for the LDAP users and groups of server linuxmuster.net (former Openml or Open LML).",
+    "timelastreleased": {
+        "absdate": "Sunday, 19 June 2016, 2:10 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-06-19T02:10:20+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "57",
+    "aggfavs": null,
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/457/enrol_openlml1.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/457/enrol_openlml2.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/457/enrol_openlml3.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/457/enrol_openlml4.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 830481,
+            "firstname": "Frank",
+            "lastname": "Sch\u00fctte",
+            "url": "https://moodle.org/user/profile.php?id=830481"
+        }
+    ],
+    "descriptors": []
+}

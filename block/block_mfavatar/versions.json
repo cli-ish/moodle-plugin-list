@@ -1,0 +1,52 @@
+[
+    {
+        "id": "25678",
+        "name": "3.11.0",
+        "url": "https://moodle.org/plugins/download.php/25678/block_mfavatar_moodle30_2019071102.zip"
+    },
+    {
+        "id": "8383",
+        "name": "1.1.0",
+        "url": "https://moodle.org/plugins/download.php/8383/block_mfavatar_moodle30_2021100909.zip"
+    },
+    {
+        "id": "22890",
+        "name": "3.10.0",
+        "url": "https://moodle.org/plugins/download.php/22890/block_mfavatar_moodle29_2012010415.zip"
+    },
+    {
+        "id": "21728",
+        "name": "3.9.0",
+        "url": "https://moodle.org/plugins/download.php/21728/block_mfavatar_moodle28_2011120805.zip"
+    },
+    {
+        "id": "20579",
+        "name": "3.8.0",
+        "url": "https://moodle.org/plugins/download.php/20579/block_mfavatar_moodle25_2023070118.zip"
+    },
+    {
+        "id": "19524",
+        "name": "1.3.3",
+        "url": "https://moodle.org/plugins/download.php/19524/block_mfavatar_moodle27_2016060213.zip"
+    },
+    {
+        "id": "19523",
+        "name": "1.3.2",
+        "url": "https://moodle.org/plugins/download.php/19523/block_mfavatar_moodle40_2023040816.zip"
+    },
+    {
+        "id": "17966",
+        "name": "1.3.1",
+        "url": "https://moodle.org/plugins/download.php/17966/block_mfavatar_moodle36_2021071013.zip"
+    },
+    {
+        "id": "17485",
+        "name": "1.3.0",
+        "url": "https://moodle.org/plugins/download.php/17485/block_mfavatar_moodle31_2012050914.zip"
+    },
+    {
+        "id": "17484",
+        "name": "1.2.0",
+        "url": "https://moodle.org/plugins/download.php/17484/block_mfavatar_moodle30_2013050206.zip"
+    }
+]

@@ -1,0 +1,56 @@
+{
+    "id": 2614,
+    "index": 522,
+    "name": "MiniLesson",
+    "frankenstyle": "mod_minilesson",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_minilesson",
+    "shortdescription": "Poodll MiniLesson combines several language learning activities into a simple, self-guided online lesson. It is designed to be a simple, interactive lesson for students, and easy for teachers to create and deliver.",
+    "timelastreleased": {
+        "absdate": "Monday, 24 July 2023, 5:40 PM",
+        "reldate": "7 days",
+        "iso8601date": "2023-07-24T17:40:42+08:00"
+    },
+    "aggsites": "208",
+    "aggdownloads": "226",
+    "aggfavs": "11",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2614/noodle_icons_pawprint_100px_1.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2614/noodle_icons_pawprint_100px_1.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2614/Mini%20Lesson%20Banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2614/2021-01-01_14-33-54.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2614/2021-01-01_14-39-51.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2614/2021-01-01_14-41-15.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2614/2021-01-01_14-42-26.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2614/MoodleTile_Poodll%20MiniLesson.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": []
+}

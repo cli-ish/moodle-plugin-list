@@ -1,0 +1,17 @@
+[
+    {
+        "id": "13802",
+        "name": "version-for-moodle-3.2-onwards",
+        "url": "https://moodle.org/plugins/download.php/13802/block_ranking_moodle37_2012040715.zip"
+    },
+    {
+        "id": "8559",
+        "name": "version-for-moodle-2.2-onwards",
+        "url": "https://moodle.org/plugins/download.php/8559/block_ranking_moodle38_2018120811.zip"
+    },
+    {
+        "id": "8098",
+        "name": "version-for-moodle-2.7-onwards",
+        "url": "https://moodle.org/plugins/download.php/8098/block_ranking_moodle25_2022030904.zip"
+    }
+]

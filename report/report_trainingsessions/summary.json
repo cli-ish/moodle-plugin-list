@@ -1,0 +1,47 @@
+{
+    "id": 433,
+    "index": 680,
+    "name": "Training Sessions",
+    "frankenstyle": "report_trainingsessions",
+    "plugintype": {
+        "type": "report",
+        "name": "Site report"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/report_trainingsessions",
+    "shortdescription": "Aggregates time use stats given by the use_stats block for elaborating high level training reports in Profesional Development environments ",
+    "timelastreleased": {
+        "absdate": "Tuesday, 6 June 2023, 2:10 AM",
+        "reldate": "8 weeks",
+        "iso8601date": "2023-06-06T02:10:43+08:00"
+    },
+    "aggsites": "297",
+    "aggdownloads": "154",
+    "aggfavs": "28",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/433/courseoverview.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/433/excelexport.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/433/userdetail.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1487618,
+            "firstname": "Valery",
+            "lastname": "Fremaux",
+            "url": "https://moodle.org/user/profile.php?id=1487618"
+        }
+    ],
+    "descriptors": []
+}

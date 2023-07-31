@@ -1,0 +1,68 @@
+{
+    "id": 612,
+    "index": 105,
+    "name": "Mail",
+    "frankenstyle": "local_mail",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_mail",
+    "shortdescription": "Webmail-like messaging",
+    "timelastreleased": {
+        "absdate": "Thursday, 29 June 2023, 1:03 AM",
+        "reldate": "5 weeks",
+        "iso8601date": "2023-06-29T01:03:52+08:00"
+    },
+    "aggsites": "3222",
+    "aggdownloads": "1k",
+    "aggfavs": "69",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/612/addrecipients.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/612/compose.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/612/labels.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/612/main.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/612/more.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/612/search.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/612/trash.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/612/undo.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 168977,
+            "firstname": "Marc",
+            "lastname": "Catal\u00e0",
+            "url": "https://moodle.org/user/profile.php?id=168977"
+        },
+        {
+            "id": 214778,
+            "firstname": "Albert",
+            "lastname": "Gasset",
+            "url": "https://moodle.org/user/profile.php?id=214778"
+        }
+    ],
+    "descriptors": []
+}

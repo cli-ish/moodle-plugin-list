@@ -1,0 +1,44 @@
+{
+    "id": 2076,
+    "index": 997,
+    "name": "Collapsible Weeks format",
+    "frankenstyle": "format_collapsibleweeks",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_collapsibleweeks",
+    "shortdescription": "Warning: since sections collapsing behaviour is now integrated into Moodle core, this plugin will not be maintained for Moodle 4.x\r\n\r\nThe collapsible weeks format is a clone of the core topics format that adds collapsing behaviour to sections in order to reduce page size.",
+    "timelastreleased": {
+        "absdate": "Friday, 10 June 2022, 9:02 PM",
+        "reldate": "14 months",
+        "iso8601date": "2022-06-10T21:02:34+08:00"
+    },
+    "aggsites": "318",
+    "aggdownloads": "56",
+    "aggfavs": "17",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2076/Capture%20d%E2%80%99e%CC%81cran%202018-06-18%20a%CC%80%2012.20.55.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2076/Capture%20d%E2%80%99e%CC%81cran%202018-06-18%20a%CC%80%2012.20.38.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1911669,
+            "firstname": "Jean-Roch",
+            "lastname": "Meurisse",
+            "url": "https://moodle.org/user/profile.php?id=1911669"
+        }
+    ],
+    "descriptors": []
+}

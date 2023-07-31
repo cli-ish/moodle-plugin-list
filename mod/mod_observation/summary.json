@@ -1,0 +1,56 @@
+{
+    "id": 2888,
+    "index": 511,
+    "name": "Observation",
+    "frankenstyle": "mod_observation",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_observation",
+    "shortdescription": "This plugin allows easy management of observational assessments. It has the ability to record evidence of observation (text, file, pass/fail) by an observer marking an observee as well as manage time-slots and session bookings. Course coordinators can also delegate observation marking to other users (e.g. tutors).",
+    "timelastreleased": {
+        "absdate": "Monday, 9 May 2022, 7:01 AM",
+        "reldate": "15 months",
+        "iso8601date": "2022-05-09T07:01:19+08:00"
+    },
+    "aggsites": "82",
+    "aggdownloads": "229",
+    "aggfavs": "8",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2888/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2888/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2888/Screenshot%202022-02-21%20at%2014-07-40%20UNKN%20course1%20Observation%201.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2888/Screenshot%202022-02-21%20at%2014-07-57%20UNKN%20course1%20Observation%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2888/Screenshot%202022-02-21%20at%2014-08-10%20UNKN%20course1%20Observation%201.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2888/Screenshot%202022-02-21%20at%2014-09-10%20UNKN%20course1%20Observation%201.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2153863,
+            "firstname": "Catalyst",
+            "lastname": "IT",
+            "url": "https://moodle.org/user/profile.php?id=2153863"
+        },
+        {
+            "id": 4796084,
+            "firstname": "Matthew",
+            "lastname": "Hilton",
+            "url": "https://moodle.org/user/profile.php?id=4796084"
+        }
+    ],
+    "descriptors": []
+}

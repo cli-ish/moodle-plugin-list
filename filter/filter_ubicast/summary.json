@@ -1,0 +1,46 @@
+{
+    "id": 2664,
+    "index": 259,
+    "name": "Ad-hoc filter for UbiCast Nudgis Atto plugin",
+    "frankenstyle": "filter_ubicast",
+    "plugintype": {
+        "type": "filter",
+        "name": "Text filter"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/filter_ubicast",
+    "shortdescription": "This filter allows students to add media from a Nudgis site in Atto text editor.",
+    "timelastreleased": {
+        "absdate": "Friday, 18 February 2022, 1:10 AM",
+        "reldate": "17 months",
+        "iso8601date": "2022-02-18T01:10:29+08:00"
+    },
+    "aggsites": "59",
+    "aggdownloads": "501",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2664/ubicast-icon.svg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2664/ubicast-icon.svg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2664/Screen%20Shot%202021-03-11%20at%2016.08.45.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 141933,
+            "firstname": "Nicolas",
+            "lastname": "Dunand",
+            "url": "https://moodle.org/user/profile.php?id=141933"
+        },
+        {
+            "id": 1546056,
+            "firstname": "St\u00e9phane",
+            "lastname": "Diemer",
+            "url": "https://moodle.org/user/profile.php?id=1546056"
+        }
+    ],
+    "descriptors": []
+}

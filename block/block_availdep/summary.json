@@ -1,0 +1,50 @@
+{
+    "id": 2974,
+    "index": 1414,
+    "name": "Availability dependencies",
+    "frankenstyle": "block_availdep",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_availdep",
+    "shortdescription": "Gives you a graphical summary of the dependencies between completion and availability of activities in your course.",
+    "timelastreleased": {
+        "absdate": "Monday, 12 September 2022, 1:54 AM",
+        "reldate": "11 months",
+        "iso8601date": "2022-09-12T01:54:39+08:00"
+    },
+    "aggsites": "42",
+    "aggdownloads": "14",
+    "aggfavs": "9",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2974/Screenshot%202022-02-26%20at%2001.16.39.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2974/Screenshot%202022-02-26%20at%2001.17.09.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2974/Screenshot%202022-02-26%20at%2001.19.27.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2974/Screenshot%202022-02-26%20at%2001.20.25.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 2842207,
+            "firstname": "Paola",
+            "lastname": "Maneggia",
+            "url": "https://moodle.org/user/profile.php?id=2842207"
+        }
+    ],
+    "descriptors": []
+}

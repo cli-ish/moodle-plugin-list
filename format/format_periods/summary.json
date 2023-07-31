@@ -1,0 +1,50 @@
+{
+    "id": 1305,
+    "index": 1467,
+    "name": "Periods format",
+    "frankenstyle": "format_periods",
+    "plugintype": {
+        "type": "format",
+        "name": "Course format"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/format_periods",
+    "shortdescription": "This course format allows to set duration for each section (period) in days, weeks, months or years. Each individual section (period) may override this duration.\r\nThe course settings allow automatically collapse or hide past or future periods.",
+    "timelastreleased": {
+        "absdate": "Friday, 27 October 2017, 2:59 PM",
+        "reldate": "6 years",
+        "iso8601date": "2017-10-27T14:59:16+08:00"
+    },
+    "aggsites": "138",
+    "aggdownloads": "12",
+    "aggfavs": "43",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1305/01teacherview.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1305/02coursesettings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1305/03sectionsettings.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1305/04studentview.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1334243,
+            "firstname": "Marina",
+            "lastname": "Glancy",
+            "url": "https://moodle.org/user/profile.php?id=1334243"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,46 @@
+{
+    "id": 3045,
+    "index": 283,
+    "name": "Customfield semester trigger",
+    "frankenstyle": "lifecycletrigger_customfieldsemester",
+    "plugintype": {
+        "type": "lifecycletrigger",
+        "name": "Course life cycle trigger"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/lifecycletrigger_customfieldsemester",
+    "shortdescription": "Moodle trigger subplugin for the Moodle admin tool \"Course Life Cycle\" which triggers based on values of a custom course field of type \"semester\".",
+    "timelastreleased": {
+        "absdate": "Sunday, 12 March 2023, 6:28 PM",
+        "reldate": "5 months",
+        "iso8601date": "2023-03-12T18:28:19+08:00"
+    },
+    "aggsites": "11",
+    "aggdownloads": "455",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3045/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/3045/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/3045/screenshot.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 4775757,
+            "firstname": "Moodle an Hochschulen",
+            "lastname": "e.V.",
+            "url": "https://moodle.org/user/profile.php?id=4775757"
+        },
+        {
+            "id": 1301038,
+            "firstname": "Alexander",
+            "lastname": "Bias",
+            "url": "https://moodle.org/user/profile.php?id=1301038"
+        }
+    ],
+    "descriptors": []
+}

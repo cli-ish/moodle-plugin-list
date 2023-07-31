@@ -1,0 +1,62 @@
+{
+    "id": 1307,
+    "index": 173,
+    "name": "Analytics graphs",
+    "frankenstyle": "block_analytics_graphs",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_analytics_graphs",
+    "shortdescription": "Block that generates graphs intendend to facilitate pedagogical decisions. The graphs have zoom capabilities and allow fast communication with students through email.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 8 September 2021, 2:56 AM",
+        "reldate": "23 months",
+        "iso8601date": "2021-09-08T02:56:44+08:00"
+    },
+    "aggsites": "2411",
+    "aggdownloads": "701",
+    "aggfavs": "104",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1307/Captura%20de%20Tela%202015-01-02%20%C3%A0s%2021.43.26.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1307/Captura%20de%20Tela%202015-01-02%20%C3%A0s%2021.43.45.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1307/Captura%20de%20Tela%202015-01-02%20%C3%A0s%2021.44.03.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1307/Captura%20de%20Tela%202015-09-29%20%C3%A0s%2015.32.24.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1307/Captura%20de%20Tela%202017-06-29%20%C3%A0s%2009.27.53.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1517181,
+            "firstname": "Marcelo",
+            "lastname": "Schmitt",
+            "url": "https://moodle.org/user/profile.php?id=1517181"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Analytics"
+        }
+    ]
+}

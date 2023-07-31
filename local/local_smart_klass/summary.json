@@ -1,0 +1,76 @@
+{
+    "id": 1300,
+    "index": 423,
+    "name": "SmartKlass\u2122 Learning Analytics Moodle",
+    "frankenstyle": "local_smart_klass",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_smart_klass",
+    "shortdescription": "SmartKlass\u2122 is a Learning Analytics dashboard for Institutions, Teachers and Students. Its Free! View different info from analytics about Course Performance to LMS Activity / Usage. Individual, Collaborative work & Results, Course evolution and more on a daily basis. We use xAPI 1.0 especification (aka Tin Can API) to collect user interaction with the platform. Our technology analyzes the statements collected using machine learning algorithms and builds dashboards analysis with consolidated user information.",
+    "timelastreleased": {
+        "absdate": "Thursday, 14 July 2016, 4:41 AM",
+        "reldate": "7 years",
+        "iso8601date": "2016-07-14T04:41:41+08:00"
+    },
+    "aggsites": "221",
+    "aggdownloads": "290",
+    "aggfavs": "130",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1300/KlassData%20SmartKlass%20Learning%20Analytics%20Moodle.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1300/KlassData%20SmartKlass%20Learning%20Analytics%20Moodle.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1300/Learning_Analytics_Moodle_SmartKlass_KlassData.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1300/activity.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1300/course-1.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1300/dimensions.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1300/Learning%20Analytics%20Moodle%20-%20SmartKlass.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1300/performance.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1300/SmartKlass%20-%20Learning%20Analytics%20Moodle%20-%20Course%20Evolution.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1300/SmartKlass%20-%20Learning%20Analytics%20moodle%20-%20Student%20view.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1300/SmartKlass%20-%20Learning%20Analytics%20moodle%20-%20Teacher%20group%20view2.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1872193,
+            "firstname": "Oscar",
+            "lastname": "Klassdata",
+            "url": "https://moodle.org/user/profile.php?id=1872193"
+        },
+        {
+            "id": 1911186,
+            "firstname": "Angel",
+            "lastname": "KlassData",
+            "url": "https://moodle.org/user/profile.php?id=1911186"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

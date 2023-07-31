@@ -1,0 +1,51 @@
+{
+    "id": 208,
+    "index": 743,
+    "name": "Course Contacts Block",
+    "frankenstyle": "block_course_contacts",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_course_contacts",
+    "shortdescription": "The Course Contacts block displays a list of users on your course, various \r\nmethods for communicating with them, and their current activity status.",
+    "timelastreleased": {
+        "absdate": "Monday, 8 June 2020, 12:17 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-06-08T00:17:30+08:00"
+    },
+    "aggsites": "1097",
+    "aggdownloads": "135",
+    "aggfavs": "46",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/208/coco.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/208/coco.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/208/course_contacts.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 489101,
+            "firstname": "Mark",
+            "lastname": "Ward",
+            "url": "https://moodle.org/user/profile.php?id=489101"
+        },
+        {
+            "id": 480148,
+            "firstname": "Richard",
+            "lastname": "Oelmann",
+            "url": "https://moodle.org/user/profile.php?id=480148"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

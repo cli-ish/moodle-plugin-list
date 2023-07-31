@@ -1,0 +1,49 @@
+{
+    "id": 773,
+    "index": 231,
+    "name": "Essential",
+    "frankenstyle": "theme_essential",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_essential",
+    "shortdescription": "Essential is a clean and customizable theme. Essential is tested and tried by thousands of users, and ranks number one by site usage for all available third party themes.",
+    "timelastreleased": {
+        "absdate": "Wednesday, 17 April 2019, 3:14 AM",
+        "reldate": "4 years",
+        "iso8601date": "2019-04-17T03:14:16+08:00"
+    },
+    "aggsites": "2924",
+    "aggdownloads": "543",
+    "aggfavs": "358",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/773/essential_button.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/773/essential_button.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/773/Ecs.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/773/Efp.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 442195,
+            "firstname": "Gareth J",
+            "lastname": "Barnard",
+            "url": "https://moodle.org/user/profile.php?id=442195"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

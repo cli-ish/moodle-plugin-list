@@ -1,0 +1,52 @@
+[
+    {
+        "id": "28575",
+        "name": "3.2.2-build-20230214",
+        "url": "https://moodle.org/plugins/download.php/28575/plagiarism_unicheck_moodle27_2016081018.zip"
+    },
+    {
+        "id": "23229",
+        "name": "2.7.2-build-20201124",
+        "url": "https://moodle.org/plugins/download.php/23229/plagiarism_unicheck_moodle27_2011120503.zip"
+    },
+    {
+        "id": "23228",
+        "name": "1.3.9-build-20201124",
+        "url": "https://moodle.org/plugins/download.php/23228/plagiarism_unicheck_moodle35_2023120719.zip"
+    },
+    {
+        "id": "24167",
+        "name": "3.2.0-build-20210514",
+        "url": "https://moodle.org/plugins/download.php/24167/plagiarism_unicheck_moodle26_2015060107.zip"
+    },
+    {
+        "id": "23139",
+        "name": "3.1.1-build-20201216",
+        "url": "https://moodle.org/plugins/download.php/23139/plagiarism_unicheck_moodle29_2014080704.zip"
+    },
+    {
+        "id": "22522",
+        "name": "3.0.0-build-20200901",
+        "url": "https://moodle.org/plugins/download.php/22522/plagiarism_unicheck_moodle35_2010120102.zip"
+    },
+    {
+        "id": "22520",
+        "name": "2.7.1-build-20200819",
+        "url": "https://moodle.org/plugins/download.php/22520/plagiarism_unicheck_moodle31_2017091201.zip"
+    },
+    {
+        "id": "22191",
+        "name": "2.6.1-build-20200806",
+        "url": "https://moodle.org/plugins/download.php/22191/plagiarism_unicheck_moodle29_2018010413.zip"
+    },
+    {
+        "id": "21985",
+        "name": "2.5.4-build-20200709",
+        "url": "https://moodle.org/plugins/download.php/21985/plagiarism_unicheck_moodle34_2022091016.zip"
+    },
+    {
+        "id": "21151",
+        "name": "1.3.8-build-20200304",
+        "url": "https://moodle.org/plugins/download.php/21151/plagiarism_unicheck_moodle40_2022111213.zip"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1939",
+        "name": "3.0.2",
+        "url": "https://moodle.org/plugins/download.php/1939/format_days_moodle38_2011060500.zip"
+    },
+    {
+        "id": "1716",
+        "name": "2.0.3",
+        "url": "https://moodle.org/plugins/download.php/1716/format_days_moodle39_2019030303.zip"
+    },
+    {
+        "id": "1717",
+        "name": "3.0.1",
+        "url": "https://moodle.org/plugins/download.php/1717/format_days_moodle32_2016100717.zip"
+    },
+    {
+        "id": "1688",
+        "name": "3.0",
+        "url": "https://moodle.org/plugins/download.php/1688/format_days_moodle25_2013030906.zip"
+    },
+    {
+        "id": "1684",
+        "name": "2.0.2",
+        "url": "https://moodle.org/plugins/download.php/1684/format_days_moodle32_2011100511.zip"
+    },
+    {
+        "id": "1678",
+        "name": "2.0.1",
+        "url": "https://moodle.org/plugins/download.php/1678/format_days_moodle33_2023030307.zip"
+    },
+    {
+        "id": "1632",
+        "name": "2.0",
+        "url": "https://moodle.org/plugins/download.php/1632/format_days_moodle26_2018081110.zip"
+    },
+    {
+        "id": "1468",
+        "name": "1.0",
+        "url": "https://moodle.org/plugins/download.php/1468/format_days_moodle40_2023030717.zip"
+    }
+]

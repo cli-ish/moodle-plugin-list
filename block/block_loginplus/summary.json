@@ -1,0 +1,45 @@
+{
+    "id": 146,
+    "index": 1885,
+    "name": "Login+",
+    "frankenstyle": "block_loginplus",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_loginplus",
+    "shortdescription": "Block: Login+ (IDentity Providers support)\r\n        It shows IDPs (exported by auth plugins) icons and links \r\n        under 'normal' username/password fields\r\n",
+    "timelastreleased": {
+        "absdate": "Monday, 28 November 2011, 5:22 AM",
+        "reldate": "12 years",
+        "iso8601date": "2011-11-28T05:22:50+08:00"
+    },
+    "aggsites": "2",
+    "aggdownloads": "4",
+    "aggfavs": "2",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/146/screenshot4.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/146/screenshot4.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/146/screenshot4.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1395810,
+            "firstname": "Dmitry",
+            "lastname": "Ketov",
+            "url": "https://moodle.org/user/profile.php?id=1395810"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        }
+    ]
+}

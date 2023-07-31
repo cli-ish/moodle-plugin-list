@@ -1,0 +1,55 @@
+{
+    "id": 977,
+    "index": 1339,
+    "name": "Open Source Physics",
+    "frankenstyle": "repository_osp",
+    "plugintype": {
+        "type": "repository",
+        "name": "Repository"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/repository_osp",
+    "shortdescription": "This plugin lets you download any EJS application stored in the OSP-Compadre library (http://www.compadre.org/osp) directly from your Moodle.\r\n\r\nWhen used in combination with the EJSApp plugin, you will be able not only to access, search and download these applications but also to add them to your Moodle courses as activities automatically.",
+    "timelastreleased": {
+        "absdate": "Sunday, 2 September 2018, 9:53 PM",
+        "reldate": "5 years",
+        "iso8601date": "2018-09-02T21:53:05+08:00"
+    },
+    "aggsites": "105",
+    "aggdownloads": "17",
+    "aggfavs": "18",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/977/ejsapp_logo_small.jpg?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/977/ejsapp_logo_small.jpg?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/977/osp.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1291642,
+            "firstname": "Luis",
+            "lastname": "de la Torre",
+            "url": "https://moodle.org/user/profile.php?id=1291642"
+        },
+        {
+            "id": 1463728,
+            "firstname": "Ruben",
+            "lastname": "Heradio",
+            "url": "https://moodle.org/user/profile.php?id=1463728"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 4,
+            "value": "Physics"
+        }
+    ]
+}

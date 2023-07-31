@@ -1,0 +1,55 @@
+{
+    "id": 343,
+    "index": 1050,
+    "name": "Video Conference",
+    "frankenstyle": "mod_videoconference",
+    "plugintype": {
+        "type": "mod",
+        "name": "Activity module"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/mod_videoconference",
+    "shortdescription": "This Video Conference edition integrates into Moodle as an activity module so video conference rooms can be added to courses as activities.",
+    "timelastreleased": {
+        "absdate": "Tuesday, 26 June 2012, 4:39 PM",
+        "reldate": "11 years",
+        "iso8601date": "2012-06-26T16:39:18+08:00"
+    },
+    "aggsites": "7",
+    "aggdownloads": "44",
+    "aggfavs": "49",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/343/box_vc_180.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/343/box_vc_180.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/343/vc_371x275.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/343/vc_media.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/343/vc_usermenu.jpg?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/343/vc_userstatus.jpg?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1285863,
+            "firstname": "Teodor",
+            "lastname": "Nica",
+            "url": "https://moodle.org/user/profile.php?id=1285863"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Communication"
+        }
+    ]
+}

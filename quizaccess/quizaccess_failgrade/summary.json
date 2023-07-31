@@ -1,0 +1,47 @@
+{
+    "id": 2509,
+    "index": 1238,
+    "name": "Fail grade",
+    "frankenstyle": "quizaccess_failgrade",
+    "plugintype": {
+        "type": "quizaccess",
+        "name": "Quiz / Access rule"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/quizaccess_failgrade",
+    "shortdescription": "A quiz access rule to prevent extra attempts after the user reach a passing grade",
+    "timelastreleased": {
+        "absdate": "Friday, 31 July 2020, 12:06 PM",
+        "reldate": "3 years",
+        "iso8601date": "2020-07-31T12:06:33+08:00"
+    },
+    "aggsites": "105",
+    "aggdownloads": "23",
+    "aggfavs": "11",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2509/1%20-%20highest%20grade.PNG?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2509/2%20-%20block%20on%20average.PNG?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2509/3%20-%20demo.PNG?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 3388639,
+            "firstname": "Alexandre",
+            "lastname": "Paes Rig\u00e3o",
+            "url": "https://moodle.org/user/profile.php?id=3388639"
+        }
+    ],
+    "descriptors": []
+}

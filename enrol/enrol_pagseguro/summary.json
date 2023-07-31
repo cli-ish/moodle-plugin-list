@@ -1,0 +1,45 @@
+{
+    "id": 526,
+    "index": 837,
+    "name": "PagSeguro",
+    "frankenstyle": "enrol_pagseguro",
+    "plugintype": {
+        "type": "enrol",
+        "name": "Enrolment method"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/enrol_pagseguro",
+    "shortdescription": "Este plugin de inscri\u00e7\u00e3o permite que voc\u00ea venda seus cursos no Moodle atrav\u00e9s do PagSeguro.\r\nThis plugins allow you to setup paid courses using the PagSeguro service.",
+    "timelastreleased": {
+        "absdate": "Friday, 28 August 2020, 12:58 AM",
+        "reldate": "3 years",
+        "iso8601date": "2020-08-28T00:58:07+08:00"
+    },
+    "aggsites": "283",
+    "aggdownloads": "115",
+    "aggfavs": "44",
+    "has_logo": false,
+    "logo": {
+        "tinyicon": null,
+        "thumb": null
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/526/PagSeguro%20enrollment.png?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 32985,
+            "firstname": "Daniel",
+            "lastname": "Neis Araujo",
+            "url": "https://moodle.org/user/profile.php?id=32985"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Administration"
+        }
+    ]
+}

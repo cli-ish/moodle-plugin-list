@@ -1,0 +1,57 @@
+[
+    {
+        "id": "25559",
+        "name": "2021113000",
+        "url": "https://moodle.org/plugins/download.php/25559/mod_facetoface_moodle34_2018070314.zip"
+    },
+    {
+        "id": "23458",
+        "name": "3.9.1",
+        "url": "https://moodle.org/plugins/download.php/23458/mod_facetoface_moodle36_2016070520.zip"
+    },
+    {
+        "id": "18183",
+        "name": "3.4.3",
+        "url": "https://moodle.org/plugins/download.php/18183/mod_facetoface_moodle37_2016030714.zip"
+    },
+    {
+        "id": "15313",
+        "name": "3.2.1-build-2017090100",
+        "url": "https://moodle.org/plugins/download.php/15313/mod_facetoface_moodle32_2012020718.zip"
+    },
+    {
+        "id": "8370",
+        "name": "2.8.0-build-2015021300",
+        "url": "https://moodle.org/plugins/download.php/8370/mod_facetoface_moodle39_2017041003.zip"
+    },
+    {
+        "id": "8369",
+        "name": "2.7.0-build-2015020900",
+        "url": "https://moodle.org/plugins/download.php/8369/mod_facetoface_moodle33_2023121004.zip"
+    },
+    {
+        "id": "5565",
+        "name": "2.3.1-build-2014030600",
+        "url": "https://moodle.org/plugins/download.php/5565/mod_facetoface_moodle30_2013030818.zip"
+    },
+    {
+        "id": "17315",
+        "name": "3.4.2",
+        "url": "https://moodle.org/plugins/download.php/17315/mod_facetoface_moodle31_2014030717.zip"
+    },
+    {
+        "id": "17160",
+        "name": "3.4.1",
+        "url": "https://moodle.org/plugins/download.php/17160/mod_facetoface_moodle32_2020100702.zip"
+    },
+    {
+        "id": "14477",
+        "name": "3.2.0-build-2017040900",
+        "url": "https://moodle.org/plugins/download.php/14477/mod_facetoface_moodle27_2010080803.zip"
+    },
+    {
+        "id": "5502",
+        "name": "2.3.0-build-2014030100",
+        "url": "https://moodle.org/plugins/download.php/5502/mod_facetoface_moodle31_2017020202.zip"
+    }
+]

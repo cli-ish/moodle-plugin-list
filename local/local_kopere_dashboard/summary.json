@@ -1,0 +1,47 @@
+{
+    "id": 1914,
+    "index": 118,
+    "name": "Kopere Dashboard",
+    "frankenstyle": "local_kopere_dashboard",
+    "plugintype": {
+        "type": "local",
+        "name": "Local plugin"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/local_kopere_dashboard",
+    "shortdescription": "Kopere Dashboard is a tool panel with reports, online users, backup, notifications and more.",
+    "timelastreleased": {
+        "absdate": "Sunday, 30 July 2023, 9:17 AM",
+        "reldate": "2 days",
+        "iso8601date": "2023-07-30T09:17:28+08:00"
+    },
+    "aggsites": "1821",
+    "aggdownloads": "991",
+    "aggfavs": "202",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1914/icon.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1914/icon.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1914/01Captura_01%205.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1914/Captura_01%202.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1914/Captura_01%204.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1428341,
+            "firstname": "Eduardo",
+            "lastname": "Kraus",
+            "url": "https://moodle.org/user/profile.php?id=1428341"
+        }
+    ],
+    "descriptors": []
+}

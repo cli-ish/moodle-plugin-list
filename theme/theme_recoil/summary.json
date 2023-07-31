@@ -1,0 +1,52 @@
+{
+    "id": 688,
+    "index": 1394,
+    "name": "Recoil",
+    "frankenstyle": "theme_recoil",
+    "plugintype": {
+        "type": "theme",
+        "name": "Theme"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/theme_recoil",
+    "shortdescription": "This is a simple theme with fancy CSS styling.  Featuring dark foreground elements with white backgrounds.  Heavy use of drop shadows and some gradients to add a sleek and simplistic feel.",
+    "timelastreleased": {
+        "absdate": "Saturday, 20 April 2013, 3:06 AM",
+        "reldate": "10 years",
+        "iso8601date": "2013-04-20T03:06:19+08:00"
+    },
+    "aggsites": "10",
+    "aggdownloads": "15",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/688/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/688/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/688/recoil_screenshot_dock.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/688/recoil_screenshot_submenus.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/688/recoil_screenshot.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1588153,
+            "firstname": "Joseph",
+            "lastname": "Conradt",
+            "url": "https://moodle.org/user/profile.php?id=1588153"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Interface"
+        }
+    ]
+}

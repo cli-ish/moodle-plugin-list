@@ -1,0 +1,46 @@
+{
+    "id": 2733,
+    "index": 1484,
+    "name": "PAY.",
+    "frankenstyle": "paygw_paynl",
+    "plugintype": {
+        "type": "paygw",
+        "name": "Payment gateway"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/paygw_paynl",
+    "shortdescription": "PAY. provides a payment gateway implementation for the Dutch Payment Service Provides PAY.",
+    "timelastreleased": {
+        "absdate": "Monday, 30 August 2021, 4:11 PM",
+        "reldate": "23 months",
+        "iso8601date": "2021-08-30T16:11:01+08:00"
+    },
+    "aggsites": "12",
+    "aggdownloads": "12",
+    "aggfavs": "3",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2733/pay_logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2733/pay_logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2733/screen1.PNG?preview=bigthumb"
+    },
+    "screenshots": [],
+    "maintainers": [
+        {
+            "id": 1911653,
+            "firstname": "Rogier",
+            "lastname": "van Dongen",
+            "url": "https://moodle.org/user/profile.php?id=1911653"
+        },
+        {
+            "id": 1880313,
+            "firstname": "Sebsoft",
+            "lastname": "Plugins",
+            "url": "https://moodle.org/user/profile.php?id=1880313"
+        }
+    ],
+    "descriptors": []
+}

@@ -1,0 +1,56 @@
+{
+    "id": 1141,
+    "index": 2008,
+    "name": "ODS OAI-PMH",
+    "frankenstyle": "block_odsoaipmh",
+    "plugintype": {
+        "type": "block",
+        "name": "Block"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/block_odsoaipmh",
+    "shortdescription": "This Moodle block plugin serves as Data Provider for OAI-PMH 2.0 Harvester. Plugin enables Moodle administrator to define global settings for Data Provider as well as default metadata sharing for courses.",
+    "timelastreleased": {
+        "absdate": "Sunday, 14 December 2014, 6:06 AM",
+        "reldate": "9 years",
+        "iso8601date": "2014-12-14T06:06:10+08:00"
+    },
+    "aggsites": "4",
+    "aggdownloads": "2",
+    "aggfavs": "1",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1141/logo.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/1141/logo.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1141/block_content.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1141/block_content1.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/1141/oaipmh.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 1797254,
+            "firstname": "Sinisa & Vlatka",
+            "lastname": "V&S",
+            "url": "https://moodle.org/user/profile.php?id=1797254"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 2,
+            "value": "Administrator"
+        },
+        {
+            "descriptorid": 5,
+            "value": "Paid integration"
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 2628,
+    "index": 950,
+    "name": "JSignature",
+    "frankenstyle": "datafield_jsignature",
+    "plugintype": {
+        "type": "datafield",
+        "name": "Database / Database field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/datafield_jsignature",
+    "shortdescription": "A field type for Moodle database activities that allows on-screen signatures (using jSignature)",
+    "timelastreleased": {
+        "absdate": "Saturday, 6 February 2021, 5:44 PM",
+        "reldate": "2 years",
+        "iso8601date": "2021-02-06T17:44:07+08:00"
+    },
+    "aggsites": "164",
+    "aggdownloads": "70",
+    "aggfavs": "6",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2628/Screenshot%20from%202021-02-01%2014-03-13.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/2628/Screenshot%20from%202021-02-01%2014-03-13.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2628/Screenshot%20from%202021-02-01%2014-03-13.png?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/2628/Screenshot%20from%202021-02-01%2014-49-06.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 273885,
+            "firstname": "Andrei",
+            "lastname": "B\u0103utu",
+            "url": "https://moodle.org/user/profile.php?id=273885"
+        }
+    ],
+    "descriptors": []
+}

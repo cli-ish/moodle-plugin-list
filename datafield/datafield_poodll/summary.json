@@ -1,0 +1,62 @@
+{
+    "id": 491,
+    "index": 407,
+    "name": "Poodll Database Field",
+    "frankenstyle": "datafield_poodll",
+    "plugintype": {
+        "type": "datafield",
+        "name": "Database / Database field type"
+    },
+    "approved": 1,
+    "url": "https://moodle.org/plugins/datafield_poodll",
+    "shortdescription": "The Poodll database field allows the database activity to accept video, audio, snapshot and whiteboard submissions. The Poodll Filter must be installed to use the Poodll Database Field.",
+    "timelastreleased": {
+        "absdate": "Saturday, 3 December 2022, 1:18 PM",
+        "reldate": "8 months",
+        "iso8601date": "2022-12-03T13:18:44+08:00"
+    },
+    "aggsites": "799",
+    "aggdownloads": "301",
+    "aggfavs": "13",
+    "has_logo": true,
+    "logo": {
+        "tinyicon": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/491/noodle_icons_pawprint_100px.png?preview=tinyicon",
+        "thumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_logo/491/noodle_icons_pawprint_100px.png?preview=thumb"
+    },
+    "has_screenshots": true,
+    "mainscreenshot": {
+        "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/491/Poodll%20Database%20Field%20Banner.jpg?preview=bigthumb"
+    },
+    "screenshots": [
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/491/2018-08-16_11-37-51.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/491/2018-08-16_11-56-47.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/491/MoodleTile_DatabaseField.png?preview=bigthumb"
+        },
+        {
+            "bigthumb": "https://moodle.org/pluginfile.php/50/local_plugins/plugin_screenshots/491/onetwothree_video.png?preview=bigthumb"
+        }
+    ],
+    "maintainers": [
+        {
+            "id": 14534,
+            "firstname": "Justin",
+            "lastname": "Hunt",
+            "url": "https://moodle.org/user/profile.php?id=14534"
+        }
+    ],
+    "descriptors": [
+        {
+            "descriptorid": 1,
+            "value": "Content"
+        },
+        {
+            "descriptorid": 3,
+            "value": "Media"
+        }
+    ]
+}

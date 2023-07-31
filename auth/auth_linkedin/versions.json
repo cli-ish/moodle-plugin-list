@@ -1,0 +1,32 @@
+[
+    {
+        "id": "8434",
+        "name": "3-build-2015042900",
+        "url": "https://moodle.org/plugins/download.php/8434/auth_linkedin_moodle38_2014080914.zip"
+    },
+    {
+        "id": "4111",
+        "name": "2-build-2013101100",
+        "url": "https://moodle.org/plugins/download.php/4111/auth_linkedin_moodle34_2019011111.zip"
+    },
+    {
+        "id": "784",
+        "name": "1.0-build-2012050200",
+        "url": "https://moodle.org/plugins/download.php/784/auth_linkedin_moodle33_2015080909.zip"
+    },
+    {
+        "id": "3682",
+        "name": "2-build-2013082100",
+        "url": "https://moodle.org/plugins/download.php/3682/auth_linkedin_moodle37_2013030516.zip"
+    },
+    {
+        "id": "1369",
+        "name": "1.1-build-2012071600",
+        "url": "https://moodle.org/plugins/download.php/1369/auth_linkedin_moodle30_2016030803.zip"
+    },
+    {
+        "id": "628",
+        "name": "1.0-build-2012010900",
+        "url": "https://moodle.org/plugins/download.php/628/auth_linkedin_moodle32_2010081210.zip"
+    }
+]
